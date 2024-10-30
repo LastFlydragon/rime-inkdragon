@@ -1,0 +1,928 @@
+# Rime dictionary
+# encoding: utf-8
+---
+name: long
+version: "2024-10-29"
+sort: by_weight
+...
+# +_+
+冰冻三尺非一日之寒	be;du dy;dd sn;ae ig;un fi;ls yj;aa rt;ka vj;dn hp;bd	115
+社会主义核心价值观	ui;pt hf;ry vm;wt yt;dx he;mr xh;dd jx;rj vb;rq gd;yj	204
+工欲善其事必先利其器	gk;aa yf;gq ua;yk qb;cb ut;gy bt;xp xr;ne lt;hd qb;cb qt;kk	150
+经济基础决定上层建筑	je;sj jt;dq jj;ct im;ui ji;dg dw;bz ud;ba cf;uy ja;zy vh;vf	207
+马斯洛需求层次理论	mm;va sj;cj lp;dk xh;ye qm;au cf;uy ct;dq lg;wl lr;yl	102
+美国国家航空航天局	mj;yd gl;ky gl;ky jd;bu hw;vj kk;bg hw;vj tr;ad jm;uk	191
+美国证券交易委员会	mj;yd gl;ky vf;yv qc;jd jm;wf yt;ow wj;hn yo;kb hf;ry	178
+没有对比就没有伤害	mr;du yz;uo df;yc bg;bb jo;wy mr;du yz;uo uu;rl ho;bk	266
+食品药品监督管理局	ub;rg px;kk yv;cu px;kk jr;lm da;uo gs;vl lg;wl jm;uk	168
+授人以鱼不如授人以渔	ur;fy rs;pn yg;lr ym;da bh;ab rl;nk ur;fy rs;pn yg;lr ym;dy	230
+新型冠状病毒感染的	xh;lj xn;kt gd;bc ve;lq bw;bn dl;fm go;wx ro;dm dr;bu	211
+阿坝藏族羌族自治州	al;ek bi;tb zd;ci zl;fu qy;yv zl;fu zt;po vt;dk vx;dl	9
+阿尔及利亚民主人民共和国	al;ek eu;dx jb;pn lt;hd yi;ay mc;vv vm;wt rs;pn mc;vv gy;cb he;hk gl;ky	1
+阿拉伯叙利亚共和国	al;ek ll;fl be;rb xf;ry lt;hd yi;ay gy;cb he;hk gl;ky	1
+阿莫西林克拉维酸钾	al;ek mg;cd xj;ak lc;mm ki;ux ll;fl wr;sv sd;yw jn;jj	3
+埃塞俄比亚联邦民主共和国	ab;tu so;bt ee;rw bg;bb yi;ay lv;et bu;fe mc;vv vm;wt gy;cb he;hk gl;ky	3
+安达信会计师事务所	an;bn du;zd xv;rk kf;ry jt;yu uj;lj ut;gy wh;wl sl;hj	4
+安能摧眉折腰事权贵	an;bn nf;sb ct;fv mr;uo ve;fj yq;on ut;gy qo;my gf;vb	55
+安泰科技股份有限公司	an;bn to;iu kr;hd jt;fv gm;ou fo;rf yz;uo xa;eg gk;bs sj;vk	1
+奥林匹克标志保护条例	av;pd lc;mm pg;ke ki;ux bm;mu vt;tx bx;rm hh;fh tu;wm lt;rd	2
+澳门特别行政区永久性居民	av;dd ms;dv ti;nc bs;kd xn;rd vf;vw qh;kx yn;du jz;pn xw;xu jh;ug mc;vv	1
+巴基斯坦伊斯兰共和国	bl;sl jj;ct sj;cj to;td yj;ry sj;cj lp;bs gy;cb he;hk gl;ky	1
+巴音郭楞蒙古自治州	bl;sl yh;lo gs;we lf;mf my;cu gm;uk zt;po vt;dk vx;dl	2
+白雪歌送武判官归京	bd;po xo;ye gr;kq sy;zt wm;yv pa;bd gd;bl gt;le je;wx	25
+颁白者不负戴于道路矣	bn;fy bd;po vl;lo bh;ab fh;db do;gg ym;au dv;zz lh;zk yg;su	2
+搬起石头砸自己的脚	bn;fu qg;tj ub;ak ta;dd zu;uj zt;po jg;kv dr;bu jl;oe	98
+半殖民地半封建社会	ba;bf vb;dq mc;vv dt;ty ba;bf fc;tc ja;zy ui;pt hf;ry	68
+包庇毒品犯罪分子罪	bq;bs bt;gb dl;fm px;kk fa;qv zf;sf fo;bd zg;la zf;sf	5
+报废汽车回收管理办法	bv;fy fk;gy qt;dq ir;au hw;kk ux;jw gs;vl lg;wl ba;lb fm;dq	1
+保护工业产权巴黎公约	bx;rm hh;fh gk;aa yi;la io;wi qo;my bl;sl lb;hu gk;bs yu;su	4
+保护文学和艺术作品伯尔尼公约	bx;rm hh;fh ws;wx xi;xz he;hk yt;cv uh;md zp;rv px;kk be;rb eu;dx nb;ub gk;bs yu;su	5
+保险保障基金管理办法	bx;rm xp;eq bx;rm vd;eu jj;ct jh;rb gs;vl lg;wl ba;lb fm;dq	18
+保险公司股权管理办法	bx;rm xp;eq gk;bs sj;vk gm;ou qo;my gs;vl lg;wl ba;lb fm;dq	4
+保险监督管理委员会	bx;rm xp;eq jr;lm da;uo gs;vl lg;wl wj;hn yo;kb hf;ry	26
+保险期间和保险责任开始时间	bx;rm xp;eq qj;co jr;mo he;hk bx;rm xp;eq ze;fb ro;rw kb;ac ug;nk ub;oc jr;mo	1
+保险责任和除外责任	bx;rm xp;eq ze;fb ro;rw he;hk il;em wo;xb ze;fb ro;rw	2
+北京化工大学昌平校区	bj;lb je;wx hg;rb gk;aa di;ar xi;xz iu;oo pn;au xl;mf qh;kx	2
+北京奇虎科技有限公司	bj;lb je;wx qb;dk hm;hj kr;hd jt;fv yz;uo xa;eg gk;bs sj;vk	3
+北京生物制品研究所	bj;lb je;wx uc;pf wh;nw vt;nd px;kk yp;uk jz;bj sl;hj	3
+北京戏曲艺术职业学院	bj;lb je;wx xt;yg qs;kc yt;cv uh;md vb;ev yi;la xi;xz yc;ey	3
+北京住房公积金管理	bj;lb je;wx vh;rv fw;hf gk;bs jj;hv jh;rb gs;vl lg;wl	7
+备他盗出入与非常也	bk;wt tl;ry dv;dm ia;uu rh;pn ys;va fi;ls iw;xj yl;vv	4
+备他盗之出入与非常也	bk;wt tl;ry dv;dm vj;dn ia;uu rh;pn ys;va fi;ls iw;xj yl;vv	2
+标准桃金娘油肠溶胶囊	bm;mu vo;dv ti;mv jh;rb ni;nl ya;dy iw;op rj;dg jm;of nw;gy	1
+别是一般滋味在心头	bs;kd ut;oz yj;aa bn;vu zj;dy wk;kw zo;ut xh;dd ta;dd	8
+别是一番滋味在心头	bs;kd ut;oz yj;aa fn;ct zj;dy wk;kw zo;ut xh;dd ta;dd	4
+濒危野生动植物国际贸易公约	bh;dy wi;dv yl;ly uc;pf dy;yl vb;mq wh;nw gl;ky jt;eu mv;pb yt;ow gk;bs yu;su	2
+病理学与病理生理学	bw;bn lg;wl xi;xz ys;va bw;bn lg;wl uc;pf lg;wl xi;xz	6
+波斯尼亚和黑塞哥维那	bp;dp sj;cj nb;ub yi;ay he;hk hi;lh so;bt gr;kk wr;sv ni;ve	25
+不动产物权变动模式	bh;ab dy;yl io;wi wh;nw qo;my ba;wy dy;yl me;md ut;yg	1
+不如乡人之善者好之	bh;ab rl;nk xy;vp rs;pn vj;dn ua;yk vl;lo hx;nz vj;dn	1
+不正当有奖销售行为	bh;ab vf;av du;xe yz;uo ju;ld xm;jo ur;rk xn;rd wr;ld	1
+不知口体之奉不若人也	bh;ab vj;uk kz;la tg;rb vj;dn ff;if bh;ab rp;ck rs;pn yl;vv	9
+裁判员技术等级制度	cd;gy pa;bd yo;kb jt;fv uh;md dy;vc jb;sj vt;nd dh;gy	2
+彩票发行销售管理办法	cu;cp pl;xu fl;fy xn;rd xm;jo ur;rk gs;vl lg;wl ba;lb fm;dq	1
+财政转移支付法律制度	cd;bc vf;vw vs;iv yb;hx vj;uy fh;rc fm;dq lf;ry vt;nd dh;gy	1
+参加黑社会性质组织罪	cn;sp jd;lk hi;lh ui;pt hf;ry xw;xu vt;ib zm;sq vj;sv zf;sf	11
+察哈尔民众抗日同盟军	iu;bu hl;kk eu;dx mc;vv vy;rr kd;fj rt;ka tj;kk mf;om jg;bi	2
+长沙经济技术开发区	iw;pn ul;du je;sj jt;dq jt;fv uh;md kb;ac fl;fy qh;kx	1
+成纤维细胞生长因子	if;wv xr;sq wr;sv xt;st bq;ob uc;pf vp;pn yh;kd zg;la	11
+酬乐天扬州初逢席上见赠	ia;yv li;px tr;ad yw;fp vx;dl ia;pd ff;zf xb;gj ud;ba ja;ke zf;bo	6
+出版物市场管理规定	ia;uu bo;py wh;nw ut;wj ip;tp gs;vl lg;wl gt;fj dw;bz	2
+处方药与非处方药分类管理办法	im;wb fu;wv yv;cu ys;va fi;ls im;wb fu;wv yv;cu fe;bd lk;md gs;vl lg;wl ba;lb fm;dq	2
+处江湖之远则忧其君	ih;wb jy;dg hl;do vj;dn ys;zy ze;bd yx;xy qb;cb jg;yk	10
+传播淫秽电子信息刑事案件具体应用法律	io;rv bp;ft yc;dw hf;hx da;ov zg;la xv;rk xj;zx xn;kd ut;gy aa;bm ja;rn jf;qb tg;rb yw;ga yy;kf fm;dq lf;ry	2
+传染病防治法实施办法	io;rv ro;dm bw;bn fw;ef vt;dk fm;dq ub;bd uj;fy ba;lb fm;dq	1
+传染性单核细胞增多症	io;rv ro;dm xw;xu dn;bu he;mr xt;st bq;ob zc;to ds;xx vf;bv	8
+此诚危急存亡之秋也	cg;vb if;yi wi;dv jb;dx cf;uz ww;wv vj;dn qz;hh yl;vv	28
+此沛公左司马曹无伤言之	cg;vb pk;dj gk;bs zl;ug sj;vk mm;va ci;co wl;ay uu;rl yp;wk vj;dn	10
+此所谓率土地而食人肉	cg;vb sl;hj wk;yo uf;wu tm;ua dt;ty ek;al ub;rg rs;pn rr;nr	1
+此吾祖太常公宣德间执此以朝	cg;vb wl;wk zm;pq to;dd iw;xj gk;bs xd;bd de;rx jr;mo vb;fw cg;vb yg;lr ii;uo	1
+此则岳阳楼之大观也	cg;vb ze;bd yd;qu yw;eo la;mn vj;dn di;ar gd;yj yl;vv	4
+促性腺激素释放激素	ch;rz xw;xu xa;ou jj;dw sh;fx ut;cf fd;fw jj;dw sh;fx	11
+大庇天下寒士俱欢颜	di;ar bt;gb tr;ad xx;ab hp;bd ut;ua jf;rb hd;yq yp;wy	57
+大不列颠及北爱尔兰联合王国	di;ar bh;ab lq;dd dr;uy jb;pn bj;lb ao;vy eu;dx lp;bs lv;et he;rk ww;at gl;ky	21
+大底圣贤发愤之所为作也	di;ar dg;gu uf;yt xv;lb fl;fy fo;xb vj;dn sl;hj wr;ld zp;rv yl;vv	8
+大额可转让定期存单	di;ar ee;by kl;dk vs;iv rd;yu dw;bz qj;co cf;uz dn;bu	10
+打击跨国有组织犯罪公约	dm;fd jj;fk kg;zk gl;ky yz;uo zm;sq vj;sv fa;qv zf;sf gk;bs yu;su	3
+达梦数据库管理系统	du;zd mf;mx uh;mw jf;fg kh;gi gs;vl lg;wl xt;px tn;sy	1
+大破杀匈奴十余万骑	di;ar pg;up ul;xm xp;bx nl;ny ub;al ym;rm wa;av qb;mk	1
+大围山国家森林公园	di;ar wr;kw un;kl gl;ky jd;bu se;mm lc;mm gk;bs yo;ky	1
+大型群众性活动安全管理条例	di;ar xn;kt qf;yy vy;rr xw;xu hl;du dy;yl an;bn qo;rw gs;vl lg;wl tu;wm lt;rd	1
+大型群众性活动重大安全事故罪	di;ar xn;kt qf;yy vy;rr xw;xu hl;du dy;yl vy;ql di;ar an;bn qo;rw ut;gy gh;gw zf;sf	1
+旦日不可不蚤自来谢项王	da;oa rt;ka bh;ab kl;dk bh;ab zx;ii zt;po ld;am xq;yc xe;gy ww;at	6
+当代法哲学和法律理论导论	du;xe do;ry fm;dq ve;fk xi;xz he;hk fm;dq lf;ry lg;wl lr;yl dx;sc lr;yl	1
+党的十九届五中全会	dp;xx dr;bu ub;al jz;pv jq;uy wm;aw vk;kl qo;rw hf;ry	5
+当一天和尚撞一天钟	du;xe yj;aa tr;ad he;hk ud;xk ve;fl yj;aa tr;ad vk;jv	29
+党政领导干部选拔任用工作条例	dp;xx vf;vw lw;ry dx;sc ga;au bh;le xs;ze bu;fy ro;rw yy;kf gk;aa zp;rv tu;wm lt;rd	3
+道路交通标志和标线	dv;zz lh;zk jm;wf tk;zy bm;mu vt;tx he;hk bm;mu xa;sj	5
+道路交通事故处理办法	dv;zz lh;zk jm;wf tk;zy ut;gy gh;gw im;wb lg;wl ba;lb fm;dq	2
+道路交通事故处理程序规定	dv;zz lh;zk jm;wf tk;zy ut;gy gh;gw im;wb lg;wl if;hw xf;gy gt;fj dw;bz	14
+道路运输经营许可证	dv;zz lh;zk yr;zy ua;id je;sj yn;ck xs;yw kl;dk vf;yv	2
+到什么山上唱什么歌	dv;gd us;ru mr;ps un;kl ud;ba id;ko us;ru mr;ps gr;kq	1
+登乎昆仑之丘而南望	dc;bb ha;pl kg;ob lf;rb vj;dn qz;ja ek;al np;ug wd;ww	1
+地表水环境质量标准	dt;ty bl;fy uv;ln ho;wb jw;te vt;ib le;ol bm;mu vo;dv	2
+第二次国内革命战争	dt;vd eh;aa ct;dq gl;ky nk;kr ge;cu mw;re va;vg vc;dy	3
+第六次全国人口普查	dt;vd lo;wb ct;dq qo;rw gl;ky rs;pn kz;la pm;bo iu;md	20
+低密度脂蛋白胆固醇	dj;ru mt;bu dh;gy vj;oo da;zi bd;po do;od gh;kg if;yz	73
+第一次国内革命战争	dt;vd yj;aa ct;dq gl;ky nk;kr ge;cu mw;re va;vg vc;dy	4
+第一批异体字整理表	dt;vd yj;aa pj;fb yt;sc tg;rb zt;bz vy;uv lg;wl bl;fy	10
+电子制动力分配系统	da;ov zg;la vt;nd dy;yl lt;vp fe;bd pk;yj xt;px tn;sy	1
+冻干人用狂犬病疫苗	dy;dd gn;au rs;pn yy;kf kb;qw qs;dd bw;bn yt;bu mu;ct	1
+冬季奥林匹克运动会	dk;wd jt;hz av;pd lc;mm pg;ke ki;ux yr;zy dy;yl hf;ry	3
+毒性弥漫性甲状腺肿	dl;fm xw;xu mb;gx ma;dy xw;xu jn;ol ve;lq xa;ou vn;ov	2
+短期融资券管理办法	ds;ub qj;co rj;gi zj;db qc;jd gs;vl lg;wl ba;lb fm;dq	4
+对外贸易经济合作部	df;yc wo;xb mv;pb yt;ow je;sj jt;dq he;rk zp;rv bh;le	4
+多识于鸟兽草木之名	ds;xx ub;yv ym;au nl;na ur;bk cx;cu mh;ur vj;dn mn;xk	2
+多烯磷脂酰胆碱胶囊	ds;xx xj;hj lc;uf vj;oo xr;ye do;od jp;uk jm;of nw;gy	1
+多形性胶质母细胞瘤	ds;xx xn;kp xw;xu jm;of vt;ib mm;md xt;st bq;ob lm;bt	2
+恩施土家族苗族自治州	ee;yx uj;fy tm;ua jd;bu zl;fu mu;ct zl;fu zt;po vt;dk vx;dl	3
+二苯甲烷二异氰酸酯	eh;aa bo;cb jn;ol wp;hy eh;aa yt;sc qn;qo sd;yw vg;yo	2
+耳鼻咽喉头颈外科学	eu;ol bb;zw yn;ky ha;ku ta;dd jw;jy wo;xb kr;hd xi;xz	2
+法律面前人人平等原则	fm;dq lf;ry ma;ao qv;bd rs;pn rs;pn pn;au dy;vc yo;ix ze;bd	3
+法学学位论文写作方法	fm;dq xi;xz xi;xz wk;rl lr;yl ws;wx xc;by zp;rv fu;wv fm;dq	7
+泛发性脓疱型银屑病	fa;df fl;fy xw;xu nj;oy pv;bb xn;kt yc;jg xq;uo bw;bn	2
+房室结折返性心动过速	fw;hf ut;bt js;sk ve;fj fo;zy xw;xu xh;dd dy;yl gp;zc sh;zu	1
+防止及惩治灭绝种族罪公约	fw;ef vg;lb jb;pn if;rx vt;dk mq;ah ji;sb vn;hv zl;fu zf;sf gk;bs yu;su	5
+非法买卖制毒物品罪	fi;ls fm;dq mu;ad mo;ud vt;nd dl;fm wh;nw px;kk zf;sf	1
+非法吸收公众存款罪	fi;ls fm;dq xj;kj ux;jw gk;bs vy;rr cf;uz ks;tq zf;sf	73
+非法种植毒品原植物罪	fi;ls fm;dq vy;hv vb;mq dl;fm px;kk yo;ix vb;mq wh;nw zf;sf	2
+非国家工作人员受贿罪	fi;ls gl;ky jd;bu gk;aa zp;rv rs;pn yo;kb ur;vy hf;bo zf;sf	13
+非蛇鳝之穴无可寄托者	fi;ls ue;ib ua;yk vj;dn xi;bb wl;ay kl;dk jt;bk ts;fq vl;lo	5
+废物进口环境保护管理暂行规定	fk;gy wh;nw jv;zj kz;la ho;wb jw;te bx;rm hh;fh gs;vl lg;wl za;io xn;rd gt;fj dw;bz	1
+非胰岛素依赖型糖尿病	fi;ls yb;oy dx;nu sh;fx yj;ry lo;ub xn;kt tw;mk nl;uu bw;bn	3
+风流总被雨打风吹去	fc;jx lm;di zn;bx bk;pp ys;ad dm;fd fc;jx it;kq qf;ts	18
+风声雨声读书声声声入耳	fc;jx uc;tu ys;ad uc;tu dl;yd ua;vd uc;tu uc;tu uc;tu rh;pn eu;ol	4
+复方醋酸地塞米松乳膏	fh;pw fu;wv ch;yo sd;yw dt;ty sb;bt mg;bm sk;mg rm;vv gq;wo	1
+复方对乙酰氨基酚片	fh;pw fu;wv df;yc yg;vv xr;ye an;qn jj;ct fe;yf pa;pv	4
+复方盐酸阿米洛利片	fh;pw fu;wv yp;tm sd;yw al;ek mg;bm lp;dk lt;hd pa;pv	1
+氟哌噻吨美利曲辛片	fl;qf po;ky sb;kt dg;kt mj;yd lt;hd qh;kc xh;lu pa;pv	4
+夫妻在婚姻关系存续期间	fa;er qj;un zo;ut hg;no yh;ny gd;bt xt;px cf;uz xf;sd qj;co jr;mo	5
+负有不可推卸的责任	fh;db yz;uo bh;ab kl;dk tt;fv xq;ve dr;bu ze;fb ro;rw	36
+盖将自其变者而观之	go;ym jy;lc zt;po qb;cb ba;wy vl;lo ek;al gd;yj vj;dn	15
+甘草干姜茯苓白术汤	gn;ca cx;cu gn;au jy;yn fl;cq ln;cs bd;po vl;md tu;dp	1
+高密度脂蛋白胆固醇	gq;wk mt;bu dh;gy vj;oo da;zi bd;po do;od gh;kg if;yz	34
+高速公路交通管理办法	gq;wk sh;zu gk;bs lh;zk jm;wf tk;zy gs;vl lg;wl ba;lb fm;dq	1
+个人财产对外转移售付汇管理暂行办法	gi;rl rs;pn cd;bc io;wi df;yc wo;xb vs;iv yb;hx ur;rk fh;rc hf;dk gs;vl lg;wl za;io xn;rd ba;lb fm;dq	3
+个体工商户个人所得税计税办法	gi;rl tg;rb gk;aa uu;wk hh;du gi;rl rs;pn sl;hj de;rc uf;hx jt;yu uf;hx ba;lb fm;dq	7
+跟单信用证统一惯例	ge;zg dn;bu xv;rk yy;kf vf;yv tn;sy yj;aa gc;xb lt;rd	3
+公安机关办理行政案件	gk;bs an;bn jj;mj gd;bt ba;lb lg;wl xn;rd vf;vw aa;bm ja;rn	11
+公安消防部队执勤战斗条令	gk;bs an;bn xm;do fw;ef bh;le df;er vb;fw qc;cl va;vg dr;ud tu;wm lw;rs	1
+共产党员先进性教育	gy;cb io;wi dp;xx yo;kb xr;ne jv;zj xw;xu jl;lw yf;wo	1
+公开市场业务一级交易商制度	gk;bs kb;ac ut;wj ip;tp yi;la wh;wl yj;aa jb;sj jm;wf yt;ow uu;wk vt;nd dh;gy	3
+公路水运工程试验检测管理办法	gk;bs lh;zk uv;ln yr;zy gk;aa if;hw ut;yg ya;mq jp;mq ci;dd gs;vl lg;wl ba;lb fm;dq	1
+工商银行财务会计部	gk;aa uu;wk yc;jg hw;rd cd;bc wh;wl kf;ry jt;yu bh;le	2
+公司债券发行试点办法	gk;bs sj;vk vo;rb qc;jd fl;fy xn;rd ut;yg dp;vh ba;lb fm;dq	4
+工业品出厂价格指数	gk;aa yi;la px;kk ia;uu ip;ap jx;rj ge;mk vg;fo uh;mw	3
+苟余情其信姱以练要兮	gz;cj ym;rm qn;xo qb;cb xv;rk ks;nk yg;lr la;sd yv;xn xj;bk	1
+狗彘食人食而不知检	gz;qj vt;hb ub;rg rs;pn ub;rg ek;al bh;ab vj;uk jp;mq	11
+故非有志者不能至也	gh;gw fi;ls yz;uo vt;tx vl;lo bh;ab nf;sb vt;gt yl;vv	21
+故国不堪回首月明中	gh;gw gl;ky bh;ab kn;tb hw;kk uz;bz yd;ke mn;oo vk;kl	15
+故旷日长久而社稷安矣	gh;gw ke;og rt;ka iw;pn jz;pn ek;al ui;pt jt;hw an;bn yg;su	2
+骨髓增生异常综合征	gm;go sv;go zc;to uc;pf yt;sc iw;xj zk;su he;rk vc;rv	34
+故天将降大任于是人也	gh;gw tr;ad je;lc je;ef di;ar ro;rw ym;au ut;oz rs;pn yl;vv	9
+鳏寡孤独废疾者皆有所养	gd;yx gg;bf ga;zg dl;qi fk;gy jb;bu vl;lo jk;bb yz;uo sl;hj yp;yl	3
+冠状动脉粥样硬化性心脏病	gd;bc ve;lq dy;yl mo;oy vx;gm yd;my yw;ug hg;rb xw;xu xh;dd zd;ot bw;bn	24
+广东新会美达锦纶股份有限公司	gu;di dk;ax xh;lj hf;ry mj;yd du;zd jx;jj lf;sl gm;ou fo;rf yz;uo xa;eg gk;bs sj;vk	10
+广州白云山制药股份有限公司	gu;di vx;dl bd;po yf;ag un;kl vt;nd yv;cu gm;ou fo;rf yz;uo xa;eg gk;bs sj;vk	1
+国际奥林匹克委员会	gl;ky jt;eu av;pd lc;mm pg;ke ki;ux wj;hn yo;kb hf;ry	7
+国际标准连续出版物	gl;ky jt;eu bm;mu vo;dv lv;zi xf;sd ia;uu bo;py wh;nw	2
+国际标准连续出版物号	gl;ky jt;eu bm;mu vo;dv lv;zi xf;sd ia;uu bo;py wh;nw hv;kk	2
+国际大学生体育联合会	gl;ky jt;eu di;ar xi;xz uc;pf tg;rb yf;wo lv;et he;rk hf;ry	1
+国际贸易促进委员会	gl;ky jt;eu mv;pb yt;ow ch;rz jv;zj wj;hn yo;kb hf;ry	2
+国际贸易术语解释通则	gl;ky jt;eu mv;pb yt;ow uh;md ys;yk jc;dn ut;cf tk;zy ze;bd	1
+国际汽车制造商协会	gl;ky jt;eu qt;dq ir;au vt;nd zv;zk uu;wk xs;ub hf;ry	1
+国际数学奥林匹克竞赛	gl;ky jt;eu uh;mw xi;xz av;pd lc;mm pg;ke ki;ux jw;lx so;bb	6
+国际物理奥林匹克竞赛	gl;ky jt;eu wh;nw lg;wl av;pd lc;mm pg;ke ki;ux jw;lx so;bb	6
+国家工商行政管理局	gl;ky jd;bu gk;aa uu;wk hw;rd vf;vw gs;vl lg;wl jm;uk	7
+国家广播电影电视总局	gl;ky jd;bu gu;di bp;ft da;ov yw;op da;ov ut;pj zn;bx jm;uk	6
+国家经济贸易委员会	gl;ky jd;bu je;sj jt;dq mv;pb yt;ow wj;hn yo;kb hf;ry	1
+国家科学技术委员会	gl;ky jd;bu kr;hd xi;xz jt;fv uh;md wj;hn yo;kb hf;ry	6
+国家民族事务委员会	gl;ky jd;bu mc;vv zl;fu ut;gy wh;wl wj;hn yo;kb hf;ry	5
+国家通用语言文字法	gl;ky jd;bu tk;zy yy;kf ys;yk yp;wk ws;wx zt;bz fm;dq	17
+国家行政机关公文处理办法	gl;ky jd;bu xn;rd vf;vw jj;mj gd;bt gk;bs ws;wx im;wb lg;wl ba;lb fm;dq	1
+国家药品监督管理局	gl;ky jd;bu yv;cu px;kk jr;lm da;uo gs;vl lg;wl jm;uk	93
+国家质量技术监督局	gl;ky jd;bu vt;ib le;ol jt;fv uh;md jr;lm da;uo jm;uk	6
+国家重点保护野生动物名录	gl;ky jd;bu vy;ql dp;vh bx;rm hh;fh yl;ly uc;pf dy;yl wh;nw mn;xk lh;eu	3
+国务院发展研究中心	gl;ky wh;wl yc;ey fl;fy vo;uy yp;uk jz;bj vk;kl xh;dd	22
+国务院关税税则委员会	gl;ky wh;wl yc;ey gd;bt uf;hx uf;hx ze;bd wj;hn yo;kb hf;ry	1
+国务院台湾事务办公室	gl;ky wh;wl yc;ey td;sk wn;dg ut;gy wh;wl ba;lb gk;bs ut;bt	4
+国债承销团成员资格审批办法	gl;ky vo;rb if;ln xm;jo to;kc if;wv yo;kb zj;db ge;mk uo;bu pj;fb ba;lb fm;dq	1
+国债期货交易管理暂行办法	gl;ky vo;rb qj;co hp;rb jm;wf yt;ow gs;vl lg;wl za;io xn;rd ba;lb fm;dq	1
+国之利器不可以示人	gl;ky vj;dn lt;hd qt;kk bh;ab kl;dk yg;lr ut;ex rs;pn	2
+海关进出境印刷品及音像制品监管办法	hu;dm gd;bt jv;zj ia;uu jw;te yv;pe us;ud px;kk jb;pn yh;lo xe;ru vt;nd px;kk jr;lm gs;vl ba;lb fm;dq	1
+韩冬郎即席为诗相送	hp;uw dk;wd lw;le jb;ge xb;gj wk;ld uj;yc xy;mo sy;zt	1
+好的开端是成功的一半	hx;nz dr;bu kb;ac dd;le ut;oz if;wv gk;gl dr;bu yj;aa ba;bf	2
+合格境外机构投资者境内证券投资管理办法	he;rk ge;mk jw;te wo;xb jj;mj gr;mg ta;fu zj;db vl;lo jw;te nk;kr vf;yv qc;jd ta;fu zj;db gs;vl lg;wl ba;lb fm;dq	3
+曷足以美七尺之躯哉	he;or zl;kz yg;lr mj;yd qj;av ig;un vj;dn qh;uq zb;gk	1
+黑龙江八一农垦大学	hi;lh lj;yp jy;dg bl;pn yj;aa nj;by ko;gt di;ar xi;xz	12
+黑夜给了我黑色的眼睛	hi;lh yi;ww gj;sk lr;al wi;ga hi;lh si;db dr;bu yo;og je;oo	36
+红细胞生成性原卟啉症	hj;sg xt;st bq;ob uc;pf if;wv xw;xu yo;ix bm;kb lc;km vf;bv	1
+互联网出版管理暂行规定	hh;ah lv;et wp;kx ia;uu bo;py gs;vl lg;wl za;io xn;rd gt;fj dw;bz	2
+互联网文化管理暂行规定	hh;ah lv;et wp;kx ws;wx hg;rb gs;vl lg;wl za;io xn;rd gt;fj dw;bz	4
+琥珀酸美托洛尔缓释片	hm;wj pg;wb sd;yw mj;yd ts;fq lp;dk eu;dx hs;sy ut;cf pa;pv	1
+胡人不敢南下而牧马	hl;go rs;pn bh;ab go;ew np;ug xx;ab ek;al mh;nw mm;va	9
+化妆品卫生监督条例	hg;rb vw;ln px;kk wk;ea uc;pf jr;lm da;uo tu;wm lt;rd	1
+环境噪声污染防治法	ho;wb jw;te zv;km uc;tu wa;dk ro;dm fw;ef vt;dk fm;dq	3
+黄鹤楼送孟浩然之广陵	hb;cb hi;bn la;mn sy;zt mf;zm hv;dk rp;xh vj;dn gu;di ln;ew	23
+恢恢乎其于游刃必有余地矣	ht;xh ht;xh ha;pl qb;cb ym;au ya;dz ro;dd bt;xp yz;uo ym;rm dt;ty yg;su	2
+会于会稽山阴之兰亭	hf;ry ym;au kf;ry jj;ho un;kl yh;eo vj;dn lp;bs tn;wd	5
+机动车车上人员责任保险	jj;mj dy;yl ir;au ir;au ud;ba rs;pn yo;kb ze;fb ro;rw bx;rm xp;eq	8
+机动车第三者责任保险	jj;mj dy;yl ir;au dt;vd sn;ae vl;lo ze;fb ro;rw bx;rm xp;eq	9
+机动车第三者责任险	jj;mj dy;yl ir;au dt;vd sn;ae vl;lo ze;fb ro;rw xp;eq	3
+机动车交通事故责任强制保险	jj;mj dy;yl ir;au jm;wf tk;zy ut;gy gh;gw ze;fb ro;rw qi;gi vt;nd bx;rm xp;eq	53
+机动车交通事故责任强制保险条例	jj;mj dy;yl ir;au jm;wf tk;zy ut;gy gh;gw ze;fb ro;rw qi;gi vt;nd bx;rm xp;eq tu;wm lt;rd	7
+机动车强制报废标准规定	jj;mj dy;yl ir;au qi;gi vt;nd bv;fy fk;gy bm;mu vo;dv gt;fj dw;bz	2
+吉林制药股份有限公司	jb;tk lc;mm vt;nd yv;cu gm;ou fo;rf yz;uo xa;eg gk;bs sj;vk	1
+寂寞梧桐深院锁清秋	jt;by mg;bd wl;mk tj;mk ue;dm yc;ey sl;jb qe;do qz;hh	7
+纪信等四人持剑盾步走	jt;sj xv;rk dy;vc st;ke rs;pn ib;fc ja;qd dr;io bh;vu zz;tz	2
+家事国事天下事事事关心	jd;bu ut;gy gl;ky ut;gy tr;ad xx;ab ut;gy ut;gy ut;gy gd;bt xh;dd	3
+家庭联产承包责任制	jd;bu tn;gw lv;et io;wi if;ln bq;bs ze;fb ro;rw vt;nd	39
+剑桥法律英语国际证书	ja;qd qu;ml fm;dq lf;ry ye;cy ys;yk gl;ky jt;eu vf;yv ua;vd	1
+建设工程工程量清单计价规范	ja;zy ui;yu gk;aa if;hw gk;aa if;hw le;ol qe;do dn;bu jt;yu jx;rj gt;fj fa;cv	5
+建设工程质量管理条例	ja;zy ui;yu gk;aa if;hw vt;ib le;ol gs;vl lg;wl tu;wm lt;rd	1
+建筑安装工程承包合同	ja;zy vh;vf an;bn vw;ly gk;aa if;hw if;ln bq;bs he;rk tj;kk	13
+交戟之卫士欲止不内	jm;wf jg;ug vj;dn wk;ea ut;ua yf;gq vg;lb bh;ab nk;kr	5
+交通事故处理程序规定	jm;wf tk;zy ut;gy gh;gw im;wb lg;wl if;hw xf;gy gt;fj dw;bz	2
+交通事故责任强制保险	jm;wf tk;zy ut;gy gh;gw ze;fb ro;rw qi;gi vt;nd bx;rm xp;eq	2
+进口废物原料装运前检验	jv;zj kz;la fk;gy wh;nw yo;ix ll;md vw;ly yr;zy qv;bd jp;mq ya;mq	2
+进口商品安全质量许可制度	jv;zj kz;la uu;wk px;kk an;bn qo;rw vt;ib le;ol xs;yw kl;dk vt;nd dh;gy	1
+今沛公先破秦入咸阳	jh;rv pk;dj gk;bs xr;ne pg;up qc;ih rh;pn xv;wk yw;eo	3
+金融机构反洗钱规定	jh;rb rj;gi jj;mj gr;mg fo;iy xg;de qv;jj gt;fj dw;bz	1
+金山软件股份有限公司	jh;rb un;kl rs;iq ja;rn gm;ou fo;rf yz;uo xa;eg gk;bs sj;vk	3
+谨使臣良奉白璧一双	jx;yw ug;rl is;kl li;dg ff;if bd;po bt;uy yj;aa uw;yy	2
+今吾朝受命而夕饮冰	jh;rv wl;wk ii;uo ur;vy mw;re ek;al xj;pd yx;uq be;du	2
+今纵君家而不奉公则法削	jh;rv zy;sr jg;yk jd;bu ek;al bh;ab ff;if gk;bs ze;bd fm;dq xu;xd	1
+井蛙不可以语于海者	jw;ac wl;it bh;ab kl;dk yg;lr ys;yk ym;au hu;dm vl;lo	4
+九百年来德意志及欧洲法学家	jz;pv bu;ab nv;pf ld;am de;rx yt;lx vt;tx jb;pn ox;qq vx;dv fm;dq xi;xz jd;bu	1
+酒泉太守席上醉后作	jz;dy qo;bu to;dd uz;bc xb;gj ud;ba zf;yu hr;ik zp;rv	1
+九月九日忆山东兄弟	jz;pv yd;ke jz;pv rt;ka yt;xv un;kl dk;ax xp;ke dt;bd	10
+拒不执行判决裁定罪	jf;fj bh;ab vb;fw xn;rd pa;bd ji;dg cd;gy dw;bz zf;sf	2
+居庙堂之高则忧其民	jh;ug ml;gy tw;xt vj;dn gq;wk ze;bd yx;xy qb;cb mc;vv	11
+举所佩玉玦以示之者三	js;xf sl;hj pk;rj yf;wd ji;wg yg;lr ut;ex vj;dn vl;lo sn;ae	4
+聚众冲击军事禁区罪	jf;eu vy;rr ik;dv jj;fk jg;bi ut;gy jv;mu qh;kx zf;sf	1
+聚众扰乱公共场所秩序罪	jf;eu vy;rr rx;fy lc;uv gk;bs gy;cb ip;tp sl;hj vt;hf xf;gy zf;sf	3
+君不见高堂明镜悲白发	jg;yk bh;ab ja;ke gq;wk tw;xt mn;oo jw;je bi;fx bd;po fi;fy	15
+君不见黄河之水天上来	jg;yk bh;ab ja;ke hb;cb he;dk vj;dn uv;ln tr;ad ud;ba ld;am	25
+军人以服从命令为天职	jg;bi rs;pn yg;lr fl;oy cj;rr mw;re lw;rs wk;ld tr;ad vb;ev	5
+君子博学而日参省乎己	jg;yk zg;la be;uc xi;xz ek;al rt;ka cn;sp uy;uo ha;pl jg;kv	5
+君子无终食之间违仁	jg;yk zg;la wl;ay vk;sd ub;rg vj;dn jr;mo wr;zw rs;re	5
+君子有勇而无义为乱	jg;yk zg;la yz;uo yn;sl ek;al wl;ay yt;dx wk;ld lc;uv	1
+君子欲讷于言而敏于行	jg;yk zg;la yf;gq ni;yn ym;au yp;wk ek;al mx;pw ym;au xn;rd	3
+看风景人在楼上看你	ka;uo fc;jx jw;ox rs;pn zo;ut la;mn ud;ba ka;uo ng;rx	4
+抗中性粒细胞胞浆抗体	kd;fj vk;kl xw;xu lt;ml xt;st bq;ob bq;ob jy;lu kd;fj tg;rb	2
+刻唐贤今人诗赋于其上	ki;wd tw;gk xv;lb jh;rv rs;pn uj;yc fh;bv ym;au qb;cb ud;ba	2
+科学技术是第一生产力	kr;hd xi;xz jt;fv uh;md ut;oz dt;vd yj;aa uc;pf io;wi lt;vp	45
+可远观而不可亵玩焉	kl;dk ys;zy gd;yj ek;al bh;ab kl;dk xq;yw wp;wy yn;vh	22
+克孜勒苏柯尔克孜自治州	ki;ux zj;zw li;gl sa;cb kr;mk eu;dx ki;ux zj;zw zt;po vt;dk vx;dl	2
+哙即带剑拥盾入军门	kf;ky jb;ge do;cj ja;qd yk;fy dr;io rh;pn jg;bi ms;dv	5
+会计专业职务试行条例	kf;ry jt;yu vd;ts yi;la vb;ev wh;wl ut;yg xn;rd tu;wm lt;rd	1
+狂犬病防治技术规范	kb;qw qs;dd bw;bn fw;ef vt;dk jt;fv uh;md gt;fj fa;cv	3
+览察草木其犹未得兮	lo;lj iu;bu cx;cu mh;ur qb;cb ya;qy wk;am de;rc xj;bk	1
+兰州生物制品研究所	lp;bs vx;dl uc;pf wh;nw vt;nd px;kk yp;uk jz;bj sl;hj	1
+劳动争议调解仲裁法	li;cl dy;yl vc;dy yt;yy tu;yk jc;dn vy;rv cd;gy fm;dq	9
+老挝人民民主共和国	lx;lb wp;fc rs;pn mc;vv mc;vv vm;wt gy;cb he;hk gl;ky	1
+粒细胞集落刺激因子	lt;ml xt;st bq;ob jb;rm lp;ck ct;ud jj;dw yh;kd zg;la	7
+联合国国际货物销售合同公约	lv;et he;rk gl;ky gl;ky jt;eu hp;rb wh;nw xm;jo ur;rk he;rk tj;kk gk;bs yu;su	2
+良好的开端是成功的一半	li;dg hx;nz dr;bu kb;ac dd;le ut;oz if;wv gk;gl dr;bu yj;aa ba;bf	9
+林可霉素利多卡因凝胶	lc;mm kl;dk mr;ym sh;fx lt;hd ds;xx km;ub yh;kd nn;dz jm;of	1
+硫代二丙酸二月桂酯	lm;ui do;ry eh;aa bw;an sd;yw eh;aa yd;ke gf;mt vg;yo	1
+硫酸氨基葡萄糖胶囊	lm;ui sd;yw an;qn jj;ct pl;cf ti;cf tw;mk jm;of nw;gy	2
+六月二十七日望湖楼醉书	lo;wb yd;ke eh;aa ub;al qj;av rt;ka wd;ww hl;do la;mn zf;yu ua;vd	4
+隆突性皮肤纤维肉瘤	lj;eu ta;bq xw;xu pb;py fa;of xr;sq wr;sv rr;nr lm;bt	1
+庐山谣寄卢侍御虚舟	ll;gh un;kl yi;yf jt;bk ll;bu ut;rc yf;re xh;hy vx;pd	11
+泸州老窖股份有限公司	ll;du vx;dl lx;lb jl;bk gm;ou fo;rf yz;uo xa;eg gk;bs sj;vk	2
+卵巢过度刺激综合征	ls;pd ii;vg gp;zc dh;gy ct;ud jj;dw zk;su he;rk vc;rv	2
+率妻子邑人来此绝境	lf;wu qj;un zg;la yt;kb rs;pn ld;am cg;vb ji;sb jw;te	6
+律师服务收费管理办法	lf;ry uj;lj fl;oy wh;wl ux;jw fk;fb gs;vl lg;wl ba;lb fm;dq	4
+旅游发展规划管理办法	ls;fy ya;dz fl;fy vo;uy gt;fj hg;gd gs;vl lg;wl ba;lb fm;dq	1
+慢性淋巴细胞性甲状腺炎	ma;xy xw;xu lc;dm bl;sl xt;st bq;ob xw;xu jn;ol ve;lq xa;ou yp;hh	1
+冒充军人招摇撞骗罪	mv;oo ik;wy jg;bi rs;pn vq;fk yi;ff ve;fl pa;mc zf;sf	6
+毛里塔尼亚伊斯兰共和国	mi;pv lg;tt tm;tk nb;ub yi;ay yj;ry sj;cj lp;bs gy;cb he;hk gl;ky	1
+民办非企业单位登记管理暂行条例	mc;vv ba;lb fi;ls qg;rv yi;la dn;bu wk;rl dc;bb jt;yj gs;vl lg;wl za;io xn;rd tu;wm lt;rd	3
+民用建筑隔声设计规范	mc;vv yy;kf ja;zy vh;vf ge;eg uc;tu ui;yu jt;yu gt;fj fa;cv	10
+明月装饰了你的窗子	mn;oo yd;ke vw;ly ut;uj lr;al ng;rx dr;bu iw;bw zg;la	16
+那画面太美我不敢看	ni;ve hg;at ma;ao to;dd mj;yd wi;ga bh;ab go;ew ka;uo	19
+那人却在灯火阑珊处	ni;ve rs;pn qd;qe zo;ut dc;hd hl;br lp;mj un;wc ih;wb	26
+南宁糖业股份有限公司	np;ug nn;bd tw;mk yi;la gm;ou fo;rf yz;uo xa;eg gk;bs sj;vk	1
+南乔治亚和南桑威奇群岛	np;ug qu;yl vt;dk yi;ay he;hk np;ug su;ym wi;wn qb;dk qf;yy dx;nu	3
+内蒙古电子信息职业技术学院	nk;kr my;cu gm;uk da;ov zg;la xv;rk xj;zx vb;ev yi;la jt;fv uh;md xi;xz yc;ey	1
+能因敌变化而取胜者	nf;sb yh;kd db;uw ba;wy hg;rb ek;al qs;ey uf;ou vl;lo	11
+你我相逢在黑夜的海上	ng;rx wi;ga xy;mo ff;zf zo;ut hi;lh yi;ww dr;bu hu;dm ud;ba	6
+纽约市立大学皇后学院	nz;si yu;su ut;wj lt;wb di;ar xi;xz hb;bw hr;ik xi;xz yc;ey	1
+农村敬老院管理暂行办法	nj;by cg;mc jw;cw lx;lb yc;ey gs;vl lg;wl za;io xn;rd ba;lb fm;dq	1
+偶尔投影在你的波心	oz;rd eu;dx ta;fu yw;op zo;ut ng;rx dr;bu bp;dp xh;dd	7
+欧洲新车安全评鉴协会	ox;qq vx;dv xh;lj ir;au an;bn qo;rw pn;yp ja;lj xs;ub hf;ry	1
+沛公旦日从百余骑来见项王	pk;dj gk;bs da;oa rt;ka cj;rr bu;ab ym;rm qb;mk ld;am ja;ke xe;gy ww;at	1
+沛公之参乘樊哙者也	pk;dj gk;bs vj;dn cn;sp if;qr fp;md kf;ky vl;lo yl;vv	4
+沛公左司马曹无伤使人言于项羽曰	pk;dj gk;bs zl;ug sj;vk mm;va ci;co wl;ay uu;rl ug;rl rs;pn yp;wk ym;au xe;gy ys;xx yu;ka	1
+破坏计算机信息系统罪	pg;up hf;tb jt;yu sc;vc jj;mj xv;rk xj;zx xt;px tn;sy zf;sf	11
+破伤风人免疫球蛋白	pg;up uu;rl fc;jx rs;pn mp;de yt;bu qm;wq da;zi bd;po	1
+朴素而天下莫能与之争美	pm;mb sh;fx ek;al tr;ad xx;ab mg;cd nf;sb ys;va vj;dn vc;dy mj;yd	2
+普通话异读词审音表	pm;bo tk;zy hg;yu yt;sc dl;yd cb;yk uo;bu yh;lo bl;fy	31
+汽车销售服务有限公司	qt;dq ir;au xm;jo ur;rk fl;oy wh;wl yz;uo xa;eg gk;bs sj;vk	9
+期货从业人员管理办法	qj;co hp;rb cj;rr yi;la rs;pn yo;kb gs;vl lg;wl ba;lb fm;dq	1
+七十而从心所欲不逾矩	qj;av ub;al ek;al cj;rr xh;dd sl;hj yf;gq bh;ab ym;zd js;uj	2
+企业法人登记管理条例	qg;rv yi;la fm;dq rs;pn dc;bb jt;yj gs;vl lg;wl tu;wm lt;rd	6
+企业劳动争议处理条例	qg;rv yi;la li;cl dy;yl vc;dy yt;yy im;wb lg;wl tu;wm lt;rd	1
+企业名称登记管理规定	qg;rv yi;la mn;xk ic;hx dc;bb jt;yj gs;vl lg;wl gt;fj dw;bz	6
+七叶洋地黄双苷滴眼液	qj;av yi;ku yw;dy dt;ty hb;cb uw;yy gn;cg dj;dg yo;og yi;dw	8
+恰似一江春水向东流	qx;xk st;rr yj;aa jy;dg ig;io uv;ln xe;pk dk;ax lm;di	23
+黔东南苗族侗族自治州	qv;lv dk;ax np;ug mu;ct zl;fu dy;rk zl;fu zt;po vt;dk vx;dl	5
+黔南布依族苗族自治州	qv;lv np;ug bh;uj yj;ry zl;fu mu;ct zl;fu zt;po vt;dk vx;dl	1
+前南斯拉夫国际刑事法庭	qv;bd np;ug sj;cj ll;fl fa;er gl;ky jt;eu xn;kd ut;gy fm;dq tn;gw	2
+前南斯拉夫问题国际刑事法庭	qv;bd np;ug sj;cj ll;fl fa;er wo;mk tb;oy gl;ky jt;eu xn;kd ut;gy fm;dq tn;gw	3
+强令违章冒险作业罪	qi;gi lw;rs wr;zw vu;lu mv;oo xp;eq zp;rv yi;la zf;sf	1
+强秦之所以不敢加兵于赵者	qi;gi qc;ih vj;dn sl;hj yg;lr bh;ab go;ew jd;lk be;qb ym;au vv;tx vl;lo	1
+强制性产品认证管理规定	qi;gi vt;nd xw;xu io;wi px;kk ro;yr vf;yv gs;vl lg;wl gt;fj dw;bz	1
+且欲与常马等不可得	qc;oa yf;gq ys;va iw;xj mm;va dy;vc bh;ab kl;dk de;rc	1
+侵略性保护贸易政策	qh;ry ld;tk xw;xu bx;rm hh;fh mv;pb yt;ow vf;vw ci;vu	1
+清风朗月不用一钱买	qe;do fc;jx lp;lo yd;ke bh;ab yy;kf yj;aa qv;jj mu;ad	2
+清洁发展机制项目运行管理办法	qe;do js;dk fl;fy vo;uy jj;mj vt;nd xe;gy mh;ke yr;zy xn;rd gs;vl lg;wl ba;lb fm;dq	1
+轻量级目录访问协议	qe;ij le;ol jb;sj mh;ke lh;eu fp;yf wo;mk xs;ub yt;yy	1
+曲安奈德益康唑乳膏	qh;kc an;bn no;du de;rx yt;bm ku;gl zp;kr rm;vv gq;wo	2
+全国打击走私领导小组	qo;rw gl;ky dm;fd jj;fk zz;tz sj;hs lw;ry dx;sc xl;lb zm;sq	1
+全国人民代表大会常务委员	qo;rw gl;ky rs;pn mc;vv do;ry bl;fy di;ar hf;ry iw;xj wh;wl wj;hn yo;kb	1
+全国人民代表大会和地方各级人民代表大会选举法	qo;rw gl;ky rs;pn mc;vv do;ry bl;fy di;ar hf;ry he;hk dt;ty fu;wv gi;wk jb;sj rs;pn mc;vv do;ry bl;fy di;ar hf;ry xs;ze js;xf fm;dq	1
+全国税务机关公文处理办法	qo;rw gl;ky uf;hx wh;wl jj;mj gd;bt gk;bs ws;wx im;wb lg;wl ba;lb fm;dq	1
+全民所有制工业企业	qo;rw mc;vv sl;hj yz;uo vt;nd gk;aa yi;la qg;rv yi;la	6
+全身炎症反应综合征	qo;rw ue;zc yp;hh vf;bv fo;iy yw;ga zk;su he;rk vc;rv	6
+全心全意为人民服务	qo;rw xh;dd qo;rw yt;lx wk;ld rs;pn mc;vv fl;oy wh;wl	41
+然不自意能先入关破秦	rp;xh bh;ab zt;po yt;lx nf;sb xr;ne rh;pn gd;bt pg;up qc;ih	3
+然而夜半有力者负之而走	rp;xh ek;al yi;ww ba;bf yz;uo lt;vp vl;lo fh;db vj;dn ek;al zz;tz	1
+然后天梯石栈方钩连	rp;xh hr;ik tr;ad tj;md ub;ak va;mj fu;wv gx;jg lv;zi	1
+然后知松柏之后凋也	rp;xh hr;ik vj;uk sk;mg bu;mb vj;dn hr;ik dm;dk yl;vv	4
+人工牛黄甲硝唑胶囊	rs;pn gk;aa nm;pu hb;cb jn;ol xm;uo zp;kr jm;of nw;gy	2
+人工全髋关节置换术	rs;pn gk;aa qo;rw kd;gj gd;bt js;ce vt;sq hc;fr uh;md	3
+人口与计划生育条例	rs;pn kz;la ys;va jt;yu hg;gd uc;pf yf;wo tu;wm lt;rd	4
+人类辅助生殖技术管理办法	rs;pn lk;md fm;if vh;ql uc;pf vb;dq jt;fv uh;md gs;vl lg;wl ba;lb fm;dq	13
+人类口头和非物质文化遗产	rs;pn lk;md kz;la ta;dd he;hk fi;ls wh;nw vt;ib ws;wx hg;rb yb;zb io;wi	1
+人力资源和社会保障局	rs;pn lt;vp zj;db yo;dx he;hk ui;pt hf;ry bx;rm vd;eu jm;uk	60
+人民币银行结算账户管理办法	rs;pn mc;vv bt;pj yc;jg hw;rd js;sk sc;vc vd;bi hh;du gs;vl lg;wl ba;lb fm;dq	4
+人民解放军总参谋部	rs;pn mc;vv jc;dn fd;fw jg;bi zn;bx cn;sp ma;ym bh;le	1
+人民警察制式服装及其标志管理规定	rs;pn mc;vv jw;ck iu;bu vt;nd ut;yg fl;oy vw;ly jb;pn qb;cb bm;mu vt;tx gs;vl lg;wl gt;fj dw;bz	2
+人绒毛膜促性腺激素	rs;pn rj;su mi;pv me;od ch;rz xw;xu xa;ou jj;dw sh;fx	6
+仁义不施而攻守之势异也	rs;re yt;dx bh;ab uj;fy ek;al gk;gw uz;bc vj;dn ut;fl yt;sc yl;vv	6
+若其义则不可须臾舍也	rp;ck qb;cb yt;dx ze;bd bh;ab kl;dk xh;py ym;jr ui;rg yl;vv	1
+沙利文诉纽约时报案	ul;du lt;hd ws;wx sh;yi nz;si yu;su ub;oc bv;fy aa;bm	1
+山东豪俊遂并起而亡秦族矣	un;kl dk;ax hi;wu jr;rw sf;zu bw;bk qg;tj ek;al ww;wv qc;ih zl;fu yg;su	3
+上海科华生物工程股份有限公司	ud;ba hu;dm kr;hd ht;ru uc;pf wh;nw gk;aa if;hw gm;ou fo;rf yz;uo xa;eg gk;bs sj;vk	1
+上海生物制品研究所	ud;ba hu;dm uc;pf wh;nw vt;nd px;kk yp;uk jz;bj sl;hj	1
+上海市徐汇区天钥桥路	ud;ba hu;dm ut;wj xm;rm hf;dk qh;kx tr;ad yv;jo qu;ml lh;zk	3
+上海证券交易所交易规则	ud;ba hu;dm vf;yv qc;jd jm;wf yt;ow sl;hj jm;wf yt;ow gt;fj ze;bd	1
+商品房销售管理办法	uu;wk px;kk fw;hf xm;jo ur;rk gs;vl lg;wl ba;lb fm;dq	5
+少壮不努力老大徒伤悲	uv;xp ve;lt bh;ab nm;nl lt;vp lx;lb di;ar tl;rz uu;rl bi;fx	8
+社会团体登记管理条例	ui;pt hf;ry to;kc tg;rb dc;bb jt;yj gs;vl lg;wl tu;wm lt;rd	5
+社会主义现代化国家	ui;pt hf;ry vm;wt yt;dx xa;wj do;ry hg;rb gl;ky jd;bu	19
+社会主义现代化建设	ui;pt hf;ry vm;wt yt;dx xa;wj do;ry hg;rb ja;zy ui;yu	43
+涉外民事关系法律适用法	ui;du wo;xb mc;vv ut;gy gd;bt xt;px fm;dq lf;ry ut;zu yy;kf fm;dq	3
+神经元特异性烯醇化酶	us;pu je;sj yo;aw ti;nc yt;sc xw;xu xj;hj if;yz hg;rb mr;ym	4
+肾上腺脑白质营养不良	uo;lo ud;ba xa;ou nx;ox bd;po vt;ib yn;ck yp;yl bh;ab li;dg	2
+肾上腺皮质功能亢进	uo;lo ud;ba xa;ou pb;py vt;ib gk;gl nf;sb kd;wj jv;zj	2
+肾上腺皮质机能减退	uo;lo ud;ba xa;ou pb;py vt;ib jj;mj nf;sb jp;dk tf;zg	2
+肾上腺素受体激动药	uo;lo ud;ba xa;ou sh;fx ur;vy tg;rb jj;dw dy;yl yv;cu	3
+圣多美和普林西比民主共和国	uf;yt ds;xx mj;yd he;hk pm;bo lc;mm xj;ak bg;bb mc;vv vm;wt gy;cb he;hk gl;ky	2
+圣皮埃尔和密克隆群岛	uf;yt pb;py ab;tu eu;dx he;hk mt;bu ki;ux lj;eu qf;yy dx;nu	1
+圣文森特和格林纳丁斯	uf;yt ws;wx se;mm ti;nc he;hk ge;mk lc;mm ni;sn de;al sj;cj	7
+是臣尽节于陛下之日长	ut;oz is;kl jv;id js;ce ym;au bt;et xx;ab vj;dn rt;ka iw;pn	2
+是故弟子不必不如师	ut;oz gh;gw dt;bd zg;la bh;ab bt;xp bh;ab rl;nk uj;lj	3
+是何异于刺人而杀之	ut;oz he;rk yt;sc ym;au ct;ud rs;pn ek;al ul;xm vj;dn	8
+是骡子是马拉出来遛遛	ut;oz ll;mx zg;la ut;oz mm;va ll;fl ia;uu ld;am lm;zt lm;zt	8
+是使民养生丧死无憾也	ut;oz ug;rl mc;vv yp;yl uc;pf su;ty sg;db wl;ay ha;xx yl;vv	1
+实验室生物安全通用要求	ub;bd ya;mq ut;bt uc;pf wh;nw an;bn qo;rw tk;zy yy;kf yq;xn qm;au	2
+事业单位人事管理条例	ut;gy yi;la dn;bu wk;rl rs;pn ut;gy gs;vl lg;wl tu;wm lt;rd	5
+是以圣人处无为之事	ut;oz yg;lr uf;yt rs;pn ih;wb wl;ay wr;ld vj;dn ut;gy	6
+是以圣人后其身而身先	ut;oz yg;lr uf;yt rs;pn hr;ik qb;cb ue;zc ek;al ue;zc xr;ne	5
+是以万物莫不尊道而贵德	ut;oz yg;lr wa;av wh;nw mg;cd bh;ab zg;bc dv;zz ek;al gf;vb de;rx	2
+是造物者之无尽藏也	ut;oz zv;zk wh;nw vl;lo vj;dn wl;ay jv;id cw;ci yl;vv	20
+失职致使在押人员脱逃罪	uj;pf vb;ev vt;gw ug;rl zo;ut yl;fj rs;pn yo;kb ts;ox ti;zv zf;sf	1
+蜀道之难难于上青天	um;si dv;zz vj;dn np;yv np;yv ym;au ud;ba qe;fo tr;ad	4
+双氯芬酸二乙胺乳胶剂	uw;yy lf;qu fe;cf sd;yw eh;aa yg;vv aa;on rm;vv jm;of jt;qd	2
+双氯芬酸钠缓释胶囊	uw;yy lf;qu fe;cf sd;yw ni;jn hs;sy ut;cf jm;of nw;gy	2
+斯巴鲁中国拉力车队	sj;cj bl;sl lm;yo vk;kl gl;ky ll;fl lt;vp ir;au df;er	1
+四大国际会计师事务所	st;ke di;ar gl;ky jt;eu kf;ry jt;yu uj;lj ut;gy wh;wl sl;hj	2
+司法鉴定科学技术研究所	sj;vk fm;dq ja;lj dw;bz kr;hd xi;xz jt;fv uh;md yp;uk jz;bj sl;hj	6
+斯里兰卡民主社会主义共和国	sj;cj lg;tt lp;bs km;ub mc;vv vm;wt ui;pt hf;ry vm;wt yt;dx gy;cb he;hk gl;ky	1
+司马昭之心路人皆知	sj;vk mm;va vq;ok vj;dn xh;dd lh;zk rs;pn jk;bb vj;uk	20
+私有财产神圣不可侵犯	sj;hs yz;uo cd;bc io;wi us;pu uf;yt bh;ab kl;dk qh;ry fa;qv	54
+苏格兰特许会计师公会	sa;cb ge;mk lp;bs ti;nc xs;yw kf;ry jt;yu uj;lj gk;bs hf;ry	1
+宿骆氏亭寄怀崔雍崔衮	sh;bb lp;mk ut;pv tn;wd jt;bk hs;xb ct;uv yk;wv ct;uv go;yg	3
+诉讼与非诉讼程序法	sh;yi sy;yg ys;va fi;ls sh;yi sy;yg if;hw xf;gy fm;dq	4
+苏子与客泛舟游于赤壁之下	sa;cb zg;la ys;va ki;bk fa;df vx;pd ya;dz ym;au it;tb bt;ut vj;dn xx;ab	7
+损害上市公司利益罪	so;fb ho;bk ud;ba ut;wj gk;bs sj;vk lt;hd yt;bm zf;sf	3
+所以传道受业解惑也	sl;hj yg;lr io;rv dv;zz ur;vy yi;la jc;dn hp;gx yl;vv	6
+所以谓人皆有不忍人之心者	sl;hj yg;lr wk;yo rs;pn jk;bb yz;uo bh;ab ro;rx rs;pn vj;dn xh;dd vl;lo	1
+塔什库尔干塔吉克自治县	tm;tk ub;ru kh;gi eu;dx gn;au tm;tk jb;tk ki;ux zt;po vt;dk xa;qs	7
+糖尿病性视网膜病变	tw;mk nl;uu bw;bn xw;xu ut;pj wp;kx me;od bw;bn ba;wy	9
+糖尿病性周围神经病	tw;mk nl;uu bw;bn xw;xu vx;kk wr;kw us;pu je;sj bw;bn	1
+特克斯和凯科斯群岛	ti;nc ki;ux sj;cj he;hk ku;uj kr;hd sj;cj qf;yy dx;nu	3
+特立尼达和多巴哥共和国	ti;nc lt;wb nb;ub du;zd he;hk ds;xx bl;sl gr;kk gy;cb he;hk gl;ky	1
+特许公认会计师公会	ti;nc xs;yw gk;bs ro;yr kf;ry jt;yu uj;lj gk;bs hf;ry	20
+天地所以能长且久者	tr;ad dt;ty sl;hj yg;lr nf;sb iw;pn qc;oa jz;pn vl;lo	6
+天将降大任于斯人也	tr;ad je;lc je;ef di;ar ro;rw ym;au sj;cj rs;pn yl;vv	66
+天津经济技术开发区	tr;ad jh;dy je;sj jt;dq jt;fv uh;md kb;ac fl;fy qh;kx	6
+天津铁道职业技术学院	tr;ad jh;dy tc;jf dv;zz vb;ev yi;la jt;fv uh;md xi;xz yc;ey	2
+天下没有不散的宴席	tr;ad xx;ab mr;du yz;uo bh;ab sa;cw dr;bu ya;bn xb;gj	40
+土地管理法实施条例	tm;ua dt;ty gs;vl lg;wl fm;dq ub;bd uj;fy tu;wm lt;rd	1
+土地使用权出让合同	tm;ua dt;ty ug;rl yy;kf qo;my ia;uu rd;yu he;rk tj;kk	4
+抟扶摇而上者九万里	to;fv fl;ff yi;ff ek;al ud;ba vl;lo jz;pv wa;av lg;tt	4
+瓦利斯和富图纳群岛	wm;ad lt;hd sj;cj he;hk fh;bt tl;kd ni;sn qf;yy dx;nu	1
+外空物体所造成损害之国际责任公约	wo;xb kk;bg wh;nw tg;rb sl;hj zv;zk if;wv so;fb ho;bk vj;dn gl;ky jt;eu ze;fb ro;rw gk;bs yu;su	1
+外商投资产业指导目录	wo;xb uu;wk ta;fu zj;db io;wi yi;la vg;fo dx;sc mh;ke lh;eu	17
+万里长空且为忠魂舞	wa;av lg;tt iw;pn kk;bg qc;oa wr;ld vk;vx hf;yg wm;pf	4
+完全性房室传导阻滞	wp;by qo;rw xw;xu fw;hf ut;bt io;rv dx;sc zm;eq vt;dj	3
+辋川闲居赠裴秀才迪	wp;iw id;pl xv;mm jh;ug zf;bo pr;fy xo;hn cd;up db;zy	2
+王巾笥而藏之庙堂之上	ww;at jh;kl st;vk ek;al cw;ci vj;dn ml;gy tw;xt vj;dn ud;ba	2
+网络文化经营许可证	wp;kx lp;sk ws;wx hg;rb je;sj yn;ck xs;yw kl;dk vf;yv	19
+威宁彝族回族苗族自治县	wi;wn nn;bd yb;hc zl;fu hw;kk zl;fu mu;ct zl;fu zt;po vt;dk xa;qs	1
+未确认融资费用摊销	wk;am qd;uy ro;yr rj;gi zj;db fk;fb yy;kf tn;fv xm;jo	1
+唯倜傥非常之人称焉	wr;kv tt;rk tp;rx fi;ls iw;xj vj;dn rs;pn ic;hx yn;vh	6
+威天下不以兵革之利	wi;wn tr;ad xx;ab bh;ab yg;lr be;qb ge;cu vj;dn lt;hd	2
+我必须是你近旁的一株木棉	wi;ga bt;xp xh;py ut;oz ng;rx jv;zj pw;wf dr;bu yj;aa va;mw mh;ur mv;mj	5
+我不欲人之加诸我也	wi;ga bh;ab yf;gq rs;pn vj;dn jd;lk va;yo wi;ga yl;vv	1
+我却用它来寻找光明	wi;ga qd;qe yy;kf tl;bb ld;am xf;ec vx;fg gw;xe mn;oo	11
+我是天空里的一片云	wi;ga ut;oz tr;ad kk;bg lg;tt dr;bu yj;aa pa;pv yf;ag	6
+武汉大学国际法研究所	wm;yv ha;dy di;ar xi;xz gl;ky jt;eu fm;dq yp;uk jz;bj sl;hj	4
+武汉凯迪电力股份有限公司	wm;yv ha;dy ku;uj db;zy da;ov lt;vp gm;ou fo;rf yz;uo xa;eg gk;bs sj;vk	1
+武汉生物制品研究所	wm;yv ha;dy uc;pf wh;nw vt;nd px;kk yp;uk jz;bj sl;hj	3
+无奈朝来寒雨晚来风	wl;ay no;du vq;uo ld;am hp;bd ys;ad wo;oe ld;am fc;jx	8
+吾妻死之年所手植也	wl;wk qj;un sg;db vj;dn nv;pf sl;hj uz;pf vb;mq yl;vv	25
+吾未见好德如好色者也	wl;wk wk;am ja;ke hx;nz de;rx rl;nk hv;nz si;db vl;lo yl;vv	1
+无形财产权制度研究	wl;ay xn;kp cd;bc io;wi qo;my vt;nd dh;gy yp;uk jz;bj	1
+物业服务定价成本监审办法	wh;nw yi;la fl;oy wh;wl dw;bz jx;rj if;wv bo;ma jr;lm uo;bu ba;lb fm;dq	1
+物业服务收费管理办法	wh;nw yi;la fl;oy wh;wl ux;jw fk;fb gs;vl lg;wl ba;lb fm;dq	3
+乌兹别克斯坦共和国	wa;pa zj;by bs;kd ki;ux sj;cj to;td gy;cb he;hk gl;ky	2
+夏虫不可以语于冰者	xx;bw ij;vd bh;ab kl;dk yg;lr ys;yk ym;au be;du vl;lo	5
+下终南山过斛斯山人宿置酒	xx;ab vk;sd np;ug un;kl gp;zc hl;dd sj;cj un;kl rs;pn sh;bb vt;sq jz;dy	3
+先破秦入咸阳者王之	xr;ne pg;up qc;ih rh;pn xv;wk yw;eo vl;lo ww;at vj;dn	4
+先天性卵巢发育不全	xr;ne tr;ad xw;xu ls;pd ii;vg fl;fy yf;wo bh;ab qo;rw	2
+限制民事行为能力人	xa;eg vt;nd mc;vv ut;gy xn;rd wr;ld nf;sb lt;vp rs;pn	96
+项伯乃夜驰之沛公军	xe;gy be;rb nu;pv yi;ww ib;my vj;dn pk;dj gk;bs jg;bi	1
+香港特别行政区居民	xy;ho gp;ds ti;nc bs;kd xn;rd vf;vw qh;kx jh;ug mc;vv	3
+项王即日因留沛公与饮	xe;gy ww;at jb;ge rt;ka yh;kd lm;pt pk;dj gk;bs ys;va yx;uq	6
+项王使都尉陈平召沛公	xe;gy ww;at ug;rl da;le wk;uc is;ed pn;au vv;dk pk;dj gk;bs	1
+湘西土家族苗族自治州	xy;do xj;ak tm;ua jd;bu zl;fu mu;ct zl;fu zt;po vt;dk vx;dl	12
+晓出净慈寺送林子方	xl;ow ia;uu jw;dy cb;bx st;tc sy;zt lc;mm zg;la fu;wv	11
+小儿氨酚黄那敏颗粒	xl;lb ek;pv an;qn fe;yf hb;cb ni;ve mx;pw kr;gy lt;ml	2
+小儿肺热咳喘口服液	xl;lb ek;pv fk;oj ri;fh ke;kr is;ke kz;la fl;oy yi;dw	1
+小牛脾提取物注射液	xl;lb nm;pu pb;ou tb;fz qs;ey wh;nw vh;dv ui;uc yi;dw	1
+小型计算机系统接口	xl;lb xn;kt jt;yu sc;vc jj;mj xt;px tn;sy jk;fn kz;la	1
+新加坡会计与企业管制局	xh;lj jd;lk pp;tp kf;ry jt;yu ys;va qg;rv yi;la gs;vl vt;nd jm;uk	5
+新疆博尔塔拉蒙古自治州	xh;lj jy;gj be;uc eu;dx tm;tk ll;fl my;cu gm;uk zt;po vt;dk vx;dl	1
+信息化工作领导小组	xv;rk xj;zx hg;rb gk;aa zp;rv lw;ry dx;sc xl;lb zm;sq	1
+兴唐通信科技有限公司	xe;xb tw;gk tk;zy xv;rk kr;hd jt;fv yz;uo xa;eg gk;bs sj;vk	1
+雄激素不敏感综合征	xk;uv jj;dw sh;fx bh;ab mx;pw go;wx zk;su he;rk vc;rv	3
+虚开增值税专用发票罪	xh;hy kb;ac zc;to vb;rq uf;hx vd;ts yy;kf fl;fy pl;xu zf;sf	15
+宣州谢朓楼饯别校书叔云	xd;bd vx;dl xq;yc tl;ov la;mn ja;uj bs;kd xl;mf ua;vd ua;uy yf;ag	7
+亚急性皮肤型红斑狼疮	yi;ay jb;dx xw;xu pb;py fa;of xn;kt hj;sg bn;ww lw;ql iw;bv	1
+亚急性硬化性全脑炎	yi;ay jb;dx xw;xu yw;ug hg;rb xw;xu qo;rw nx;ox yp;hh	2
+燕雀安知鸿鹄之志哉	ya;ch qd;xv an;bn vj;uk hj;dn hl;nn vj;dn vt;tx zb;gk	17
+盐酸安非他酮缓释片	yp;tm sd;yw an;bn fi;ls tl;ry tj;yk hs;sy ut;cf pa;pv	3
+盐酸氨基葡萄糖胶囊	yp;tm sd;yw an;qn jj;ct pl;cf ti;cf tw;mk jm;of nw;gy	2
+盐酸肾上腺素注射液	yp;tm sd;yw uo;lo ud;ba xa;ou sh;fx vh;dv ui;uc yi;dw	1
+盐酸文拉法辛缓释胶囊	yp;tm sd;yw ws;wx ll;fl fm;dq xh;lu hs;sy ut;cf jm;of nw;gy	1
+焉知来者之不如今也	yn;vh vj;uk ld;am vl;lo vj;dn bh;ab rl;nk jh;rv yl;vv	1
+杨柳轻扬直上重霄九	yw;mp lz;me qe;ij yw;fp vb;uq ud;ba ij;ql xm;yo jz;pv	3
+药品管理法实施条例	yv;cu px;kk gs;vl lg;wl fm;dq ub;bd uj;fy tu;wm lt;rd	3
+药品经营质量管理规范	yv;cu px;kk je;sj yn;ck vt;ib le;ol gs;vl lg;wl gt;fj fa;cv	1
+药品临床试验管理规范	yv;cu px;kk lc;lk ib;gm ut;yg ya;mq gs;vl lg;wl gt;fj fa;cv	2
+药品招标代理机构资格认定及监督管理办法	yv;cu px;kk vq;fk bm;mu do;ry lg;wl jj;mj gr;mg zj;db ge;mk ro;yr dw;bz jb;pn jr;lm da;uo gs;vl lg;wl ba;lb fm;dq	2
+药学综合知识与技能	yv;cu xi;xz zk;su he;rk vj;uk ub;yv ys;va jt;fv nf;sb	58
+乙胺吡嗪利福异烟片	yg;vv aa;on bg;kb qc;kh lt;hd fl;pt yt;sc yn;hy pa;pv	1
+医疗器械监督管理条例	yj;ku lu;bl qt;kk xq;mc jr;lm da;uo gs;vl lg;wl tu;wm lt;rd	5
+疫苗储存和运输管理规范	yt;bu mu;ct im;ro cf;uz he;hk yr;zy ua;id gs;vl lg;wl gt;fj fa;cv	1
+以俟夫观人风者得焉	yg;lr qb;ru fa;er gd;yj rs;pn fc;jx vl;lo de;rc yn;vh	3
+一汽解放汽车有限公司	yj;aa qt;dq jc;dn fd;fw qt;dq ir;au yz;uo xa;eg gk;bs sj;vk	1
+异染性脑白质营养不良	yt;sc ro;dm xw;xu nx;ox bd;po vt;ib yn;ck yp;yl bh;ab li;dg	1
+亦使后人而复哀后人也	yt;wb ug;rl hr;ik rs;pn ek;al fh;pw ab;yk hr;ik rs;pn yl;vv	34
+已是十年踪迹十年心	yg;kv ut;oz ub;al nv;pf zk;zu jt;zb ub;al nv;pf xh;dd	4
+以先国家之急而后私仇也	yg;lr xr;ne gl;ky jd;bu vj;dn jb;dx ek;al hr;ik sj;hs ia;rj yl;vv	1
+乙型肝炎免疫球蛋白	yg;vv xn;kt gn;og yp;hh mp;de yt;bu qm;wq da;zi bd;po	2
+乙型肝炎人免疫球蛋白	yg;vv xn;kt gn;og yp;hh rs;pn mp;de yt;bu qm;wq da;zi bd;po	1
+异议股东股权收买请求权	yt;sc yt;yy gm;ou dk;ax gm;ou qo;my ux;jw mu;ad qw;yo qm;au qo;my	1
+易制毒化学品管理条例	yt;ow vt;nd dl;fm hg;rb xi;xz px;kk gs;vl lg;wl tu;wm lt;rd	1
+因宾客至蔺相如门谢罪	yh;kd bh;bb ki;bk vt;gt lv;cv xe;mo rl;nk ms;dv xq;yc zf;sf	1
+营业性演出管理条例	yn;ck yi;la xw;xu yo;db ia;uu gs;vl lg;wl tu;wm lt;rd	4
+用人单位单方解除劳动合同	yy;kf rs;pn dn;bu wk;rl dn;bu fu;wv jc;dn il;em li;cl dy;yl he;rk tj;kk	5
+由俭入奢易由奢入俭难	ya;ol jp;rq rh;pn ur;do yt;ow ya;ol ur;do rh;pn jp;rq np;yv	3
+有良田美池桑竹之属	yz;uo li;dg tv;ku mj;yd ib;dy su;ym vl;gg vj;dn um;uy	12
+有是四端而自谓不能者	yz;uo ut;oz st;ke dd;le ek;al zt;po wk;yo bh;ab nf;sb vl;lo	1
+有亭翼然临于泉上者	yz;uo tn;wd yt;xg rp;xh lc;lk ym;au qo;bu ud;ba vl;lo	3
+犹小石小木之在大山也	ya;qy xl;lb ub;ak xl;lb mh;ur vj;dn zo;ut di;ar un;kl yl;vv	2
+有一言而可以终身行之者乎	yz;uo yj;aa yp;wk ek;al kl;dk yg;lr vk;sd ue;zc xn;rd vj;dn vl;lo ha;pl	1
+有中国特色的社会主义	yz;uo vk;kl gl;ky ti;nc si;db dr;bu ui;pt hf;ry vm;wt yt;dx	26
+预防未成年人犯罪法	yf;yy fw;ef wk;am if;wv nv;pf rs;pn fa;qv zf;sf fm;dq	13
+语境中的法学与法律	ys;yk jw;te vk;kl dr;bu fm;dq xi;xz ys;va fm;dq lf;ry	1
+于是宾客无不变色离席	ym;au ut;oz bh;bb ki;bk wl;ay bh;ab ba;wy si;db lb;wn xb;gj	2
+于是张良至军门见樊哙	ym;au ut;oz vu;gi li;dg vt;gt jg;bi ms;dv ja;ke fp;md kf;ky	3
+语言文字工作委员会	ys;yk yp;wk ws;wx zt;bz gk;aa zp;rv wj;hn yo;kb hf;ry	23
+愿伯具言臣之不敢倍德也	yc;ix be;rb jf;qb yp;wk is;kl vj;dn bh;ab go;ew bk;rk de;rx yl;vv	4
+原发性闭角型青光眼	yo;ix fl;fy xw;xu bt;mc jl;dy xn;kt qe;fo gw;xe yo;og	2
+原发性开角型青光眼	yo;ix fl;fy xw;xu kb;ac jl;dy xn;kt qe;fo gw;xe yo;og	6
+员工福利与退休计划	yo;kb gk;aa fl;pt lt;hd ys;va tf;zg xz;rm jt;yu hg;gd	3
+原子吸收分光光度计	yo;ix zg;la xj;kj ux;jw fe;bd gw;xe gw;xe dh;gy jt;yu	3
+越南社会主义共和国	yd;tl np;ug ui;pt hf;ry vm;wt yt;dx gy;cb he;hk gl;ky	7
+云之君兮纷纷而来下	yf;ag vj;dn jg;yk xj;bk fe;sf fe;sf ek;al ld;am xx;ab	5
+再保险业务管理规定	zo;ar bx;rm xp;eq yi;la wh;wl gs;vl lg;wl gt;fj dw;bz	1
+在这交会时互放的光亮	zo;ut vi;zw jm;wf hf;ry ub;oc hh;ah fd;fw dr;bu gw;xe le;wj	6
+在转瞬间消灭了踪影	zo;ut vs;iv ur;of jr;mo xm;do mq;ah lr;al zk;zu yw;op	4
+早春呈水部张十八员外	zx;ou ig;io if;kw uv;ln bh;le vu;gi ub;al bl;pn yo;kb wo;xb	11
+造价工程师执业资格制度暂行规定	zv;zk jx;rj gk;aa if;hw uj;lj vb;fw yi;la zj;db ge;mk vt;nd dh;gy za;io xn;rd gt;fj dw;bz	2
+则天地曾不能以一瞬	ze;bd tr;ad dt;ty cf;bo bh;ab nf;sb yg;lr yj;aa ur;of	18
+展会知识产权保护办法	vo;uy hf;ry vj;uk ub;yv io;wi qo;my bx;rm hh;fh ba;lb fm;dq	2
+丈二和尚摸不着头脑	vd;an eh;aa he;hk ud;xk mp;fd bh;ab vi;yo ta;dd nx;ox	30
+阵发性室上性心动过速	vo;ei fl;fy xw;xu ut;bt ud;ba xw;xu xh;dd dy;yl gp;zc sh;zu	11
+证券公司风险处置条例	vf;yv qc;jd gk;bs sj;vk fc;jx xp;eq im;wb vt;sq tu;wm lt;rd	2
+证券公司合规管理试行规定	vf;yv qc;jd gk;bs sj;vk he;rk gt;fj gs;vl lg;wl ut;yg xn;rd gt;fj dw;bz	1
+证券公司监督管理条例	vf;yv qc;jd gk;bs sj;vk jr;lm da;uo gs;vl lg;wl tu;wm lt;rd	2
+证券市场信息披露法律监管	vf;yv qc;jd ut;wj ip;tp xv;rk xj;zx pj;fp lh;yk fm;dq lf;ry jr;lm gs;vl	1
+知识产权海关保护条例	vj;uk ub;yv io;wi qo;my hu;dm gd;bt bx;rm hh;fh tu;wm lt;rd	4
+职业道德和法律法规	vb;ev yi;la dv;zz de;rx he;hk fm;dq lf;ry fm;dq gt;fj	2
+中共中央政治局常委	vk;kl gy;cb vk;kl yu;kr vf;vw vt;dk jm;uk iw;xj wj;hn	2
+中共中央政治局委员	vk;kl gy;cb vk;kl yu;kr vf;vw vt;dk jm;uk wj;hn yo;kb	7
+中国澳门特别行政区	vk;kl gl;ky av;dd ms;dv ti;nc bs;kd xn;rd vf;vw qh;kx	2
+中国残疾人福利基金会	vk;kl gl;ky cp;dj jb;bu rs;pn fl;pt lt;hd jj;ct jh;rb hf;ry	1
+中国长城科技集团股份有限公司	vk;kl gl;ky iw;pn if;ti kr;hd jt;fv jb;rm to;kc gm;ou fo;rf yz;uo xa;eg gk;bs sj;vk	7
+中国出口信用保险公司	vk;kl gl;ky ia;uu kz;la xv;rk yy;kf bx;rm xp;eq gk;bs sj;vk	8
+中国船舶工业集团公司	vk;kl gl;ky io;vk be;vb gk;aa yi;la jb;rm to;kc gk;bs sj;vk	2
+中国船舶工业总公司	vk;kl gl;ky io;vk be;vb gk;aa yi;la zn;bx gk;bs sj;vk	4
+中国共产党中央委员会	vk;kl gl;ky gy;cb io;wi dp;xx vk;kl yu;kr wj;hn yo;kb hf;ry	4
+中国工程物理研究院	vk;kl gl;ky gk;aa if;hw wh;nw lg;wl yp;uk jz;bj yc;ey	16
+中国国际信托投资公司	vk;kl gl;ky gl;ky jt;eu xv;rk ts;fq ta;fu zj;db gk;bs sj;vk	14
+中国国民党革命委员会	vk;kl gl;ky gl;ky mc;vv dp;xx ge;cu mw;re wj;hn yo;kb hf;ry	6
+中国建筑工程总公司	vk;kl gl;ky ja;zy vh;vf gk;aa if;hw zn;bx gk;bs sj;vk	4
+中国科学院心理研究所	vk;kl gl;ky kr;hd xi;xz yc;ey xh;dd lg;wl yp;uk jz;bj sl;hj	18
+中国汽车技术研究中心	vk;kl gl;ky qt;dq ir;au jt;fv uh;md yp;uk jz;bj vk;kl xh;dd	5
+中国人民银行残缺污损人民币兑换办法	vk;kl gl;ky rs;pn mc;vv yc;jg hw;rd cp;dj qu;fg wa;dk so;fb rs;pn mc;vv bt;pj df;bx hc;fr ba;lb fm;dq	4
+中国人民政治协商会议	vk;kl gl;ky rs;pn mc;vv vf;vw vt;dk xs;ub uu;wk hf;ry yt;yy	39
+中国石油化工总公司	vk;kl gl;ky ub;ak ya;dy hg;rb gk;aa zn;bx gk;bs sj;vk	1
+中国特色社会主义制度	vk;kl gl;ky ti;nc si;db ui;pt hf;ry vm;wt yt;dx vt;nd dh;gy	33
+中国统配煤矿总公司	vk;kl gl;ky tn;sy pk;yj mr;hm ke;ug zn;bx gk;bs sj;vk	1
+中国图书馆图书分类法	vk;kl gl;ky tl;kd ua;vd gs;ul tl;kd ua;vd fe;bd lk;md fm;dq	4
+中国文学艺术界联合会	vk;kl gl;ky ws;wx xi;xz yt;cv uh;md jq;tj lv;et he;rk hf;ry	8
+中国香港特别行政区	vk;kl gl;ky xy;ho gp;ds ti;nc bs;kd xn;rd vf;vw qh;kx	14
+中国信达资产管理公司	vk;kl gl;ky xv;rk du;zd zj;db io;wi gs;vl lg;wl gk;bs sj;vk	10
+中国印钞造币总公司	vk;kl gl;ky yv;pe iq;ju zv;zk bt;pj zn;bx gk;bs sj;vk	6
+中国银行业监督管理委员会行政处罚办法	vk;kl gl;ky yc;jg hw;rd yi;la jr;lm da;uo gs;vl lg;wl wj;hn yo;kb hf;ry xn;rd vf;vw im;wb fu;sd ba;lb fm;dq	1
+中国知识产权司法保护	vk;kl gl;ky vj;uk ub;yv io;wi qo;my sj;vk fm;dq bx;rm hh;fh	3
+中国中西医结合学会	vk;kl gl;ky vk;kl xj;ak yj;ku js;sk he;rk xi;xz hf;ry	6
+中国注册会计师协会	vk;kl gl;ky vh;dv ci;ka kf;ry jt;yu uj;lj xs;ub hf;ry	24
+中华全国妇女联合会	vk;kl ht;ru qo;rw gl;ky fh;ne ns;va lv;et he;rk hf;ry	3
+中华全国工商业联合会	vk;kl ht;ru qo;rw gl;ky gk;aa uu;wk yi;la lv;et he;rk hf;ry	5
+中华人民共和国安全生产法	vk;kl ht;ru rs;pn mc;vv gy;cb he;hk gl;ky an;bn qo;rw uc;pf io;wi fm;dq	2
+中华人民共和国保险法	vk;kl ht;ru rs;pn mc;vv gy;cb he;hk gl;ky bx;rm xp;eq fm;dq	31
+中华人民共和国财政部	vk;kl ht;ru rs;pn mc;vv gy;cb he;hk gl;ky cd;bc vf;vw bh;le	13
+中华人民共和国传染病防治法	vk;kl ht;ru rs;pn mc;vv gy;cb he;hk gl;ky io;rv ro;dm bw;bn fw;ef vt;dk fm;dq	17
+中华人民共和国道路交通安全法	vk;kl ht;ru rs;pn mc;vv gy;cb he;hk gl;ky dv;zz lh;zk jm;wf tk;zy an;bn qo;rw fm;dq	46
+中华人民共和国反垄断法	vk;kl ht;ru rs;pn mc;vv gy;cb he;hk gl;ky fo;iy ln;lt dc;vj fm;dq	9
+中华人民共和国妇女权益保障法	vk;kl ht;ru rs;pn mc;vv gy;cb he;hk gl;ky fh;ne ns;va qo;my yt;bm bx;rm vd;eu fm;dq	1
+中华人民共和国个人所得税法	vk;kl ht;ru rs;pn mc;vv gy;cb he;hk gl;ky gi;rl rs;pn sl;hj de;rc uf;hx fm;dq	45
+中华人民共和国公司登记管理条例	vk;kl ht;ru rs;pn mc;vv gy;cb he;hk gl;ky gk;bs sj;vk dc;bb jt;yj gs;vl lg;wl tu;wm lt;rd	12
+中华人民共和国公务员法	vk;kl ht;ru rs;pn mc;vv gy;cb he;hk gl;ky gk;bs wh;wl yo;kb fm;dq	3
+中华人民共和国固体废物污染环境防治法	vk;kl ht;ru rs;pn mc;vv gy;cb he;hk gl;ky gh;kg tg;rb fk;gy wh;nw wa;dk ro;dm ho;wb jw;te fw;ef vt;dk fm;dq	2
+中华人民共和国国家金库条例	vk;kl ht;ru rs;pn mc;vv gy;cb he;hk gl;ky gl;ky jd;bu jh;rb kh;gi tu;wm lt;rd	2
+中华人民共和国国务院	vk;kl ht;ru rs;pn mc;vv gy;cb he;hk gl;ky gl;ky wh;wl yc;ey	8
+中华人民共和国海关法	vk;kl ht;ru rs;pn mc;vv gy;cb he;hk gl;ky hu;dm gd;bt fm;dq	4
+中华人民共和国和立陶宛共和国引渡条约	vk;kl ht;ru rs;pn mc;vv gy;cb he;hk gl;ky he;hk lt;wb ti;ef wo;bv gy;cb he;hk gl;ky yx;gl dh;dy tu;wm yu;su	1
+中华人民共和国和罗马尼亚引渡条约	vk;kl ht;ru rs;pn mc;vv gy;cb he;hk gl;ky he;hk ll;sx mm;va nb;ub yi;ay yx;gl dh;dy tu;wm yu;su	1
+中华人民共和国和蒙古国引渡条约	vk;kl ht;ru rs;pn mc;vv gy;cb he;hk gl;ky he;hk my;cu gm;uk gl;ky yx;gl dh;dy tu;wm yu;su	1
+中华人民共和国和纳米比亚共和国引渡条约	vk;kl ht;ru rs;pn mc;vv gy;cb he;hk gl;ky he;hk ni;sn mg;bm bg;bb yi;ay gy;cb he;hk gl;ky yx;gl dh;dy tu;wm yu;su	1
+中华人民共和国和南非共和国引渡条约	vk;kl ht;ru rs;pn mc;vv gy;cb he;hk gl;ky he;hk np;ug fi;ls gy;cb he;hk gl;ky yx;gl dh;dy tu;wm yu;su	1
+中华人民共和国继承法	vk;kl ht;ru rs;pn mc;vv gy;cb he;hk gl;ky jt;sm if;ln fm;dq	8
+中华人民共和国价格法	vk;kl ht;ru rs;pn mc;vv gy;cb he;hk gl;ky jx;rj ge;mk fm;dq	3
+中华人民共和国可再生能源法	vk;kl ht;ru rs;pn mc;vv gy;cb he;hk gl;ky kl;dk zo;ar uc;pf nf;sb yo;dx fm;dq	1
+中华人民共和国民法通则	vk;kl ht;ru rs;pn mc;vv gy;cb he;hk gl;ky mc;vv fm;dq tk;zy ze;bd	28
+中华人民共和国农产品质量安全法	vk;kl ht;ru rs;pn mc;vv gy;cb he;hk gl;ky nj;by io;wi px;kk vt;ib le;ol an;bn qo;rw fm;dq	3
+中华人民共和国农业部	vk;kl ht;ru rs;pn mc;vv gy;cb he;hk gl;ky nj;by yi;la bh;le	6
+中华人民共和国企业所得税	vk;kl ht;ru rs;pn mc;vv gy;cb he;hk gl;ky qg;rv yi;la sl;hj de;rc uf;hx	60
+中华人民共和国人口与计划生育法	vk;kl ht;ru rs;pn mc;vv gy;cb he;hk gl;ky rs;pn kz;la ys;va jt;yu hg;gd uc;pf yf;wo fm;dq	5
+中华人民共和国人民法院法庭规则	vk;kl ht;ru rs;pn mc;vv gy;cb he;hk gl;ky rs;pn mc;vv fm;dq yc;ey fm;dq tn;gw gt;fj ze;bd	7
+中华人民共和国商业银行法	vk;kl ht;ru rs;pn mc;vv gy;cb he;hk gl;ky uu;wk yi;la yc;jg hw;rd fm;dq	24
+中华人民共和国审计法	vk;kl ht;ru rs;pn mc;vv gy;cb he;hk gl;ky uo;bu jt;yu fm;dq	2
+中华人民共和国食品安全法	vk;kl ht;ru rs;pn mc;vv gy;cb he;hk gl;ky ub;rg px;kk an;bn qo;rw fm;dq	45
+中华人民共和国水法	vk;kl ht;ru rs;pn mc;vv gy;cb he;hk gl;ky uv;ln fm;dq	9
+中华人民共和国税收征收管理法实施细则	vk;kl ht;ru rs;pn mc;vv gy;cb he;hk gl;ky uf;hx ux;jw vc;rv ux;jw gs;vl lg;wl fm;dq ub;bd uj;fy xt;st ze;bd	6
+中华人民共和国土地管理法	vk;kl ht;ru rs;pn mc;vv gy;cb he;hk gl;ky tm;ua dt;ty gs;vl lg;wl fm;dq	20
+中华人民共和国土地管理法实施条例	vk;kl ht;ru rs;pn mc;vv gy;cb he;hk gl;ky tm;ua dt;ty gs;vl lg;wl fm;dq ub;bd uj;fy tu;wm lt;rd	1
+中华人民共和国物权法	vk;kl ht;ru rs;pn mc;vv gy;cb he;hk gl;ky wh;nw qo;my fm;dq	21
+中华人民共和国无线电频率划分规定	vk;kl ht;ru rs;pn mc;vv gy;cb he;hk gl;ky wl;ay xa;sj da;ov pc;vy lf;wu hg;gd fe;bd gt;fj dw;bz	1
+中华人民共和国野生动物保护法	vk;kl ht;ru rs;pn mc;vv gy;cb he;hk gl;ky yl;ly uc;pf dy;yl wh;nw bx;rm hh;fh fm;dq	1
+中华人民共和国银行管理暂行条例	vk;kl ht;ru rs;pn mc;vv gy;cb he;hk gl;ky yc;jg hw;rd gs;vl lg;wl za;io xn;rd tu;wm lt;rd	1
+中华人民共和国渔业法	vk;kl ht;ru rs;pn mc;vv gy;cb he;hk gl;ky ym;dy yi;la fm;dq	3
+中华人民共和国证券法	vk;kl ht;ru rs;pn mc;vv gy;cb he;hk gl;ky vf;yv qc;jd fm;dq	15
+中华人民共和国治安管理处罚法	vk;kl ht;ru rs;pn mc;vv gy;cb he;hk gl;ky vt;dk an;bn gs;vl lg;wl im;wb fu;sd fm;dq	51
+中华人民共和国治安管理处罚条例	vk;kl ht;ru rs;pn mc;vv gy;cb he;hk gl;ky vt;dk an;bn gs;vl lg;wl im;wb fu;sd tu;wm lt;rd	2
+中华人民共和国知识产权法	vk;kl ht;ru rs;pn mc;vv gy;cb he;hk gl;ky vj;uk ub;yv io;wi qo;my fm;dq	6
+中华人民共和国仲裁法	vk;kl ht;ru rs;pn mc;vv gy;cb he;hk gl;ky vy;rv cd;gy fm;dq	1
+中华人民共和国中小企业促进法	vk;kl ht;ru rs;pn mc;vv gy;cb he;hk gl;ky vk;kl xl;lb qg;rv yi;la ch;rz jv;zj fm;dq	2
+中华人民共和国种子法	vk;kl ht;ru rs;pn mc;vv gy;cb he;hk gl;ky vn;hv zg;la fm;dq	4
+中华人民共和国主席	vk;kl ht;ru rs;pn mc;vv gy;cb he;hk gl;ky vm;wt xb;gj	3
+中央军事委员会主席	vk;kl yu;kr jg;bi ut;gy wj;hn yo;kb hf;ry vm;wt xb;gj	1
+周将处乎材与不材之间	vx;kk jy;lc ih;wb ha;pl cd;mc ys;va bh;ab cd;mc vj;dn jr;mo	1
+周口店北京猿人遗址	vx;kk kz;la da;gv bj;lb je;wx yo;qy rs;pn yb;zb vg;tv	2
+注册公用设备工程师	vh;dv ci;ka gk;bs yy;kf ui;yu bk;wt gk;aa if;hw uj;lj	35
+注册公用设备工程师执业资格考试实施办法	vh;dv ci;ka gk;bs yy;kf ui;yu bk;wt gk;aa if;hw uj;lj vb;fw yi;la zj;db ge;mk kx;lk ut;yg ub;bd uj;fy ba;lb fm;dq	1
+住房公积金管理条例	vh;rv fw;hf gk;bs jj;hv jh;rb gs;vl lg;wl tu;wm lt;rd	32
+注射用鼠神经生长因子	vh;dv ui;uc yy;kf um;jv us;pu je;sj uc;pf vp;pn yh;kd zg;la	2
+主要组织相容性复合体	vm;wt yv;xn zm;sq vj;sv xy;mo rj;bg xw;xu fh;pw he;rk tg;rb	5
+著作权许可使用合同	vh;co zp;rv qo;my xs;yw kl;dk ug;rl yy;kf he;rk tj;kk	5
+庄子与惠子游于濠梁之上	vw;gt zg;la ys;va hf;ix zg;la ya;dz ym;au hi;du li;dm vj;dn ud;ba	1
+自费出国留学中介服务管理规定	zt;po fk;fb ia;uu gl;ky lm;pt xi;xz vk;kl jq;rl fl;oy wh;wl gs;vl lg;wl gt;fj dw;bz	1
+自富阳至桐庐一百许里	zt;po fh;bt yw;eo vt;gt tj;mk ll;gh yj;aa bu;ab xs;yw lg;tt	2
+自是人生长恨水长东	zt;po ut;oz rs;pn uc;pf iw;pn ho;xg uv;ln iw;pn dk;ax	7
+走马川行奉送封大夫出师西征	zz;tz mm;va id;pl xn;rd ff;if sy;zt fc;tc do;ar fa;er ia;uu uj;lj xj;ak vc;rv	1
+走私普通货物物品罪	zz;tz sj;hs pm;bo tk;zy hp;rb wh;nw wh;nw px;kk zf;sf	1
+阻碍执行军事职务罪	zm;eq ao;uc vb;fw xn;rd jg;bi ut;gy vb;ev wh;wl zf;sf	1
+最高人民法院研究室	zf;oy gq;wk rs;pn mc;vv fm;dq yc;ey yp;uk jz;bj ut;bt	7
+作品自愿登记试行办法	zp;rv px;kk zt;po yc;ix dc;bb jt;yj ut;yg xn;rd ba;lb fm;dq	3
+作为树的形象和你站在一起	zp;rv wr;ld uh;mc dr;bu xn;kp xe;du he;hk ng;rx va;lv zo;ut yj;aa qg;tj	2
+做一天和尚撞一天钟	zp;rw yj;aa tr;ad he;hk ud;xk ve;fl yj;aa tr;ad vk;jv	17
+阿尔罕布拉宫的回忆	al;ek eu;dx ho;bg bh;uj ll;fl gk;bk dr;bu hw;kk yt;xv	10
+阿克塞哈萨克族自治县	al;ek ki;ux so;bt hl;kk si;ci ki;ux zl;fu zt;po vt;dk xa;qs	2
+阿里巴巴和四十大盗	al;ek lg;tt bl;sl bl;sl he;hk st;ke ub;al di;ar dv;dm	9
+阿里巴巴与四十大盗	al;ek lg;tt bl;sl bl;sl ys;va st;ke ub;al di;ar dv;dm	9
+阿耨多罗三藐三菩提	al;ek nr;lc ds;xx ll;sx sn;ae ml;ce sn;ae pl;ck tb;fz	3
+啊呜呜呜呜呜呜呜呜	al;kk wa;kw wa;kw wa;kw wa;kw wa;kw wa;kw wa;kw wa;kw	1
+啊呜呜呜呜呜呜呜呜呜呜呜	al;kk wa;kw wa;kw wa;kw wa;kw wa;kw wa;kw wa;kw wa;kw wa;kw wa;kw wa;kw	2
+八了百了标了兵了奔了北了坡	bl;pn lr;al bu;ab lr;al bm;mu lr;al be;qb lr;al be;dc lr;al bj;lb lr;al pp;tp	1
+搬起石头打自己的脚	bn;fu qg;tj ub;ak ta;dd dm;fd zt;po jg;kv dr;bu jl;oe	1
+北京第二外国语学院	bj;lb je;wx dt;vd eh;aa wo;xb gl;ky ys;yk xi;xz yc;ey	41
+北京智者天下科技有限公司	bj;lb je;wx vt;uo vl;lo tr;ad xx;ab kr;hd jt;fv yz;uo xa;eg gk;bs sj;vk	2
+贝克街旁的圆形广场	bk;kr ki;ux jk;rt pw;wf dr;bu yo;kb xn;kp gu;di ip;tp	1
+北莱茵威斯特法伦州	bj;lb ld;cl yh;cy wi;wn sj;cj ti;nc fm;dq lf;rl vx;dl	1
+比待遇越比心胸越窄	bg;bb do;rc yf;zd yd;tl bg;bb xh;dd xp;ox yd;tl vu;bv	2
+不到万不得已的时候	bh;ab dv;gd wa;av bh;ab de;rc yg;kv dr;bu ub;oc hr;ru	11
+布鲁克海文国家实验室	bh;uj lm;yo ki;ux hu;dm ws;wx gl;ky jd;bu ub;bd ya;mq ut;bt	11
+不要拿法律当挡箭牌	bh;ab yv;xn nu;ru fm;dq lf;ry du;xe dp;fe ja;vd pd;pu	7
+不要温顺地走进那个良夜	bh;ab yv;xn we;dm ur;iy dr;ty zz;tz jv;zj ni;ve gi;rl li;dg yi;ww	1
+不要温顺地走进那良夜	bh;ab yv;xn we;dm ur;iy dr;ty zz;tz jv;zj ni;ve li;dg yi;ww	2
+不因虚度年华而悔恨	bh;ab yh;kd xh;hy dh;gy nv;pf ht;ru ek;al hv;xm ho;xg	5
+不正常人类研究中心	bh;ab vf;av iw;xj rs;pn lk;md yp;uk jz;bj vk;kl xh;dd	22
+不知道该怎么办才好	bh;ab vj;uk dv;zz gb;yr zo;vx mr;ps ba;lb cd;up hx;nz	12
+彩色多普勒血流显像	cu;cp si;db ds;xx pm;bo li;gl xd;pm lm;di xp;oy xe;ru	1
+长江三峡水利枢纽工程	iw;pn jy;dg sn;ae xc;uj uv;ln lt;hd ua;mq nz;si gk;aa if;hw	1
+彻底沦为了一个笑话	ii;rd dg;gu lf;dl wr;ld lr;al yj;aa gi;rl xl;vy hg;yu	1
+吃不到葡萄说葡萄酸	ij;kv bh;ab dv;gd pl;cf ti;cf us;yx pl;cf ti;cf sd;yw	79
+穿过的子弹就带走温度	id;by gp;zc dr;bu zg;la da;gu jo;wy do;cj zz;tz we;dm dh;gy	1
+创业未半而中道崩殂	ie;rd yi;la wk;am ba;bf ek;al vk;kl dv;zz bc;uo cl;dq	9
+此人一一为具言所闻	cg;vb rs;pn yj;aa yj;aa wk;ld jf;qb yp;wk sl;hj ws;me	4
+打工是不可能打工的	dm;fd gk;aa ut;oz bh;ab kl;dk nf;sb dm;fd gk;aa dr;bu	37
+打字机停在凶手的名称	dm;fd zt;bz jj;mj tn;rd zo;ut xp;kx uz;pf dr;bu mn;xk ic;hx	1
+但是没牌是万万不能的	da;rd ut;oz mr;du pd;pu ut;oz wa;av wa;av bh;ab nf;sb dr;bu	11
+但闻黄河流水鸣溅溅	da;rd ws;me hb;cb he;dk lm;di uv;ln mn;kn ja;dj ja;dj	3
+但闻燕山胡骑鸣啾啾	da;rd ws;me yn;ch un;kl hl;go qb;mk mn;kn jz;kh jz;kh	3
+挡在前面的人都有罪	dp;fe zo;ut qv;bd ma;ao dr;bu rs;pn dx;le yz;uo zf;sf	2
+德宏傣族景颇族自治州	de;rx hj;bs du;ru zl;fu jw;ox pp;py zl;fu zt;po vt;dk vx;dl	3
+动机也只有一种名字	dy;yl jj;mj yl;vv vg;kb yz;uo yj;aa vn;hv mn;xk zt;bz	1
+多年以后一场大雨惊醒沉睡的我	ds;xx nv;pf yg;lr hr;ik yj;aa ip;tp di;ar ys;ad je;xx xw;yu is;dj uf;ot dr;bu wi;ga	1
+恶心他妈给恶心开门	el;yx xh;dd tl;ry ml;nm gj;sk el;yx xh;dd kb;ac ms;dv	8
+而不是给生命以时光	ek;al bh;ab ut;oz gj;sk uc;pf mw;re yg;lr ub;oc gw;xe	2
+而不是给文明以岁月	ek;al bh;ab ut;oz gj;sk ws;wx mn;oo yg;lr sf;ux yd;ke	20
+二三四五六七八九十	eh;aa sn;ae st;ke wm;aw lo;wb qj;av bl;pn jz;pv ub;al	2
+二十年目睹之怪现状	eh;aa ub;al nv;pf mh;ke dm;oo vj;dn gf;xt xa;wj ve;lq	13
+法兰克福证券交易所	fm;dq lp;bs ki;ux fl;pt vf;yv qc;jd jm;wf yt;ow sl;hj	1
+发行量加权股价指数	fl;fy xn;rd le;ol jd;lk qo;my gm;ou jx;rj vg;fo uh;mw	1
+犯我中华者虽远必诛	fa;qv wi;ga vk;kl ht;ru vl;lo st;ki ys;zy bt;xp va;yw	9
+高速互联网接入服务	gq;wk sh;zu hh;ah lv;et wp;kx jk;fn rh;pn fl;oy wh;wl	2
+工作领导小组办公室	gk;aa zp;rv lw;ry dx;sc xl;lb zm;sq ba;lb gk;bs ut;bt	13
+冠状动脉旁路移植手术	gd;bc ve;lq dy;yl mo;oy pw;wf lh;zk yb;hx vb;mq uz;pf uh;md	4
+广东科学技术职业学院	gu;di dk;ax kr;hd xi;xz jt;fv uh;md vb;ev yi;la xi;xz yc;ey	5
+光是活着就已经竭尽全力	gw;xe ut;oz hl;du vr;yo jo;wy yg;kv je;sj js;lr jv;id qo;rw lt;vp	2
+光是活着就已经竭尽全力了	gw;xe ut;oz hl;du vr;yo jo;wy yg;kv je;sj js;lr jv;id qo;rw lt;vp lr;al	3
+轨迹奖最佳长篇科幻小说奖	gv;ij jt;zb ju;ld zf;oy jd;rt iw;pn pr;vc kr;hd hc;yv xl;lb us;yx ju;ld	1
+国际米兰足球俱乐部	gl;ky jt;eu mg;bm lp;bs zl;kz qm;wq jf;rb li;px bh;le	5
+国家标准化管理委员会	gl;ky jd;bu bm;mu vo;dv hg;rb gs;vl lg;wl wj;hn yo;kb hf;ry	13
+国家发展和改革委员会	gl;ky jd;bu fl;fy vo;uy he;hk gu;jw ge;cu wj;hn yo;kb hf;ry	28
+国家文物鉴定委员会	gl;ky jd;bu ws;wx wh;nw ja;lj dw;bz wj;hn yo;kb hf;ry	5
+国家新闻出版广电总局	gl;ky jd;bu xh;lj ws;me ia;uu bo;py gu;di da;ov zn;bx jm;uk	52
+过早的优化是万恶之源	gp;zc zx;ou dr;bu yx;ry hg;rb ut;oz wa;av ei;yx vj;dn yo;dx	4
+过早优化是万恶之源	gp;zc zx;ou yx;ry hg;rb ut;oz wa;av ei;yx vj;dn yo;dx	1
+还敢在我军阵前狺狺狂吠	hd;zb go;ew zo;ut wi;ga jg;bi vo;ei qv;bd yc;qk yc;qk kb;qw fk;kq	7
+海西蒙古族藏族自治州	hu;dm xj;ak my;cu gm;uk zl;fu zd;ci zl;fu zt;po vt;dk vx;dl	4
+好看的皮囊千篇一律	hx;nz ka;uo dr;bu pb;py nw;gy qr;pu pr;vc yj;aa lf;ry	48
+好事不出门恶事传千里	hx;nz ut;gy bh;ab ia;uu ms;dv ei;yx ut;gy io;rv qr;pu lg;tt	1
+好事不出门坏事传千里	hx;nz ut;gy bh;ab ia;uu ms;dv hf;tb ut;gy io;rv qr;pu lg;tt	14
+很久很久以前的事情	ho;rg jz;pn ho;rg jz;pn yg;lr qv;bd dr;bu ut;gy qn;xo	2
+红河哈尼族彝族自治州	hj;sg he;dk hl;kk nb;ub zl;fu yb;hc zl;fu zt;po vt;dk vx;dl	4
+缓缓飘落的枫叶像思念	hs;sy hs;sy pm;xf lp;ck dr;bu fc;mf yi;ku xe;ru sj;tx na;rx	1
+几乎所有人都能感受到	jj;pv ha;pl sl;hj yz;uo rs;pn dx;le nf;sb go;wx ur;vy dv;gd	1
+计算机技术与软件专业技术	jt;yu sc;vc jj;mj jt;fv uh;md ys;va rs;iq ja;rn vd;ts yi;la jt;fv uh;md	1
+计算机技术与软件专业技术资格	jt;yu sc;vc jj;mj jt;fv uh;md ys;va rs;iq ja;rn vd;ts yi;la jt;fv uh;md zj;db ge;mk	16
+肌萎缩性脊髓侧索硬化症	jj;oj wj;cn ss;sb xw;xu jg;ro sv;go ci;rd sl;ux yw;ug hg;rb vf;bv	2
+加利福尼亚理工学院	jd;lk lt;hd fl;pt nb;ub yi;ay lg;wl gk;aa xi;xz yc;ey	3
+加热不燃烧烟草制品	jd;lk ri;fh bh;ab rp;hh uq;hw yn;hy cx;cu vt;nd px;kk	3
+讲奉献越讲境界越高	ju;yj ff;if xa;uq yd;tl ju;yj jw;te jq;tj yd;tl gq;wk	6
+姜太公钓鱼愿者上钩	jy;yn to;dd gk;bs dl;ju ym;da yc;ix vl;lo ud;ba gx;jg	2
+接近事实的那下一行	jk;fn jv;zj ut;gy ub;bd dr;bu ni;ve xx;ab yj;aa hw;rd	1
+届时有何面目去见汉朝二十四代先帝	jq;uy ub;oc yz;uo he;rk ma;ao mh;ke qf;ts ja;ke ha;dy ii;uo eh;aa ub;al st;ke do;ry xr;ne dt;wj	2
+接受贫下中农再教育	jk;fn ur;vy pc;fb xx;ab vk;kl nj;by zo;ar jl;lw yf;wo	4
+经济合作与发展组织	je;sj jt;dq he;rk zp;rv ys;va fl;fy vo;uy zm;sq vj;sv	38
+经济基础和上层建筑	je;sj jt;dq jj;ct im;ui he;hk ud;ba cf;uy ja;zy vh;vf	13
+救人一命胜造七级浮屠	jo;qw rs;pn yj;aa mw;re uf;ou zv;zk qj;av jb;sj fl;dz tl;uo	28
+就做了一点微小的工作	jo;wy zp;rw lr;al yj;aa dp;vh wi;rj xl;lb dr;bu gk;aa zp;rv	6
+巨细胞病毒视网膜炎	jf;kk xt;st bq;ob bw;bn dl;fm ut;pj wp;kx me;od yp;hh	2
+君子不立于危墙之下	jg;yk zg;la bh;ab lt;wb ym;au wi;dv qi;tk vj;dn xx;ab	40
+君子坦荡荡小人长戚戚	jg;yk zg;la to;td dd;cp dd;cp xl;lb rs;pn iw;pn qj;wx qj;wx	1
+克拉克想象力服务社会奖	ki;ux ll;fl ki;ux xu;mx xe;du lt;vp fl;oy wh;wl ui;pt hf;ry ju;ld	2
+克里米亚自治共和国	ki;ux lg;tt mg;bm yi;ay zt;po vt;dk gy;cb he;hk gl;ky	3
+快来与我等决一死战	kf;xg ld;am ys;va wi;ga dy;vc ji;dg yj;aa sg;db va;vg	1
+啦啦啦啦啦啦啦啦啦	ll;kl ll;kl ll;kl ll;kl ll;kl ll;kl ll;kl ll;kl ll;kl	6
+啦啦啦啦啦啦啦啦啦啦	ll;kl ll;kl ll;kl ll;kl ll;kl ll;kl ll;kl ll;kl ll;kl ll;kl	25
+兰州资源环境职业技术大学	lp;bs vx;dl zj;db yo;dx ho;wb jw;te vb;ev yi;la jt;fv uh;md di;ar xi;xz	1
+老一辈无产阶级革命家	lx;lb yj;aa bk;fi wl;ay io;wi jk;ej jb;sj ge;cu mw;re jd;bu	6
+临兵斗者皆阵列前行	lc;lk be;qb dr;ud vl;lo jk;bb vo;ei lq;dd qv;bd xn;rd	2
+临渊羡鱼不如退而结网	lc;lk yd;dl xa;yq ym;da bh;ab rl;nk tf;zg ek;al js;sk wp;kx	10
+留给中国队的时间不多	lm;pt gj;sk vk;kl gl;ky df;er dr;bu ub;oc jr;mo bh;ab ds;xx	1
+留给中国队的时间不多了	lm;pt gj;sk vk;kl gl;ky df;er dr;bu ub;oc jr;mo bh;ab ds;xx lr;al	11
+每个人为不同的理由戴着面具说谎	mj;pm gi;rl rs;pn wr;ld bh;ab tj;kk dr;bu lg;wl ya;ol do;gg vr;yo ma;ao jf;qb us;yx hu;yi	1
+没想到竟说出如此粗鄙之语	mr;du xu;mx dv;gd jw;le us;yx ia;uu rl;nk cg;vb ca;mq bg;ke vj;dn ys;yk	7
+没有钱是万万不能的	mr;du yz;uo qv;jj ut;oz wa;av wa;av bh;ab nf;sb dr;bu	10
+没有人能随随便便成功	mr;du yz;uo rs;pn nf;sb sw;eo sw;eo ba;rg ba;rg if;wv gk;gl	14
+没有知识存在的荒原	mr;du yz;uo vj;uk ub;yv cf;uz zo;ut dr;bu hw;ci yo;ix	2
+民和回族土族自治县	mc;vv he;hk hw;kk zl;fu tm;ua zl;fu zt;po vt;dk xa;qs	3
+明天到操场操到天明	mn;oo tr;ad dv;gd cq;fm ip;tp cq;fm dv;gd tr;ad mn;oo	1
+明知山有虎偏向虎山行	mn;oo vj;uk un;kl yz;uo hm;hj pr;rc xe;pk hm;hj un;kl xn;rd	20
+哪儿凉快哪儿待着去	nm;ke ek;pv li;dx kf;xg nm;ke ek;pv do;rc vr;yo qf;ts	4
+那感觉没有适合词汇	ni;ve go;wx ji;xj mr;du yz;uo ut;zu he;rk cb;yk hf;dk	1
+那感觉没有适合字汇	ni;ve go;wx ji;xj mr;du yz;uo ut;zu he;rk zt;bz hf;dk	1
+那最后一块图终于拼上	ni;ve zf;oy hr;ik yj;aa kf;tg tl;kd vk;sd ym;au ph;fk ud;ba	1
+南村群童欺我老无力	np;ug cg;mc qf;yy tj;ll qj;cq wi;ga lx;lb wl;ay lt;vp	3
+难道这就是失败的滋味吗	np;yv dv;zz vi;zw jo;wy ut;oz uj;pf bo;bw dr;bu zj;dy wk;kw ml;km	1
+能进能退乃真正法器	nf;sb jv;zj nf;sb tf;zg nu;pv ve;ub vf;av fm;dq qt;kk	1
+能吐槽的地方太多了	nf;sb tm;kt ci;mo dr;bu dt;ty fu;wv to;dd ds;xx lr;al	2
+你即将命归九泉之下	ng;rx jb;ge jy;lc mw;re gt;le jz;pv qo;bu vj;dn xx;ab	8
+你妈妈喊你回家吃饭	ng;rx ml;nm ml;nm ho;kk ng;rx hw;kk jd;bu ij;kv fa;uy	5
+你是我唯一想要的了解	ng;rx ut;oz wi;ga wr;kv yj;aa xu;mx yv;xn dr;bu ll;al jc;dn	7
+你说法治我都觉得有些好笑	ng;rx us;yx fm;dq vt;dk wi;ga dx;le ji;xj dr;rc yz;uo xk;ve hx;nz xl;vy	1
+你似乎来到了没有知识存在的荒原	ng;rx st;rr ha;pl ld;am dv;gd lr;al mr;du yz;uo vj;uk ub;yv cf;uz zo;ut dr;bu hw;ci yo;ix	2
+奴颜婢膝之徒纷纷秉政	nl;ny yp;wy bt;nu xj;ou vj;dn tl;rz fe;sf fe;sf bw;qr vf;vw	4
+跑得了和尚跑不了庙	px;zb de;rc ll;al he;hk ud;xk px;zb bh;ab ll;al ml;gy	21
+偏教那女儿情长埋葬	pr;rc jl;lw ni;ve ns;va ek;pv qn;xo iw;pn md;tl zd;cc	12
+贫僧自东土大唐而来	pc;fb sc;ro zt;po dk;ax tm;ua di;ar tw;gk ek;al ld;am	4
+平定准噶尔回部得胜图	pn;au dw;bz vo;dv gu;kr eu;dx hw;kk bh;le de;rc uf;ou tl;kd	4
+破坏计算机信息系统	pg;up hf;tb jt;yu sc;vc jj;mj xv;rk xj;zx xt;px tn;sy	5
+清晨那安安静静的石板路	qe;do is;oi ni;ve an;bn an;bn jw;fy jw;fy dr;bu ub;ak bo;my lh;zk	1
+请为我点盏希望的灯火	qw;yo wk;ld wi;ga dp;vh vo;jm xj;xj wd;ww dr;bu dc;hd hl;br	1
+请问有没有卖半岛铁盒	qw;yo wo;mk yz;uo mr;du yz;uo mo;ud ba;bf dx;nu tc;jf he;rm	2
+全国科学技术名词审定委员会	qo;rw gl;ky kr;hd xi;xz jt;fv uh;md mn;xk cb;yk uo;bu dw;bz wj;hn yo;kb hf;ry	7
+全国优秀儿童文学奖	qo;rw gl;ky yx;ry xo;hn ek;pv tj;ll ws;wx xi;xz ju;ld	3
+全面禁止核试验条约	qo;rw ma;ao jv;mu vg;lb he;mr ut;yg ya;mq tu;wm yu;su	4
+全世界无产者联合起来	qo;rw ut;cv jq;tj wl;ay io;wi vl;lo lv;et he;rk qg;tj ld;am	10
+全自动区分计算机和人类	qo;rw zt;po dy;yl qh;kx fe;bd jt;yu sc;vc jj;mj he;hk rs;pn lk;md	1
+全自动区分计算机和人类的图灵测试	qo;rw zt;po dy;yl qh;kx fe;bd jt;yu sc;vc jj;mj he;hk rs;pn lk;md dr;bu tl;kd ln;eh ci;dd ut;yg	2
+惹不起我还躲不起吗	rl;cx bh;ab qg;tj wi;ga hd;zb dl;um bh;ab qg;tj ml;km	5
+任何超脱飞扬的思想	ro;rw he;rk iq;tk ts;ox fi;vd yw;fp dr;bu sj;tx xu;mx	6
+人生不如意事十之八九	rs;pn uc;pf bh;ab rl;nk yt;lx ut;gy ub;al vj;dn bl;pn jz;pv	13
+人无千日好花无百日红	rs;pn wl;ay qr;pu rt;ka hx;nz hs;cb wl;ay bu;ab rt;ka hj;sg	1
+荣耀的背后刻着一道孤独	rj;cm yv;gv dr;bu bk;bo hr;ik ki;wd vr;yo yj;aa dv;zz ga;zg dl;qi	5
+如果邪恶是华丽残酷的乐章	rl;nk gl;tm xs;ye ei;yx ut;oz ht;ru lt;ad cp;dj kh;yk dr;bu yd;px vu;lu	1
+若能与你共乘海浪之上	rp;ck nf;sb ys;va ng;rx gy;cb if;qr hu;dm ld;dl vj;dn ud;ba	35
+弱水三千只取一瓢饮	rp;gg uv;ln sn;ae qr;pu vj;kb qs;ey yj;aa pu;xg yx;uq	12
+洒向那群被我驯服后的兽	sm;dx xe;pk ni;ve qf;yy bk;pp wi;ga xr;mi fl;oy hr;ik dr;bu ur;bk	1
+塞尔达传说荒野之息	so;bt eu;dx du;zd io;rv us;yx hw;ci yl;ly vj;dn xj;zx	66
+塞尔达传说旷野之息	so;bt eu;dx du;zd io;rv us;yx ke;og yl;ly vj;dn xj;zx	89
+塞尔达传说王国之泪	so;bt eu;dx du;zd io;rv us;yx ww;at gl;ky vj;dn lk;do	2
+三百六十行行行出状元	sn;ae bu;ab lo;wb ub;al hw;rd hw;rd hw;rd ia;uu ve;lq yo;aw	8
+三个臭皮匠顶个诸葛亮	sn;ae gi;rl ir;zq pb;py je;kj dw;dy gi;rl va;yo gl;cr le;wj	11
+三个臭皮匠赛过诸葛亮	sn;ae gi;rl ir;zq pb;py je;kj so;bb gp;zc va;yo gl;cr le;wj	2
+上海美术电影制片厂	ud;ba hu;dm mj;yd uh;md da;ov yw;op vt;nd pa;pv ip;ap	63
+上海文广新闻传媒集团	ud;ba hu;dm ws;wx gu;di xh;lj ws;me io;rv mr;nm jb;rm to;kc	2
+上海自来水来自海上	ud;ba hu;dm zt;po ld;am uv;ln ld;am zt;po hu;dm ud;ba	4
+什么时候就什么时候	us;ru mr;ps ub;oc hr;ru jo;wy us;ru mr;ps ub;oc hr;ru	7
+什么他妈的叫他妈的	us;ru mr;ps tl;ry ml;nm dr;bu jl;kj tl;ry ml;nm dr;bu	8
+什么他妈的叫他妈的惊喜	us;ru mr;ps tl;ry ml;nm dr;bu jl;kj tl;ry ml;nm dr;bu je;xx xg;tk	4
+什么他妈的是他妈的惊喜	us;ru mr;ps tl;ry ml;nm dr;bu ut;oz tl;ry ml;nm dr;bu je;xx xg;tk	5
+师父领进门修行在个人	uj;lj fh;bx lw;ry jv;zj ms;dv xz;rp xn;rd zo;ut gi;rl rs;pn	11
+世界野生生物基金会	ut;cv jq;tj yl;ly uc;pf uc;pf wh;nw jj;ct jh;rb hf;ry	1
+十六字阴阳风水秘术	ub;al lo;wb zt;bz yh;eo yw;eo fc;jx uv;ln mt;hb uh;md	1
+世上无难事只怕有心人	ut;cv ud;ba wl;ay np;yv ut;gy vg;kb pi;xb yz;uo xh;dd rs;pn	19
+书籍是人类进步的阶梯	ua;vd jb;vo ut;oz rs;pn lk;md jv;zj bh;vu dr;bu jk;ej tj;md	20
+死都不知道怎么死的	sg;db dx;le bh;ab vj;uk dv;zz zo;vx mr;ps sg;db dr;bu	33
+似这般都付与断井颓垣	st;rr vi;zw bn;vu dx;le fh;rc ys;va dc;vj jw;ac tw;hy yo;td	11
+苏黎世联邦理工学院	sa;cb lb;hu ut;cv lv;et bu;fe lg;wl gk;aa xi;xz yc;ey	94
+虽然是精神病但没关系	st;ki rp;xh ut;oz je;mo us;pu bw;bn da;rd mr;du gd;bt xt;px	2
+所有命运赠送的礼物	sl;hj yz;uo mw;re yr;zy zf;bo sy;zt dr;bu lg;pv wh;nw	28
+台湾积体电路制造公司	td;sk wn;dg jj;hv tg;rb da;ov lh;zk vt;nd zv;zk gk;bs sj;vk	3
+太阳系舰队联席会议	to;dd yw;eo xt;px ja;vj df;er lv;et xb;gj hf;ry yt;yy	1
+唐山烧烤店打人事件	tw;gk un;kl uq;hw kx;hk da;gv dm;fd rs;pn ut;gy ja;rn	6
+天边有颗模糊的星光偷偷探出了头	tr;ad br;zl yz;uo kr;gy me;md hl;mo dr;bu xe;ou gw;xe tx;rd tx;rd ta;fm ia;uu lr;al ta;dd	1
+天将降大任于是人也	tr;ad je;lc je;ef di;ar ro;rw ym;au ut;oz rs;pn yl;vv	13
+天下没有白吃的午餐	tr;ad xx;ab mr;du yz;uo bd;po ij;kv dr;bu wm;pu cn;dg	16
+天下无难事只怕有心人	tr;ad xx;ab wl;ay np;yv ut;gy vg;kb pi;xb yz;uo xh;dd rs;pn	2
+同一个世界同一个梦想	tj;kk yj;aa gi;rl ut;cv jq;tj tj;kk yj;aa gi;rl mf;mx xu;mx	6
+突然之间都市的霓虹都不再闪烁	ta;bq rp;xh vj;dn jr;mo da;le ut;wj dr;bu nb;ye hj;ig dx;le bh;ab zo;ar uo;mr up;hl	1
+万般皆下品唯有读书高	wa;av bn;vu jk;bb xx;ab px;kk wr;kv yz;uo dl;yd ua;vd gq;wk	4
+晚风晃了煤油灯一阵	wo;oe fc;jx he;og lr;al mr;hm ya;dy dc;hd yj;aa vo;ei	2
+王子犯法与庶民同罪	ww;at zg;la fa;qv fm;dq ys;va uh;gh mc;vv tj;kk zf;sf	3
+围场满族蒙古族自治县	wr;kw ip;tp mo;dl zl;fu my;cu gm;uk zl;fu zt;po vt;dk xa;qs	1
+委内瑞拉马脑炎病毒	wj;hn nk;kr rf;we ll;fl mm;va nx;ox yp;hh bw;bn dl;fm	1
+温布尔登网球公开赛	we;dm bh;uj eu;dx dc;bb wp;kx qm;wq gk;bs kb;ac so;bb	14
+文山壮族苗族自治州	ws;wx un;kl ve;lt zl;fu mu;ct zl;fu zt;po vt;dk vx;dl	2
+我不知道你在说什么	wi;ga bh;ab vj;uk dv;zz ng;rx zo;ut us;yx us;ru mr;ps	13
+我从未见过有如此厚颜无耻之人	wi;ga cj;rr wk;am ja;ke gp;zc yz;uo rl;nk cg;vb hr;iz yp;wy wl;ay ig;ev vj;dn rs;pn	24
+我的大刀已经饥渴难耐	wi;ga dr;bu di;ar dq;vp yg;kv je;sj jj;uj kl;dr np;yv no;ec	2
+我跟你什么仇什么怨	wi;ga ge;zg ng;rx us;ru mr;ps ia;rj us;ru mr;ps yc;xx	2
+我家大师兄脑子有坑	wi;ga jd;bu di;ar uj;lj xp;ke nx;ox zg;la yz;uo kc;tj	5
+我们的征途是星辰大海	wi;ga me;rm dr;bu vc;rv tl;zm ut;oz xe;ou is;iy di;ar hu;dm	58
+我们是大自然的搬运工	wi;ga me;rm ut;oz di;ar zt;po rp;xh dr;bu bn;fu yr;zy gk;aa	3
+我们中出了一个叛徒	wi;ga me;rm vk;kl ia;uu lr;al yj;aa gi;rl pa;by tl;rz	6
+我能吞下玻璃而不伤身体	wi;ga nf;sb tg;tk xx;ab bp;wp lb;wn ek;al bh;ab uu;rl ue;zc tg;rb	3
+我品尝这最后一口甜美的真相	wi;ga px;kk iw;xy vi;zw zf;oy hr;ik yj;aa kz;la tv;ug mj;yd dr;bu ve;ub xe;mo	1
+我有快乐和智慧的桨	wi;ga yz;uo kf;xg li;px he;hk vt;uo hf;fx dr;bu ju;lm	3
+吾乃江东小霸王孙伯符	wl;wk nu;pv jy;dg dk;ax xl;lb bi;yo ww;at sg;zx be;rb fl;vc	4
+物质文明和精神文明	wh;nw vt;ib ws;wx mn;oo he;hk je;mo us;pu ws;wx mn;oo	9
+西双版纳傣族自治州	xj;ak uw;yy bo;py ni;sn du;ru zl;fu zt;po vt;dk vx;dl	1
+先帝创业未半而中道崩殂	xr;ne dt;wj ie;rd yi;la wk;am ba;bf ek;al vk;kl dv;zz bc;uo cl;dq	15
+现实的引力太沉重了	xa;wj ub;bd dr;bu yx;gl lt;vp to;dd is;dj vy;ql lr;al	5
+香港特别行政区区旗	xy;ho gp;ds ti;nc bs;kd xn;rd vf;vw qh;kx qh;kx qb;fb	2
+笑果文化传媒有限公司	xl;vy gl;tm ws;wx hg;rb io;rv mr;nm yz;uo xa;eg gk;bs sj;vk	4
+邪恶在维多利亚的月光下	xs;ye ei;yx zo;ut wr;sv ds;xx lt;hd yi;ay dr;bu yd;ke gw;xe xx;ab	1
+新型冠状病毒感染的肺炎疫情	xh;lj xn;kt gd;bc ve;lq bw;bn dl;fm go;wx ro;dm dr;bu fk;oj yp;hh yt;bu qn;xo	24
+星星在文明的天空里	xe;ou xe;ou zo;ut ws;wx mn;oo dr;bu tr;ad kk;bg lg;tt	1
+修订草案征求意见稿	xz;rp dw;yd cx;cu aa;bm vc;rv qm;au yt;lx ja;ke gx;hk	7
+哑巴吃黄连有苦说不出	ym;ky bl;sl ij;kv hb;cb lv;zi yz;uo km;cg us;yx bh;ab ia;uu	11
+亚洲基础设施投资银行	yi;ay vx;dv jj;ct im;ui ui;yu uj;fy ta;fu zj;db yc;jg hw;rd	39
+也不因碌碌无为而羞愧	yl;vv bh;ab yh;kd lh;uu lh;uu wl;ay wr;ld ek;al xz;yi kf;xg	2
+耶稣基督后期圣徒教会	yr;ee sa;yh jj;ct da;uo hr;ik qj;co uf;yt tl;rz jl;lw hf;ry	5
+液体燃料火箭发动机	yi;dw tg;rb rp;hh ll;md hl;br ja;vd fl;fy dy;yl jj;mj	8
+一点自知之明都没有	yj;aa dp;vh zt;po vj;uk vj;dn mn;oo dx;le mr;du yz;uo	1
+一二三四五六七八九	yj;aa eh;aa sn;ae st;ke wm;aw lo;wb qj;av bl;pn jz;pv	5
+一二三四五六七八九十	yj;aa eh;aa sn;ae st;ke wm;aw lo;wb qj;av bl;pn jz;pv ub;al	17
+一个跟斗十万八千里	yj;aa gi;rl ge;zg dz;ud ub;al wa;av bl;pn qr;pu lg;tt	1
+一晃这么多年过去了	yj;aa hu;og vi;zw mr;ps ds;xx nv;pf gp;zc qf;ts lr;al	6
+一颗冉冉升起的新星	yj;aa kr;gy ro;kt ro;kt uc;pc qg;tj dr;bu xh;lj xe;ou	21
+一年一度喜剧大赛第二季	yj;aa nv;pf yj;aa dh;gy xg;tk jf;ud di;ar so;bb dt;vd eh;aa jt;hz	2
+一切都为了通往圣堂的路	yj;aa qq;qd dx;le wk;ld lr;al tk;zy wp;rv uf;yt tw;xt dr;bu lh;zk	1
+一切以新华社通稿为准	yj;aa qq;qd yg;lr xh;lj ht;ru ui;pt tk;zy gx;hk wr;ld vo;dv	1
+以至狼心狗肺之辈汹汹当朝	yg;lr vt;gt lw;ql xh;dd gz;qj fk;oj vj;dn bk;fi xp;dx xp;dx du;xe ii;uo	2
+有趣的灵魂万里挑一	yz;uo qf;ty dr;bu ln;eh hf;yg wa;av lg;tt tm;fv yj;aa	47
+有什么可以帮助你的	yz;uo us;ru mr;ps kl;dk yg;lr bu;fj vh;ql ng;rx dr;bu	2
+欲善其事必先利其器	yf;gq ua;yk qb;cb ut;gy bt;xp xr;ne lt;hd qb;cb qt;kk	4
+远方的星星请为我点盏希望的灯火	ys;zy fu;wv dr;bu xe;ou xe;ou qw;yo wk;ld wi;ga dp;vh vo;jm xj;xj wd;ww dr;bu dc;hd hl;br	1
+元始无量度人上品妙经	yo;aw ug;nk wl;ay le;ol dh;gy rs;pn ud;ba px;kk ml;nu je;sj	1
+在错误的道路上越走越远	zo;ut cp;jo wh;yt dr;bu dv;zz lh;zk ud;ba yd;tl zz;tz yd;tl ys;zy	33
+在现实中迷失才发现自己的脆弱	zo;ut xa;wj ub;bd vk;kl mb;zm uj;pf cd;up fl;fy xa;wj zt;po jg;kv dr;bu cf;ov rp;gg	1
+早已在暗中标好了价格	zx;ou yg;kv zo;ut aa;oo vy;kl bm;mu hx;nz lr;al jx;rj ge;mk	46
+怎敢在我军面前妄称天数	zo;vx go;ew zo;ut wi;ga jg;bi ma;ao qv;bd wd;wn ic;hx tr;ad uh;mw	8
+长他人志气灭自己威风	vp;pn tl;ry rs;pn vt;tx qt;pv mq;ah zt;po jg;kv wi;wn fc;jx	4
+这都是计划的一部分	vi;zw dx;le ut;oz jt;yu hg;gd dr;bu yj;aa bh;le fo;bd	1
+这是个伤脑筋的问题	vi;zw ut;oz gi;rl uu;rl nx;ox jh;vl dr;bu wo;mk tb;oy	1
+这是碰都不能碰的话题	vi;zw ut;oz pf;uy dx;le bh;ab nf;sb pf;uy dr;bu hg;yu tb;oy	1
+这些都赏给妾身好不好嘛	vi;zw xk;ve dx;le up;xb gj;sk qq;ln ue;zc hx;nz bh;ab hx;nz ml;km	1
+这也是无可奈何的事	vi;zw yl;vv ut;oz wl;ay kl;dk no;du he;rk dr;bu ut;gy	2
+正电子发射计算机断层	vf;av da;ov zg;la fl;fy ui;uc jt;yu sc;vc jj;mj dc;vj cf;uy	10
+正确处理人民内部矛盾	vf;av qd;uy im;wb lg;wl rs;pn mc;vv nk;kr bh;le mi;yp dr;io	11
+知道这意味着什么吗	vj;uk dv;zz vi;zw yt;lx wk;kw vr;yo us;ru mr;ps ml;km	22
+致那黑夜中的呜咽与怒吼	vt;gw ni;ve hi;lh yi;ww vk;kl dr;bu wa;kw yi;ky ys;va nh;nx hz;kv	3
+知其然而不知其所以然	vj;uk qb;cb rp;xh ek;al bh;ab vj;uk qb;cb sl;hj yg;lr rp;xh	42
+致我们终将逝去的青春	vt;gw wi;ga me;rm vk;sd jy;lc ut;zj qf;ts dr;bu qe;fo ig;io	66
+只要功夫深铁杵磨成针	vg;kb yv;xn gk;gl fa;er ue;dm tc;jf im;mw me;gu if;wv ve;ju	2
+只要能达成这个目标	vg;kb yv;xn nf;sb du;zd if;wv vi;zw gi;rl mh;ke bm;mu	1
+中国船舶重工集团公司	vk;kl gl;ky io;vk be;vb vy;ql gk;aa jb;rm to;kc gk;bs sj;vk	8
+中国大百科全书出版社	vk;kl gl;ky di;ar bu;ab kr;hd qo;rw ua;vd ia;uu bo;py ui;pt	17
+中国共产主义青年团	vk;kl gl;ky gy;cb io;wi vm;wt yt;dx qe;fo nv;pf to;kc	5
+中国海洋石油总公司	vk;kl gl;ky hu;dm yw;dy ub;ak ya;dy zn;bx gk;bs sj;vk	3
+中国人民解放军海军	vk;kl gl;ky rs;pn mc;vv jc;dn fd;fw jg;bi hu;dm jg;bi	15
+中国人民解放军空军	vk;kl gl;ky rs;pn mc;vv jc;dn fd;fw jg;bi kk;bg jg;bi	13
+中国人民武装警察部队	vk;kl gl;ky rs;pn mc;vv wm;yv vw;ly jw;ck iu;bu bh;le df;er	16
+中国特色社会主义道路	vk;kl gl;ky ti;nc si;db ui;pt hf;ry vm;wt yt;dx dv;zz lh;zk	14
+中日韩统一表意文字	vk;kl rt;ka hp;uw tn;sy yj;aa bl;fy yt;lx ws;wx zt;bz	5
+铸星龙王奥瑞利安索尔	vh;jc xe;ou lj;yp ww;at av;pd rf;we lt;hd an;bn sl;ux eu;dx	2
+走过西厢扑鼻一阵香	zz;tz gp;zc xj;ak xy;io pa;fb bb;zw yj;aa vo;ei xy;ho	1
+阻挡悲剧蔓延的悲剧会让我沉醉	zm;eq dp;fe bi;fx jf;ud ma;cy yp;zv dr;bu bi;fx jf;ud hf;ry rd;yu wi;ga is;dj zf;yu	1
+一个馒头引发的血案	yj;aa gi;rl mp;uy ta;dd yx;gl fl;fy dr;bu xc;pm aa;bm	100
+下肢深静脉血栓形成	xx;ab vj;ov ue;dm jw;fy mo;oy xc;pm ud;mw xn;kp if;wv	100
+众人划桨哟开动大帆船	vy;rr rs;pn ht;gd ju;lm yp;ku kb;ac dy;yl di;ar fn;jf io;vk	100
+先天性再生障碍性贫血	xr;ne tr;ad xw;xu zo;ar uc;pf vd;eu ao;uc xw;xu pc;fb xc;pm	100
+免疫性血小板减少性紫癜	mp;de yt;bu xw;xu xc;pm xl;lb bo;my jp;dk ux;xp xw;xu zg;vx da;bu	100
+冻干人凝血酶原复合物	dy;dd gn;au rs;pn nn;dz xc;pm mr;ym yo;ix fh;pw he;rk wh;nw	100
+利特尔伍德奇迹定律	lt;hd ti;nc eu;dx wm;rw de;rx qb;dk jt;zb dw;bz lf;ry	100
+单纯红细胞再生障碍性贫血	dn;bu if;st hj;sg xt;st bq;ob zo;ar uc;pf vd;eu ao;uc xw;xu pc;fb xc;pm	100
+原发性血小板减少性紫癜	yo;ix fl;fy xw;xu xc;pm xl;lb bo;my jp;dk ux;xp xw;xu zg;vx da;bu	100
+原发性血小板减少症	yo;ix fl;fy xw;xu xc;pm xl;lb bo;my jp;dk ux;xp vf;bv	100
+原发性血小板增多症	yo;ix fl;fy xw;xu xc;pm xl;lb bo;my zc;to ds;xx vf;bv	100
+复方利血平氨苯蝶啶	fh;pw fu;wv lt;hd xc;pm pn;au an;qn bo;cb ds;im dw;kz	100
+复方利血平氨苯蝶啶片	fh;pw fu;wv lt;hd xc;pm pn;au an;qn bo;cb ds;im dw;kz pa;pv	100
+家族性高胆固醇血症	jd;bu zl;fu xw;xu gq;wk do;od gh;kg if;yz xc;pm vf;bv	100
+小牛血去蛋白提取物	xl;lb nm;pu xc;pm qf;ts da;zi bd;po tb;fz qs;ey wh;nw	100
+小牛血清去蛋白注射液	xl;lb nm;pu xc;pm qe;do qf;ts da;zi bd;po vh;dv ui;uc yi;dw	100
+岁在甲子天下大吉啊	sf;ux zo;ut jn;ol zg;la tr;ad xx;ab di;ar jb;tk al;kk	100
+当你孤单你会想起谁	du;xe ng;rx ga;zg dn;bu ng;rx hf;ry xu;mx qg;tj ur;yv	100
+急性出血性坏死性肠炎	jb;dx xw;xu ia;uu xc;pm xw;xu hf;tb sg;db xw;xu iw;op yp;hh	100
+急性单核细胞性白血病	jb;dx xw;xu dn;bu he;mr xt;st bq;ob xw;xu bd;po xc;pm bw;bn	100
+急性早幼粒细胞白血病	jb;dx xw;xu zx;ou yr;yl lt;ml xt;st bq;ob bd;po xc;pm bw;bn	100
+急性淋巴细胞性白血病	jb;dx xw;xu lc;dm bl;sl xt;st bq;ob xw;xu bd;po xc;pm bw;bn	100
+急性淋巴细胞白血病	jb;dx xw;xu lc;dm bl;sl xt;st bq;ob bd;po xc;pm bw;bn	100
+急性粒细胞性白血病	jb;dx xw;xu lt;ml xt;st bq;ob xw;xu bd;po xc;pm bw;bn	100
+慢性再生障碍性贫血	ma;xy xw;xu zo;ar uc;pf vd;eu ao;uc xw;xu pc;fb xc;pm	100
+慢性淋巴细胞白血病	ma;xy xw;xu lc;dm bl;sl xt;st bq;ob bd;po xc;pm bw;bn	100
+新生儿缺血缺氧性脑病	xh;lj uc;pf ek;pv qu;fg xc;pm qu;fg yp;qy xw;xu nx;ox bw;bn	100
+新生儿血小板减少性紫癜	xh;lj uc;pf ek;pv xc;pm xl;lb bo;my jp;dk ux;xp xw;xu zg;vx da;bu	100
+标了兵了怕了碰了炮了兵了炮	bm;mu lr;al be;qb lr;al pi;xb lr;al pf;uy lr;al pv;hb lr;al be;qb lr;al pv;hb	100
+根本不是你想的那样	ge;mg bo;ma bh;ab ut;oz ng;rx xu;mx dr;bu ni;ve yd;my	100
+海绵窦血栓性静脉炎	hu;dm mv;sj dr;bd xc;pm ud;mw xw;xu jw;fy mo;oy yp;hh	100
+深圳经济特区公民无偿献血及血液管理条例	ue;dm vo;ti je;sj jt;dq ti;nc qh;kx gk;bs mc;vv wl;ay iw;ry xa;uq xc;pm jb;pn xc;pm yi;dw gs;vl lg;wl tu;wm lt;rd	100
+炮了兵了并了排了北了边了跑	pv;hb lr;al be;qb lr;al bw;bk lr;al pd;ff lr;al bj;lb lr;al br;zl lr;al px;zb	100
+炮了兵了怕了把了标了兵了碰	pv;hb lr;al be;qb lr;al pi;xb lr;al bm;fb lr;al bm;mu lr;al be;qb lr;al pf;uy	100
+特发性血小板减少性紫癜	ti;nc fl;fy xw;xu xc;pm xl;lb bo;my jp;dk ux;xp xw;xu zg;vx da;bu	100
+百里森林哟并肩耐岁寒耐岁寒	bu;ab lg;tt se;mm lc;mm yp;ku bw;bk jr;ho no;ec sf;ux hp;bd no;ec sf;ux hp;bd	100
+简易凝血活酶生成试验	jp;vo yt;ow nn;dz xc;pm hl;du mr;ym uc;pf if;wv ut;yg ya;mq	100
+继发性血小板增多症	jt;sm fl;fy xw;xu xc;pm xl;lb bo;my zc;to ds;xx vf;bv	100
+股权摊薄反收购措施	gm;ou qo;my tn;fv bi;cc fo;iy ux;jw gr;bg cp;fo uj;fy	100
+自身免疫性溶血性贫血	zt;po ue;zc mp;de yt;bu xw;xu rj;dg xc;pm xw;xu pc;fb xc;pm	100
+良田万顷不如薄艺随身	li;dg tv;ku wa;av qw;by bh;ab rl;nk bi;cc yt;cv sw;eo ue;zc	100
+莫比微星鼓藻爪哇变种	mg;cd bg;bb wi;rj xe;ou gm;tv zx;cm vx;in wl;kt ba;wy vn;hv	100
+葡萄白兰瓜配薄荷汁沙拉	pl;cf ti;cf bd;po lp;bs gs;in pk;yj bi;cc he;ck vj;du ul;du ll;fl	100
+血栓性血小板减少性紫癜	xc;pm ud;mw xw;xu xc;pm xl;lb bo;my jp;dk ux;xp xw;xu zg;vx da;bu	100
+血站实验室质量管理规范	xc;pm va;lv ub;bd ya;mq ut;bt vt;ib le;ol gs;vl lg;wl gt;fj fa;cv	100
+血铅临床检验技术规范	xc;pm qr;jk lc;lk ib;gm jp;mq ya;mq jt;fv uh;md gt;fj fa;cv	100
+谁有胆设想这世间下场	ur;yv yz;uo do;od ui;yu xu;mx vi;zw ut;cv jr;mo xx;ab ip;tp	100
+谁来和我大战三百回合	ur;yv ld;am he;hk wi;ga di;ar va;vg sn;ae bu;ab hw;kk he;rk	100
+谁来斗胆讲仙丹会断肠	ur;yv ld;am dz;ud do;od ju;yj xr;ru dn;kd hf;ry dc;vj iw;op	100
+谁真的可以不被弄脏	ur;yv ve;ub dr;bu kl;dk yg;lr bh;ab bk;pp ny;wc zu;ot	100
+谁说对弈平凡的不算英雄	ur;yv us;yx df;yc yt;wc pn;au fp;jd dr;bu bh;ab sc;vc ye;cy xk;uv	100
+谁说污泥满身的不算英雄	ur;yv us;yx wa;dk nb;db mo;dl ue;zc dr;bu bh;ab sc;vc ye;cy xk;uv	100
+谁说站在光里的才算英雄	ur;yv us;yx va;lv zo;ut gw;xe lg;tt dr;bu cd;up sc;vc ye;cy xk;uv	100
+资本主义与经济游戏	zj;db bo;ma vm;wt yt;dx ys;va je;sj jt;dq ya;dz xt;yg	100
+资本主义与经济游戏节	zj;db bo;ma vm;wt yt;dx ys;va je;sj jt;dq ya;dz xt;yg js;ce	100
+阿拉帕哈蓝血斗牛犬	al;ek ll;fl pi;jb hl;kk lp;cm xc;pm dr;ud nm;pu qs;dd	100
+非夫人之为恸而谁为	fi;ls fa;er rs;pn vj;dn wr;ld ty;xl ek;al ur;yv wk;ld	100

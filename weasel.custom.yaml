@@ -1,0 +1,11 @@
+customization:
+  distribution_code_name: Weasel
+  distribution_version: 0.16.1
+  generator: "Weasel::UIStyleSettings"
+  modified_time: "Thu Oct 24 16:44:59 2024"
+  rime_version: 1.11.2
+patch:
+  "style/color_scheme": win11_dark
+  "style/font_face": KaiTi
+  "style/font_point": 18
+  "style/horizontal": false
