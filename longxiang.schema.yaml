@@ -1,7 +1,6 @@
 # Rime schema
 # encoding: utf-8
 
-# 方案说明
 schema:
   schema_id: longxiang
   name: 龙象
@@ -9,9 +8,9 @@ schema:
   author:
     - 玄天之龙
   description:
-    基于魔龙词库,魔改了万象的方案引擎,并重新开启了ac造词功能
+    - 基于魔龙词库,魔改了万象的方案引擎,并重新开启了ac造词功能
   dependencies:
-    tiger
+    - tiger
 
 # 开关
 # reset: 默认状态。注释掉后，切换窗口时不会重置到默认状态。
