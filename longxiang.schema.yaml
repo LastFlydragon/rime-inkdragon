@@ -1,14 +1,11 @@
-# Rime schema
-# encoding: utf-8
-
 schema:
   schema_id: longxiang
   name: 龙象
   version: "2024-10-08"
   author:
     - 玄天之龙
-  description:
-    - 基于魔龙词库,魔改了万象的方案引擎,并重新开启了ac造词功能
+  description: |
+    基于魔龙词库,魔改了万象的方案引擎,并重新开启了ac造词功能
   dependencies:
     - tiger
 
