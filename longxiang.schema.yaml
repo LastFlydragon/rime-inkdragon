@@ -89,7 +89,7 @@ engine:
     - simplifier@moqi_chaifen                      #墨奇拆分型辅助码查询
     - simplifier@pinyinhint                         #注释里显示汉字读音，多音字支持
     - lua_filter@*search@radical_pinyin             # 部件拆字辅码放在简繁转换之后
-    - lua_filter@*is_in_user_dict                  # 根据是否在用户词典，在结尾加上一个星号 *
+#    - lua_filter@*is_in_user_dict                  # 根据是否在用户词典，在结尾加上一个星号 *
 #    - lua_filter@*cn_en_spacer                     #启用时中英混输为中英混输词条（cn_en.dict.yaml）自动增加空格，示例：`VIP中P` → `VIP 中 P`              
 #    - lua_filter@*en_spacer                        #启用时中文状态下输入英文单词后面自动追加空格
     - uniquifier                                    # 去重
@@ -136,25 +136,25 @@ translator:
   db_class: tabledb
   prism: longxiang          # 多方案共用一个词库时，为避免冲突，需要用 prism 指定一个名字。
   contextual_suggestions: true   #上下文建议开启〔需配合 grammar 使用〕
-  max_homophones: 4 # 最大同音簇长度〔需配合 grammar 使用〕
-  max_homographs: 2 # 最大同形簇长度〔需配合 grammar 使用〕
+  max_homophones: 7 # 最大同音簇长度〔需配合 grammar 使用〕
+  max_homographs: 7 # 最大同形簇长度〔需配合 grammar 使用〕
   dynamic_model: true  # 启用动态语言模型
   segment_length: 4  # 设置分词长度
   prioritize_quality: true  # 启用优先质量选项
   max_phrase_length: 7  # 设置短语的最大长度，如果主要输入单词或短短的短语，可以设置为4。句子更长一些
   enable_completion: true  # 启用候选词补全
-  max_candidates: 10  # 设置最大候选词数量
+  max_candidates: 6  # 设置最大候选词数量
 #  punctuation_model: default  # 设置标点符号模型
 #  single_char_first: true  # 优先显示单个字符
 #  candidate_filter: "^(?!abc).*$"  # 过滤掉包含 "abc" 的候选词
+  enable_user_dict: false # 是否开启自动调频
   user_dict: longxiang.userdb  # 用户词典的文件名称
   db_class: tabledb  #开启后就不会产生zrm.userdb这样的文件夹，会直接输出文本.txt同时无法使用同步能力
-  enable_user_dict: false # 是否开启自动调频
   enable_correction: false #是否开启自动纠错
-  encode_commit_history: true   # 预留历史上屏自动编码成词
+  encode_commit_history: false   # 预留历史上屏自动编码成词
   initial_quality: 3       # 初始质量拼音的权重应该比英文大
 #  secondary_quality: 0.8  # 设置次要质量
-  spelling_hints: 10
+  spelling_hints: 100
   always_show_comments: true
   preedit_format:        # preedit_format 影响到输入框的显示和“Shift+回车”上屏的字符
     - xform/([a-z][a-z][a-z][a-z])o/$1°/
@@ -162,7 +162,6 @@ translator:
 user_dict_set:
   dictionary: longxiang
   db_class: tabledb
-  prism: longxiang
   initial_quality: 0
   enable_completion: false
   enable_sentence: false
@@ -179,16 +178,15 @@ user_dict_set:
 add_user_dict:
   tag: add_user_dict
   dictionary: longxiang
-  prism: longxiang
   initial_quality: -1
   user_dict: longxiang.userdb
 # ↓ 用户词典格式，tabledb（文本） 或 userdb （二进制）。
   db_class: tabledb
+  enable_user_dict: true # 是否开启用户词典
   enable_charset_filter: false # 是否开启字符集过滤
   enable_completion: true # 提前显示尚未输入完整码的字〔仅 table_translator 有效〕
   enable_encoder: true # 是否开启自动造词〔仅 table_translator 有效〕
-  enable_sentence: true #  是否开启自动造句
-  enable_user_dict: true # 是否开启用户词典
+  enable_sentence: false #  是否开启自动造句
   encode_commit_history: false # 是否对已上屛词自动成词〔仅 table_translator 有效〕
   preedit_format:
   comment_format:
@@ -327,16 +325,20 @@ speller:
   algebra:
     - derive|^(.+);(\w)(\w)$|$1$2$3o| # 全碼 YYXXo
     - derive|^(.+);(\w)(\w)$|$1$2$3/| # 全碼 YYXX/
-    - abbrev/^(.+);(\w)(\w)$/$1$2$3/  # 降低 YYXX 優先級
+#    - abbrev/^(.+);(\w)(\w)$/$1$2$3/  # 降低 YYXX 優先級
     - derive/^(.+);(\w)(\w)$/$1$2/    # 構詞可以用 YYX
     - derive/^(.+);(\w)(\w)$/$1/      # 構詞可以用 YY
 #    - erase/^(.+);(.+)$/              # 刪除原始編碼以加速檢索
 
 grammar:
-  language: zh-hans-t-essay-bgw   
-  collocation_max_length: 4
-  collocation_min_length: 3
-  non_collocation_penalty: -24
-  collocation_penalty: -6
-  weak_collocation_penalty: -12
-  rear_penalty: -18
+#  language: zh-hans-t-essay-bgw   
+#  collocation_max_length: 4
+#  collocation_min_length: 3
+#  language: amz-v1-5-zh-hans
+  language: amz-v2n3m1-zh-hans
+  collocation_max_length: 5
+  collocation_min_length: 2
+#  non_collocation_penalty: -24
+#  collocation_penalty: -6
+#  weak_collocation_penalty: -12
+#  rear_penalty: -18
