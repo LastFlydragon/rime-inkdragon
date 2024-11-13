@@ -4,7 +4,7 @@
 # 方案说明
 schema:
   schema_id: longxiang
-  name: 龙象
+  name: 龙 象
   version: "2024-10-08"
   author:
     - 玄天之龙
@@ -141,7 +141,7 @@ translator:
   dynamic_model: true  # 启用动态语言模型
   segment_length: 4  # 设置分词长度
   prioritize_quality: true  # 启用优先质量选项
-  max_phrase_length: 7  # 设置短语的最大长度，如果主要输入单词或短短的短语，可以设置为4。句子更长一些
+  max_phrase_length: 8  # 设置短语的最大长度，如果主要输入单词或短短的短语，可以设置为4。句子更长一些
   enable_completion: true  # 启用候选词补全
   max_candidates: 6  # 设置最大候选词数量
 #  punctuation_model: default  # 设置标点符号模型
@@ -154,7 +154,7 @@ translator:
   encode_commit_history: false   # 预留历史上屏自动编码成词
   initial_quality: 3       # 初始质量拼音的权重应该比英文大
 #  secondary_quality: 0.8  # 设置次要质量
-  spelling_hints: 100
+  spelling_hints: 3
   always_show_comments: true
   preedit_format:        # preedit_format 影响到输入框的显示和“Shift+回车”上屏的字符
     - xform/([a-z][a-z][a-z][a-z])o/$1°/

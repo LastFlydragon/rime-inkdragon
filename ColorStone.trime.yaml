@@ -596,15 +596,15 @@ preset_keyboards:
       - {click: b, swipe_down: redo, long_click: redo, hint: '再', swipe_up: RepeatCommit, key_back_color: BBB}
       - {click: n, swipe_down: "/", long_click: "/", hint: ':', swipe_up: ":", key_back_color: NNN}
       - {click: m, swipe_down: '\', long_click: '\', hint: '_', swipe_up: "_", key_back_color: MMM}
-      - {click: BackSpace, key_text_size: 15, swipe_up: DelH, swipe_down: select_H, key_back_color: RRR, key_text_color: hct, width: 15}
+      - {click: BackSpace, key_text_size: 12, swipe_up: DelH, swipe_down: select_H, key_back_color: RRR, key_text_color: hct, width: 15}
       # ❹
       - {height: *VJM, click: "q_sz", key_text_size: 14, has_menu: Page_Down, long_click: q_xd, swipe_down: q_xd, swipe_up: Candidate_switch, hint: '藏', key_back_color: YYY, key_text_color: hct, key_symbol_color: szs, width: 16}
       - { click: "@", label: "@", key_text_size: 14, composing: Left, swipe_up: Left1, long_click: Left1, swipe_down: Left1, key_back_color: ybd, key_text_color: hct, key_symbol_color: bds, width: 9}
       - { click: ".", label: "•", key_text_size: 24, composing: Right, swipe_up: Right1, long_click: Right1, swipe_down: Right1, key_back_color: hcb, key_text_color: hct, key_symbol_color: bds, width: 9}
-      - {click: space3, ascii: space1, paging: Page_Up, swipe_up: Mode_switch, swipe_down: Hide, key_text_size: 11, long_click: Mode_switch, swipe_left: Left, swipe_right: Right, key_back_color: hsb, key_text_color: hct, width: 32}
+      - {click: space3, ascii: space1, paging: Page_Up, swipe_up: Mode_switch, swipe_down: Hide, key_text_size: 16, long_click: Mode_switch, swipe_left: Left, swipe_right: Right, key_back_color: hsb, key_text_color: hct, width: 32}
       - {click: DZHC, label: ",", key_text_size: 24, swipe_up: "'", long_click: "'", swipe_down: "'", key_back_color: hcb, key_text_color: hct, key_symbol_color: bds, width: 9}
       - {click: ";", label: ";", key_text_size: 18, swipe_up: '"', long_click: '"', swipe_down: '"', key_back_color: ybd, key_text_color: hct, key_symbol_color: bds, width: 9}
-      - {click: Return, key_text_size: 14, long_click: Color_settings1, swipe_up: Theme_settings, key_back_color: *橙, key_text_color: hct, key_symbol_color: hct, width: 16}
+      - {click: Return, key_text_size: 16, long_click: Color_settings1, swipe_up: Theme_settings, hint: 题, key_back_color: *橙, key_text_color: hct, key_symbol_color: hct, width: 16}
       # 增高行
       - {height: *ZGH, width: 100}
       # 仿 凉秋主题↓️ 删除注释 ，️↑加注释
@@ -2330,7 +2330,7 @@ preset_keys:
   Full_Half: {toggle: full_shape, send: Mode_switch, states: [ ◖, ● ]}
   Full_Half1: {toggle: full_shape, functional: false, text: "{Full_Half}{K_back}", send: Mode_switch, states: [ ◐, ● ]}
   Color_settings: {label: ◀▷, functional: false, send: SETTINGS, option: "color"} #配色
-  Color_settings1: {label: 配色, send: SETTINGS, option: "color"} #配色
+  Color_settings1: {label: 色, send: SETTINGS, option: "color"} #配色
   K_mr: {label: Ⓜ, functional: false, send: Eisu_toggle, select: .default}
   q_vuji: {label: Ⓙ, functional: false, send: Eisu_toggle, select: "qtVJ"} 
   Candidate_switch: {toggle: _hide_candidate, functional: false, send: Mode_switch, states: [ ☐️️, ️＿ ]}
@@ -2400,17 +2400,17 @@ preset_keys:
   # 编辑
   Shift_R: {label: Enter, send: Shift_R}
   Caps_Lock: {label: Caps, send: Caps_Lock}
-  Shift_L: {functional: true, label: Shift, send: Shift_L, shift_lock: ascii_long}  # 中文状态一次锁定，英文状态长按锁定
+  Shift_L: {functional: true, label: △△△, send: Shift_L, shift_lock: ascii_long}  # 中文状态一次锁定，英文状态长按锁定
   Shift_L1: {functional: true, label: Shift, send: Shift_L, shift_lock: long}  # 中文状态长按锁定
   Shift1: {functional: false, label: ☩, preview: ☩, send: Shift_L, shift_lock: click}  # 英文状态一次锁定
-  Return: {label: Enter, preview: ↩, send: Return}
+  Return: {label: ▼▼▼, preview: ↩, send: Return}
   Return1: {label: Enter, repeatable: true, preview: ↩, send: Return}
   Hide: {label: ... , send: BACK}
-  BackSpace: {label: "<<<", preview: ⌫, repeatable: true, send: BackSpace}
+  BackSpace: {label: "◁◁◁", preview: ⌫, repeatable: true, send: BackSpace}
   space: {repeatable: false, preview: ␣, functional: false, send: space} #空格
-  space1: {repeatable: true, preview: ␣, label: ️️◉️ ️英文, functional: true, send: space}
+  space1: {repeatable: true, preview: ␣, label: '英文', functional: true, send: space}
   space2: {repeatable: true, preview: ␣, label: ␣, functional: true, send: space}
-  space3: {repeatable: true, preview: ␣, label: "◉️ 双拼", functional: false, send: space}
+  space3: {repeatable: true, preview: '{schema}', label: "", functional: false, send: space}
   Clear: {label: 全清, send: Clear}
   Escape: {label: Esc, functional: false, send: Escape}
   Insert: {label: Ins, send: Insert}
