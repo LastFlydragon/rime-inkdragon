@@ -1,14 +1,13 @@
 # encoding: utf-8
 ---
 recipe:
-  Rx: rime-moran
+  Rx: rime-inkdragon
   description: >-
     傳承字優先的自然碼方案。
 
 install_files: >-
-  moran*.yaml
+  longxiang*.yaml
   lua/*
   tiger*.yaml
-  zrlf*
-  radical*
   opencc/*
+  cn_dicts/*

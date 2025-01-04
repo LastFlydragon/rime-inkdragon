@@ -1,11 +1,10 @@
 # Rime schema
 # encoding: utf-8
-
 # 方案说明
 schema:
   schema_id: longxiang
   name: 龙 象
-  version: "2024-10-08"
+  version: "2025-01-03"
   author:
     - 玄天之龙
   description:
@@ -45,9 +44,9 @@ switches:
 engine:
   processors:
 #    - lua_processor@select_character          # 以词定字，有了辅助码了，想开启可以注释掉
-    - lua_processor@*cold_word_drop.processor
+#    - lua_processor@*cold_word_drop.processor
     - lua_processor@*quick_symbol_text    #快符引导以及重复上屏
-    - lua_processor@*userdb_sync_delete   #通过输入 /del 触发,用于清理自定义同步目录下txt用户词典里被标记c<0的词条
+#    - lua_processor@*userdb_sync_delete   #通过输入 /del 触发,用于清理自定义同步目录下txt用户词典里被标记c<0的词条
     - ascii_composer
     - recognizer
     - key_binder
@@ -79,7 +78,7 @@ engine:
     - table_translator@chengyu            # 简码成语
     - lua_translator@*force_gc          # 暴力 GC 降低内存
   filters:
-    - lua_filter@*cold_word_drop.filter
+#    - lua_filter@*cold_word_drop.filter
     - lua_filter@*long_word_filter                  #长词优先      
     - lua_filter@*autocap_filter                    # 英文自动大写
     - lua_filter@*pin_cand_filter                   # 置顶候选项（顺序要求：置顶候选项 > Emoji > 简繁切换）
@@ -88,7 +87,7 @@ engine:
     - simplifier@mars                               #火星文
     - simplifier@moqi_chaifen                      #墨奇拆分型辅助码查询
     - simplifier@pinyinhint                         #注释里显示汉字读音，多音字支持
-    - lua_filter@*search@radical_pinyin             # 部件拆字辅码放在简繁转换之后
+#    - lua_filter@*search@radical_pinyin             # 部件拆字辅码放在简繁转换之后
 #    - lua_filter@*is_in_user_dict                  # 根据是否在用户词典，在结尾加上一个星号 *
 #    - lua_filter@*cn_en_spacer                     #启用时中英混输为中英混输词条（cn_en.dict.yaml）自动增加空格，示例：`VIP中P` → `VIP 中 P`              
 #    - lua_filter@*en_spacer                        #启用时中文状态下输入英文单词后面自动追加空格
@@ -135,15 +134,15 @@ translator:
   dictionary: longxiang          # 挂载词库
   db_class: tabledb
   prism: longxiang          # 多方案共用一个词库时，为避免冲突，需要用 prism 指定一个名字。
-  contextual_suggestions: true   #上下文建议开启〔需配合 grammar 使用〕
-  max_homophones: 7 # 最大同音簇长度〔需配合 grammar 使用〕
-  max_homographs: 7 # 最大同形簇长度〔需配合 grammar 使用〕
+  contextual_suggestions: false   #上下文建议开启〔需配合 grammar 使用〕
+  max_homophones: 5 # 最大同音簇长度〔需配合 grammar 使用〕
+  max_homographs: 5 # 最大同形簇长度〔需配合 grammar 使用〕
   dynamic_model: true  # 启用动态语言模型
   segment_length: 4  # 设置分词长度
   prioritize_quality: true  # 启用优先质量选项
   max_phrase_length: 8  # 设置短语的最大长度，如果主要输入单词或短短的短语，可以设置为4。句子更长一些
   enable_completion: true  # 启用候选词补全
-  max_candidates: 6  # 设置最大候选词数量
+  max_candidates: 10  # 设置最大候选词数量
 #  punctuation_model: default  # 设置标点符号模型
 #  single_char_first: true  # 优先显示单个字符
 #  candidate_filter: "^(?!abc).*$"  # 过滤掉包含 "abc" 的候选词
@@ -154,7 +153,7 @@ translator:
   encode_commit_history: false   # 预留历史上屏自动编码成词
   initial_quality: 3       # 初始质量拼音的权重应该比英文大
 #  secondary_quality: 0.8  # 设置次要质量
-  spelling_hints: 3
+  spelling_hints: 2
   always_show_comments: true
   preedit_format:        # preedit_format 影响到输入框的显示和“Shift+回车”上屏的字符
     - xform/([a-z][a-z][a-z][a-z])o/$1°/
@@ -323,22 +322,42 @@ speller:
   initials: zyxwvutsrqponmlkjihgfedcbaZYXWVUTSRQPONMLKJIHGFEDCBA
   delimiter: " '"  # 第一位<空格>是拼音之间的分隔符；第二位<'>表示可以手动输入单引号来分割拼音。
   algebra:
-    - derive|^(.+);(\w)(\w)$|$1$2$3o| # 全碼 YYXXo
-    - derive|^(.+);(\w)(\w)$|$1$2$3/| # 全碼 YYXX/
+#    - derive|^(.+);(\w)(\w)$|$1$2$3o| # 全碼 YYXXo
+#    - derive|^(.+);(\w)(\w)$|$1$2$3/| # 全碼 YYXX/
 #    - abbrev/^(.+);(\w)(\w)$/$1$2$3/  # 降低 YYXX 優先級
-    - derive/^(.+);(\w)(\w)$/$1$2/    # 構詞可以用 YYX
-    - derive/^(.+);(\w)(\w)$/$1/      # 構詞可以用 YY
+#    - derive/^(.+);(\w)(\w)$/$1$2/    # 構詞可以用 YYX
+#    - derive/^(.+);(\w)(\w)$/$1/      # 構詞可以用 YY
 #    - erase/^(.+);(.+)$/              # 刪除原始編碼以加速檢索
+
+    - xform|^(.{2});(.*?);.*$|$1;$2|         #匹配当前方案，转换为 双拼；辅助码（当前方案）的形式
+    - xform|^(\w+?);(.*?);.*$|$1;$2|
+    - derive/^(.{2}|\w+?);.*$/$1/ # 纯双拼的情况
+    - derive/^(.{2}|\w+?);(\w)(\w).*$/$1$2/ # 双拼+一位辅助码的情况
+    - derive/^(.{2}|\w+?);(\w)(\w).*$/$1[$2/ # 双拼+[一位辅助码的情况
+    - derive/^(.{2}|\w+?);.*?,(\w)(\w).*$/$1$2/ # 双拼+一位辅助码的情况
+    - derive/^(.{2}|\w+?);.*?,(\w)(\w).*$/$1[$2/ # 双拼+[一位辅助码的情况
+
+    - abbrev/^(.{2}|\w+?);(\w)(\w).*$/$1$2$3/ # 双拼+2位辅助码的情况，abbrev类型不可以整句内输入2位辅助码，必须加o或/
+    - abbrev/^(.{2}|\w+?);.*?,(\w)(\w).*$/$1$2$3/ # 双拼+2位辅助码的情况，abbrev类型不可以整句内输入2位辅助码，必须加o或/
+
+    - derive/^(.{2}|\w+?);(\w)(\w).*$/$1$2$3o/ # 整句模式下，输入syffo 出单字 增强单字性能
+    - derive|^(.{2});(\w)(\w).*$|$1$2$3/| # 整句模式下，输入syff/ 出单字 增强单字性能
+    - derive|^(\w+?);(\w)(\w).*$|$1$2$3/| # 整句模式下，输入syff/ 出单字 增强单字性能
+
+    - derive/^(.{2}|\w+?);.*,(\w)(\w).*$/$1$2$3o/ # 整句模式下，输入syffo 出单字 增强单字性能
+    - derive|^(.{2});.*,(\w)(\w).*$|$1$2$3/| # 整句模式下，输入syff/ 出单字 增强单字性能
+    - derive|^(\w+?);.*,(\w)(\w).*$|$1$2$3/| # 整句模式下，输入syff/ 出单字 增强单字性能
+    - derive|^(.{2});.*,(\w)(\w).*$|$1$2$3/| # 整句模式下，输入syff/ 出单字 增强单字性能
 
 grammar:
 #  language: zh-hans-t-essay-bgw   
 #  collocation_max_length: 4
 #  collocation_min_length: 3
 #  language: amz-v1-5-zh-hans
-  language: amz-v2n3m1-zh-hans
-  collocation_max_length: 5
-  collocation_min_length: 2
-#  non_collocation_penalty: -24
-#  collocation_penalty: -6
-#  weak_collocation_penalty: -12
-#  rear_penalty: -18
+  language: wanxiang-lts-zh-hans
+  collocation_max_length: 8         #命中的最长词组
+  collocation_min_length: 3         #命中的最短词组，搭配词频健全的词库时候应当最小值设为3避开2字高频词
+  collocation_penalty: -10          #默认-12 对常见搭配词组施加的惩罚值。较高的负值会降低这些搭配被选中的概率，防止过于频繁地出现某些固定搭配。
+  non_collocation_penalty: -12      #默认-12 对非搭配词组施加的惩罚值。较高的负值会降低非搭配词组被选中的概率，避免不合逻辑或不常见的词组组合。
+  weak_collocation_penalty: -24     #默认-24 对弱搭配词组施加的惩罚值。保持默认值通常是为了有效过滤掉不太常见但仍然合理的词组组合。
+  rear_penalty: -30                 #默认-18 对词组中后续词语的位置施加的惩罚值。较高的负值会降低某些词语在句子后部出现的概率，防止句子结构不自然。
