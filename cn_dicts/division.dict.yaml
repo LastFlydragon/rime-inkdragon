@@ -1,0 +1,6745 @@
+# Rime dictionary
+# encoding: utf-8
+#https://github.com/amzxyz/RIME-LMDG
+#------二级行政区划------
+---
+name: division
+version: "2025-01-01"
+sort: by_weight
+...
+阿坝	al;ek bi;tb	601
+阿城	al;ek if;ti	500
+阿里	al;ek lg;tt	856
+阿莲	al;ek lv;ci	452
+爱辉	ao;vy ht;gi	406
+爱民	ao;vy mc;vv	584
+安次	an;bn ct;dq	390
+安达	an;bn du;zd	647
+安定	an;bn dw;bz	701
+安多	an;bn ds;xx	516
+安福	an;bn fl;pt	620
+安国	an;bn gl;ky	566
+安化	an;bn hg;rb	532
+安徽	an;bn ht;rx	826
+安吉	an;bn jb;tk	656
+安居	an;bn jh;ug	657
+安康	an;bn ku;gl	665
+安乐	an;bn li;px	644
+安龙	an;bn lj;yp	456
+安陆	an;bn lh;ej	502
+安南	an;bn nk;ug	597
+安宁	an;bn nn;bd	683
+安平	an;bn pn;au	603
+安庆	an;bn qw;gd	635
+安丘	an;bn qz;ja	470
+安仁	an;bn rs;re	513
+安塞	an;bn sb;bt	514
+鞍山	an;gn un;kl	673
+安顺	an;bn ur;iy	623
+安图	an;bn tl;kd	474
+安溪	an;bn xj;dd	584
+安乡	an;bn xy;vp	491
+安新	an;bn xh;lj	536
+安阳	an;bn yw;eo	655
+安义	an;bn yt;dx	471
+安源	an;bn yo;dx	508
+安远	an;bn ys;zy	487
+安岳	an;bn yd;qu	519
+安泽	an;bn ze;df	426
+安州	an;bn vx;dl	471
+昂仁	aw;oe rs;re	297
+澳门	av;dd ms;dv	813
+八步	bl;pn bh;vu	503
+巴楚	bl;sl im;mz	438
+八德	bl;pn de;rx	504
+巴东	bl;sl dk;ax	534
+八里	bl;pn lg;tt	600
+巴马	bl;sl mm;va	757
+巴南	bl;sl nk;ug	541
+灞桥	bi;do qu;ml	468
+巴青	bl;sl qe;fo	315
+八宿	bl;pn sh;bb	491
+巴塘	bl;sl tw;tk	477
+巴彦	bl;sl ya;wp	564
+巴宜	bl;sl yb;bq	305
+巴中	bl;sl vk;kl	623
+巴州	bl;sl vx;dl	560
+霸州	bi;yo vx;dl	489
+白城	bd;po if;ti	531
+拜城	bo;uf if;ti	395
+白河	bd;po he;dk	593
+白朗	bd;po lp;lo	501
+拜泉	bo;uf qo;bu	345
+白沙	bd;po ul;du	653
+白山	bd;po un;kl	673
+白水	bd;po uv;ln	660
+白塔	bd;po tm;tk	585
+柏乡	bu;mb xy;vp	386
+白银	bd;po yc;jg	810
+白玉	bd;po yf;wd	655
+白云	bd;po yf;ag,es	746
+班戈	bn;wl gr;yp	452
+班玛	bn;wl mm;wm	458
+板桥	bo;my qu;ml	644
+蚌山	bd;if un;kl	252
+宝安	bx;by an;bn	656
+保德	bx;rm de;rx	533
+宝坻	bx;by dg;tu	577
+保定	bx;rm dw;bz	699
+宝丰	bx;by fc;sl,af,al	506
+包河	bq;bs he;dk	532
+宝鸡	bx;by jj;yn	632
+保靖	bx;rm jw;lo	407
+保康	bx;rm ku;gl	453
+宝清	bx;by qe;do	417
+宝山	bx;by un;kl	670
+保山	bx;rm un;kl	574
+宝塔	bx;by tm;tk	594
+保亭	bx;rm tn;wd	471
+包头	bq;bs ta;dd	657
+宝兴	bx;by xe;xb	566
+宝应	bx;by yw;ga	512
+褒忠	bq;ym vk;vx	428
+北安	bj;lb an;bn	542
+北碚	bj;lb bf;uk	538
+北辰	bj;lb is;iy	603
+北川	bj;lb id;pl	570
+北斗	bj;lb dz;ud	683
+北港	bj;lb gp;ds	559
+北关	bj;lb gd;bt	506
+北海	bj;lb hu;dm	776
+北湖	bj;lb hl;do	547
+北京	bj;lb je;wx	1000
+碑林	bi;uu lc;mm	558
+北林	bj;lb lc;mm	506
+北流	bj;lb lm;di	490
+北仑	bj;lb lf;rb	556
+北门	bj;lb ms;dv	655
+卑南	bi;pu nk;ug	527
+北票	bj;lb pl;xu	436
+北埔	bj;lb pm;tf	458
+北区	bj;lb qh;kx	710
+北塔	bj;lb tm;tk	467
+北投	bj;lb ta;fu	565
+北屯	bj;lb tf;av	512
+北镇	bj;lb vo;jb	514
+本溪	bo;ma xj;dd	599
+蚌埠	bf;if bh;tu	624
+碧江	bt;wu jy;dg	436
+毕节	bt;bu js;ce	562
+比如	bg;bb rl;nk	980
+璧山	bt;uy un;kl	511
+泌阳	bt;db yw;eo	431
+边坝	br;zl bi;tb	314
+滨城	bh;db if;ti	483
+宾川	bh;bb id;pl	449
+滨海	bh;db hu;dm	731
+滨湖	bh;db hl;do	596
+滨江	bh;db jy;dg	672
+宾县	bh;bb xa;qs	477
+宾阳	bh;bb yw;eo	504
+滨州	bh;db vx;dl	592
+彬州	bh;mp vx;dl	315
+博爱	be;uc ao;vy	625
+博白	be;uc bd;po	481
+博湖	be;uc hl;do	399
+博乐	be;uc li;px	479
+勃利	be;ul lt;hd	393
+博罗	be;uc ll;sx	575
+波密	bp;dp mt;bu	494
+百色	be;ab si;db	561
+博山	be;uc un;kl	519
+博望	be;uc wd;ww	446
+博兴	be;uc xe;xb	446
+博野	be;uc yl;ly	437
+亳州	be;wq vx;dl	572
+播州	bg;ft vx;dl	479
+布袋	bh;uj do;ry	637
+布拖	bh;uj ts;fy	340
+蔡甸	co;cu dr;bt	485
+苍南	cu;cv nk;ug	545
+仓山	cu;rv un;kl	556
+苍梧	cu;cv wl;mk	479
+苍溪	cu;cv xj;dd	457
+沧县	cu;dv xa;qs	445
+沧源	cu;dv yo;dx	465
+沧州	cu;dv vx;dl	643
+草屯	cx;cu tf;av	490
+曹县	ci;co xa;qs	487
+册亨	ci;ka hc;wl	393
+策勒	ci;vu li;gl	383
+岑巩	cs;uv gn;gf	364
+岑溪	cs;uv xj;dd	449
+曾都	cf;bo dx;le	1
+茶陵	iu;cm ln;ew	467
+察雅	iu;bu ym;yv	313
+察隅	iu;bu ym;ed	431
+柴桑	id;vm su;ym	390
+禅城	ik;pu if;ti	599
+瀍河	ik;dt he;dk	1
+长安	iw;pn an;bn	789
+长白	iw;pn bd;po	658
+长滨	iw;pn bh;db	492
+长春	iw;pn ig;io	785
+常德	iw;xj de;rx	633
+昌都	iu;oo dx;le	537
+长丰	iw;pn fc;sl,af,al	535
+长海	iw;pn hu;dm	548
+昌吉	iu;oo jb;tk	547
+昌江	iu;oo jy;dg	496
+长乐	iw;pn li;px	635
+昌乐	iu;oo li;px	486
+昌黎	iu;oo lb;hu	511
+长岭	iw;pn lw;us	501
+长宁	iw;pn nn;bd	611
+常宁	iw;xj nn;bd	494
+昌宁	iu;oo nn;bd	442
+昌平	iu;oo pn;au	667
+长清	iw;pn qe;do	542
+长沙	iw;pn ul;du	816
+常山	iw;xj un;kl	545
+长寿	iw;pn ur;fc	736
+常熟	iw;xj ul;wh	632
+长顺	iw;pn ur;iy	506
+长泰	iu;pn to;iu	485
+长汀	iw;pn te;dd	522
+昌图	iu;oo tl;kd	449
+长武	iw;pn wm;yv	406
+长兴	iw;pn xe;xb	599
+长阳	iw;pn yw;eo	564
+昌邑	iu;oo yt;kb	515
+长垣	iw;pn yo;td	489
+长治	iw;pn vt;dk	648
+常州	iw;xj vx;dl	707
+长洲	iw;pn vx;dv	552
+潮安	ii;do an;bn	477
+巢湖	ii;vg hl;do	587
+潮南	ii;do nk;ug	433
+朝天	ii;uo tr;ad	676
+潮阳	ii;do yw;eo	529
+潮州	ii;do vx;dl	682
+车城	ir;au if;ti	569
+陈仓	is;ed cu;rv	527
+辰溪	is;iy xj;dd	409
+郴州	ie;me vx;dl	596
+成安	if;wv an;bn	462
+城北	if;ti bj;lb	631
+城步	if;ti bh;vu	439
+澄城	if;db if;ti	438
+承德	if;ln de;rx	640
+城东	if;ti dk;ax	631
+成都	if;wv da;le	874
+称多	ic;hx ds;xx	375
+成功	if;wv gk;gl	966
+呈贡	if;kw gy;gb	556
+城固	if;ti gh;kg	472
+城关	if;ti gd;bt	624
+澄海	if;db hu;dm	527
+成华	if;wv ht;ru	527
+澄江	if;db jy;dg	487
+城口	if;ti kz;la	527
+澄迈	if;db mo;zw	520
+城区	if;ti qh;kx	836
+成武	if;wv wm;yv	487
+城西	if;ti xj;ak,wk	640
+成县	if;wv xa;qs	476
+城厢	if;ti xy;io	510
+城阳	if;ti yw;eo	574
+城中	if;ti vk;kl	705
+赤壁	it;tb bt;ut	645
+赤城	it;tb if;ti	523
+赤峰	it;tb fc;uf	627
+赤坎	it;tb ko;tq	459
+茌平	ib;ct pn;au	439
+池上	ib;dy ud;ba	542
+赤水	it;tb uv;ln	597
+池州	ib;dy vx;dl	583
+崇川	ij;uu id;pl	386
+崇礼	ij;uu lg;pv	544
+崇明	ij;uu mn;oo	630
+重庆	ij;ql qw;gd	874
+崇仁	ij;uu rs;re	494
+崇信	ij;uu xv;rk	508
+崇阳	ij;uu yw;eo	459
+崇义	ij;uu yt;dx	464
+崇州	ij;uu vx;dl	531
+崇左	ij;uu zl;ug	511
+楚雄	im;mz xk;uv	569
+滁州	il;dm vx;dl	584
+川汇	id;pl hf;dk	368
+船山	io;vk un;kl	482
+船营	io;vk yn;ck	380
+淳安	if;dz an;bn	541
+淳化	if;dz hg;rb	484
+春日	ig;io rt;ka	667
+慈利	cb;bx lt;hd	504
+莿桐	ct;cd tj;mk	1
+慈溪	cb;bx xj;dd	596
+磁县	cb;uy xa;qs	490
+从化	cj;rr hg;rb	1
+从江	cj;rr jy;dg	508
+丛台	cj;ra td;sk	445
+翠屏	cf;xu pn;uk	520
+措美	cp;fo mj;yd	279
+错那	cp;jo ni;ve	1
+措勤	cp;fo qc;cl	305
+大安	di;ar an;bn	601
+大埔	di;ar bh;tf	647
+大厂	di;ar ip;ap	685
+达川	du;zd id;pl	409
+大村	di;ar cg;mc	529
+大东	di;ar dk;ax	638
+大肚	di;ar dh;ot	631
+大方	di;ar fu;wv	776
+大丰	di;ar fc;sl,af,al	590
+大关	di;ar gd;bt	688
+大观	di;ar gd;yj	650
+大湖	di;ar hl;do	591
+大化	di;ar hg;rb	749
+大甲	di;ar jn;ol,tl	576
+大理	di;ar lg;wl	754
+大里	di;ar lg;tt	546
+大荔	di;ar lt;cl	501
+大连	di;ar lv;zi	810
+大寮	di;ar lu;bx	1
+大林	di;ar lc;mm	694
+大名	di;ar mn;xk	741
+大内	di;ar nf;kr	607
+大宁	di;ar nn;bd	576
+大埤	di;ar pb;tu	1
+大庆	di;ar qw;gd	658
+达仁	du;zd rs;re	437
+达日	du;zd rt;ka	415
+大社	di;ar ui;pt	600
+大树	di;ar uh;mc	688
+大田	di;ar tv;ku	613
+大同	di;ar tj;kk	739
+大通	di;ar tk;zy	666
+大洼	di;ar wl;dt	438
+大悟	di;ar wh;xk	644
+大武	di;ar wm;yv	549
+大溪	di;ar xj;dd	608
+大祥	di;ar xi;py	454
+大新	di;ar xh;lj	637
+大兴	di;ar xe;xb	689
+大雅	di;ar yu;yv	612
+大姚	di;ar yi;nv	478
+大冶	di;ar yl;dk	536
+大邑	di;ar yt;kb	502
+大英	di;ar ye;cy	664
+大余	di;ar ym;rm	437
+大园	di;ar yo;ky	480
+达州	du;zd vx;dl	717
+大竹	di;ar vl;gg	534
+达孜	du;zd zj;zw	421
+大足	di;ar zl;kz	550
+大城	do;ar if;ti	755
+岱山	do;ru un;kl	465
+代县	do;ry xa;qs	468
+岱岳	do;ru yd;qu	416
+丹巴	dn;kd bl;sl	548
+郸城	dn;be if;ti	451
+丹东	dn;kd dk;ax	613
+丹凤	dn;kd ff;jy	545
+丹棱	dn;kd lf;mw	411
+淡水	da;dh uv;ln	723
+丹徒	dn;kd tl;rz	475
+单县	dn;bu xa;qs	496
+丹阳	dn;kd yw;eo	599
+丹寨	dn;kd vo;bm	427
+儋州	dn;rk vx;dl	552
+宕昌	dd;bu iu;oo	417
+砀山	dd;up un;kl	507
+当涂	du;xe tl;dm	481
+当雄	du;xe xk;uv	437
+当阳	du;xe yw;eo	494
+稻城	dv;hj if;ti	609
+道孚	dv;zz fl;vz	421
+道里	dv;zz lg;tt	645
+道外	dv;zz wo;xb	550
+道县	dv;zz xa;qs	468
+道真	dv;zz ve;ub	1
+德安	de;rx an;bn	536
+德保	de;rx bx;rm	456
+德昌	de;rx iu;oo	533
+德城	de;rx if;ti	462
+德格	de;rx ge;mk	586
+德宏	de;rx hj;bs	568
+德化	de;rx hg;rb	542
+德惠	de;rx hf;ix	498
+德江	de;rx jy;dg	530
+德钦	de;rx qh;jq	493
+德清	de;rx qe;do	562
+德庆	de;rx qw;gd	499
+得荣	de;rc rj;cm	366
+德兴	de;rx xe;xb	542
+德阳	de;rx yw;eo	592
+德州	de;rx vx;dl	705
+登封	dc;bb fc;tc	547
+磴口	df;ub kz;la	381
+灯塔	dc;hd tm;tk	656
+邓州	df;ye vx;dl	533
+滴道	dj;dg dv;zz	248
+迪庆	db;zy qw;gd	507
+电白	da;ov,yv bd;po	476
+垫江	da;ft jy;dg	495
+点军	dp;vh jg;bi	503
+迭部	ds;zf bh;le	384
+叠彩	ds;yq cu;cp	485
+定安	dw;bz an;bn	510
+定边	dw;bz br;zl	477
+鼎城	dw;po if;ti	398
+定海	dw;bz hu;dm	562
+鼎湖	dw;po hl;do	463
+定结	dw;bz js;sk	350
+定南	dw;bz nk;ug	468
+丁青	de;al qe;fo	403
+定日	dw;bz rt;ka	491
+定陶	dw;bz ti;ef	457
+定西	dw;bz xj;ak,wk	555
+定襄	dw;bz xy;yf	457
+定兴	dw;bz xe;xb	426
+定远	dw;bz ys;zy	552
+定州	dw;bz vx;dl	542
+东安	dk;ax an;bn	571
+东宝	dk;ax bx;by	597
+东昌	dk;ax iu;oo	543
+东城	dk;ax if;ti	691
+东川	dk;ax id;pl	570
+东阿	dk;ax er;ek	541
+东方	dk;ax fu;wv	862
+东风	dk;ax fc;jx	782
+东丰	dk;ax fc;sl,af,al	428
+东港	dk;ax gp;ds	582
+东莞	dk;ax gs;cy	789
+东光	dk;ax gw;xe	476
+东海	dk;ax hu;dm	746
+东河	dk;ax he;dk	525
+东湖	dk;ax hl;do	653
+洞口	dy;dk kz;la	600
+东兰	dk;ax lk;bs	412
+东丽	dk;ax lt;ad	529
+东辽	dk;ax lu;zl	413
+东明	dk;ax mn;oo	562
+东宁	dk;ax nn;bd	514
+东平	dk;ax pn;au	603
+东坡	dk;ax pp;tp	693
+东区	dk;ax qh;kx	704
+东山	dk;ax un;kl	691
+冬山	dk;wd un;kl	444
+东胜	dk;ax uf;ou	511
+东势	dk;ax ut;fl	538
+东石	dk;ax ub;ak	521
+东台	dk;ax td;sk	545
+洞头	dy;dk ta;dd	456
+东乡	dk;ax xy;vp	565
+东兴	dk;ax xe;xb	613
+东阳	dk;ax yw;eo	625
+东营	dk;ax yn;ck	623
+东源	dk;ax yo;dx	501
+东至	dk;ax vt;gt	622
+东洲	dk;ax vx;dv	456
+都安	dx;le an;bn	553
+都昌	dx;le iu;oo	469
+都兰	dx;le lk;bs	467
+斗六	dr;ud lo;wb	544
+斗门	dz;ud ms;dv	566
+斗南	dr;ud nk;ug	499
+都匀	dx;le yf;bd	502
+杜集	dh;mt jb;rm	343
+独山	dl;qi un;kl	534
+端州	dd;le vx;dl	445
+堆龙	dt;tv lj;yp	206
+敦化	dg;ww hg;rb	516
+敦煌	dg;ww hb;hw	677
+掇刀	ds;fy dq;vp	339
+多伦	ds;xx lf;rl	693
+峨边	ee;uw br;zl	373
+鄂城	ei;ke if;ti	400
+峨眉	ee;uw mr;uo	659
+额敏	ee;by mx;pw	413
+峨山	ee;uw un;kl	447
+鄂州	ei;ke vx;dl	557
+恩平	ee;yx pn;au	496
+恩施	ee;yx uj;fy	609
+恩阳	ee;yx yw;eo	463
+二道	eh;aa dv;zz	609
+二林	eh;aa lc;mm	454
+二仑	eh;aa lf;rb	414
+二七	eh;aa qj;av	588
+二水	eh;aa uv;ln	477
+洱源	eu;de yo;dx	432
+法库	fm;dq kh;gi	525
+繁昌	fk;px iu;oo	438
+樊城	fk;md if;ti	493
+番路	fn;ct lh;zk	424
+范县	fa;cv xa;qs	534
+繁峙	fk;px vt;uc	438
+防城	fw;ef if;ti	552
+方城	fu;wv if;ti	509
+枋寮	fu;mf lu;bx	475
+房山	fw;hf un;kl	623
+方山	fu;wv un;kl	506
+枋山	fu;mf un;kl	406
+房县	fw;hf xa;qs	440
+芳苑	fu;cf yc;cv	422
+方正	fu;wv vf;av	686
+坊子	fu;tf zg;la	395
+肥城	fr;ob if;ti	511
+肥东	fr;ob dk;ax	523
+肥西	fr;ob xj;ak,wk	535
+费县	ff;fb xa;qs	483
+肥乡	fr;ob xy;vp	434
+汾西	fs;df xj;ak,wk	419
+汾阳	fs;df yw;eo	531
+分宜	fe;bd yb;bq	437
+芬园	fe;cf yo;ky	437
+丰滨	fc;sl,af,al bh;db	389
+凤城	ff;jy if;ti	546
+丰城	fc;sl,af,al if;ti	518
+丰都	fc;sl,af,al dx;le	509
+凤冈	ff;jy gu;kx	415
+奉化	ff;if hg;rb	565
+凤凰	ff;jy hb;jw	789
+奉节	ff;if js;ce	527
+封开	fc;tc kb;ac	414
+凤林	ff;jy lc;mm	478
+丰林	fc;sl,af,al lc;mm	407
+丰满	fc;sl,af,al mo;dl	693
+丰南	fc;sl,af,al nk;ug	439
+丰宁	fc;sl,af,al nn;bd	493
+凤庆	ff;jy qw;gd	424
+封丘	fc;tc qz;ja	458
+凤泉	ff;jy qo;bu	320
+丰润	fc;sl,af,al rr;dw	538
+凤山	ff;jy un;kl	626
+丰顺	fc;sl,af,al ur;iy	475
+丰台	fc;sl,af,al td;sk	641
+凤台	ff;jy td;sk	492
+丰县	fc;sl,af,al xa;qs	609
+奉贤	ff;if xv;lb	584
+凤县	ff;jy xa;qs	475
+凤翔	ff;jy xi;yx	569
+奉新	ff;if xh;lj	439
+凤阳	ff;jy yw;eo	551
+丰原	fc;sl,af,al yo;ix	565
+丰泽	fc;sl,af,al ze;df	527
+丰镇	fc;sl,af,al vo;jb	505
+佛山	fe;rf un;kl	763
+福安	fl;pt an;bn	562
+阜城	fh;pu if;ti	446
+涪城	fl;dk if;ti	434
+富川	fh;bt id;pl	478
+福鼎	fl;pt dw;po	546
+扶风	fl;ff fc;jx	525
+佛冈	fl;rf gu;kx	444
+福贡	fl;pt gy;gb	372
+扶沟	fl;ff gx;dg	424
+府谷	fm;gc gm;bk	493
+福海	fl;pt hu;dm	500
+福建	fl;pt ja;zy	837
+富锦	fh;bt jx;jj	459
+阜康	fh;pu ku;gl	453
+富里	fh;bt lg;tt	449
+浮梁	fl;dz li;dm	456
+涪陵	fl;dk ln;ew	563
+福绵	fl;pt mv;sj	432
+富民	fh;bt mc;vv	599
+阜南	fh;pu nk;ug	448
+阜宁	fh;pu nn;bd	499
+抚宁	fm;fw nn;bd	442
+富宁	fh;bt nn;bd	440
+富平	fh;bt pn;au	511
+阜平	fh;pu pn;au	469
+佛坪	fl;rf pn;tp	434
+福清	fl;pt qe;do	611
+福泉	fl;pt qo;bu	484
+芙蓉	fl;cf rj;cg	693
+福山	fl;pt un;kl	601
+浮山	fl;dz un;kl	553
+抚顺	fm;fw ur;iy	622
+富顺	fh;bt ur;iy	499
+抚松	fm;fw sk;mg	416
+扶绥	fl;ff sw;sn	395
+福田	fl;pt tv;ku	697
+富县	fh;bt xa;qs	452
+阜新	fh;pu xh;lj	541
+复兴	fh;pw xe;xb	782
+福兴	fl;pt xe;xb	517
+阜阳	fh;pu yw;eo	619
+富阳	fh;bt yw;eo	593
+富裕	fh;bt yf;pg	729
+扶余	fl;ff ym;rm	504
+富源	fh;bt yo;dx	492
+抚远	fm;fw ys;zy	456
+富蕴	fh;bt yr;cm	431
+福州	fl;pt vx;dl	793
+抚州	fm;fw vx;dl	579
+噶尔	gu;kr eu;dx	588
+伽师	gl;rk uj;lj	458
+改则	gu;jw ze;bd	377
+盖州	go;ym vx;dl	427
+甘德	gn;ca de;rx	428
+甘谷	gn;ca gm;bk	425
+甘洛	gn;ca lp;dk	376
+甘南	gn;ca nk;ug	563
+甘泉	gn;ca qo;bu	542
+甘肃	gn;ca sh;yb	775
+赣县	ga;lb xa;qs	462
+赣榆	ga;lb ym;md	481
+赣州	ga;lb vx;dl	640
+甘州	gn;ca vx;dl	476
+甘孜	gn;ca zj;zw	591
+岗巴	gp;ux bl;sl	343
+港北	gp;ds bj;lb	430
+刚察	gu;kd iu;bu	402
+钢城	gu;jx if;ti	447
+港口	gp;ds kz;la	753
+港南	gp;ds nk;ug	430
+冈山	gu;kx un;kl	664
+高安	gq;wk an;bn	569
+高昌	gq;wk iu;oo	547
+藁城	gx;cm if;ti	470
+高淳	gq;wk if;dz	555
+高港	gq;wk gp;ds	422
+皋兰	gq;bu lk;bs	466
+高陵	gq;wk ln;ew	475
+高密	gq;wk mt;bu	641
+高明	gq;wk mn;oo	661
+高平	gq;wk pn;au	579
+高坪	gq;wk pn;tp	443
+高青	gq;wk qe;fo	454
+高树	gq;wk uh;mc	485
+高台	gq;wk td;sk	582
+高唐	gq;wk tw;gk	481
+高县	gq;wk xa;qs	486
+高雄	gq;wk xk;uv	752
+高阳	gq;wk yw;eo	569
+高要	gq;wk yv;xn	562
+高邑	gq;wk yt;kb	402
+高邮	gq;wk ya;ye	545
+高州	gq;wk vx;dl	519
+革吉	ge;cu jb;tk	291
+个旧	gi;rl jo;lo	473
+根河	ge;mg he;dk	446
+耿马	gy;eh mm;va	441
+公安	gk;bs an;bn	871
+恭城	gk;gx,cx if;ti	433
+贡嘎	gy;gb gl;kg	545
+公馆	gk;bs gs;ul	658
+共和	gy;cb he;hk	882
+贡井	gy;gb jw;ac,el	390
+贡觉	gy;gb ji;xj	341
+贡寮	gy;gb lu;bx	444
+巩留	gn;gf lm;pt	481
+工农	gk;aa nj;by	667
+贡山	gy;gb un;kl	503
+拱墅	gn;fg uh;lt	521
+珙县	gn;wg xa;qs	400
+巩义	gn;gf yt;dx	504
+固安	gh;kg an;bn	1
+古城	gm;uk if;ti	768
+故城	gh;gw if;ti	552
+谷城	gm;bk if;ti	477
+古交	gm;uk jm;wf	433
+古坑	gm;uk kc;tj	477
+古浪	gm;uk ld;dl	433
+古蔺	gm;uk lv;cv	459
+鼓楼	gm;tv la;mn	687
+鼓山	gm;tv un;kl	528
+固始	gh;kg ug;nk	512
+姑苏	ga;ng sa;cb	571
+古塔	gm;uk tm;tk	523
+古田	gm;uk tv;ku	569
+古县	gm;uk xa;qs	502
+固阳	gh;kg yw;eo	422
+古冶	gm;uk yl;dk	401
+固原	gh;kg yo;ix	534
+沽源	ga;dg yo;dx	432
+古丈	gm;uk vd;an	438
+固镇	gh;kg vo;jb	444
+瓜州	gs;in,vd vx;dl	477
+管城	gs;vl if;ti	475
+官渡	gd;bl dh;dy	614
+关岭	gd;bt lw;us	452
+关庙	gd;bt ml;gy	457
+灌南	gc;dv nk;ug	387
+关山	gd;bt un;kl	571
+馆陶	gs;ul ti;ef	480
+官田	gd;bl tv;ku	461
+关西	gd;bt xj;ak,wk	644
+冠县	gd;bc xa;qs	461
+灌阳	gc;dv yw;eo	383
+观音	gd;yj yh;lo	738
+灌云	gc;dv yf;ag,es	433
+广安	gu;di an;bn	616
+广昌	gu;di iu;oo	519
+广德	gu;di de;rx	547
+广东	gu;di dk;ax	880
+广丰	gu;di fc;sl,af,al	490
+光复	gw;xe fh;pw	615
+广汉	gu;di ha;dy	522
+广河	gu;di he;dk	429
+广陵	gu;di ln;ew	569
+广灵	gu;di ln;eh	428
+光明	gw;xe mn;oo	789
+广南	gu;di nk;ug	533
+广宁	gu;di nn;bd	521
+广平	gu;di pn;au	559
+广饶	gu;di ri;uw	461
+光山	gw;xe un;kl	592
+广水	gu;di uv;ln	436
+广西	gu;di xj;ak,wk	804
+广信	gu;di xv;rk	477
+广阳	gu;di yw;eo	474
+广元	gu;di yo;aw	581
+光泽	gw;xe ze;df	724
+广州	gu;di vx;dl	900
+广宗	gu;di zk;bu	436
+贵池	gf;vb ib;dy	505
+贵德	gf;vb de;rx	499
+贵定	gf;vb dw;bz	425
+桂东	gf;mt dk;ax	485
+贵港	gf;vb gp;ds	521
+桂林	gf;mt lc;mm	754
+贵南	gf;vb nk;ug	395
+桂平	gf;mt pn;au	487
+归仁	gt;le rs;re	494
+龟山	gt;dd un;kl	563
+贵溪	gf;vb xj;dd	473
+贵阳	gf;vb yw;eo	751
+桂阳	gf;mt yw;eo	538
+贵州	gf;vb vx;dl	811
+果洛	gl;tm lp;dk	494
+国姓	gl;ky xw;nu	489
+哈密	hl;kk mt;bu	672
+海安	hu;dm an;bn	529
+海北	hu;dm bj;lb	573
+海沧	hu;dm cu;dv	585
+海城	hu;dm if;ti	551
+海淀	hu;dm da;dz	710
+海东	hu;dm dk;ax	615
+海端	hu;dm dd;le	375
+海丰	hu;dm fc;sl,af,al	536
+海港	hu;dm gp;ds	652
+海口	hu;dm kz;la	740
+海林	hu;dm lc;mm	520
+海陵	hu;dm ln;ew	514
+海伦	hu;dm lf;rl	635
+海门	hu;dm ms;dv	559
+海南	hu;dm nk;ug	817
+海宁	hu;dm nn;bd	618
+海曙	hu;dm um;oo	522
+海棠	hu;dm tw;xm	685
+海西	hu;dm xj;ak,wk	620
+海兴	hu;dm xe;xb	440
+海盐	hu;dm yk;tm	603
+海晏	hu;dm ya;on	459
+海阳	hu;dm yw;eo	576
+海原	hu;dm yo;ix	474
+海州	hu;dm vx;dl	514
+海珠	hu;dm va;ww	614
+汉滨	ha;dy bh;db	457
+韩城	hk;uw if;ti	536
+汉川	ha;dy id;pl	461
+邯郸	hk;ge dn;be	682
+邗江	hk;ge jy;dg	494
+涵江	hk;du jy;dg	454
+汉南	ha;dy nk;ug	476
+含山	hk;rk un;kl	428
+邯山	hk;ge un;kl	344
+汉寿	ha;dy ur;fc	459
+汉台	ha;dy td;sk	419
+寒亭	hk;bd tn;wd	418
+汉阳	ha;dy yw;eo	616
+汉阴	ha;dy yh;eo	450
+汉源	ha;dy yo;dx	478
+汉中	ha;dy vk;kl	667
+杭州	hw;mj vx;dl	868
+濠江	hi;du jy;dg	476
+河北	he;dk bj;lb	832
+鹤壁	hi;bn bt;ut	545
+鹤城	hi;bn if;ti	430
+河池	he;dk ib;dy	538
+合川	he;rk id;pl	548
+河东	he;dk dk;ax	661
+合肥	he;rk fr;ob	798
+鹤峰	hi;bn fc;uf	462
+鹤岗	hi;bn gp;ux	488
+河间	he;dk jr;mo	561
+合江	he;rk jy;dg	551
+河津	he;dk jh;dy	480
+和静	he;hk jw;fy	1
+河口	he;dk kz;la	679
+贺兰	hi;lb lk;bs	553
+和龙	he;hk lj;yp	527
+和美	he;hk mj;yd	632
+河南	he;dk nk;ug	854
+和平	he;hk pn;au	835
+鹤庆	hi;bn qw;gd	444
+河曲	he;dk qh;kc	461
+鹤山	hi;bn un;kl	520
+赫山	hi;ii un;kl	446
+合山	he;rk un;kl	405
+合水	he;rk uv;ln	467
+和顺	he;hk ur;iy	581
+和硕	he;hk up;uy	542
+荷塘	he;ck tw;tk	585
+和田	he;hk tv;ku	682
+河西	he;dk xj;ak,wk	680
+和县	he;hk xa;qs	601
+合阳	he;rk yw;eo	460
+河源	he;dk yo;dx	613
+菏泽	he;ck ze;df	604
+赫章	hi;ii vu;lu	416
+和政	he;hk vf;vw	552
+贺州	hi;lb vx;dl	536
+合作	he;rk zp;rv	963
+黑河	hi;lh he;dk	566
+黑山	hi;lh un;kl	631
+黑水	hi;lh uv;ln	609
+恒春	hf;xd ig;io	541
+衡东	hf;rd dk;ax	427
+横峰	hf;mb fc;uf	415
+衡南	hf;rd nk;ug	423
+衡山	hf;rd un;kl	599
+横山	hf;mb un;kl	590
+恒山	hf;xd un;kl	527
+衡水	hf;rd uv;ln	665
+衡阳	hf;rd yw;eo	646
+横州	hf;mb vx;dl	363
+红安	hj;sg an;bn	494
+洪洞	hj;dg dy;dk	517
+红岗	hj;sg gp;ux	326
+红古	hj;sg gm;uk	415
+红河	hj;sg he;dk	596
+洪湖	hj;dg hl;do	548
+洪江	hj;dg jy;dg	540
+虹口	hj;ig kz;la	623
+红旗	hj;sg qb;fb	720
+红桥	hj;sg qu;ml	541
+红山	hj;sg un;kl	586
+洪山	hj;dg un;kl	575
+红塔	hj;sg tm;tk	518
+宏伟	hj;bs wj;rw	670
+洪雅	hj;dg ym;yv	465
+红原	hj;sg yo;ix	501
+洪泽	hj;dg ze;df	510
+后壁	hr;ik bt;ut	520
+后里	hr;ik lg;tt	488
+后龙	hr;ik lj;yp	472
+侯马	ha;ru mm;va	454
+湖北	hl;do bj;lb	821
+湖滨	hl;do bh;db	604
+壶关	hl;ty gd;bt	433
+湖口	hl;do kz;la	546
+呼兰	ha;kh lk;bs	512
+湖里	hl;do lg;tt	595
+虎林	hm;hj lc;mm	455
+湖南	hl;do nk;ug	855
+湖内	hl;do nf;kr	471
+虎丘	hm;hj qz;ja	537
+虎尾	hm;hj wj;um	572
+湖西	hl;do xj;ak,wk	505
+鄠邑	hh;ye yt;kb	1
+湖州	hl;do vx;dl	641
+互助	hh;ah vh;ql	702
+华安	ht;ru an;bn	667
+华池	ht;ru ib;dy	473
+桦川	hg;mu id;pl	347
+化德	hg;rb de;rx	370
+桦甸	hg;mu dr;bt	407
+花都	hs;cb da;le	606
+花莲	hs;cb lv;ci	661
+华龙	ht;ru lj;yp	571
+化隆	hg;rb lj;eu	461
+桦南	hg;mu nk;ug	397
+华宁	ht;ru nn;bd	435
+华坪	ht;ru pn;tp	402
+华容	ht;ru rj;bg	507
+花山	hs;cb un;kl	598
+花坛	hs;cb tk;ty	585
+华亭	ht;ru tn;wd	536
+花溪	hs;cb xj;dd	578
+滑县	ht;do xa;qs	493
+华阴	ht;ru yh;eo	515
+华蓥	ht;ru yn;cj	458
+花垣	hs;cb yo;td	453
+华州	ht;ru vx;dl	639
+化州	hg;rb vx;dl	488
+淮安	hs;dv an;bn	642
+怀安	hs;xb an;bn	460
+淮北	hs;dv bj;lb	583
+淮滨	hs;dv bh;db	400
+怀化	hs;xb hg;rb	581
+怀集	hs;xb jb;rm	442
+怀来	hs;xb ld;am	488
+淮南	hs;dv nk;ug	645
+怀宁	hs;xb nn;bd	484
+怀仁	hs;xb rs;re	526
+怀柔	hs;xb ra;mm	619
+淮上	hs;dv ud;ba	405
+淮阳	hs;dv yw;eo	534
+淮阴	hs;dv yh;eo	536
+槐荫	hs;mg yh;co	506
+怀远	hs;xb ys;zy	524
+环翠	ho;wb cf;xu	458
+环江	ho;wb jy;dg	409
+桓仁	ho;md rs;re	444
+桓台	ho;md td;sk	430
+环县	ho;wb xa;qs	484
+潢川	hb;db id;pl	475
+黄岛	hb;cb dx;nu	582
+黄冈	hb;cb gu;kx	629
+皇姑	hb;bw ga;ng	547
+黄骅	hb;cb ht;mu	476
+黄陵	hb;cb ln;ew	471
+黄龙	hb;cb lj;yp	644
+黄梅	hb;cb mr;mm	586
+黄南	hb;cb nk;ug	471
+黄陂	hb;cb pb;ep	561
+黄平	hb;cb pn;au	481
+黄埔	hb;cb pm;tf	672
+黄浦	hb;cb pm;df	668
+黄山	hb;cb un;kl	736
+黄石	hb;cb ub;ak	648
+黄岩	hb;cb yk;uu	573
+湟源	hb;dw yo;dx	445
+湟中	hb;dw vk;kl	472
+黄州	hb;cb vx;dl	548
+惠安	hf;ix an;bn	552
+会昌	hf;ry iu;oo	511
+惠城	hf;ix if;ti	506
+汇川	hf;dk id;pl	495
+珲春	ht;wi ig;io	526
+惠东	hf;ix dk;ax	534
+会东	hf;ry dk;ax	396
+惠济	hf;ix jt;dq	492
+惠来	hf;ix ld;am	490
+会理	hf;ry lg;wl	626
+惠民	hf;ix mc;vv	674
+回民	hw;kk mc;vv	660
+辉南	ht;gi nk;ug	400
+会宁	hf;ry nn;bd	528
+惠农	hf;ix nj;by	548
+惠山	hf;ix un;kl	520
+惠水	hf;ix uv;ln	447
+会同	hf;ry tj;kk	678
+辉县	ht;gi xa;qs	486
+徽县	ht;rx xa;qs	395
+惠阳	hf;ix yw;eo	546
+会泽	hf;ry ze;df	472
+惠州	hf;ix vx;dl	701
+徽州	ht;rx vx;dl	620
+浑江	hf;di jy;dg	366
+浑南	hf;di nk;ug	545
+浑源	hf;di yo;dx	437
+霍城	hp;yv if;ti	436
+获嘉	hp;cq jd;tk	411
+霍邱	hp;yv qz;qe	497
+霍山	hp;yv un;kl	517
+霍州	hp;yv vx;dl	434
+吉安	jb;tk an;bn	629
+集安	jb;rm an;bn	463
+鸡东	jj;yn dk;ax	362
+鸡冠	jj;yn gd;bc	534
+集集	jb;rm jb;rm	535
+吉林	jb;tk lc;mm	783
+基隆	jj;ct lj;eu	661
+吉隆	jb;tk lj;eu	659
+集美	jb;rm mj;yd	627
+即墨	jb;ge mg;lt	592
+济南	jg;dq nk;ug	810
+济宁	jg;dq nn;bd	632
+集宁	jb;rm nn;bd	499
+稷山	jt;hw un;kl	452
+吉首	jb;tk uz;bz	505
+吉水	jb;tk uv;ln	463
+鸡西	jj;yn xj;ak,wk	505
+绩溪	jt;sb xj;dd	493
+吉县	jb;tk xa;qs	523
+集贤	jb;rm xv;lb	495
+济阳	jt;dq yw;eo	528
+吉阳	jb;tk yw;eo	448
+济源	jt;dq yo;dx	536
+鸡泽	jj;yn ze;df	403
+冀州	jt;bg vx;dl	558
+吉州	jb;tk vx;dl	513
+蓟州	jt;cd vx;dl	502
+加查	jd;lk iu;md	414
+嘉定	jd;tk dw;bz	648
+茄萣	jd;ck dw;cz	1
+佳冬	jd;rt dk;wd	406
+嘉禾	jd;tk he;pm	583
+夹江	jd;ar jy;dg	467
+佳里	jd;rt lg;tt	509
+嘉黎	jd;tk lb;hu	344
+嘉陵	jd;tk ln;ew	585
+嘉善	jd;tk ua;yk	534
+贾汪	jn;xb wu;dw	418
+佳县	jd;rt xa;qs	431
+郏县	jc;je xa;qs	426
+甲仙	jn;ol,tl xr;ru	426
+嘉祥	jd;tk xi;py	517
+嘉兴	jd;tk xe;xb	667
+嘉荫	jd;tk yh;co	395
+嘉鱼	jd;tk ym;da	430
+建安	ja;zy an;bn	620
+建昌	ja;zy iu;oo	514
+剑川	ja;qd,rd id;pl	469
+建德	ja;zy de;rx	602
+剑阁	ja;qd,rd ge;mk	492
+剑河	ja;qd,rd he;dk	531
+建湖	ja;zy hl;do	421
+建华	ja;zy ht;ru	697
+监利	ja;lm lt;hd	483
+建宁	ja;zy nn;bd	544
+建瓯	ja;zy ox;qw	475
+建平	ja;zy pn;au	621
+尖山	jr;xd un;kl	531
+建始	ja;zy ug;nk	456
+尖石	jr;xd ub;ak	431
+建水	ja;zy uv;ln	528
+涧西	ja;do xj;ak,wk	394
+简阳	jp;vo yw;eo	514
+建阳	ja;zy yw;eo	509
+建邺	ja;zy yi;ye	509
+尖扎	jr;xd vl;fv	388
+江岸	jy;dg aa;ug	555
+江安	jy;dg an;bn	478
+江北	jy;dg bj;lb	675
+江城	jy;dg if;ti	597
+江川	jy;dg id;pl	505
+江达	jy;dg du;zd	459
+江都	jy;dg da;le	556
+江海	jy;dg hu;dm	584
+江汉	jy;dg ha;dy	621
+江华	jy;dg ht;ru	538
+江津	jy;dg jh;dy	588
+将军	jy;lc jg;bi	822
+江口	jy;dg kz;la	634
+将乐	jy;lc li;px	1
+江陵	jy;dg ln;ew	593
+江门	jy;dg ms;dv	656
+江南	jy;dg nk;ug	802
+江宁	jy;dg nn;bd	648
+江山	jy;dg un;kl	709
+江苏	jy;dg sa;cb	852
+江西	jy;dg xj;ak,wk	819
+江夏	jy;dg xx;bw	581
+绛县	je;sf xa;qs	468
+姜堰	jy;yn ya;tn	488
+江阳	jy;dg yw;eo	493
+江阴	jy;dg yh;eo	619
+江永	jy;dg yn;du	468
+江油	jy;dg ya;dy	530
+江源	jy;dg yo;dx	539
+江州	jy;dg vx;dl	543
+江孜	jy;dg zj;zw	459
+交城	jm;wf if;ti	451
+蕉城	jm;ch if;ti	441
+蛟河	jm;if he;dk	433
+椒江	jm;my jy;dg	478
+交口	jm;wf kz;la	611
+蕉岭	jm;ch lw;us	431
+郊区	jm;we qh;kx	712
+礁溪	jm;uh xj;dd	474
+胶州	jm;of vx;dl	605
+焦作	jm;rh zp;rv	611
+揭东	jk;fr dk;ax	355
+解放	jc;dn fd;fw	837
+界首	jq;tj uz;bz	553
+揭西	jk;fr xj;ak,wk	432
+介休	jq;rl xz;rm	509
+揭阳	jk;fr yw;eo	585
+晋安	jv;yo an;bn	566
+金安	jh;rb an;bn	524
+金昌	jh;rb iu;oo	528
+晋城	jv;yo if;ti	603
+金川	jh;rb id;pl	564
+金东	jh;rb dk;ax	522
+金凤	jh;rb ff;jy	592
+金峰	jh;rb fc;uf	476
+金湖	jh;rb hl;do	541
+金华	jh;rb ht;ru	685
+锦江	jx;jj jy;dg	658
+晋江	jv;yo jy;dg	646
+金林	jh;rb lc;mm	402
+金门	jh;rb ms;dv	662
+津南	jh;dy nk;ug	534
+晋宁	jv;yo nn;bd	508
+金牛	jh;rb nm;pu	720
+金平	jh;rb pn;au	568
+锦屏	jx;jj pn;uk	494
+金沙	jh;rb ul;du	680
+金山	jh;rb un;kl	779
+津市	jh;dy ut;wj	723
+金水	jh;rb uv;ln	631
+金塔	jh;rb tm;tk	543
+金台	jh;rb td;sk	532
+金坛	jh;rb tk;ty	503
+金堂	jh;rb tw;xt	525
+金湾	jh;rb wn;dg	513
+金溪	jh;rb xj;dd	458
+进贤	jv;zj xv;lb	512
+金乡	jh;rb xy;vp	507
+金秀	jh;rb xo;hn	587
+金阳	jh;rb yw;eo	506
+晋源	jv;yo yo;dx	469
+缙云	jv;so yf;ag,es	518
+金寨	jh;rb vo;bm	543
+晋中	jv;yo vk;kl	595
+锦州	jx;jj vx;dl	620
+金州	jh;rb vx;dl	610
+晋州	jv;yo vx;dl	481
+静安	jw;fy an;bn	661
+靖安	jw;lo an;bn	453
+靖边	jw;lo br;zl	482
+泾川	je;dj id;pl	428
+旌德	je;fu de;rx	457
+景东	jw;ox dk;ax	439
+景谷	jw;ox gm;bk	399
+静海	jw;fy hu;dm	539
+精河	je;mo he;dk	390
+景洪	jw;ox hj;dg	497
+镜湖	jw;je hl;do	499
+靖江	jw;lo jy;dg	550
+京口	je;wx kz;la	497
+静乐	jw;fy li;px	435
+荆门	je;cd ms;dv	584
+静宁	jw;fy nn;bd	449
+景宁	jw;ox nn;bd	446
+京山	je;wx un;kl	500
+景泰	jw;ox to;iu	600
+靖西	jw;lo xj;ak,wk	440
+泾县	je;dj xa;qs	487
+景县	jw;ox xa;qs	424
+井陉	jw;ac,el xn;ej	510
+竞秀	jw;lx xo;hn	424
+井研	jw;ac,el yk;uk	402
+泾阳	je;dj yw;eo	484
+旌阳	je;fu yw;eo	436
+靖宇	jw;lo ys;by	536
+靖远	jw;lo ys;zy	473
+泾源	je;dj yo;dx	440
+荆州	je;cd vx;dl	676
+靖州	jw;lo vx;dl	424
+九江	jz;pv jy;dg	671
+鸠江	jz;jn jy;dg	1
+九龙	jz;pv lj;yp	749
+酒泉	jz;dy qo;bu	624
+九如	jz;pv rl;nk	502
+九台	jz;pv td;sk	467
+九原	jz;pv yo;ix	455
+久治	jz;pn vt;dk	536
+巨鹿	jf;kk lh;gb	539
+莒南	js;ck nk;ug	450
+句容	jf;bk rj;bg	522
+莒县	js;ck xa;qs	483
+巨野	jf;kk yl;ly	476
+鄄城	jc;xe if;ti	446
+君山	jg;yk un;kl	527
+浚县	jr;dw xa;qs	433
+卡若	km;ub rp;ck	388
+喀什	kl;kk ub;ru	646
+开封	kb;ac fc;tc	705
+开福	kb;ac fl;pt	524
+开化	kb;ac hg;rb	594
+开江	kb;ac jy;dg	457
+凯里	ku;uj lg;tt	589
+开鲁	kb;ac lm;yo	457
+开平	kb;ac pn;au	582
+开阳	kb;ac yw;eo	512
+开远	kb;ac ys;zy	510
+开原	kb;ac yo;ix	474
+开州	kb;ac vx;dl	469
+崁顶	ka;uq dw;dy	426
+康保	ku;gl bx;rm	433
+康定	ku;gl dw;bz	594
+康乐	ku;gl li;px	599
+康马	ku;gl mm;va	313
+康平	ku;gl pn;au	495
+康县	ku;gl xa;qs	527
+柯城	kr;mk if;ti	395
+克东	ki;ux,ge dk;ax	386
+岢岚	kl;uk lk;uf	410
+柯坪	kr;mk pn;tp	323
+柯桥	kr;mk qu;ml	519
+克山	ki;ux,ge un;kl	526
+垦利	ko;gt lt;hd	428
+崆峒	kk;ug tj;uk	483
+口湖	kz;la hl;do	453
+库车	kh;gi ir;au	506
+宽城	kd;bj if;ti	473
+宽甸	kd;bj dr;bt	415
+矿区	ke;ug qh;kx	601
+奎屯	kw;dt tf;av	457
+奎文	kw;dt ws;wx	421
+昆明	kg;ob mn;oo	806
+昆山	kg;ob un;kl	668
+昆玉	kg;ob yf;wd	444
+拉萨	ll;fl si;ci	719
+拉孜	ll;fl zj;zw	394
+来安	ld;am an;bn	591
+来宾	ld;am bh;bb	650
+来凤	ld;am ff;jy	436
+莱山	ld;cl un;kl	482
+涞水	ld;dl uv;ln	453
+莱芜	ld;cl wl;cw	571
+莱西	ld;cl xj;ak,wk	577
+莱阳	ld;cl yw;eo	527
+来义	ld;am yt;dx	366
+涞源	ld;dl yo;dx	461
+莱州	ld;cl vx;dl	545
+澜沧	lk;dj cu;dv	554
+岚皋	lk;uf gq;bu	404
+兰考	lk;bs kx;lk	513
+兰陵	lk;bs ln;ew	587
+兰坪	lk;bs pn;tp	386
+蓝山	lk;cm un;kl	581
+兰山	lk;bs un;kl	565
+岚山	lk;uf un;kl	561
+蓝田	lk;cm tv;ku	596
+兰西	lk;bs xj;ak,wk	706
+兰溪	lk;bs xj;dd	548
+岚县	lk;uf xa;qs	455
+兰屿	lk;bs ys;uy	512
+兰州	lk;bs vx;dl	786
+廊坊	lw;ge fu;tf	640
+郎溪	lw;le xj;dd	434
+朗县	lp;lo xa;qs	411
+琅琊	lw;wl yu;we	651
+阆中	lw;ml vk;kl	557
+老边	lx;lb br;zl	457
+老城	lx;lb if;ti	678
+崂山	li;ul un;kl	632
+乐亭	lv;px tn;wd	489
+乐安	li;px an;bn	514
+乐昌	li;px iu;oo	458
+乐东	li;px dk;ax	470
+乐都	li;px da;le	502
+乐陵	li;px ln;ew	481
+乐平	li;px pn;au	544
+乐山	li;px un;kl	650
+乐业	li;px yi;la	606
+乐至	li;px vt;gt	530
+雷波	lr;yt bp;dp	451
+雷山	lr;yt un;kl	513
+耒阳	lj;fm yw;eo	506
+雷州	lr;yt vx;dl	546
+荔波	lt;cl bp;dp	519
+李沧	lg;mz cu;dv	562
+历城	lt;il if;ti	572
+荔城	lt;cl if;ti	471
+鲤城	lg;yl if;ti	457
+黎城	lb;hu if;ti	447
+利川	lt;hd id;pl	503
+黎川	lb;hu id;pl	406
+里港	lg;tt gp;ds	475
+丽江	lt;ad jy;dg	744
+利津	lt;hd jh;dy	461
+醴陵	lg;yb ln;ew	519
+黎平	lb;hu pn;au	578
+荔浦	lt;cl pm;df	447
+礼泉	lg;pv qo;bu	453
+立山	lt;wb un;kl	506
+离石	lb;wn ub;ak	481
+梨树	lb;hm uh;mc	527
+丽水	lb;ad uv;ln	610
+溧水	lt;dm uv;ln	566
+理塘	lg;wl tw;tk	510
+利通	lt;hd tk;zy	451
+荔湾	lt;cl wn;dg	589
+历下	lt;il xx;ab	525
+理县	lg;wl xa;qs	502
+澧县	lg;db xa;qs	468
+礼县	lg;pv xa;qs	457
+蠡县	lg;hi xa;qs	436
+利辛	lt;hd xh;lu	446
+溧阳	lt;dm yw;eo	544
+利州	lt;hd vx;dl	451
+连城	lv;zi if;ti	608
+莲池	lv;ci ib;dy	499
+莲都	lv;ci dx;le	447
+莲湖	lv;ci hl;do	526
+莲花	lv;ci hs;cb	729
+连江	lv;zi jy;dg	608
+廉江	lv;gj jy;dg	475
+连南	lv;zi nk;ug	441
+连平	lv;zi pn;au	536
+连山	lv;zi un;kl	574
+涟水	lv;di uv;ln	506
+濂溪	lv;dj xj;dd	1
+涟源	lv;di yo;dx	442
+连云	lv;zi yf;ag,es	633
+连州	lv;zi vx;dl	509
+凉城	li;dx if;ti	456
+两当	lu;ar du;xe	403
+梁河	li;dm he;dk	455
+梁平	li;dm pn;au	496
+良庆	li;dg qw;gd	462
+梁山	li;dm un;kl	641
+凉山	li;dx un;kl	611
+梁溪	li;dm xj;dd	454
+梁园	li;dm yo;ky	442
+凉州	li;dx vx;dl	580
+聊城	lu;ee if;ti	617
+辽宁	lu;zl nn;bd	803
+辽阳	lu;zl yw;eo	589
+辽源	lu;zl yo;dx	518
+辽中	lu;zl vk;kl	491
+烈山	lq;dh un;kl	438
+临安	lc;lk an;bn	606
+林边	lc;mm br;zl	475
+临沧	lc;lk cu;dv	559
+临城	lc;lk if;ti	531
+临川	lc;lk id;pl	540
+林甸	lc;mm da;bt	353
+临汾	lc;lk fs;df	623
+临高	lc;lk gq;wk	551
+临桂	lc;lk gf;mt	442
+临海	lc;lk hu;dm	611
+临河	lc;lk he;dk	532
+临江	lc;lk jy;dg	594
+林口	lc;mm kz;la	528
+临澧	lc;lk lg;db	405
+麟洛	lc;lf lp;dk	390
+林内	lc;mm nf;kr	509
+临平	lc;lk pn;au	513
+临清	lc;lk qe;do	497
+临朐	lc;lk qm;oj	487
+临泉	lc;lk qo;bu	497
+临沭	lc;lk uh;du	448
+邻水	lc;re uv;ln	493
+临潭	lc;lk tk;du	393
+临洮	lc;lk ti;dv	496
+临潼	lc;lk tj;dl	560
+临渭	lc;lk wf;do	455
+临武	lc;lk wm;yv	415
+林西	lc;mm xj;ak,wk	525
+临西	lc;lk xj;ak,wk	400
+临夏	lc;lk xx;bw	539
+临县	lc;lk xa;qs	467
+临湘	lc;lk xy;do	460
+临翔	lc;lk xi;yx	306
+临沂	lc;lk yb;dj	684
+临猗	lc;lk yj;qk	453
+临邑	lc;lk yt;kb	453
+临颍	lc;lk yw;by	440
+麟游	lc;lf ya;dz	383
+林园	lc;mm yo;ky	523
+临泽	lc;lk ze;df	420
+临漳	lc;lk vu;du	455
+林芝	lc;mm vj;cv	633
+林州	lc;mm vx;dl	594
+林周	lc;mm vx;kk	383
+临淄	lc;lk zj;dt	531
+灵宝	ln;eh bx;by	566
+灵璧	ln;eh bt;uy	474
+陵城	ln;ew if;ti	433
+陵川	ln;ew id;pl	464
+灵川	ln;eh id;pl	432
+岭东	lw;us dk;ax	482
+凌海	ln;dw hu;dm	408
+凌河	ln;dw he;dk	439
+零陵	ln;ys ln;ew	509
+灵丘	ln;eh qz;ja	443
+灵山	ln;eh un;kl	622
+灵石	ln;eh ub;ak	540
+灵寿	ln;eh ur;fc	473
+陵水	ln;ew uv;ln	551
+灵台	ln;eh td;sk	459
+灵武	ln;eh wm;yv	478
+苓雅	ln;cs ym;yv	1
+凌源	ln;dw yo;dx	441
+凌云	ln;dw yf;ag,es	608
+留坝	lm;pt bi;tb	425
+柳北	lz;me bj;lb	414
+柳城	lz;me if;ti	448
+六龟	lo;wb gt;dd	443
+六合	lo;wb he;rk	652
+柳河	lz;me he;dk	459
+六甲	lo;wb jn;ol,tl	630
+柳江	lz;me jy;dg	491
+六脚	lo;wb jl;oe	434
+柳林	lz;me lc;mm	528
+柳南	lz;me nk;ug	410
+琉球	lm;wi qm;wq	665
+浏阳	lm;dd yw;eo	601
+柳营	lz;me yn;ck	444
+柳州	lz;me vx;dl	662
+隆安	lj;eu an;bn	483
+龙安	lj;yp an;bn	454
+隆昌	lj;eu iu;oo	491
+龙城	lj;yp if;ti	644
+龙川	lj;yp id;pl	532
+陇川	ln;el id;pl	425
+隆德	lj;eu de;rx	529
+龙凤	lj;yp ff;jy	635
+龙岗	lj;yp gp;ux	650
+龙港	lj;yp gp;ds	500
+龙海	lj;yp hu;dm	539
+龙湖	lj;yp hl;do	644
+龙华	lj;yp ht;ru	649
+隆化	lj;eu hg;rb	432
+隆回	lj;eu hw;kk	464
+龙江	lj;yp jy;dg	770
+龙井	lj;yp jw;ac,el	665
+龙口	lj;yp kz;la	548
+龙里	lj;yp lg;tt	469
+隆林	lj;eu lc;mm	409
+龙陵	lj;yp ln;ew	449
+龙门	lj;yp ms;dv	682
+陇南	ln;el nk;ug	530
+龙南	lj;yp nk;ug	446
+龙崎	lj;yp qb;uk	453
+龙泉	lj;yp qo;bu	649
+龙沙	lj;yp ul;du	396
+龙山	lj;yp un;kl	658
+龙胜	lj;yp uf;ou	509
+龙潭	lj;yp tk;du	637
+龙亭	lj;yp tn;wd	448
+龙湾	lj;yp wn;dg	659
+龙圩	lj;yp wr;ty	1
+龙文	lj;yp ws;wx	539
+陇西	ln;el xj;ak,wk	556
+陇县	ln;el xa;qs	457
+龙岩	lj;yp yk;uu	613
+隆阳	lj;eu yw;eo	408
+隆尧	lj;eu yi;yw	419
+龙游	lj;yp ya;dz	504
+龙州	lj;yp vx;dl	470
+隆子	lj;eu zg;la	437
+娄底	la;mn dg;gu	572
+娄烦	la;mn fk;hy	393
+娄星	la;mn xe;ou	363
+六安	lh;wb an;bn	621
+路北	lh;zk bj;lb	605
+鹿草	lh;gb cx;cu	407
+鹿城	lh;gb if;ti	567
+潞城	lh;dk if;ti	448
+陆川	lh;ej id;pl	564
+鲁甸	lm;yo dr;bt	442
+泸定	ll;du dw;bz	572
+陆丰	lh;ej fc;sl,af,al	529
+禄丰	lh;pu fc;sl,af,al	452
+鹿港	lh;gb gp;ds	601
+鹿谷	lh;gb gm;bk	448
+陆河	lh;ej he;dk	440
+炉霍	ll;hh hp;yv	415
+庐江	ll;gh jy;dg	546
+渌口	lh;du kz;la	1
+陆良	lh;ej li;dg	440
+卢龙	ll;bu lj;yp	480
+路南	lh;zk nk;ug	599
+路桥	lh;zk qu;ml	633
+碌曲	lh;uu qh;kc	352
+禄劝	lh;pu qc;yl	476
+鹿泉	lh;gb qo;bu	452
+庐山	ll;gh un;kl	655
+芦山	ll;ch un;kl	544
+鲁山	lm;yo un;kl	509
+卢氏	ll;bu ut;pv	547
+泸水	ll;du uv;ln	421
+芦淞	ll;ch sk;dg	388
+泸溪	ll;du xj;dd	449
+泸西	ll;du xj;ak,wk	414
+芦溪	ll;ch xj;dd	408
+泸县	ll;du xa;qs	447
+庐阳	ll;gh yw;eo	527
+鹿野	lh;gb yl;ly	489
+鹿邑	lh;gb yt;kb	467
+鹿寨	lh;gb vo;bm	424
+泸州	ll;du vx;dl	648
+芦洲	ll;ch vx;dv	505
+潞州	lh;dk vx;dl	442
+芦竹	ll;ch vl;gg	471
+路竹	lh;zk vl;gg	444
+栾城	lo;wm if;ti	446
+栾川	lo;wm id;pl	486
+滦南	lo;dm nk;ug	383
+滦平	lo;dm pn;au	509
+滦州	lo;dm vx;dl	431
+仑背	lf;rb bf;bo	423
+轮台	lf;il td;sk	458
+萝北	ll;cx bj;lb	377
+罗城	ll;sx if;ti	551
+洛川	lp;dk id;pl	497
+罗甸	ll;sx da;bt	402
+罗定	ll;sx dw;bz	490
+罗东	ll;sx dk;ax	527
+罗湖	ll;sx hl;do	644
+罗江	ll;sx jy;dg	500
+洛江	lp;dk jy;dg	416
+洛龙	lp;dk lj;yp	444
+洛隆	lp;dk lj;eu	267
+洛南	lp;dk nk;ug	456
+洛宁	lp;dk nn;bd	461
+罗平	ll;sx pn;au	531
+洛浦	lp;dk pm;df	433
+罗山	ll;sx un;kl	553
+罗田	ll;sx tv;ku	480
+洛阳	lp;dk yw;eo	750
+罗源	ll;sx yo;dx	551
+洛扎	lp;dk vl;fv	394
+罗庄	ll;sx vw;gt	463
+绿春	lf;su ig;io	384
+绿岛	lf;su dx;nu	547
+吕梁	ls;kk li;dm	602
+绿园	lf;su yo;ky	511
+略阳	ld;tk yw;eo	447
+马边	mm;va br;zl	403
+麻城	mu;gm if;ti	530
+马村	mm;va cg;mc	512
+麻豆	mu;gm dr;ab	588
+玛多	mm;wm ds;xx	422
+马公	mm;va gk;bs	546
+马关	mm;va gd;bt	527
+玛家	mm;wm jd;bu	328
+麻江	mu;gm jy;dg	383
+马龙	mm;va lj;yp	663
+玛沁	mm;wm qv;dx	355
+玛曲	mm;wm qh;kc	392
+马山	mm;va un;kl	729
+麻山	mu;gm un;kl	355
+马尾	mm;va wj;um	676
+麻阳	mu;gm yw;eo	430
+麻章	mu;gm vu;lu	350
+麦积	mo;fw jj;hv	491
+麦寮	mo;fw lu;bx	1
+满城	mo;dl if;ti	592
+满州	mo;dl vx;dl	490
+芒康	mw;cw ku;gl	461
+芒市	mw;cw ut;wj	511
+茫崖	mw;cw yu;ut	374
+茅箭	mi;cm ja;vd	325
+茂林	mv;cw lc;mm	504
+茂名	mv;cw mn;xk	626
+茂南	mv;cw nk;ug	403
+茂县	mv;cw xa;qs	476
+美姑	mj;yd ga;ng	397
+梅江	mr;mm jy;dg	506
+美兰	mj;yd lk;bs	591
+美浓	mj;yd nj;dy	575
+眉山	mr;uo un;kl	661
+梅山	mr;mm un;kl	545
+湄潭	mr;do tk;du	451
+梅县	mr;mm xa;qs	541
+眉县	mr;uo xa;qs	469
+梅州	mr;mm vx;dl	627
+门源	ms;dv yo;dx	488
+蒙城	mf;cu if;ti	501
+孟村	mf;zm cg;mc	376
+勐海	my;zl hu;dm	505
+孟津	mf;zm jh;dy	471
+勐腊	my;zl li;oo	447
+孟连	mf;zm lv;zi	415
+蒙山	mf;cu un;kl	562
+蒙阴	mf;cu yh;eo	463
+孟州	mf;zm vx;dl	428
+蒙自	mf;cu zt;po	547
+米东	mg;bm dk;ax	362
+弥渡	mb;gx dh;dy	411
+弥勒	mb;gx li;gl	603
+米林	mg;bm lc;mm	478
+汨罗	mt;do ll;sx	502
+密山	mt;bu un;kl	432
+弥陀	mb;gx tl;eb	661
+米易	mg;bm yt;ow	431
+密云	mt;bu yf;ag,es	604
+米脂	mg;bm vj;oo	462
+渑池	mp;dd ib;dy	491
+冕宁	mp;oe nn;bd	429
+勉县	mp;dl xa;qs	425
+绵阳	mv;sj yw;eo	645
+绵竹	mv;sj vl;gg	494
+苗栗	mu;ct lt;xm	624
+民丰	mc;vv fc;sl,af,al	442
+民和	mc;vv he;hk	557
+闽侯	mx;mi hr;ru	574
+民勤	mc;vv qc;cl	433
+闽清	mx;mi qe;do	524
+民权	mc;vv qo;my	635
+岷县	mc;um xa;qs	473
+闵行	mx;mw xn;rd	625
+民雄	mc;vv xk;uv	474
+民乐	mc;vv yd;px	589
+明光	mn;oo gw;xe	526
+名间	mn;xk jr;mo	440
+名山	mn;xk un;kl	629
+明山	mn;oo un;kl	570
+明水	mn;oo uv;ln	502
+明溪	mn;oo xj;dd	413
+漠河	mg;dd he;dk	539
+墨江	mg;lt jy;dg	433
+墨脱	mg;lt ts;ox	537
+墨玉	mg;lt yf;wd	479
+牟定	ma;sn dw;bz	348
+沐川	mh;dm id;pl	388
+牡丹	mm;nt dn;kd	725
+木兰	mh;ur lk;bs	649
+木垒	mh;ur lj;st	423
+穆棱	mh;hp lf;mw	406
+木里	mh;ur lg;tt	464
+牟平	mh;sn pn;au	472
+牧野	mh;nw yl;ly	537
+那坡	ni;ve pp;tp	384
+那曲	ni;ve qh;kc	527
+纳溪	ni;sn xj;dd	426
+纳雍	ni;sn yk;wv	423
+乃东	nu;pv,vp dk;ax	323
+南岸	nk;ug aa;ug	652
+南安	nk;ug an;bn	636
+南澳	nk;ug av;dd	607
+南部	nk;ug bh;le	840
+南岔	nk;ug ii;fu	350
+南昌	nk;ug iu;oo	779
+南城	nk;ug if;ti	634
+南充	nk;ug ik;wy	616
+南川	nk;ug id;pl	523
+南丹	nk;ug dn;kd	475
+南芬	nk;ug fe;cf	311
+南丰	nk;ug fc;sl,af,al	527
+南港	nk;ug gp;ds	569
+南岗	nk;ug gp;ux	557
+南宫	nk;ug gk;bk	571
+南关	nk;ug gd;bt	555
+南海	nk;ug hu;dm	795
+南和	nk;ug he;hk	503
+南湖	nk;ug hl;do	647
+南华	nk;ug ht;ru	633
+南化	nk;ug hg;rb	442
+南涧	nk;ug ja;do	424
+南江	nk;ug jy;dg	556
+南京	nk;ug je;wx	889
+南靖	nk;ug jw;lo	508
+南开	nk;ug kb;ac	684
+南康	nk;ug ku;gl	519
+南乐	nk;ug li;px	442
+南陵	nk;ug ln;ew	474
+南明	nk;ug mn;oo	611
+南宁	nk;ug nn;bd	757
+南皮	nk;ug pb;py	424
+南票	nk;ug pl;xu	310
+南平	nk;ug pn;au	602
+南谯	nk;ug qu;yh	1
+南区	nk;ug qh;kx	691
+南沙	nk;ug ul;du	667
+南山	nk;ug un;kl	728
+南通	nk;ug tk;zy	679
+南投	nk;ug ta;fu	627
+南屯	nk;ug tf;av	479
+南溪	nk;ug xj;dd	500
+楠西	nk;mg xj;ak,wk	379
+南县	nk;ug xa;qs	653
+南雄	nk;ug xk;uv	525
+南浔	nk;ug xf;dc	530
+南阳	nk;ug yw;eo	697
+南岳	nk;ug yd;qu	534
+南漳	nk;ug vu;du	434
+南召	nk;ug vv;dk	461
+南郑	nk;ug vf;be	475
+南州	nk;ug vx;dl	593
+南庄	nk;ug vw;gt	530
+楠梓	nk;mg zg;mx	503
+囊谦	nw;gy qr;yj	417
+讷河	ni;yn he;dk	551
+内湖	nf;kr hl;do	551
+内黄	nf;kr hb;cb	451
+内江	nf;kr jy;dg	582
+内门	nf;kr ms;dv	465
+内埔	nf;kr pm;tf	471
+内丘	nf;kr qz;ja	410
+内乡	nf;kr xy;vp	499
+嫩江	no;nw jy;dg	497
+尼玛	nb;ub mm;wm	710
+尼木	nb;ub mh;ur	415
+鸟松	nl;na sk;mg	416
+聂荣	nq;ey rj;cm	523
+宁安	nn;bd an;bn	510
+宁波	nn;bd bp;dp	793
+宁城	nn;bd if;ti	477
+宁德	nn;bd de;rx	615
+宁都	nn;bd dx;le	499
+宁洱	nn;bd eu;de	366
+宁国	nn;bd gl;ky	545
+宁海	nn;bd hu;dm	597
+宁河	nn;bd he;dk	516
+宁化	nn;bd hg;rb	527
+宁江	nn;bd jy;dg	409
+宁晋	nn;bd jv;yo	439
+宁津	nn;bd jh;dy	421
+宁蒗	nn;bd ld;cl	446
+宁陵	nn;bd ln;ew	445
+宁明	nn;bd mn;oo	408
+宁南	nn;bd nk;ug	419
+宁强	nn;bd qi;gi	456
+宁陕	nn;bd uo;ej	422
+宁武	nn;bd wm;yv	475
+宁夏	nn;bd xx;bw	732
+宁县	nn;bd xa;qs	655
+宁乡	nn;bd xy;vp	569
+宁阳	nn;bd yw;eo	457
+宁远	nn;bd ys;zy	533
+农安	nj;by an;bn	481
+怒江	nh;nx jy;dg	570
+暖暖	ns;oy ns;oy	696
+瓯海	ox;qw hu;dm	504
+磐安	pk;vu an;bn	467
+潘集	pn;dt jb;rm	354
+盘锦	pk;vm jx;jj	564
+盘龙	pk;vm lj;yp	594
+盘山	pk;vm un;kl	604
+磐石	pk;vu ub;ak	559
+番禺	pn;ct ym;td	649
+盘州	pk;vm vx;dl	329
+沛县	pf;dj xa;qs	525
+蓬安	pf;cf an;bn	420
+澎湖	pc;dp hl;do	652
+蓬江	pf;cf jy;dg	472
+蓬莱	pf;cf ld;cl	617
+彭山	pf;tp un;kl	488
+彭水	pf;tp uv;ln	484
+蓬溪	pf;cf xj;dd	431
+彭阳	pf;tp yw;eo	409
+彭泽	pf;tp ze;df	476
+彭州	pf;tp vx;dl	534
+郫都	pb;pe dx;le	1
+皮山	pb;py un;kl	409
+埤头	pb;tu ta;dd	457
+邳州	pj;be vx;dl	512
+偏关	pr;rc gd;bt	378
+平安	pn;au an;bn	820
+平坝	pn;au bi;tb	449
+屏边	pn;uk br;zl	391
+平昌	pn;au iu;oo	547
+平城	pn;au if;ti	518
+平川	pn;au id;pl	543
+平定	pn;au dw;bz	655
+屏东	pn;uk dk;ax	656
+平度	pn;au dh;gy	581
+平房	pn;au fw;hf	632
+平谷	pn;au gm;bk	581
+平桂	pn;au gf;mt	342
+平果	pn;au gl;tm	458
+平和	pn;au he;hk	713
+平湖	pn;au hl;do	595
+平江	pn;au jy;dg	590
+平乐	pn;au li;px	527
+平利	pn;au lt;hd	449
+平凉	pn;au li;dx	566
+坪林	pn;tp lc;mm	480
+平陆	pn;au lh;ej	472
+平鲁	pn;au lm;yo	384
+平罗	pn;au ll;sx	464
+平南	pn;au nk;ug	513
+屏南	pn;uk nk;ug	442
+平桥	pn;au qu;ml	535
+平泉	pn;au qo;bu	480
+平山	pn;au un;kl	607
+坪山	pn;tp un;kl	590
+屏山	pn;uk un;kl	557
+平顺	pn;au ur;iy	621
+平潭	pn;au tk;du	593
+平塘	pn;au tw;tk	438
+平武	pn;au wm;yv	465
+平溪	pn;au xj;dd	491
+萍乡	pn;cp xy;vp	562
+平乡	pn;au xy;vp	472
+凭祥	pn;rj xi;py	449
+平阳	pn;au yw;eo	618
+平遥	pn;au yi;zf	586
+平邑	pn;au yt;kb	467
+平阴	pn;au yh;eo	482
+平舆	pn;au ym;jb	477
+平原	pn;au yo;ix	732
+平远	pn;au ys;zy	467
+平镇	pn;au vo;jb	554
+坡头	pp;tp ta;dd	479
+泊头	pp;db ta;dd	398
+鄱阳	pe;ce yw;eo	614
+普安	pm;bo an;bn	503
+浦北	pm;df bj;lb	404
+蒲城	pl;cf if;ti	495
+浦城	pm;df if;ti	473
+普定	pm;bo dw;bz	462
+普洱	pm;bo eu;de	705
+普格	pm;bo ge;mk	418
+浦江	pm;df jy;dg	646
+蒲江	pl;cf jy;dg	486
+浦口	pm;df kz;la	568
+普兰	pm;bo lk;bs	614
+埔里	pm;tf lg;tt	543
+普宁	pm;bo nn;bd	566
+莆田	pl;cf tv;ku	688
+普陀	pm;bo tl;eb	646
+蒲县	pl;cf xa;qs	384
+埔心	pm;tf xh;dd	462
+埔盐	pm;tf yk;tm	412
+濮阳	pl;df yw;eo	614
+朴子	pm;mb zg;la	509
+淇滨	qb;db bh;db	370
+蕲春	qb;cj ig;io	477
+启东	qg;hk dk;ax	518
+祁东	qb;pe dk;ax	431
+七堵	qj;av dm;to	441
+七股	qj;av gm;ou	489
+齐河	qb;wl he;dk	477
+綦江	qb;cx jy;dg	511
+旗津	qb;fb jh;dy	461
+祁连	qb;pe lv;zi	568
+麒麟	qb;lb lc;lf	697
+七美	qj;av mj;yd	419
+祁门	qb;pe ms;dv	509
+岐山	qb;uv un;kl	587
+旗山	qb;fb un;kl	520
+奇台	qb;dk td;sk	434
+栖霞	qj;mx xc;yy	594
+杞县	qg;mj xa;qs	504
+祁县	qb;pe xa;qs	480
+淇县	qb;db xa;qs	428
+七星	qj;av xe;ou	658
+祁阳	qb;pe yw;eo	445
+迁安	qr;zq an;bn	504
+乾安	qv;uv an;bn	1
+前锋	qv;bd fc;jf	728
+潜江	qv;do jy;dg	528
+黔江	qv;lv jy;dg	513
+前进	qv;bd jv;zj	778
+前金	qv;bd jh;rb	411
+黔南	qv;lv nk;ug	525
+千山	qr;pu un;kl	613
+潜山	qv;do un;kl	491
+钱塘	qv;jj tw;tk	635
+犍为	qv;ny wr;ld	463
+黔西	qv;lv xj;ak,wk	548
+迁西	qr;zq xj;ak,wk	429
+乾县	qv;uv xa;qs	1
+千阳	qr;pu yw;eo	448
+前镇	qv;bd vo;jb	476
+谯城	qu;yh if;ti	419
+桥东	qu;ml dk;ax	555
+巧家	ql;gk jd;bu	425
+硚口	qu;ul kz;la	483
+桥头	qu;ml ta;dd	644
+桥西	qu;ml xj;ak,wk	563
+且末	qc;oa mg;am	425
+秦安	qc;ih an;bn	455
+钦北	qh;jq bj;lb	359
+秦都	qc;ih dx;le	407
+秦淮	qc;ih hs;dv	616
+钦南	qh;jq nk;ug	306
+沁水	qv;dx uv;ln	458
+沁县	qv;dx xa;qs	429
+沁阳	qv;dx yw;eo	482
+沁源	qv;dx yo;dx	460
+钦州	qh;jq vx;dl	565
+秦州	qc;ih vx;dl	515
+庆安	qw;gd an;bn	502
+清城	qe;do if;ti	445
+庆城	qw;gd if;ti	413
+青川	qe;fo id;pl	461
+青岛	qe;fo dx;nu	847
+清丰	qe;do fc;sl,af,al	439
+青冈	qe;fo gu;kx	461
+青海	qe;fo hu;dm	772
+清河	qe;do he;dk	626
+青河	qe;fo he;dk	400
+清涧	qe;do ja;do	438
+清流	qe;do lm;di	602
+青龙	qe;fo lj;yp	666
+晴隆	qn;oo lj;eu	431
+青浦	qe;fo pm;df	586
+青山	qe;fo un;kl	733
+青神	qe;fo us;pu	429
+清水	qe;do uv;ln	797
+青田	qe;fo tv;ku	535
+青县	qe;fo xa;qs	465
+青秀	qe;fo xo;hn	522
+清徐	qe;do xm;rm	449
+庆阳	qw;gd yw;eo	558
+青羊	qe;fo yw;bf	551
+青阳	qe;fo yw;eo	525
+清远	qe;do ys;zy	629
+庆元	qw;gd yo;aw	507
+清原	qe;do yo;ix	467
+清苑	qe;do yc;cv	454
+青原	qe;fo yo;ix	403
+庆云	qw;gd yf;ag,es	516
+清镇	qe;do vo;jb	498
+青州	qe;fo vx;dl	591
+琼海	qk;wx hu;dm	552
+琼结	qk;wx js;sk	285
+邛崃	qk;ge ld;ul	531
+芎林	qp;cg lc;mm	1
+琼山	qk;wx un;kl	502
+琼中	qk;wx vk;kl	474
+丘北	qz;ja bj;lb	412
+邱县	qz;qe xa;qs	490
+曲阜	qh;kc fh;pu	583
+曲江	qs;kc jy;dg	584
+衢江	qm;rv jy;dg	396
+曲靖	qh;kc jw;lo	591
+曲水	qs;kc uv;ln	504
+曲松	qh;kc sk;mg	400
+曲沃	qh;kc wg;dy	475
+渠县	qm;dm xa;qs	468
+曲阳	qh;kc yw;eo	517
+衢州	qm;rv vx;dl	606
+曲周	qh;kc vx;kk	413
+泉港	qo;bu gp;ds	461
+全椒	qo;rw jm;my	450
+全南	qo;rw nk;ug	435
+泉山	qo;bu un;kl	533
+泉州	qo;bu vx;dl	722
+全州	qo;rw vx;dl	601
+确山	qd;uy un;kl	463
+壤塘	rp;tf tw;tk	373
+饶河	ri;uw he;dk	423
+饶平	ri;uw pn;au	521
+饶阳	ri;uw yw;eo	419
+仁爱	rs;re ao;vy	616
+仁布	rs;re bh;uj	316
+任城	ro;rw if;ti	470
+仁德	rs;re de;rx	542
+仁和	rs;re he;hk	596
+仁化	rs;re hg;rb	457
+仁怀	rs;re hs;xb	491
+任丘	rs;rw qz;ja	454
+仁寿	rs;re ur;fc	541
+仁武	rs;re wm;yv	464
+任泽	ro;rw ze;df	524
+日土	rt;ka tm;ua	397
+日照	rt;ka vv;oh	681
+融安	rj;gi an;bn	410
+荣昌	rj;cm iu;oo	563
+荣成	rj;cm if;wv	529
+榕城	rj;mg if;ti	464
+容城	rj;bg if;ti	423
+榕江	rj;mg jy;dg	456
+融水	rj;gi uv;ln	486
+荣县	rj;cm xa;qs	508
+容县	rj;bg xa;qs	492
+汝城	rm;dn if;ti	498
+如东	rl;nk dk;ax	520
+如皋	rl;nk gq;bu	589
+汝南	rm;dn nk;ug	540
+乳山	rm;vv un;kl	492
+汝阳	rm;dn yw;eo	480
+乳源	rm;vv yo;dx	460
+汝州	rm;dn vx;dl	540
+瑞安	rf;we an;bn	628
+瑞昌	rf;we iu;oo	491
+芮城	rf;cn if;ti	468
+瑞芳	rf;we fu;cf	522
+瑞金	rf;we jh;rb	615
+瑞丽	rf;we lt;ad	598
+瑞穗	rf;we sf;hx	541
+润州	rr;dw vx;dl	447
+若羌	rp;ck qy;yv	468
+萨嘎	si;ci gl;kg	359
+萨迦	si;ci jd;zk	516
+赛罕	so;bb ho;bg	473
+三重	sn;ae ij;ql	681
+三都	sn;ae da;le	513
+三河	sn;ae he;dk	600
+三江	sn;ae jy;dg	628
+三门	sn;ae ms;dv	659
+三民	sn;ae mc;vv	593
+三明	sn;ae mn;oo	737
+三沙	sn;ae ul;du	523
+三水	sn;ae uv;ln	584
+三穗	sn;ae sf;hx	383
+三台	sn;ae td;sk	620
+三湾	sn;ae wn;dg	455
+三峡	sn;ae xc;uj	699
+三星	sn;ae xe;ou	853
+三亚	sn;ae yi;ay	762
+三义	sn;ae yt;dx	487
+三元	sn;ae yo;aw	723
+三原	sn;ae yo;ix	583
+三芝	sn;ae vj;cv	429
+桑日	su;ym rt;ka	349
+桑植	su;ym vb;mq	474
+色达	si;db du;zd	538
+色尼	si;db nb;ub	1
+莎车	ul;cu ir;au	464
+沙河	ul;du he;dk	637
+沙鹿	ul;du lh;gb	473
+沙市	ul;du ut;wj	675
+沙湾	ul;du wn;dg	605
+沙县	ul;du xa;qs	637
+沙雅	ul;du ym;yv	361
+沙洋	ul;du yw;dy	437
+山城	un;kl if;ti	639
+山丹	un;kl dn;kd	471
+山东	un;kl dk;ax	869
+善化	ua;yk hg;rb	498
+杉林	un;mp lc;mm	489
+山南	un;kl nk;ug	613
+鄯善	ua;ye ua;yk	482
+山上	un;kl ud;ba	719
+山亭	un;kl tn;wd	446
+汕头	ua;du ta;dd	683
+汕尾	ua;du wj;um	584
+山西	un;kl xj;ak,wk	825
+陕西	uo;ej xj;ak,wk	817
+山阳	un;kl yw;eo	600
+山阴	un;kl yh;eo	569
+陕州	uo;ej vx;dl	496
+上蔡	ud;ba co;cu	472
+商城	uu;wk if;ti	769
+上城	ud;ba if;ti	533
+上党	ud;ba dp;xx	527
+商都	uu;wk dx;le	546
+上高	ud;ba gq;wk	658
+上海	ud;ba hu;dm	975
+上杭	ud;ba hw;mj	505
+商河	uu;wk he;dk	477
+上街	ud;ba jk;rt	655
+上栗	ud;ba lt;xm	392
+上林	ud;ba lc;mm	519
+商洛	uu;wk lp;dk	553
+商南	uu;wk nk;ug	467
+商丘	uu;wk qz;ja	611
+上饶	ud;ba ri;uw	600
+商水	uu;wk uv;ln	428
+上思	ud;ba sj;tx	399
+尚义	ud;xk yt;dx	477
+上犹	ud;ba ya;qy	404
+上虞	ud;ba ym;ht	537
+尚志	ud;xk vt;tx	543
+商州	uu;wk vx;dl	476
+邵东	uv;de dk;ax	478
+韶关	ui;lk gd;bt	615
+韶山	ui;lk un;kl	573
+邵武	uv;de wm;yv	496
+绍兴	uv;sk xe;xb	707
+邵阳	uv;de yw;eo	591
+射洪	ui;uc hj;dg	464
+社旗	ui;pt qb;fb	458
+社头	ui;pt ta;dd	423
+歙县	ui;rq xa;qs	549
+涉县	ui;du xa;qs	482
+射阳	ui;uc yw;eo	468
+神池	us;pu ib;dy	427
+什邡	us;ru fu;fe	481
+神冈	us;pu gu;kx	481
+伸港	ue;ru gp;ds	370
+沈河	uo;de he;dk	551
+深坑	ue;dm kc;tj	553
+神木	us;pu mh;ur	575
+沈丘	uo;de qz;ja	455
+莘县	ue;cx xa;qs	435
+沈阳	uo;de yw;eo	815
+深泽	ue;dm ze;df	488
+申扎	ue;ol,yl vl;fv	295
+深圳	ue;dm vo;ti	904
+深州	ue;dm vx;dl	456
+嵊泗	uf;ur st;ds	476
+嵊州	uf;ur vx;dl	503
+市北	ut;wj bj;lb	602
+施秉	uj;fy bw;qr	381
+石城	ub;ak if;ti	564
+施甸	uj;fy dr;bt	391
+石碇	ub;ak dw;uz	448
+石峰	ub;ak fc;uf	485
+石冈	ub;ak gu;kx	455
+石鼓	ub;ak gm;tv	540
+石拐	ub;ak gp;fl	333
+浉河	uj;dj he;dk	412
+石林	ub;ak lc;mm	626
+士林	ut;ua lc;mm	622
+石龙	ub;ak lj;yp	568
+石楼	ub;ak la;mn	477
+石门	ub;ak ms;dv	628
+石棉	ub;ak mv;mj	536
+市南	ut;wj nk;ug	580
+石屏	ub;ak pn;uk	473
+石阡	ub;ak qr;eq	457
+石渠	ub;ak qm;dm	461
+石泉	ub;ak qo;bu	505
+石狮	ub;ak uj;qj	597
+石首	ub;ak uz;bz	504
+石台	ub;ak td;sk	482
+狮潭	uj;qj tk;du	397
+始兴	ug;nk xe;xb	485
+十堰	ub;al ya;tn	583
+市中	ut;wj vk;kl	810
+石柱	ub;ak vh;mv	603
+狮子	uj;qj zj;la	791
+师宗	uj;lj zk;bu	478
+寿丰	ur;fc fc;sl,af,al	420
+寿光	ur;fc gw;xe	538
+寿宁	ur;fc nn;bd	527
+寿县	ur;fc xa;qs	556
+寿阳	ur;fc yw;eo	499
+舒城	ua;ry if;ti	501
+疏附	ua;vi fh;ec	391
+舒兰	ua;ry lk;bs	437
+疏勒	ua;vi li;gl	484
+树林	uh;mc lc;mm	707
+蜀山	um;si un;kl	619
+沭阳	uh;du yw;eo	531
+双柏	uw;yy bu;mb	429
+双城	uw;yy if;ti	609
+双峰	uw;yy fc;uf	566
+双河	uw;yy he;dk	477
+双湖	uw;yy hl;do	432
+双江	uw;yy jy;dg	519
+双辽	uw;yy lu;zl	410
+双流	uw;yy lm;di	600
+双滦	uw;yy lo;dm	312
+双牌	uw;yy pd;pu	384
+双桥	uw;yy qu;ml	539
+双清	uw;yy qe;do	460
+双塔	uw;yy tm;tk	559
+双溪	uw;yy xj;dd	558
+双阳	uw;yy yw;eo	480
+水城	uv;ln if;ti	600
+水富	uv;ln fh;bt	411
+水里	uv;ln lg;tt	718
+水林	uv;ln lc;mm	455
+水上	uv;ln ud;ba	770
+顺昌	ur;iy iu;oo	493
+顺城	ur;iy if;ti	481
+顺德	ur;iy de;rx	687
+顺河	ur;iy he;dk	457
+顺平	ur;iy pn;au	465
+顺庆	ur;iy qw;gd	489
+顺义	ur;iy yt;dx	615
+朔城	up;no if;ti	405
+朔州	up;no vx;dl	546
+四川	st;ke id;pl	870
+泗洪	st;ds hj;dg	470
+四湖	st;ke hl;do	468
+四会	st;ke hf;ry	493
+思茅	sj;tx mi;cm	476
+思明	sj;tx mn;oo	603
+思南	sj;tx nk;ug	540
+四平	st;ke pn;au	621
+泗水	st;ds uv;ln	539
+泗县	st;ds xa;qs	477
+泗阳	st;ds yw;eo	463
+松北	sk;mg bj;lb	471
+松江	sk;mg jy;dg	675
+嵩明	sk;uk mn;oo	481
+松潘	sk;mg pn;dt	500
+松山	sk;mg un;kl	652
+松桃	sk;mg ti;mv	439
+松溪	sk;mg xj;dd	459
+嵩县	sk;uk xa;qs	478
+松阳	sk;mg yw;eo	485
+松原	sk;mg yo;ix	564
+松滋	sk;mg zj;dy	456
+苏澳	sa;cb av;dd	517
+肃北	sh;yb bj;lb	375
+宿城	sh;bb if;ti	436
+肃南	sh;yb nk;ug	406
+肃宁	sh;yb nn;bd	403
+宿迁	sh;bb qr;zq	613
+宿松	sh;bb sk;mg	463
+苏仙	sa;cb xr;ru	393
+宿豫	sh;bb yf;yu	416
+苏州	sa;cb vx;dl	826
+宿州	sh;bb vx;dl	573
+肃州	sh;yb vx;dl	451
+绥滨	sw;sn bh;db	340
+遂昌	sf;zu iu;oo	479
+遂川	sf;zu id;pl	439
+绥德	sw;sn de;rx	484
+绥化	sw;sn hg;rb	510
+绥江	sw;sn jy;dg	366
+绥棱	sw;sn lf;mw	359
+遂宁	sf;zu nn;bd	579
+睢宁	st;ov nn;bd	484
+绥宁	sw;sn nn;bd	413
+遂平	sf;zu pn;au	434
+濉溪	st;dv xj;dd	474
+遂溪	sf;zu xj;dd	419
+睢县	st;ov xa;qs	426
+随县	sw;eo xa;qs	408
+睢阳	st;ov yw;eo	484
+绥阳	sw;sn yw;eo	457
+绥中	sw;sn vk;kl	455
+随州	sw;eo vx;dl	548
+孙吴	sg;zx wl;kt	527
+索县	sl;ux xa;qs	350
+塔城	tm;tk if;ti	549
+漯河	ti;dx he;dk	587
+塔河	tm;tk he;dk	481
+泰安	to;iu an;bn	637
+台安	td;sk an;bn	397
+太白	to;dd bd;po	633
+太保	to;dd bx;rm	624
+台北	td;sk bj;lb	829
+太仓	to;dd cu;rv	605
+台东	td;sk dk;ax	664
+太谷	to;dd gm;bk	501
+太和	to;dd he;hk	627
+泰和	to;iu he;hk	560
+太湖	to;dd hl;do	674
+台江	td;sk jy;dg	546
+太康	to;dd ku;gl	533
+泰来	to;iu ld;am	523
+台南	td;sk nk;ug	735
+泰宁	to;iu nn;bd	517
+太平	to;dd pn;au	832
+台前	td;sk qv;bd	626
+泰山	to;iu un;kl	711
+台山	td;sk un;kl	668
+泰顺	to;iu ur;iy	494
+台湾	td;sk wn;dg	945
+泰武	to;iu wm;yv	371
+台西	td;sk xj;ak,wk	474
+泰兴	to;iu xe;xb	527
+太原	to;dd yo;ix	762
+台中	td;sk vk;kl	752
+台州	tb;sk vx;dl	658
+泰州	to;iu vx;dl	629
+郯城	tk;he if;ti	491
+覃塘	tk;xu tw;tk	323
+潭子	tk;du zg;la	469
+唐河	tw;gk he;dk	508
+唐山	tw;gk un;kl	718
+汤旺	tu;dp wd;ow	376
+唐县	tw;gk xa;qs	502
+汤阴	tu;dp yh;eo	452
+汤原	tu;dp yo;ix	415
+洮北	ti;dv bj;lb	323
+桃城	ti;mv if;ti	436
+桃江	ti;mv jy;dg	467
+洮南	ti;dv nk;ug	413
+桃山	ti;mv un;kl	511
+桃园	ti;mv yo;ky	722
+桃源	ti;mv yo;dx	669
+腾冲	tf;om ik;dv	615
+藤县	tf;cu xa;qs	436
+滕州	tf;ou vx;dl	521
+天长	tr;ad iw;pn	639
+天等	tr;ad dy;vc	461
+田东	tv;ku dk;ax	512
+天峨	tr;ad ee;uw	351
+天河	tr;ad he;dk	702
+天津	tr;ad jh;dy	870
+天峻	tr;ad jr;uw	399
+田寮	tv;ku lu;bx	455
+田林	tv;ku lc;mm	527
+天门	tr;ad ms;dv	651
+天宁	tr;ad nn;bd	527
+天桥	tr;ad qu;ml	696
+天全	tr;ad qo;rw	488
+天山	tr;ad un;kl	672
+天水	tr;ad uv;ln	622
+天台	tr;ad tb;sk	654
+田尾	tv;ku wj;um	428
+天心	tr;ad xh;dd	568
+天涯	tr;ad yu;dt	727
+田阳	tv;ku yw;eo	422
+天元	tr;ad yo;aw	586
+天镇	tr;ad vo;jb	414
+田中	tv;ku vk;kl	673
+天柱	tr;ad vh;mv	585
+天祝	tr;ad vh;px	436
+铁东	tc;jf dk;ax	434
+铁锋	tc;jf fc;jf	361
+铁力	tc;jf lt;vp	462
+铁岭	tc;jf lw;us	573
+铁山	tc;jf un;kl	519
+铁西	tc;jf xj;ak,wk	589
+亭湖	tn;wd hl;do	397
+同安	tj;kk an;bn	607
+桐柏	tj;mk bu;mb	523
+桐城	tj;mk if;ti	550
+通城	tk;zy if;ti	483
+铜川	tj;jk id;pl	570
+通川	tk;zy id;pl	410
+通道	tk;zy dv;zz	825
+同德	tj;kk de;rx	538
+铜鼓	tj;jk gm;tv	511
+潼关	tj;dl gd;bt	545
+铜官	tj;jk gd;bl	456
+通海	tk;zy hu;dm	500
+通河	tk;zy he;dk	482
+通化	tk;zy hg;rb	593
+通江	tk;zy jy;dg	531
+同江	tj;kk jy;dg	469
+铜梁	tj;jk li;dm	482
+通辽	tk;zy lu;zl	571
+铜陵	tj;jk ln;ew	589
+桐庐	tj;mk ll;gh	583
+铜锣	tj;jk ll;jx	649
+潼南	tj;dl nk;ug	478
+同仁	tj;kk rs;re	681
+铜仁	tj;jk rs;re	561
+铜山	tj;jk un;kl	498
+通山	tk;zy un;kl	476
+通渭	tk;zy wf;do	439
+桐乡	tj;mk xy;vp	554
+通霄	tk;zy xm;yo	462
+同心	tj;kk xh;dd	653
+通许	tk;zy xs;yw	445
+通榆	tk;zy ym;md	417
+通州	tk;zy vx;dl	673
+桐梓	tj;mk zg;mx	499
+头城	ta;dd if;ti	519
+头份	ta;dd fo;rf	474
+头屋	ta;dd wa;ut	413
+土城	tm;ua if;ti	571
+土库	tm;ua kh;gi	598
+图们	tl;kd me;rm	505
+突泉	ta;bq qo;bu	544
+团风	to;kc fc;jx	429
+屯昌	tf;av iu;oo	447
+屯留	tf;av lm;pt	532
+屯溪	tf;av xj;dd	518
+托里	ts;fq lg;tt	626
+外埔	wo;xb pm;tf	435
+万安	wa;av an;bn	552
+宛城	wo;bv if;ti	488
+万丹	wa;av dn;kd	467
+万华	wa;av ht;ru	550
+万里	wa;av lg;tt	737
+万峦	wa;av lo;wu	419
+万年	wa;av nv;pf	750
+万宁	wa;av nn;bd	608
+万全	wa;av qo;rw	540
+万荣	wa;av rj;cm	509
+万山	wa;av un;kl	547
+万秀	wa;av xo;hn	389
+万源	wa;av yo;dx	485
+万载	wa;av zu;gi	502
+湾沚	wn;dg vg;dv	1
+万州	wa;av vx;dl	606
+望安	wd;ww an;bn	375
+旺苍	wd;ow cu;cv	431
+望城	wd;ww if;ti	503
+望都	wd;ww dx;le	1
+望花	wd;ww hs;cb	411
+望江	wd;ww jy;dg	559
+望奎	wd;ww kw;dt	421
+望谟	wd;ww me;yd	388
+汪清	wu;dw qe;do	469
+王益	ww;at yt;bm	459
+渭滨	wf;do bh;db	409
+卫滨	wf;ea bh;db	1
+围场	wr;kw ip;tp	514
+渭城	wf;do if;ti	443
+潍城	wr;dv if;ti	364
+卫东	wf;ea dk;ax	576
+魏都	wf;hg dx;le	406
+潍坊	wr;dv fu;tf	668
+威海	wi;wn hu;dm	674
+卫辉	wf;ea ht;gi	473
+渭南	wf;do nk;ug	618
+威宁	wi;wn nn;bd	493
+微山	wi;rj un;kl	529
+巍山	wi;ug un;kl	478
+尉氏	wf;uc ut;pv	442
+维西	wr;sv xj;ak,wk	478
+威县	wi;wn xa;qs	444
+魏县	wf;hg xa;qs	435
+威信	wi;wn xv;rk	627
+未央	wf;am yu;kr	599
+威远	wi;wn ys;zy	511
+渭源	wf;do yo;dx	411
+文安	ws;wx an;bn	518
+文昌	ws;wx iu;oo	667
+文成	ws;wx if;wv	574
+汶川	wo;dw id;pl	627
+文登	ws;wx dc;bb	517
+文峰	ws;wx fc;uf	570
+温江	we;dm jy;dg	548
+温岭	we;dm lw;us	544
+温泉	we;dm qo;bu	802
+文山	ws;wx un;kl	631
+汶上	wo;dw ud;ba	449
+文圣	ws;wx uf;yt	393
+文水	ws;wx uv;ln	475
+温宿	we;dm sh;bb	392
+闻喜	ws;me xg;tk	489
+文县	ws;wx xa;qs	499
+温县	we;dm xa;qs	486
+温州	we;dm vx;dl	767
+瓮安	wf;gw an;bn	430
+翁源	wc;gx yo;dx	467
+卧龙	wg;ib lj;yp	611
+涡阳	wp;dn yw;eo	458
+武安	wm;yv an;bn	550
+吴堡	wl;kt bm;rt	411
+武昌	wm;yv iu;oo	697
+五常	wm;aw iw;xj	607
+武城	wm;yv if;ti	485
+婺城	wh;mn if;ti	442
+武川	wm;yv id;pl	470
+吴川	wl;kt id;pl	470
+务川	wh;wl id;pl	407
+乌翠	wa;pa cf;xu	1
+乌达	wa;pa du;zd	489
+乌当	wa;pa du;xe	459
+无棣	wl;ay dt;ml	416
+武定	wm;yv dw;bz	534
+武都	wm;yv dx;le	509
+五峰	wm;aw fc;uf	524
+雾峰	wh;yl fc;uf	508
+武冈	wm;yv gu;kx	468
+舞钢	wm;pf gu;jx	379
+武功	wm;yv gk;gl	696
+五股	wm;aw gm;ou	490
+乌海	wa;pa hu;dm	519
+武汉	wm;yv ha;dy	859
+五河	wm;aw he;dk	470
+武侯	wm;yv hr;ru	611
+芜湖	wl;cw hl;do	656
+五华	wm;aw ht;ru	569
+无极	wl;ay jb;mj,mn	618
+吴江	wl;kt jy;dg	652
+武江	wm;yv jy;dg	373
+五结	wm;aw js;sk	433
+武进	wm;yv jv;zj	582
+乌来	wa;pa ld;am	458
+乌兰	wa;pa lk;bs	638
+五莲	wm;aw lv;ci	463
+武陵	wm;yv ln;ew	605
+武隆	wm;yv lj;eu	562
+武鸣	wm;yv mn;kn	468
+武宁	wm;yv nn;bd	522
+武平	wm;yv pn;au	542
+吴起	wl;kt qg;tj	563
+梧栖	wl;mk qj;mx	460
+乌恰	wa;pa qx;xk	385
+武强	wm;yv qi;gi	440
+吴桥	wl;kt qu;ml	428
+武清	wm;yv qe;do	576
+乌日	wa;pa rt;ka	509
+巫山	wa;gr un;kl	623
+武山	wm;yv un;kl	486
+乌什	wa;pa us;ru	498
+武胜	wm;yv uf;ou	501
+乌苏	wa;pa sa;cb	571
+五台	wm;aw td;sk	625
+雾台	wh;yl td;sk	390
+无为	wl;ay wr;ld	645
+武威	wm;yv wi;wn	591
+无锡	wl;ay xj;jw	759
+巫溪	wa;gr xj;dd	520
+武乡	wm;yv xy;vp	484
+吴兴	wl;kt xe;xb	551
+武宣	wm;yv xd;bd	426
+武穴	wm;yv xi;bb	463
+舞阳	wm;pf yw;eo	490
+武义	wm;yv yt;dx	515
+武邑	wm;yv yt;kb	424
+婺源	wh;mn yo;dx	649
+五原	wm;aw yo;ix	495
+五寨	wm;aw vo;bm	420
+武陟	wm;yv vt;eu	456
+吴中	wl;kt vk;kl	602
+吴忠	wl;kt vk;vx	528
+梧州	wl;mk vx;dl	566
+西安	xj;ak,wk an;bn	846
+西昌	xj;ak,wk iu;oo	600
+西城	xj;ak,wk if;ti	685
+西充	xj;ak,wk ik;wy	448
+西畴	xj;ak,wk ia;tc	414
+淅川	xj;dj id;pl	513
+喜德	xg;tk de;rx	420
+西峰	xj;ak,wk fc;uf	491
+西丰	xj;ak,wk fc;sl,af,al	441
+息烽	xj;zx fc;hf	441
+西岗	xj;ak,wk gp;ux	509
+西港	xj;ak,wk gp;ds	485
+西工	xj;ak,wk gk;aa	529
+西固	xj;ak,wk gh;kg	502
+细河	xt;st he;dk	214
+西和	xj;ak,wk he;hk	1
+西湖	xj;ak,wk hl;do	760
+溪湖	xj;dd hl;do	544
+西华	xj;ak,wk ht;ru	569
+西吉	xj;ak,wk jb;tk	517
+溪口	xj;dd kz;la	542
+西林	xj;ak,wk lc;mm	595
+西陵	xj;ak,wk ln;ew	534
+西螺	xj;ak,wk ll;ix	489
+西盟	xj;ak,wk mf;om	378
+西宁	xj;ak,wk nn;bd	685
+西平	xj;ak,wk pn;au	568
+西青	xj;ak,wk qe;fo	544
+西区	xj;ak,wk qh;kx	697
+西沙	xj;ak,wk ul;du	627
+西山	xj;ak,wk un;kl	675
+锡山	xj;jw un;kl	578
+西市	xj;ak,wk ut;wj	573
+习水	xb;vd uv;ln	455
+浠水	xj;dj uv;ln	423
+西屯	xj;ak,wk tf;av	481
+西夏	xj;ak,wk xx;bw	631
+西峡	xj;ak,wk xc;uj	514
+息县	xj;zx xa;qs	415
+隰县	xb;eh xa;qs	390
+西乡	xj;ak,wk xy;vp	595
+西秀	xj;ak,wk xo;hn	436
+昔阳	xj;co yw;eo	461
+西屿	xj;ak,wk ys;uy	429
+西藏	xj;ak,wk zd;ci	803
+汐止	xj;dx vg;lb,la,ba	513
+溪州	xj;dd vx;dl	467
+夏河	xx;bw he;dk	461
+峡江	xc;uj jy;dg	438
+夏津	xx;bw jh;dy	418
+下陆	xx;ab lh;ej	356
+厦门	xx;iw ms;dv	833
+霞浦	xc;yy pm;df	565
+霞山	xc;yy un;kl	547
+夏县	xx;bw xa;qs	463
+夏邑	xx;bw yt;kb	440
+下营	xx;ab yn;ck	458
+咸安	xv;wk an;bn	445
+咸丰	xv;wk fc;sl,af,al	637
+仙居	xr;ru jh;ug	554
+咸宁	xv;wk nn;bd	592
+仙桃	xr;ru ti;mv	554
+线西	xa;sj xj;ak,wk	425
+献县	xa;uq xa;qs	433
+咸阳	xv;wk yw;eo	649
+仙游	xr;ru ya;dz	530
+翔安	xi;yx an;bn	555
+相城	xy;mo if;ti	511
+襄城	xy;yf if;ti	493
+项城	xe;gy if;ti	457
+芗城	xy;cx if;ti	453
+乡城	xy;vp if;ti	443
+湘东	xy;do dk;ax	470
+襄都	xy;yf dx;le	1
+香坊	xy;ho fu;tf	521
+襄汾	xy;yf fs;df	449
+祥符	xi;py fl;vc	504
+香港	xy;ho gp;ds	955
+香河	xy;ho he;dk	531
+乡宁	xy;vp nn;bd	388
+湘桥	xy;do qu;ml	383
+香山	xy;ho un;kl	668
+象山	xe;du un;kl	623
+相山	xy;mo un;kl	386
+响水	xu;kk uv;ln	489
+湘潭	xy;do tk;du	642
+湘西	xy;do xj;ak,wk	632
+湘乡	xy;do xy;vp	513
+襄阳	xy;yf yw;eo	671
+向阳	xe;pk yw;eo	629
+湘阴	xy;do yh;eo	463
+襄垣	xy;yf yo;td	445
+祥云	xi;py yf;ag,es	587
+香洲	xy;ho vx;dv	546
+襄州	xy;yf vx;dl	443
+象州	xe;du vx;dl	424
+孝昌	xl;lz iu;oo	456
+小店	xl;lb da;gv	793
+孝感	xl;lz go;wx	562
+小港	xl;lb gp;ds	493
+小金	xl;lb jh;rb	647
+孝南	xl;lz nk;ug	357
+萧山	xm;cb un;kl	662
+猇亭	xm;qj tn;wd	366
+萧县	xm;cb xa;qs	471
+孝义	xl;lz yt;dx	508
+新安	xh;lj an;bn	636
+新北	xh;lj bj;lb	691
+新宾	xh;lj bh;bb	426
+新蔡	xh;lj co;cu	455
+新昌	xh;lj iu;oo	543
+新城	xh;lj if;ti	767
+忻城	xh;xj if;ti	392
+新店	xh;lj da;gv	698
+新都	xh;lj dx;le	627
+信都	xv;rk dx;le	456
+新丰	xh;lj fc;sl,af,al	563
+信丰	xv;rk fc;sl,af,al	449
+忻府	xh;xj fm;gc	370
+新抚	xh;lj fm;fw	318
+新干	xh;lj ga;au	649
+新港	xh;lj gp;ds	601
+新和	xh;lj he;hk	526
+新河	xh;lj he;dk	523
+新华	xh;lj ht;ru	845
+新化	xh;lj hg;rb	562
+新晃	xh;lj hu;og	456
+新会	xh;lj hf;ry	614
+辛集	xh;lu jb;rm	501
+新建	xh;lj ja;zy	779
+新疆	xh;lj jy;gj	838
+新绛	xh;lj je;sf	441
+新津	xh;lj jh;dy	517
+新乐	xh;lj li;px	539
+新龙	xh;lj lj;yp	516
+新罗	xh;lj ll;sx	619
+新密	xh;lj mt;bu	528
+新民	xh;lj mc;vv	664
+新宁	xh;lj nn;bd	506
+新埤	xh;lj pb;tu	1
+新平	xh;lj pn;au	594
+新埔	xh;lj pm;tf	486
+新邱	xh;lj qz;qe	1
+新荣	xh;lj rj;cm	506
+新邵	xh;lj uv;de	415
+新社	xh;lj ui;pt	716
+新市	xh;lj ut;wj	636
+新泰	xh;lj to;iu	497
+新田	xh;lj tv;ku	578
+新屋	xh;lj wa;ut	595
+新吴	xh;lj wl;kt	1
+新县	xh;lj xa;qs	553
+新乡	xh;lj xy;vp	633
+新兴	xh;lj xe;xb	806
+新星	xh;lj xe;ou	678
+信阳	xv;rk yw;eo	639
+新野	xh;lj yl;ly	534
+信义	xv;rk yt;dx	619
+新沂	xh;lj yb;dj	495
+信宜	xv;rk yb;bq	460
+新营	xh;lj yn;ck	537
+新余	xh;lj ym;rm	558
+新园	xh;lj yo;ky	559
+新源	xh;lj yo;dx	504
+新郑	xh;lj vf;be	556
+忻州	xh;xj vx;dl	568
+新洲	xh;lj vx;dv	547
+信州	xv;rk vx;dl	481
+新庄	xh;lj vw;gt	613
+兴安	xe;xb an;bn	636
+兴宾	xe;xb bh;bb	383
+兴城	xe;xb if;ti	519
+兴国	xe;xb gl;ky	611
+兴海	xe;xb hu;dm	456
+兴和	xe;xb he;hk	1
+兴化	xe;xb hg;rb	571
+兴隆	xe;xb lj;eu	662
+兴宁	xe;xb nn;bd	529
+兴平	xe;xb pn;au	501
+兴庆	xe;xb qw;gd	505
+兴仁	xe;xb rs;re	474
+兴山	xe;xb un;kl	442
+邢台	xn;ke td;sk	645
+行唐	xn;rd tw;gk	429
+兴文	xe;xb ws;wx	486
+兴县	xe;xb xa;qs	599
+荥阳	xn;cu yw;eo	571
+兴业	xe;xb yi;la	701
+兴义	xe;xb yt;dx	531
+雄县	xk;uv xa;qs	555
+秀峰	xo;hn fc;uf	518
+秀林	xo;hn lc;mm	463
+休宁	xz;rm nn;bd	492
+秀山	xo;hn un;kl	562
+秀水	xo;hn uv;ln	565
+修水	xz;rp uv;ln	526
+修文	xz;rp ws;wx	533
+修武	xz;rp wm;yv	459
+岫岩	xo;uy yk;uu	457
+秀英	xo;hn ye;cy	572
+秀屿	xo;hn ys;uy	412
+秀洲	xo;hn vx;dv	445
+许昌	xs;yw iu;oo	611
+徐汇	xm;rm hf;dk	630
+溆浦	xf;dy pm;df	453
+徐水	xm;rm uv;ln	491
+徐闻	xm;rm ws;me	474
+盱眙	xh;oy yb;ok	544
+叙永	xf;ry yn;du	478
+徐州	xm;rm vx;dl	726
+叙州	xf;ry vx;dl	405
+宣城	xd;bd if;ti	579
+宣恩	xd;bd ee;yx	401
+宣汉	xd;bd ha;dy	459
+宣化	xd;bd hg;rb	545
+宣威	xd;bd wi;wn	513
+玄武	xo;wy wm;yv	658
+宣州	xd;bd vx;dl	468
+薛城	xu;cx if;ti	415
+学甲	xi;xz jn;ol,tl	512
+寻甸	xf;ec dr;bt	473
+循化	xf;ro hg;rb	443
+逊克	xr;zx ki;ux,ge	354
+寻乌	xf;ec wa;pa	442
+浔阳	xf;dc yw;eo	474
+旬阳	xf;bo yw;eo	447
+旬邑	xf;bo yt;kb	416
+雅安	ym;yv an;bn	653
+亚东	yi;ay dk;ax	563
+雅江	ym;yv jy;dg	458
+崖州	yu;ut vx;dl	452
+延安	yk;zv an;bn	702
+延边	yk;zv br;zl	637
+盐边	yk;tm br;zl	422
+延长	yk;zv iw;pn	792
+燕巢	ya;ch ii;vg	449
+盐城	yk;tm if;ti	636
+郾城	yo;ke if;ti	433
+盐埕	yk;tm if;tw	1
+盐池	yk;tm ib;dy	488
+延川	yk;zv id;pl	447
+盐都	yk;tm dx;le	500
+雁峰	ya;iv fc;uf	405
+沿河	yk;dk he;dk	586
+盐湖	yk;tm hl;do	610
+延吉	yk;zv jb;tk	572
+雁江	ya;iv jy;dg	394
+盐津	yk;tm jh;dy	453
+延津	yk;zv jh;dy	442
+阎良	yk;mj li;dg	515
+鄢陵	yn;ve ln;ew	462
+炎陵	yk;hh ln;ew	428
+延平	yk;zv pn;au	561
+盐埔	yk;tm pm;tf	390
+焉耆	yn;vh qb;lo	479
+延庆	yk;zv qw;gd	628
+铅山	yk;jk un;kl	442
+盐山	yk;tm un;kl	429
+砚山	ya;uj un;kl	397
+雁山	ya;iv un;kl	366
+偃师	yo;rn uj;lj	480
+延寿	yk;zv ur;fc	554
+盐水	yk;tm uv;ln	716
+雁塔	ya;iv tm;tk	624
+烟台	yn;hy td;sk	707
+沿滩	yk;dk tn;dv	361
+盐田	yk;tm tv;ku	582
+盐亭	yk;tm tn;wd	428
+盐源	yk;tm yo;dx	435
+兖州	yo;ly vx;dl	585
+漾濞	yd;dy bt;dw	392
+阳城	yw;eo if;ti	598
+阳春	yw;eo ig;io	644
+阳东	yw;eo dk;ax	443
+阳高	yw;eo gq;wk	539
+阳谷	yw;eo gm;bk	490
+阳江	yw;eo jy;dg	586
+杨陵	yw;mp ln;ew	435
+杨梅	yw;mp mr;mm	623
+阳明	yw;eo mn;oo	687
+杨浦	yw;mp pm;df	607
+阳曲	yw;eo qh;kc	467
+阳泉	yw;eo qo;bu	573
+阳山	yw;eo un;kl	551
+阳朔	yw;eo up;no	623
+阳西	yw;eo xj;ak,wk	576
+洋县	yw;dy xa;qs	486
+阳新	yw;eo xh;lj	489
+阳信	yw;eo xv;rk	460
+阳原	yw;eo yo;ix	412
+扬中	yw;fp vk;kl	488
+扬州	yw;fp vx;dl	747
+姚安	yi;nv an;bn	454
+尧都	yi;yw dx;le	1
+瑶海	yi;wf hu;dm	531
+耀州	yv;gv vx;dl	486
+叶城	yi;ku if;ti	467
+叶集	yi;ku jb;rm	481
+叶县	yi;ku xa;qs	584
+义安	yt;dx an;bn	479
+依安	yj;ry an;bn	378
+宜宾	yb;bq bh;bb	628
+宜昌	yb;bq iu;oo	663
+宜城	yb;bq if;ti	471
+翼城	yt;xg if;ti	455
+峄城	yt;uf if;ti	403
+驿城	yt;mf if;ti	392
+宜川	yb;bq id;pl	489
+伊川	yj;ry,rp id;pl	481
+宜春	yb;bq ig;io	584
+伊春	yj;ry,rp ig;io	534
+宜都	yb;bq dx;le	479
+宜丰	yb;bq fc;sl,af,al	437
+宜黄	yb;bq hb;cb	436
+弋江	yt;yd jy;dg	386
+宜君	yb;bq jg;yk	408
+宜兰	yb;bq lk;bs	649
+依兰	yj;ry lk;bs	495
+宜良	yb;bq li;dg	492
+彝良	yb;hc li;dg	422
+夷陵	yb;ar ln;ew	545
+仪陇	yb;ry ln;el	450
+义马	yt;dx mm;va	429
+伊美	yj;ry,rp mj;yd	451
+易门	yt;ow ms;dv	417
+沂南	yb;dj nk;ug	467
+沂水	yb;dj uv;ln	498
+伊通	yj;ry,rp tk;zy	468
+义乌	yt;dx wa;pa	653
+伊吾	yj;ry,rp wl;wk	429
+义县	yt;dx xa;qs	624
+易县	yt;ow xa;qs	514
+黟县	yj;lx xa;qs	512
+宜兴	yb;bq xe;xb	617
+宜秀	yb;bq xo;hn	320
+益阳	yt;bm yw;eo	581
+弋阳	yt;yd yw;eo	496
+宜阳	yb;bq yw;eo	470
+沂源	yb;dj yo;dx	438
+宜章	yb;bq vu;lu	440
+仪征	yb;ry vc;rv	508
+伊州	yj;ry,rp vx;dl	645
+宜州	yb;bq vx;dl	432
+义竹	yt;dx vl;gg	1
+银川	yc;jg id;pl	670
+殷都	yh;pu dx;le	334
+银海	yc;jg hu;dm	491
+印江	yv;pe jy;dg	457
+印台	yv;pe td;sk	415
+鄞州	yc;ce vx;dl	568
+银州	yc;jg vx;dl	369
+应城	ye;ga if;ti	446
+英德	ye;cy de;rx	562
+颍东	yw;by dk;ax	352
+莺歌	ye;cn gr;kq	525
+盈江	yn;nm jy;dg	480
+迎江	yn;ze jy;dg	384
+荥经	yn;cu je;sj	447
+营口	yn;ck kz;la	600
+颍泉	yw;by qo;bu	381
+营山	yn;ck un;kl	465
+英山	ye;cy un;kl	457
+颍上	yw;by ud;ba	454
+鹰潭	ye;gn tk;du	529
+应县	ye;ga xa;qs	494
+迎泽	yn;ze ze;df	521
+颍州	yw;by vx;dl	490
+永安	yn;du an;bn	654
+永昌	yn;du iu;oo	639
+永城	yn;du if;ti	507
+永川	yn;du id;pl	559
+永春	yn;du ig;io	565
+永德	yn;du de;rx	475
+永登	yn;du dc;bb	489
+永定	yn;du dw;bz	611
+永丰	yn;du fc;sl,af,al	580
+永福	yn;du fl;pt	584
+永和	yn;du he;hk	661
+永吉	yn;du jb;tk	502
+永济	yn;du jt;dq	497
+永嘉	yn;du jd;tk	603
+永靖	yn;du jw;lo	466
+永康	yn;du ku;gl	632
+永年	yn;du nv;pf	575
+永宁	yn;du nn;bd	586
+邕宁	yk;vb nn;bd	441
+永平	yn;du pn;au	598
+埇桥	yn;ty qu;ml	1
+永清	yn;du qe;do	545
+永仁	yn;du rs;re	505
+永善	yn;du ua;yk	420
+永胜	yn;du uf;ou	535
+永寿	yn;du ur;fc	480
+永顺	yn;du ur;iy	504
+永泰	yn;du to;iu	606
+永新	yn;du xh;lj	547
+永兴	yn;du xe;xb	601
+永修	yn;du xz;rp	477
+永州	yn;du vx;dl	577
+友好	yz;uy hx;nz	799
+右江	yr;uk jy;dg	444
+尤溪	ya;yd xj;dd	475
+游仙	ya;dz xr;ru	538
+攸县	yx;rw xa;qs	503
+酉阳	yz;xa yw;eo	510
+友谊	yz;uy yt;yq	772
+右玉	yr;uk yf;wd	439
+裕安	yf;pg an;bn	459
+渝北	ym;dd bj;lb	563
+禹城	ys;pd if;ti	463
+虞城	ym;ht if;ti	447
+雨城	ys;ad if;ti	442
+鱼池	ym;da ib;dy	563
+榆次	ym;md ct;dq	512
+于都	ym;au dx;le	508
+鱼峰	ym;da fc;uf	401
+余干	ym;rm ga;au	465
+余杭	ym;rm hw;mj	615
+于洪	ym;au hj;dg	545
+雨湖	ys;ad hl;do	401
+雨花	ys;ad hs;cb	622
+裕华	yf;pg ht;ru	521
+玉环	yf;wd ho;wb	598
+禹会	ys;pd hf;ry	386
+余江	ym;rm jy;dg	420
+玉井	yf;wd jw;ac,el	480
+玉里	yf;wd lg;tt	484
+玉林	yf;wd lc;mm	638
+榆林	ym;md lc;mm	621
+玉龙	yf;wd lj;yp	632
+玉门	yf;wd ms;dv	536
+裕民	yf;pg mc;vv	479
+郁南	yf;ue nk;ug	429
+玉屏	yf;wd pn;uk	508
+余庆	ym;rm qw;gd	491
+玉泉	yf;wd qo;bu	587
+玉山	yf;wd un;kl	608
+雨山	ys;ad un;kl	416
+榆社	ym;md ui;pt	413
+玉树	yf;wd uh;mc	617
+榆树	ym;md uh;mc	556
+渝水	ym;dd uv;ln	389
+鱼台	ym;da td;sk	586
+玉田	yf;wd tv;ku	498
+于田	ym;au tv;ku	435
+玉溪	yf;wd xj;dd	597
+蔚县	yf;cc xa;qs	490
+盂县	ym;ym xa;qs	451
+榆阳	ym;md yw;eo	471
+余姚	ym;rm yi;nv	603
+渝中	ym;dd vk;kl	582
+榆中	ym;md vk;kl	517
+禹州	ys;pd vx;dl	509
+玉州	yf;wd vx;dl	347
+远安	ys;zy an;bn	412
+元宝	yo;aw bx;by	677
+元长	yo;aw iw;pn	442
+源城	yo;dx if;ti	396
+源汇	yo;dx hf;dk	371
+沅江	yo;dy jy;dg	479
+元江	yo;aw jy;dg	473
+苑里	yc;cv lg;tt	474
+员林	yo;kb lc;mm	544
+沅陵	yo;dy ln;ew	469
+元谋	yo;aw ma;ym	479
+原平	yo;ix pn;au	488
+垣曲	yo;td qh;kc	438
+员山	yo;kb un;kl	406
+元氏	yo;aw ut;pv	475
+元阳	yo;aw yw;eo	541
+原阳	yo;ix yw;eo	452
+原州	yo;ix vx;dl	459
+袁州	yo;ty vx;dl	453
+越城	yd;tl if;ti	470
+岳池	yd;qu ib;dy	461
+月湖	yd;ke hl;do	525
+岳麓	yd;qu lh;ml	623
+乐清	yd;px qe;do	572
+岳塘	yd;qu tw;tk	388
+岳西	yd;qu xj;ak,wk	469
+越西	yd;tl xj;ak,wk	389
+越秀	yd;tl xo;hn	624
+岳阳	yd;qu yw;eo	651
+云安	yf;ag,es an;bn	534
+运城	yr;zy if;ti	628
+郓城	yr;be if;ti	472
+云城	yf;ag,es if;ti	428
+云浮	yf;ag,es fl;dz	535
+云冈	yf;ag,es gu;kx	487
+运河	yr;zy he;dk	733
+云和	yf;ag,es he;hk	592
+筠连	yf;vy lv;zi	442
+云林	yf;ag,es lc;mm	631
+云龙	yf;ag,es lj;yp	635
+云梦	yf;ag,es mf;mx	515
+云南	yf;ag,es nk;ug	848
+云溪	yf;ag,es xj;dd	467
+郧西	yf;ke xj;ak,wk	424
+云县	yf;ag,es xa;qs	556
+云霄	yf;ag,es xm;yo	598
+云岩	yf;ag,es yk;uu	516
+云阳	yf;ag,es yw;eo	524
+郧阳	yf;ke yw;eo	457
+云州	yf;ag,es vx;dl	423
+杂多	zu;jm ds;xx	550
+赞皇	za;nb hb;bw	446
+枣强	zx;ud qi;gi	417
+造桥	zv;zk qu;ml	455
+枣阳	zx;ud yw;eo	496
+枣庄	zx;ud vw;gt	593
+泽州	ze;df vx;dl	496
+增城	zc;to if;ti	602
+札达	vu;mv du;zd	375
+扎囊	vl;fv nw;gy	358
+柞水	vi;mv uv;ln	418
+湛河	va;db he;dk	323
+沾化	vn;dv hg;rb	440
+湛江	va;db jy;dg	646
+站前	va;lv qv;bd	653
+沾益	vn;dv yt;bm	411
+张北	vu;gi bj;lb	512
+张店	vu;gi da;gv	487
+长葛	vp;pn ge;cr	471
+章贡	vu;lu gy;gb	414
+彰化	vu;lp hg;rb	664
+漳平	vu;du pn;au	467
+漳浦	vu;du pm;df	526
+章丘	vu;lu qz;ja	580
+樟树	vu;mu uh;mc	554
+张湾	vu;gi wn;dg	410
+彰武	vu;lp wm;yv	452
+漳县	vu;du xa;qs	481
+张掖	vu;gi yr;fw	584
+漳州	vu;du vx;dl	686
+长子	vp;pn zg;la	708
+诏安	vv;yk an;bn	497
+肇东	vv;hy dk;ax	432
+昭化	vq;ok hg;rb	437
+昭觉	vq;ok ji;xj	435
+召陵	vv;dk ln;ew	384
+昭平	vq;ok pn;au	425
+肇庆	vv;hy qw;gd	615
+昭苏	vq;ok sa;cb	458
+昭通	vq;ok tk;zy	571
+赵县	vv;tx xa;qs	445
+朝阳	vq;uo yw;eo	767
+昭阳	vq;ok yw;eo	479
+招远	vq;fk ys;zy	491
+肇源	vv;hy yo;dx	382
+肇州	vv;hy vx;dl	385
+柘城	vi;mu if;ti	420
+浙江	vi;dj jy;dg	862
+柘荣	vi;mu rj;cm	444
+镇安	vo;jb an;bn	492
+振安	vo;fi an;bn	317
+镇巴	vo;jb bl;sl	401
+贞丰	ve;bb fc;sl,af,al	421
+镇海	vo;jb hu;dm	601
+镇江	vo;jb jy;dg	669
+浈江	ve;db jy;dg	1
+镇康	vo;jb ku;gl	438
+镇赉	vo;jb lo;lb	381
+镇宁	vo;jb nn;bd	474
+镇平	vo;jb pn;au	494
+镇坪	vo;jb pn;tp	450
+振兴	vo;fi xe;xb	691
+镇雄	vo;jb xk;uv	463
+镇远	vo;jb ys;zy	542
+镇原	vo;jb yo;ix	479
+镇沅	vo;jb yo;dy	1
+正安	vf;av an;bn	438
+正定	vf;av dw;bz	581
+政和	vf;vw he;hk	528
+正宁	vf;av nn;bd	416
+蒸湘	vc;ch xy;do	364
+正阳	vf;av yw;eo	559
+郑州	vf;be vx;dl	817
+志丹	vt;tx dn;kd	496
+治多	vt;dk ds;xx	395
+芝罘	vj;cv fl;sb	489
+芷江	vg;cv jy;dg	488
+枝江	vj;mv jy;dg	475
+织金	vj;sv jh;rb	487
+仲巴	vy;rv bl;sl	368
+中方	vk;kl fu;wv	731
+中和	vk;kl he;hk	729
+中江	vk;kl jy;dg	544
+中坜	vk;kl lt;tl	572
+中寮	vk;kl lu;bx	427
+钟楼	vk;jv la;mn	646
+中牟	vk;kl mh;sn	514
+中宁	vk;kl nn;bd	470
+中埔	vk;kl pm;tf	448
+中区	vk;kl qh;kx	665
+中山	vk;kl un;kl	813
+钟山	vk;jv un;kl	566
+中卫	vk;kl wf;ea	610
+中西	vk;kl xj;ak,wk	759
+忠县	vk;vx xa;qs	487
+钟祥	vk;jv xi;py	491
+中阳	vk;kl yw;eo	559
+中原	vk;kl yo;ix	757
+中站	vk;kl va;lv	469
+中正	vk;kl vf;av	680
+周村	vx;kk cg;mc	494
+周口	vx;kk kz;la	604
+周宁	vx;kk nn;bd	483
+舟曲	vx;pd qh;kc	413
+舟山	vx;pd un;kl	642
+周至	vx;kk vt;gt	531
+竹北	vl;gg bj;lb	505
+诸城	va;yo if;ti	531
+竹东	vl;gg dk;ax	488
+珠海	va;ww hu;dm	762
+珠晖	va;ww ht;oi	371
+诸暨	va;yo jt;gd	557
+竹南	vl;gg nk;ug	488
+竹崎	vl;gg qb;uk	444
+竹山	vl;gg un;kl	551
+珠山	va;ww un;kl	510
+竹塘	vl;gg tw;tk	427
+竹田	vl;gg tv;ku	509
+竹溪	vl;gg xj;dd	474
+株洲	va;mw vx;dv	640
+庄河	vw;gt he;dk	526
+庄浪	vw;gt ld;dl	414
+壮围	ve;lt wr;kw	403
+卓兰	vl;bu lk;bs	414
+涿鹿	vs;du lh;gb	486
+卓尼	vl;bu nb;ub	429
+卓溪	vl;bu xj;dd	361
+涿州	vs;du vx;dl	518
+卓资	vl;bu zj;db	377
+淄博	zj;dt be;uc	645
+子长	zg;la iw;pn	522
+淄川	zj;dt id;pl	484
+自贡	zt;po gy;gb	613
+梓官	zg;mx gd;bl	401
+秭归	zg;hd gt;le	489
+紫金	zg;vx jh;rb	644
+梓潼	zg;mx tj;dl	474
+资溪	zj;db xj;dd	407
+资兴	zj;db xe;xb	459
+紫阳	zg;vx yw;eo	565
+资阳	zj;db yw;eo	561
+资源	zj;db yo;dx	960
+紫云	zg;vx yf;ag,es	548
+资中	zj;db vk;kl	637
+子洲	zg;la vx;dv	536
+枞阳	zk;mr yw;eo	450
+邹城	zx;de if;ti	481
+邹平	zx;de pn;au	470
+遵化	zg;zc hg;rb	489
+遵义	zg;zc yt;dx	664
+左贡	zl;ug gy;gb	394
+左权	zl;ug qo;my	488
+左营	zl;ug yn;ck	545
+左云	zl;ug yf;ag,es	391
+左镇	zl;ug vo;jb	397
+阿坝县	al;ek bi;tb xa;qs	380
+阿城区	al;ek if;ti qh;kx	1
+阿尔山	al;ek eu;dx un;kl	532
+阿合奇	al;ek he;rk qb;dk	309
+阿克塞	al;ek ki;ux,ge sb;bt	1
+阿克苏	al;ek ki;ux,ge sa;cb	571
+阿克陶	al;ek ki;ux,ge ti;ef	378
+阿拉尔	al;ek ll;fl eu;dx	450
+阿拉善	al;ek ll;fl ua;yk	571
+阿勒泰	al;ek li;gl to;iu	573
+阿里山	al;ek lg;tt un;kl	567
+阿莲区	al;ek lv;ci qh;kx	1
+阿荣旗	al;ek rj;cm qb;fb	355
+阿图什	al;ek tl;kd us;ru	409
+阿瓦提	al;ek wm;ad tb;fz	406
+爱辉区	ao;vy ht;gi qh;kx	339
+爱民区	ao;vy mc;vv qh;kx	223
+安次区	an;bn ct;dq qh;kx	313
+安达市	an;bn du;zd ut;wj	353
+安定区	an;bn dw;bz qh;kx	391
+安多县	an;bn ds;xx xa;qs	293
+安福县	an;bn fl;pt xa;qs	418
+安国市	an;bn gl;ky ut;wj	336
+安化县	an;bn hg;rb xa;qs	414
+安徽省	an;bn ht;rx uy;uo	736
+安吉县	an;bn jb;tk xa;qs	437
+安居区	an;bn jh;ug qh;kx	337
+安康市	an;bn ku;gl ut;wj	515
+安乐区	an;bn li;px qh;kx	1
+安龙县	an;bn lj;yp xa;qs	348
+安陆市	an;bn lh;ej ut;wj	391
+安南区	an;bn nk;ug qh;kx	1
+安宁区	an;bn nn;bd qh;kx	452
+安宁市	an;bn nn;bd ut;wj	446
+安平区	an;bn pn;au qh;kx	1
+安平县	an;bn pn;au xa;qs	444
+安庆市	an;bn qw;gd ut;wj	515
+安丘市	an;bn qz;ja ut;wj	397
+安仁县	an;bn rs;re xa;qs	365
+安塞区	an;bn sb;bt qh;kx	1
+鞍山市	an;gn un;kl ut;wj	545
+安顺市	an;bn ur;iy ut;wj	509
+安图县	an;bn tl;kd xa;qs	371
+安溪县	an;bn xj;dd xa;qs	476
+安乡县	an;bn xy;vp xa;qs	372
+安新县	an;bn xh;lj xa;qs	403
+安阳市	an;bn yw;eo ut;wj	550
+安阳县	an;bn yw;eo xa;qs	481
+安义县	an;bn yt;dx xa;qs	402
+安源区	an;bn yo;dx qh;kx	331
+安远县	an;bn ys;zy xa;qs	376
+安岳县	an;bn yd;qu xa;qs	463
+安泽县	an;bn ze;df xa;qs	310
+安州区	an;bn vx;dl qh;kx	1
+昂昂溪	aw;oe aw;oe xj;dd	1
+昂仁县	aw;oe rs;re xa;qs	255
+敖汉旗	ai;fw ha;dy qb;fb	415
+八步区	bl;pn bh;vu qh;kx	380
+巴楚县	bl;sl im;mz xa;qs	372
+八德区	bl;pn de;rx qh;kx	1
+巴东县	bl;sl dk;ax xa;qs	399
+八公山	bl;pn gk;bs un;kl	1
+巴里坤	bl;sl lg;tt kg;tu	449
+八里区	bl;pn lg;tt qh;kx	1
+巴南区	bl;sl nk;ug qh;kx	491
+灞桥区	bi;do qu;ml qh;kx	414
+巴青县	bl;sl qe;fo xa;qs	248
+八宿县	bl;pn sh;bb xa;qs	313
+巴塘县	bl;sl tw;tk xa;qs	330
+巴彦县	bl;sl ya;wp xa;qs	376
+巴宜区	bl;sl yb;bq qh;kx	1
+鲅鱼圈	bi;yy ym;da qd;kv	436
+巴中市	bl;sl vk;kl ut;wj	547
+巴州区	bl;sl vx;dl qh;kx	453
+霸州市	bi;yo vx;dl ut;wj	383
+白城市	bd;po if;ti ut;wj	407
+拜城县	bo;uf if;ti xa;qs	351
+白河区	bd;po he;dk qh;kx	1
+白河县	bd;po he;dk xa;qs	389
+白碱滩	bd;po jp;uk tn;dv	252
+白朗县	bd;po lp;lo xa;qs	288
+拜泉县	bo;uf qo;bu xa;qs	288
+百色市	bu;ab si;db ut;wj	477
+白沙乡	bd;po ul;du xy;vp	397
+白山市	bd;po un;kl ut;wj	463
+白水县	bd;po uv;ln xa;qs	388
+白塔区	bd;po tm;tk qh;kx	345
+柏乡县	bu;mb xy;vp xa;qs	304
+白银区	bd;po yc;jg qh;kx	365
+白银市	bd;po yc;jg ut;wj	473
+白玉县	bd;po yf;wd xa;qs	311
+白云区	bd;po yf;ag,es qh;kx	589
+班戈县	bn;wl gr;yp xa;qs	289
+班玛县	bn;wl mm;wm xa;qs	399
+板桥区	bo;my qu;ml qh;kx	1
+蚌山区	bd;if un;kl qh;kx	1
+宝安区	bx;by an;bn qh;kx	572
+保德县	bx;rm de;rx xa;qs	345
+宝坻区	bx;by dg;tu qh;kx	480
+保定市	bx;rm dw;bz ut;wj	587
+宝丰县	bx;by fc;sl,af,al xa;qs	423
+包河区	bq;bs he;dk qh;kx	487
+宝鸡市	bx;by jj;yn ut;wj	539
+保靖县	bx;rm jw;lo xa;qs	350
+保康县	bx;rm ku;gl xa;qs	378
+宝清县	bx;by qe;do xa;qs	373
+宝山区	bx;by un;kl qh;kx	538
+保山市	bx;rm un;kl ut;wj	462
+宝山乡	bx;by un;kl xy;vp	1
+宝塔区	bx;by tm;tk qh;kx	383
+包头市	bq;bs ta;dd ut;wj	579
+宝兴县	bx;by xe;xb xa;qs	442
+宝应县	bx;by yw;ga xa;qs	419
+褒忠乡	bq;ym vk;vx xy;vp	1
+北安市	bj;lb an;bn ut;wj	368
+北碚区	bj;lb bf;uk qh;kx	465
+北辰区	bj;lb is;iy qh;kx	495
+北戴河	bj;lb do;gg he;dk	582
+北斗镇	bj;lb dz;ud vo;jb	1
+北港镇	bj;lb gp;ds vo;jb	396
+北关区	bj;lb gd;bt qh;kx	351
+北海市	bj;lb hu;dm ut;wj	497
+北湖区	bj;lb hl;do qh;kx	355
+北京市	bj;lb je;wx ut;wj	818
+碑林区	bi;uu lc;mm qh;kx	470
+北林区	bj;lb lc;mm qh;kx	312
+北流市	bj;lb lm;di ut;wj	373
+北仑区	bj;lb lf;rb qh;kx	457
+北门区	bj;lb ms;dv qh;kx	1
+卑南乡	bi;pu nk;ug xy;vp	1
+北票市	bj;lb pl;xu ut;wj	357
+北埔乡	bj;lb pm;tf xy;vp	1
+北塔区	bj;lb tm;tk qh;kx	265
+北投区	bj;lb ta;fu qh;kx	452
+北屯区	bj;lb tf;av qh;kx	1
+北镇市	bj;lb vo;jb ut;wj	1
+本溪市	bo;ma xj;dd ut;wj	479
+蚌埠市	bf;if bh;tu ut;wj	517
+碧江区	bt;wu jy;dg qh;kx	1
+毕节市	bt;bu js;ce ut;wj	489
+比如县	bg;bb rl;nk xa;qs	280
+璧山区	bt;uy un;kl qh;kx	1
+泌阳县	bt;db yw;eo xa;qs	386
+边坝县	br;zl bi;tb xa;qs	228
+滨城区	bh;db if;ti qh;kx	345
+宾川县	bh;bb id;pl xa;qs	398
+滨海县	bh;db hu;dm xa;qs	342
+滨湖区	bh;db hl;do qh;kx	466
+滨江区	bh;db jy;dg qh;kx	477
+宾阳县	bh;bb yw;eo xa;qs	427
+滨州市	bh;db vx;dl ut;wj	485
+彬州市	bh;mp vx;dl ut;wj	1
+博爱县	be;uc ao;vy xa;qs	380
+博白县	be;uc bd;po xa;qs	452
+博湖县	be;uc hl;do xa;qs	337
+博乐市	be;uc li;px ut;wj	349
+勃利县	be;ul lt;hd xa;qs	335
+博罗县	be;uc ll;sx xa;qs	468
+波密县	bp;dp mt;bu xa;qs	362
+博山区	be;uc un;kl qh;kx	403
+博望区	be;uc wd;ww qh;kx	1
+博兴县	be;uc xe;xb xa;qs	388
+博野县	be;uc yl;ly xa;qs	392
+播州区	bg;ft vx;dl qh;kx	1
+亳州市	be;wq vx;dl ut;wj	486
+布袋镇	bh;uj do;ry vo;jb	387
+布尔津	bh;uj eu;dx jh;dy	468
+布拖县	bh;uj ts;fy xa;qs	283
+蔡甸区	co;cu dr;bt qh;kx	418
+苍南县	cu;cv nk;ug xa;qs	488
+仓山区	cu;rv un;kl qh;kx	497
+苍梧县	cu;cv wl;mk xa;qs	361
+苍溪县	cu;cv xj;dd xa;qs	403
+沧州市	cu;dv vx;dl ut;wj	516
+曹妃甸	ci;co fi;nj dr;bt	519
+草屯镇	cx;cu tf;av vo;jb	1
+册亨县	ci;ka hc;wl xa;qs	350
+策勒县	ci;vu li;gl xa;qs	303
+岑巩县	cs;uv gn;gf xa;qs	337
+岑溪市	cs;uv xj;dd ut;wj	398
+曾都区	cf;bo dx;le qh;kx	322
+茶陵县	iu;cm ln;ew xa;qs	383
+察雅县	iu;bu ym;yv xa;qs	261
+察隅县	iu;bu ym;ed xa;qs	341
+柴桑区	id;vm su;ym qh;kx	1
+禅城区	ik;pu if;ti qh;kx	543
+长安区	iw;pn an;bn qh;kx	541
+长滨乡	iw;pn bh;db xy;vp	357
+长春市	iw;pn ig;io ut;wj	662
+常德市	iw;xj de;rx ut;wj	511
+昌都市	iu;oo da;le ut;wj	1
+长丰县	iw;pn fc;sl,af,al xa;qs	458
+长海县	iw;pn hu;dm xa;qs	429
+昌吉市	iu;oo jb;tk ut;wj	416
+昌江区	iu;oo jy;dg qh;kx	272
+长乐区	iw;pn li;px qh;kx	1
+昌乐县	iu;oo li;px xa;qs	407
+昌黎县	iu;oo lb;hu xa;qs	403
+长岭县	iw;pn lw;us xa;qs	307
+长宁区	iw;pn nn;bd qh;kx	552
+常宁市	iw;xj nn;bd ut;wj	352
+长宁县	iw;pn nn;bd xa;qs	390
+昌宁县	iu;oo nn;bd xa;qs	371
+昌平区	iu;oo pn;au qh;kx	567
+长清区	iw;pn qe;do qh;kx	463
+长沙市	iw;pn ul;du ut;wj	662
+长沙县	iw;pn ul;du xa;qs	526
+常山县	iw;xj un;kl xa;qs	367
+长寿区	iw;pn ur;fc qh;kx	412
+常熟市	iw;xj ul;wh ut;wj	478
+长顺县	iw;pn ur;iy xa;qs	360
+长泰区	iu;pn to;iu qh;kx	1
+长汀县	iw;pn te;dd xa;qs	433
+昌图县	iu;oo tl;kd xa;qs	388
+长武县	iw;pn wm;yv xa;qs	324
+长兴县	iw;pn xe;xb xa;qs	445
+昌邑区	iu;oo yt;kb qh;kx	343
+昌邑市	iu;oo yt;kb ut;wj	367
+长垣市	iw;pn yo;td ut;wj	1
+长治市	iw;pn vt;dk ut;wj	553
+长治乡	iw;pn vt;dk xy;vp	1
+长洲区	iw;pn vx;dv qh;kx	268
+常州市	iw;xj vx;dl ut;wj	564
+潮安区	ii;do an;bn qh;kx	1
+巢湖市	ii;vg hl;do ut;wj	468
+潮南区	ii;do nk;ug qh;kx	399
+朝天区	ii;uo tr;ad qh;kx	320
+朝阳区	ii;uo yw;eo qh;kx	687
+潮阳区	ii;do yw;eo qh;kx	443
+潮州市	ii;do vx;dl ut;wj	495
+潮州镇	ii;do vx;dl vo;jb	1
+车城乡	ir;au if;ti xy;vp	1
+陈仓区	is;ed cu;rv qh;kx	372
+辰溪县	is;iy xj;dd xa;qs	355
+郴州市	ie;me vx;dl ut;wj	510
+成安县	if;wv an;bn xa;qs	376
+城北区	if;ti bj;lb qh;kx	442
+澄城县	if;db if;ti xa;qs	387
+承德市	if;ln de;rx ut;wj	516
+承德县	if;ln de;rx xa;qs	378
+城东区	if;ti dk;ax qh;kx	436
+成都市	if;wv da;le ut;wj	699
+称多县	ic;hx ds;xx xa;qs	332
+呈贡区	if;kw gy;gb qh;kx	1
+成功镇	if;wv gk;gl vo;jb	1
+城固县	if;ti gh;kg xa;qs	394
+城关区	if;ti gd;bt qh;kx	538
+澄海区	if;db hu;dm qh;kx	409
+成华区	if;wv ht;ru qh;kx	489
+澄江市	if;db jy;dg ut;wj	1
+城口县	if;ti kz;la xa;qs	403
+澄迈县	if;db mo;zw xa;qs	464
+成武县	if;wv wm;yv xa;qs	338
+城西区	if;ti xj;ak,wk qh;kx	431
+城厢区	if;ti xy;io qh;kx	408
+城阳区	if;ti yw;eo qh;kx	500
+城中区	if;ti vk;kl qh;kx	443
+城子河	if;ti zg;la he;dk	1
+赤壁市	it;tb bt;ut ut;wj	423
+赤城县	it;tb if;ti xa;qs	365
+赤峰市	it;tb fc;uf ut;wj	559
+赤坎区	it;tb ko;tq qh;kx	309
+茌平区	ib;ct pn;au qh;kx	1
+池上乡	ib;dy ud;ba xy;vp	1
+赤水市	it;tb uv;ln ut;wj	390
+池州市	ib;dy vx;dl ut;wj	490
+崇川区	ij;uu id;pl qh;kx	363
+崇礼区	ij;uu lg;pv qh;kx	1
+崇明区	ij;uu mn;oo qh;kx	1
+重庆市	ij;ql qw;gd ut;wj	713
+崇仁县	ij;uu rs;re xa;qs	362
+崇信县	ij;uu xv;rk xa;qs	319
+崇阳县	ij;uu yw;eo xa;qs	384
+崇义县	ij;uu yt;dx xa;qs	350
+崇州市	ij;uu vx;dl ut;wj	435
+崇左市	ij;uu zl;ug ut;wj	460
+楚雄市	im;mz xk;uv ut;wj	401
+滁州市	il;dm vx;dl ut;wj	499
+川汇区	id;pl hf;dk qh;kx	351
+船山区	io;vk un;kl qh;kx	338
+船营区	io;vk yn;ck qh;kx	350
+淳安县	if;dz an;bn xa;qs	480
+淳化县	if;dz hg;rb xa;qs	357
+春日乡	ig;io rt;ka xy;vp	1
+慈利县	cb;bx lt;hd xa;qs	473
+莿桐乡	ct;cd tj;mk xy;vp	1
+慈溪市	cb;bx xj;dd ut;wj	481
+从化区	cj;rr hg;rb qh;kx	1
+从江县	cj;rr jy;dg xa;qs	416
+丛台区	cj;ra td;sk qh;kx	384
+翠屏区	cf;xu pn;uk qh;kx	422
+措美县	cp;fo mj;yd xa;qs	237
+错那市	cp;jo ni;ve ut;wj	1
+措勤县	cp;fo qc;cl xa;qs	248
+大安区	di;ar an;bn qh;kx	496
+大安市	di;ar an;bn ut;wj	322
+达坂城	du;zd bo;ty if;ti	432
+大埔县	di;ar bh;tf xa;qs	430
+大埔乡	di;ar bh;tf xy;vp	1
+达川区	du;zd id;pl qh;kx	1
+大村乡	di;ar cg;mc xy;vp	1
+大东区	di;ar dk;ax qh;kx	484
+大渡口	di;ar dh;dy kz;la	507
+大肚区	di;ar dh;ot qh;kx	1
+大方县	di;ar fu;wv xa;qs	403
+大丰区	di;ar fc;sl,af,al qh;kx	1
+大观区	di;ar gd;yj qh;kx	278
+大关县	di;ar gd;bt xa;qs	302
+大湖乡	di;ar hl;do xy;vp	1
+大甲区	di;ar jn;ol,tl qh;kx	1
+大里区	di;ar lg;tt qh;kx	1
+大理市	di;ar lg;wl ut;wj	501
+大荔县	di;ar lt;cl xa;qs	437
+大连市	di;ar lv;zi ut;wj	650
+大寮区	di;ar lu;bx qh;kx	1
+大林镇	di;ar lc;mm vo;jb	1
+大名县	di;ar mn;xk xa;qs	403
+大内区	di;ar nf;kr qh;kx	1
+大宁县	di;ar nn;bd xa;qs	317
+大埤乡	di;ar pb;tu xy;vp	1
+大箐山	di;ar qw;vo un;kl	1
+大庆市	di;ar qw;gd ut;wj	491
+达仁乡	du;zd rs;re xy;vp	1
+达日县	du;zd rt;ka xa;qs	279
+大社区	di;ar ui;pt qh;kx	1
+大石桥	di;ar ub;ak qu;ml	480
+大树区	di;ar uh;mc qh;kx	1
+大田县	di;ar tv;ku xa;qs	499
+大同区	di;ar tj;kk qh;kx	439
+大通区	di;ar tk;zy qh;kx	248
+大同市	di;ar tj;kk ut;wj	538
+大同乡	di;ar tj;kk xy;vp	387
+大洼区	di;ar wl;dt qh;kx	362
+大武口	di;ar wm;yv kz;la	1
+大悟县	di;ar wh;xk xa;qs	368
+大武乡	di;ar wm;yv xy;vp	1
+大溪区	di;ar xj;dd qh;kx	1
+大祥区	di;ar xi;py qh;kx	300
+大新县	di;ar xh;lj xa;qs	382
+大兴区	di;ar xe;xb qh;kx	552
+大雅区	di;ar yu;yv qh;kx	1
+大姚县	di;ar yi;nv xa;qs	328
+大冶市	di;ar yl;dk ut;wj	425
+大邑县	di;ar yt;kb xa;qs	441
+大英县	di;ar ye;cy xa;qs	376
+大余县	di;ar ym;rm xa;qs	369
+大园区	di;ar yo;ky qh;kx	1
+达州市	du;zd vx;dl ut;wj	498
+大竹县	di;ar vl;gg xa;qs	412
+达孜区	du;zd zj;zw qh;kx	1
+大足区	di;ar zl;kz qh;kx	1
+大城县	do;ar if;ti xa;qs	365
+大城乡	do;ar if;ti xy;vp	1
+岱山县	do;ru un;kl xa;qs	365
+岱岳区	do;ru yd;qu qh;kx	384
+丹巴县	dn;kd bl;sl xa;qs	396
+郸城县	dn;be if;ti xa;qs	388
+丹东市	dn;kd dk;ax ut;wj	475
+丹凤县	dn;kd ff;jy xa;qs	380
+丹江口	dn;kd jy;dg kz;la	490
+丹棱县	dn;kd lf;mw xa;qs	345
+淡水区	da;dh uv;ln qh;kx	449
+丹徒区	dn;kd tl;rz qh;kx	374
+丹阳市	dn;kd yw;eo ut;wj	412
+丹寨县	dn;kd vo;bm xa;qs	369
+儋州市	dn;rk vx;dl ut;wj	471
+宕昌县	dd;bu iu;oo xa;qs	356
+砀山县	dd;up un;kl xa;qs	410
+当涂县	du;xe tl;dm xa;qs	407
+当雄县	du;xe xk;uv xa;qs	352
+当阳市	du;xe yw;eo ut;wj	361
+稻城县	dv;hj if;ti xa;qs	403
+道孚县	dv;zz fl;vz xa;qs	345
+道里区	dv;zz lg;tt qh;kx	513
+道外区	dv;zz wo;xb qh;kx	478
+德安县	de;rx an;bn xa;qs	349
+德保县	de;rx bx;rm xa;qs	326
+德昌县	de;rx iu;oo xa;qs	311
+德城区	de;rx if;ti qh;kx	409
+德格县	de;rx ge;mk xa;qs	330
+德化县	de;rx hg;rb xa;qs	424
+德惠市	de;rx hf;ix ut;wj	390
+德江县	de;rx jy;dg xa;qs	411
+德令哈	de;rx lw;rs hl;kk	489
+德钦县	de;rx qh;jq xa;qs	377
+德庆区	de;rx qw;gd qh;kx	1
+德清县	de;rx qe;do xa;qs	478
+德庆县	de;rx qw;gd xa;qs	383
+得荣县	de;rc rj;cm xa;qs	271
+德兴市	de;rx xe;xb ut;wj	369
+德阳市	de;rx yw;eo ut;wj	481
+德州市	de;rx vx;dl ut;wj	526
+登封市	dc;bb fc;tc ut;wj	463
+磴口县	df;ub kz;la xa;qs	353
+灯塔市	dc;hd tm;tk ut;wj	327
+邓州市	df;ye vx;dl ut;wj	456
+滴道区	dj;dg dv;zz qh;kx	189
+电白区	da;ov,yv bd;po qh;kx	1
+垫江县	da;ft jy;dg xa;qs	415
+点军区	dp;vh jg;bi qh;kx	297
+调兵山	dl;yk be;qb un;kl	321
+迭部县	ds;zf bh;le xa;qs	337
+叠彩区	ds;yq cu;cp qh;kx	330
+定安县	dw;bz an;bn xa;qs	384
+定边县	dw;bz br;zl xa;qs	401
+鼎城区	dw;po if;ti qh;kx	375
+定海区	dw;bz hu;dm qh;kx	370
+鼎湖区	dw;po hl;do qh;kx	314
+定结县	dw;bz js;sk xa;qs	293
+定南县	dw;bz nk;ug xa;qs	372
+丁青县	de;al qe;fo xa;qs	284
+定日县	dw;bz rt;ka xa;qs	380
+定陶区	dw;bz ti;ef qh;kx	1
+定西市	dw;bz xj;ak,wk ut;wj	452
+定襄县	dw;bz xy;yf xa;qs	375
+定兴县	dw;bz xe;xb xa;qs	354
+定远县	dw;bz ys;zy xa;qs	456
+定州市	dw;bz vx;dl ut;wj	430
+东安区	dk;ax an;bn qh;kx	241
+东安县	dk;ax an;bn xa;qs	370
+东宝区	dk;ax bx;by qh;kx	357
+东昌府	dk;ax iu;oo fm;gc	447
+东昌区	dk;ax iu;oo qh;kx	312
+东城区	dk;ax if;ti qh;kx	633
+东川区	dk;ax id;pl qh;kx	401
+东阿县	dk;ax er;ek xa;qs	402
+东方市	dk;ax fu;wv ut;wj	1
+东风区	dk;ax fc;jx qh;kx	249
+东丰县	dk;ax fc;sl,af,al xa;qs	339
+东港区	dk;ax gp;ds qh;kx	403
+东港市	dk;ax gp;ds ut;wj	385
+东港镇	dk;ax gp;ds vo;jb	1
+东莞市	dk;ax gs;cy ut;wj	668
+东光县	dk;ax gw;xe xa;qs	332
+东海县	dk;ax hu;dm xa;qs	443
+东河区	dk;ax he;dk qh;kx	398
+东河乡	dk;ax he;dk xy;vp	1
+东湖区	dk;ax hl;do qh;kx	468
+洞口县	dy;dk kz;la xa;qs	353
+东兰县	dk;ax lk;bs xa;qs	330
+东丽区	dk;ax lt;ad qh;kx	464
+东辽县	dk;ax lu;zl xa;qs	370
+东明县	dk;ax mn;oo xa;qs	387
+东宁市	dk;ax nn;bd ut;wj	1
+东平县	dk;ax pn;au xa;qs	455
+东坡区	dk;ax pp;tp qh;kx	415
+东山区	dk;ax un;kl qh;kx	465
+东山县	dk;ax un;kl xa;qs	404
+冬山乡	dk;wd un;kl xy;vp	1
+东胜区	dk;ax uf;ou qh;kx	440
+东势区	dk;ax ut;fl qh;kx	1
+东石乡	dk;ax ub;ak xy;vp	1
+东势乡	dk;ax ut;fl xy;vp	1
+东台市	dk;ax td;sk ut;wj	398
+洞头区	dy;dk ta;dd qh;kx	1
+东西湖	dk;ax xj;ak,wk hl;do	1
+东乡区	dk;ax xy;vp qh;kx	1
+东兴区	dk;ax xe;xb qh;kx	393
+东兴市	dk;ax xe;xb ut;wj	431
+东阳市	dk;ax yw;eo ut;wj	483
+东营区	dk;ax yn;ck qh;kx	414
+东营市	dk;ax yn;ck ut;wj	533
+东源县	dk;ax yo;dx xa;qs	374
+东至县	dk;ax vt;gt xa;qs	354
+东洲区	dk;ax vx;dv qh;kx	359
+都昌县	dx;le iu;oo xa;qs	408
+都兰县	dx;le lk;bs xa;qs	401
+斗六市	dr;ud lo;wb ut;wj	420
+斗门区	dz;ud ms;dv qh;kx	458
+斗南镇	dr;ud nk;ug vo;jb	1
+都匀市	dx;le yf;bd ut;wj	398
+杜集区	dh;mt jb;rm qh;kx	308
+都江堰	da;le jy;dg ya;tn	614
+独山县	dl;qi un;kl xa;qs	392
+独山子	dl;qi un;kl zg;la	443
+端州区	dd;le vx;dl qh;kx	374
+敦化市	dg;ww hg;rb ut;wj	375
+敦煌市	dg;ww hb;hw ut;wj	456
+掇刀区	ds;fy dq;vp qh;kx	291
+多伦县	ds;xx lf;rl xa;qs	399
+鄂城区	ei;ke if;ti qh;kx	315
+峨眉山	ee;uw mr;uo un;kl	629
+峨眉乡	ee;uw mr;uo xy;vp	1
+额敏县	ee;by mx;pw xa;qs	316
+鄂州市	ei;ke vx;dl ut;wj	461
+恩平市	ee;yx pn;au ut;wj	389
+恩施市	ee;yx uj;fy ut;wj	440
+恩阳区	ee;yx yw;eo qh;kx	1
+二道江	eh;aa dv;zz jy;dg	1
+二道区	eh;aa dv;zz qh;kx	430
+二林镇	eh;aa lc;mm vo;jb	1
+二仑乡	eh;aa lf;rb xy;vp	1
+二七区	eh;aa qj;av qh;kx	456
+二水乡	eh;aa uv;ln xy;vp	1
+洱源县	eu;de yo;dx xa;qs	389
+法库县	fm;dq kh;gi xa;qs	449
+繁昌区	fk;px iu;oo qh;kx	1
+樊城区	fk;md if;ti qh;kx	360
+番路乡	fn;ct lh;zk xy;vp	1
+繁峙县	fk;px vt;uc xa;qs	409
+防城港	fw;ef if;ti gp;ds	537
+防城区	fw;ef if;ti qh;kx	348
+方城县	fu;wv if;ti xa;qs	433
+枋寮乡	fu;mf lu;bx xy;vp	1
+房山区	fw;hf un;kl qh;kx	544
+方山县	fu;wv un;kl xa;qs	382
+枋山乡	fu;mf un;kl xy;vp	1
+芳苑乡	fu;cf yc;cv xy;vp	1
+方正县	fu;wv vf;av xa;qs	363
+坊子区	fu;tf zg;la qh;kx	336
+肥城市	fr;ob if;ti ut;wj	438
+肥东县	fr;ob dk;ax xa;qs	471
+肥西县	fr;ob xj;ak,wk xa;qs	474
+肥乡区	fr;ob xy;vp qh;kx	1
+汾西县	fs;df xj;ak,wk xa;qs	344
+汾阳市	fs;df yw;eo ut;wj	417
+分宜县	fe;bd yb;bq xa;qs	362
+芬园乡	fe;cf yo;ky xy;vp	1
+丰滨乡	fc;sl,af,al bh;db xy;vp	1
+丰城市	fc;sl,af,al if;ti ut;wj	386
+凤城市	ff;jy if;ti ut;wj	358
+丰都县	fc;sl,af,al dx;le xa;qs	425
+凤冈县	ff;jy gu;kx xa;qs	342
+奉化区	ff;if hg;rb qh;kx	1
+凤凰县	ff;jy hb;jw xa;qs	422
+奉节县	ff;if js;ce xa;qs	439
+封开县	fc;tc kb;ac xa;qs	356
+丰林县	fc;sl,af,al lc;mm xa;qs	1
+凤林镇	ff;jy lc;mm vo;jb	1
+丰满区	fc;sl,af,al mo;dl qh;kx	323
+丰南区	fc;sl,af,al nk;ug qh;kx	361
+凤庆县	ff;jy qw;gd xa;qs	358
+封丘县	fc;tc qz;ja xa;qs	409
+凤泉区	ff;jy qo;bu qh;kx	234
+丰润区	fc;sl,af,al rr;dw qh;kx	385
+凤山区	ff;jy un;kl qh;kx	1
+凤山县	ff;jy un;kl xa;qs	456
+丰顺县	fc;sl,af,al ur;iy xa;qs	405
+丰台区	fc;sl,af,al td;sk qh;kx	587
+凤台县	ff;jy td;sk xa;qs	403
+奉贤区	ff;if xv;lb qh;kx	488
+凤翔区	ff;jy xi;yx qh;kx	1
+奉新县	ff;if xh;lj xa;qs	391
+凤阳县	ff;jy yw;eo xa;qs	433
+丰原区	fc;sl,af,al yo;ix qh;kx	1
+丰泽区	fc;sl,af,al ze;df qh;kx	428
+丰镇市	fc;sl,af,al vo;jb ut;wj	338
+佛山市	fe;rf un;kl ut;wj	635
+福安市	fl;pt an;bn ut;wj	432
+涪城区	fl;dk if;ti qh;kx	388
+阜城县	fh;pu if;ti xa;qs	333
+福鼎市	fl;pt dw;po ut;wj	441
+扶风县	fl;ff fc;jx xa;qs	416
+佛冈县	fl;rf gu;kx xa;qs	369
+福贡县	fl;pt gy;gb xa;qs	323
+扶沟县	fl;ff gx;dg xa;qs	368
+府谷县	fm;gc gm;bk xa;qs	455
+福海县	fl;pt hu;dm xa;qs	341
+福建省	fl;pt ja;zy uy;uo	739
+富锦市	fh;bt jx;jj ut;wj	325
+阜康市	fh;pu ku;gl ut;wj	389
+富里乡	fh;bt lg;tt xy;vp	1
+浮梁县	fl;dz li;dm xa;qs	400
+涪陵区	fl;dk ln;ew qh;kx	442
+福绵区	fl;pt mv;sj qh;kx	1
+富民县	fh;bt mc;vv xa;qs	384
+阜南县	fh;pu nk;ug xa;qs	414
+抚宁区	fm;fw nn;bd qh;kx	1
+阜宁县	fh;pu nn;bd xa;qs	408
+富宁县	fh;bt nn;bd xa;qs	366
+富平县	fh;bt pn;au xa;qs	419
+阜平县	fh;pu pn;au xa;qs	418
+佛坪县	fl;rf pn;tp xa;qs	344
+福清市	fl;pt qe;do ut;wj	511
+福泉市	fl;pt qo;bu ut;wj	373
+芙蓉区	fl;cf rj;cg qh;kx	480
+福山区	fl;pt un;kl qh;kx	408
+浮山县	fl;dz un;kl xa;qs	359
+抚顺市	fm;fw ur;iy ut;wj	496
+富顺县	fh;bt ur;iy xa;qs	439
+抚顺县	fm;fw ur;iy xa;qs	349
+抚松县	fm;fw sk;mg xa;qs	363
+扶绥县	fl;ff sw;sn xa;qs	345
+福田区	fl;pt tv;ku qh;kx	605
+阜新市	fh;pu xh;lj ut;wj	437
+复兴区	fh;pw xe;xb qh;kx	397
+福兴乡	fl;pt xe;xb xy;vp	1
+富阳区	fh;bt yw;eo qh;kx	1
+阜阳市	fh;pu yw;eo ut;wj	519
+扶余市	fl;ff ym;rm ut;wj	1
+富裕县	fh;bt yf;pg xa;qs	334
+抚远市	fm;fw ys;zy ut;wj	1
+富源县	fh;bt yo;dx xa;qs	377
+富蕴县	fh;bt yr;cm xa;qs	383
+福州市	fl;pt vx;dl ut;wj	641
+抚州市	fm;fw vx;dl ut;wj	496
+噶尔县	gu;kr eu;dx xa;qs	276
+伽师县	gl;rk uj;lj xa;qs	324
+改则县	gu;jw ze;bd xa;qs	340
+盖州市	go;ym vx;dl ut;wj	368
+甘德县	gn;ca de;rx xa;qs	296
+甘谷县	gn;ca gm;bk xa;qs	369
+甘井子	gn;ca jw;ac,el zg;la	521
+甘洛县	gn;ca lp;dk xa;qs	342
+甘南县	gn;ca nk;ug xa;qs	362
+甘泉县	gn;ca qo;bu xa;qs	350
+甘肃省	gn;ca sh;yb uy;uo	688
+赣县区	ga;lb xa;qs qh;kx	1
+赣榆区	ga;lb ym;md qh;kx	1
+甘州区	gn;ca vx;dl qh;kx	365
+赣州市	ga;lb vx;dl ut;wj	525
+甘孜县	gn;ca zj;zw xa;qs	359
+岗巴县	gp;ux bl;sl xa;qs	256
+港北区	gp;ds bj;lb qh;kx	346
+刚察县	gu;kd iu;bu xa;qs	368
+钢城区	gu;jx if;ti qh;kx	373
+港口区	gp;ds kz;la qh;kx	364
+港南区	gp;ds nk;ug qh;kx	298
+冈山区	gu;kx un;kl qh;kx	1
+高安市	gq;wk an;bn ut;wj	393
+高碑店	gq;wk bi;uu da;gv	489
+高昌区	gq;wk iu;oo qh;kx	1
+藁城区	gx;cm if;ti qh;kx	1
+高淳区	gq;wk if;dz qh;kx	1
+高港区	gq;wk gp;ds qh;kx	360
+皋兰县	gq;bu lk;bs xa;qs	419
+高陵区	gq;wk ln;ew qh;kx	1
+高密市	gq;wk mt;bu ut;wj	408
+高明区	gq;wk mn;oo qh;kx	438
+高坪区	gq;wk pn;tp qh;kx	350
+高平市	gq;wk pn;au ut;wj	408
+高青县	gq;wk qe;fo xa;qs	412
+高树乡	gq;wk uh;mc xy;vp	1
+高台县	gq;wk td;sk xa;qs	355
+高唐县	gq;wk tw;gk xa;qs	393
+高雄市	gq;wk xk;uv ut;wj	676
+高阳县	gq;wk yw;eo xa;qs	418
+高要区	gq;wk yv;xn qh;kx	1
+高邑县	gq;wk yt;kb xa;qs	339
+高邮市	gq;wk ya;ye ut;wj	407
+高州市	gq;wk vx;dl ut;wj	413
+格尔木	ge;mk eu;dx mh;ur	553
+革吉县	ge;cu jb;tk xa;qs	238
+个旧市	gi;rl jo;lo ut;wj	375
+根河市	ge;mg he;dk ut;wj	339
+公安县	gk;bs an;bn xa;qs	397
+弓长岭	gk;vv iw;pn lw;us	361
+贡嘎县	gy;gb gl;kg xa;qs	292
+公馆乡	gk;bs gs;ul xy;vp	1
+共和县	gy;cb he;hk xa;qs	380
+贡井区	gy;gb jw;ac,el qh;kx	330
+贡觉县	gy;gb ji;xj xa;qs	255
+贡寮区	gy;gb lu;bx qh;kx	1
+巩留县	gn;gf lm;pt xa;qs	423
+工农区	gk;aa nj;by qh;kx	308
+共青城	gy;cb qe;fo if;ti	445
+拱墅区	gn;fg uh;lt qh;kx	483
+巩义市	gn;gf yt;dx ut;wj	433
+公主岭	gk;bs vm;wt lw;us	475
+固安县	gh;kg an;bn xa;qs	1
+古城区	gm;uk if;ti qh;kx	481
+故城县	gh;gw if;ti xa;qs	411
+谷城县	gm;bk if;ti xa;qs	388
+古交市	gm;uk jm;wf ut;wj	382
+古坑乡	gm;uk kc;tj xy;vp	1
+古浪县	gm;uk ld;dl xa;qs	353
+古蔺县	gm;uk lv;cv xa;qs	399
+鼓楼区	gm;tv la;mn qh;kx	569
+鼓山区	gm;tv un;kl qh;kx	1
+固始县	gh;kg ug;nk xa;qs	443
+姑苏区	ga;ng sa;cb qh;kx	1
+古塔区	gm;uk tm;tk qh;kx	241
+古田县	gm;uk tv;ku xa;qs	435
+固阳县	gh;kg yw;eo xa;qs	386
+古冶区	gm;uk yl;dk qh;kx	322
+固原市	gh;kg yo;ix ut;wj	469
+沽源县	ga;dg yo;dx xa;qs	354
+古丈县	gm;uk vd;an xa;qs	397
+固镇县	gh;kg vo;jb xa;qs	368
+瓜州县	gs;in,vd vx;dl xa;qs	1
+官渡区	gd;bl dh;dy qh;kx	563
+关庙区	gd;bt ml;gy qh;kx	1
+灌南县	gc;dv nk;ug xa;qs	340
+观山湖	gd;yj un;kl hl;do	1
+关山镇	gd;bt un;kl vo;jb	1
+馆陶县	gs;ul ti;ef xa;qs	377
+官田区	gd;bl tv;ku qh;kx	1
+关西镇	gd;bt xj;ak,wk vo;jb	1
+灌阳县	gc;dv yw;eo xa;qs	331
+观音区	gd;yj yh;lo qh;kx	1
+灌云县	gc;dv yf;ag,es xa;qs	383
+广安区	gu;di an;bn qh;kx	352
+广安市	gu;di an;bn ut;wj	477
+广昌县	gu;di iu;oo xa;qs	384
+广德市	gu;di de;rx ut;wj	1
+广东省	gu;di dk;ax uy;uo	783
+广丰区	gu;di fc;sl,af,al qh;kx	1
+光复乡	gw;xe fh;pw xy;vp	1
+广汉市	gu;di ha;dy ut;wj	401
+广河县	gu;di he;dk xa;qs	364
+广陵区	gu;di ln;ew qh;kx	423
+广灵县	gu;di ln;eh xa;qs	327
+光明区	gw;xe mn;oo qh;kx	1
+广南县	gu;di nk;ug xa;qs	392
+广宁县	gu;di nn;bd xa;qs	394
+广平县	gu;di pn;au xa;qs	386
+广饶县	gu;di ri;uw xa;qs	404
+光山县	gw;xe un;kl xa;qs	424
+广水市	gu;di uv;ln ut;wj	347
+广信区	gu;di xv;rk qh;kx	1
+广阳区	gu;di yw;eo qh;kx	367
+广元市	gu;di yo;aw ut;wj	491
+光泽县	gw;xe ze;df xa;qs	349
+广州市	gu;di vx;dl ut;wj	738
+广宗县	gu;di zk;bu xa;qs	351
+贵池区	gf;vb ib;dy qh;kx	397
+贵德县	gf;vb de;rx xa;qs	411
+贵定县	gf;vb dw;bz xa;qs	369
+桂东县	gf;mt dk;ax xa;qs	369
+贵港市	gf;vb gp;ds ut;wj	456
+桂林市	gf;mt lc;mm ut;wj	584
+贵南县	gf;vb nk;ug xa;qs	329
+桂平市	gf;mt pn;au ut;wj	374
+归仁区	gt;le rs;re qh;kx	1
+龟山区	gt;dd un;kl qh;kx	1
+贵溪市	gf;vb xj;dd ut;wj	401
+贵阳市	gf;vb yw;eo ut;wj	637
+桂阳县	gf;mt yw;eo xa;qs	406
+贵州省	gf;vb vx;dl uy;uo	700
+国姓乡	gl;ky xw;nu xy;vp	1
+哈巴河	hm;kk bl;sl he;dk	394
+哈尔滨	hl;kk eu;dx bh;db	781
+哈密市	hl;kk mt;bu ut;wj	434
+海安市	hu;dm an;bn ut;wj	1
+海勃湾	hu;dm be;ul wn;dg	375
+海沧区	hu;dm cu;dv qh;kx	470
+海城区	hu;dm if;ti qh;kx	374
+海城市	hu;dm if;ti ut;wj	375
+海淀区	hu;dm da;dz qh;kx	665
+海东市	hu;dm dk;ax ut;wj	1
+海端乡	hu;dm dd;le xy;vp	1
+海丰县	hu;dm fc;sl,af,al xa;qs	452
+海港区	hu;dm gp;ds qh;kx	474
+海口市	hu;dm kz;la ut;wj	613
+海拉尔	hu;dm ll;fl eu;dx	529
+海林市	hu;dm lc;mm ut;wj	359
+海陵区	hu;dm ln;ew qh;kx	375
+海伦市	hu;dm lf;rl ut;wj	351
+海门区	hu;dm ms;dv qh;kx	1
+海南区	hu;dm nk;ug qh;kx	312
+海南省	hu;dm nk;ug uy;uo	671
+海宁市	hu;dm nn;bd ut;wj	449
+海曙区	hu;dm um;oo qh;kx	480
+海棠区	hu;dm tw;xm qh;kx	1
+海兴县	hu;dm xe;xb xa;qs	293
+海盐县	hu;dm yk;tm xa;qs	453
+海晏县	hu;dm ya;on xa;qs	370
+海阳市	hu;dm yw;eo ut;wj	477
+海原县	hu;dm yo;ix xa;qs	391
+海州区	hu;dm vx;dl qh;kx	387
+海珠区	hu;dm va;ww qh;kx	566
+汉滨区	ha;dy bh;db qh;kx	431
+韩城市	hk;uw if;ti ut;wj	433
+汉川市	ha;dy id;pl ut;wj	353
+邯郸市	hk;ge dn;be ut;wj	573
+邗江区	hk;ge jy;dg qh;kx	426
+涵江区	hk;du jy;dg qh;kx	398
+汉南区	ha;dy nk;ug qh;kx	416
+邯山区	hk;ge un;kl qh;kx	316
+含山县	hk;rk un;kl xa;qs	376
+汉寿县	ha;dy ur;fc xa;qs	391
+汉台区	ha;dy td;sk qh;kx	387
+寒亭区	hk;bd tn;wd qh;kx	369
+汉阳区	ha;dy yw;eo qh;kx	457
+汉阴县	ha;dy yh;eo xa;qs	402
+汉源县	ha;dy yo;dx xa;qs	371
+汉中市	ha;dy vk;kl ut;wj	518
+杭锦旗	hw;mj jx;jj qb;fb	393
+杭州市	hw;mj vx;dl ut;wj	693
+濠江区	hi;du jy;dg qh;kx	369
+河北区	he;dk bj;lb qh;kx	502
+河北省	he;dk bj;lb uy;uo	743
+鹤壁市	hi;bn bt;ut ut;wj	473
+鹤城区	hi;bn if;ti qh;kx	348
+河池市	he;dk ib;dy ut;wj	458
+合川区	he;rk id;pl qh;kx	1
+河东区	he;dk dk;ax qh;kx	516
+合肥市	he;rk fr;ob ut;wj	665
+鹤峰县	hi;bn fc;uf xa;qs	384
+鹤岗市	hi;bn gp;ux ut;wj	421
+河间市	he;dk jr;mo ut;wj	345
+合江县	he;rk jy;dg xa;qs	495
+河津市	he;dk jh;dy ut;wj	392
+和静县	he;hk jw;fy xa;qs	384
+河口区	he;dk kz;la qh;kx	515
+贺兰县	hi;lb lk;bs xa;qs	381
+和龙市	he;hk lj;yp ut;wj	342
+和美镇	he;hk mj;yd vo;jb	1
+河南省	he;dk nk;ug uy;uo	754
+和平区	he;hk pn;au qh;kx	574
+和平县	he;hk pn;au xa;qs	393
+鹤庆县	hi;bn qw;gd xa;qs	351
+河曲县	he;dk qh;kc xa;qs	346
+赫山区	hi;ii un;kl qh;kx	411
+鹤山区	hi;bn un;kl qh;kx	235
+鹤山市	hi;bn un;kl ut;wj	410
+合山市	he;rk un;kl ut;wj	332
+合水县	he;rk uv;ln xa;qs	330
+和顺县	he;hk ur;iy xa;qs	352
+和硕县	he;hk up;uy xa;qs	329
+荷塘区	he;ck tw;tk qh;kx	344
+和田市	he;hk tv;ku ut;wj	435
+和田县	he;hk tv;ku xa;qs	324
+河西区	he;dk xj;ak,wk qh;kx	521
+合阳县	he;rk yw;eo xa;qs	377
+河源市	he;dk yo;dx ut;wj	512
+菏泽市	he;ck ze;df ut;wj	490
+赫章县	hi;ii vu;lu xa;qs	367
+和政县	he;hk vf;vw xa;qs	357
+贺州市	hi;lb vx;dl ut;wj	469
+合作市	he;rk zp;rv ut;wj	1
+黑河市	hi;lh he;dk ut;wj	456
+黑龙江	hi;lh lj;yp jy;dg	761
+黑山县	hi;lh un;kl xa;qs	353
+黑水县	hi;lh uv;ln xa;qs	405
+恒春镇	hf;xd ig;io vo;jb	394
+衡东县	hf;rd dk;ax xa;qs	390
+横峰县	hf;mb fc;uf xa;qs	354
+衡南县	hf;rd nk;ug xa;qs	402
+恒山区	hf;xd un;kl qh;kx	187
+横山区	hf;mb un;kl qh;kx	1
+衡山县	hf;rd un;kl xa;qs	403
+横山乡	hf;mb un;kl xy;vp	1
+衡水市	hf;rd uv;ln ut;wj	533
+衡阳市	hf;rd yw;eo ut;wj	550
+衡阳县	hf;rd yw;eo xa;qs	406
+横州市	hf;mb vx;dl ut;wj	1
+红安县	hj;sg an;bn xa;qs	423
+洪洞县	hj;dg dy;dk xa;qs	447
+红岗区	hj;sg gp;ux qh;kx	258
+红古区	hj;sg gm;uk qh;kx	375
+红谷滩	hj;sg gm;bk tn;dv	1
+红河县	hj;sg he;dk xa;qs	356
+洪湖市	hj;dg hl;do ut;wj	409
+红花岗	hj;sg hs;cb gp;ux	1
+洪江市	hj;dg jy;dg ut;wj	363
+虹口区	hj;ig kz;la qh;kx	537
+红旗区	hj;sg qb;fb qh;kx	271
+红桥区	hj;sg qu;ml qh;kx	484
+洪山区	hj;dg un;kl qh;kx	501
+红山区	hj;sg un;kl qh;kx	451
+红寺堡	hj;sg st;tc bx;rt	374
+红塔区	hj;sg tm;tk qh;kx	384
+宏伟区	hj;bs wj;rw qh;kx	194
+洪雅县	hj;dg ym;yv xa;qs	401
+红原县	hj;sg yo;ix xa;qs	388
+洪泽区	hj;dg ze;df qh;kx	1
+后壁区	hr;ik bt;ut qh;kx	1
+后里区	hr;ik lg;tt qh;kx	1
+后龙镇	hr;ik lj;yp vo;jb	1
+侯马市	ha;ru mm;va ut;wj	366
+湖北省	hl;do bj;lb uy;uo	727
+湖滨区	hl;do bh;db qh;kx	392
+壶关县	hl;ty gd;bt xa;qs	374
+湖口县	hl;do kz;la xa;qs	371
+湖口乡	hl;do kz;la xy;vp	1
+呼兰区	ha;kh lk;bs qh;kx	1
+湖里区	hl;do lg;tt qh;kx	474
+虎林市	hm;hj lc;mm ut;wj	318
+葫芦岛	hl;co ll;ch dx;nu	544
+湖南省	hl;do nk;ug uy;uo	735
+湖内区	hl;do nf;kr qh;kx	1
+虎丘区	hm;hj qz;ja qh;kx	321
+呼图壁	ha;kh tl;kd bt;ut	410
+虎尾镇	hm;hj wj;um vo;jb	1
+湖西乡	hl;do xj;ak,wk xy;vp	1
+胡杨河	hl;go yw;mp he;dk	1
+鄠邑区	hh;ye yt;kb qh;kx	1
+湖州市	hl;do vx;dl ut;wj	531
+华安县	ht;ru an;bn xa;qs	391
+华池县	ht;ru ib;dy xa;qs	428
+桦川县	hg;mu id;pl xa;qs	311
+化德县	hg;rb de;rx xa;qs	338
+桦甸市	hg;mu dr;bt ut;wj	344
+花都区	hs;cb da;le qh;kx	505
+花莲市	hs;cb lv;ci ut;wj	445
+花莲县	hs;cb lv;ci xa;qs	575
+华龙区	ht;ru lj;yp qh;kx	304
+桦南县	hg;mu nk;ug xa;qs	359
+华宁县	ht;ru nn;bd xa;qs	357
+华坪县	ht;ru pn;tp xa;qs	341
+华容区	ht;ru rj;bg qh;kx	291
+华容县	ht;ru rj;bg xa;qs	412
+花山区	hs;cb un;kl qh;kx	288
+花坛乡	hs;cb tk;ty xy;vp	1
+华亭市	ht;ru tn;wd ut;wj	210
+花溪区	hs;cb xj;dd qh;kx	453
+华阴市	ht;ru yh;eo ut;wj	413
+华蓥市	ht;ru yn;cj ut;wj	380
+花垣县	hs;cb yo;td xa;qs	424
+华州区	ht;ru vx;dl qh;kx	383
+化州市	hg;rb vx;dl ut;wj	402
+淮安区	hs;dv an;bn qh;kx	1
+淮安市	hs;dv an;bn ut;wj	542
+怀安县	hs;xb an;bn xa;qs	390
+淮北市	hs;dv bj;lb ut;wj	482
+淮滨县	hs;dv bh;db xa;qs	348
+怀化市	hs;xb hg;rb ut;wj	489
+怀集县	hs;xb jb;rm xa;qs	372
+怀来县	hs;xb ld;am xa;qs	430
+淮南市	hs;dv nk;ug ut;wj	492
+怀宁县	hs;xb nn;bd xa;qs	414
+怀仁市	hs;xb rs;re ut;wj	1
+怀柔区	hs;xb ra;mm qh;kx	515
+淮上区	hs;dv ud;ba qh;kx	1
+淮阳区	hs;dv yw;eo qh;kx	1
+槐荫区	hs;mg yh;co qh;kx	464
+淮阴区	hs;dv yh;eo qh;kx	405
+怀远县	hs;xb ys;zy xa;qs	426
+环翠区	ho;wb cf;xu qh;kx	384
+桓台县	ho;md td;sk xa;qs	392
+潢川县	hb;db id;pl xa;qs	402
+黄岛区	hb;cb dx;nu qh;kx	521
+黄冈市	hb;cb gu;kx ut;wj	501
+皇姑区	hb;bw ga;ng qh;kx	496
+黄骅市	hb;cb ht;mu ut;wj	363
+黄陵县	hb;cb ln;ew xa;qs	401
+黄龙县	hb;cb lj;yp xa;qs	356
+黄梅县	hb;cb mr;mm xa;qs	442
+黄陂区	hb;cb pb;ep qh;kx	445
+黄平县	hb;cb pn;au xa;qs	366
+黄浦区	hb;cb pm;df qh;kx	600
+黄埔区	hb;cb pm;tf qh;kx	504
+黄山区	hb;cb un;kl qh;kx	409
+黄山市	hb;cb un;kl ut;wj	587
+黄石港	hb;cb ub;ak gp;ds	349
+黄石市	hb;cb ub;ak ut;wj	478
+黄岩区	hb;cb yk;uu qh;kx	364
+湟源县	hb;dw yo;dx xa;qs	402
+湟中区	hb;dw vk;kl qh;kx	1
+黄州区	hb;cb vx;dl qh;kx	369
+惠安县	hf;ix an;bn xa;qs	453
+会昌县	hf;ry iu;oo xa;qs	379
+惠城区	hf;ix if;ti qh;kx	480
+汇川区	hf;dk id;pl qh;kx	382
+珲春市	ht;wi ig;io ut;wj	420
+惠东县	hf;ix dk;ax xa;qs	449
+会东县	hf;ry dk;ax xa;qs	327
+惠济区	hf;ix jt;dq qh;kx	1
+惠来县	hf;ix ld;am xa;qs	422
+会理市	hf;ry lg;wl ut;wj	1
+回民区	hw;kk mc;vv qh;kx	434
+惠民县	hf;ix mc;vv xa;qs	364
+辉南县	ht;gi nk;ug xa;qs	355
+会宁县	hf;ry nn;bd xa;qs	404
+惠农区	hf;ix nj;by qh;kx	302
+惠山区	hf;ix un;kl qh;kx	416
+惠水县	hf;ix uv;ln xa;qs	414
+会同县	hf;ry tj;kk xa;qs	348
+辉县市	ht;gi xa;qs ut;wj	427
+惠阳区	hf;ix yw;eo qh;kx	442
+会泽县	hf;ry ze;df xa;qs	407
+徽州区	ht;rx vx;dl qh;kx	404
+惠州市	hf;ix vx;dl ut;wj	589
+回族区	hw;kk zl;fu qh;kx	271
+浑江区	hf;di jy;dg qh;kx	1
+浑南区	hf;di nk;ug qh;kx	1
+浑源县	hf;di yo;dx xa;qs	375
+霍城县	hp;yv if;ti xa;qs	396
+获嘉县	hp;cq jd;tk xa;qs	366
+霍邱县	hp;yv qz;qe xa;qs	466
+霍山县	hp;yv un;kl xa;qs	421
+霍州市	hp;yv vx;dl ut;wj	348
+吉安市	jb;tk an;bn ut;wj	486
+集安市	jb;rm an;bn ut;wj	357
+吉安县	jb;tk an;bn xa;qs	395
+吉安乡	jb;tk an;bn xy;vp	1
+鸡东县	jj;yn dk;ax xa;qs	341
+鸡冠区	jj;yn gd;bc qh;kx	241
+集集镇	jb;rm jb;rm vo;jb	1
+吉林省	jb;tk lc;mm uy;uo	697
+吉林市	jb;tk lc;mm ut;wj	579
+基隆市	jj;ct lj;eu ut;wj	566
+吉隆县	jb;tk lj;eu xa;qs	325
+集美区	jb;rm mj;yd qh;kx	494
+即墨区	jb;ge mg;lt qh;kx	1
+吉木乃	jb;tk mh;ur nu;pv,vp	387
+济南市	jg;dq nk;ug ut;wj	667
+集宁区	jb;rm nn;bd qh;kx	404
+济宁市	jg;dq nn;bd ut;wj	525
+稷山县	jt;hw un;kl xa;qs	393
+积石山	jj;hv ub;ak un;kl	373
+吉首市	jb;tk uz;bz ut;wj	398
+吉水县	jb;tk uv;ln xa;qs	407
+鸡西市	jj;yn xj;ak,wk ut;wj	423
+绩溪县	jt;sb xj;dd xa;qs	416
+集贤县	jb;rm xv;lb xa;qs	288
+济阳区	jt;dq yw;eo qh;kx	1
+吉阳区	jb;tk yw;eo qh;kx	1
+济源市	jt;dq yo;dx ut;wj	442
+鸡泽县	jj;yn ze;df xa;qs	358
+吉州区	jb;tk vx;dl qh;kx	356
+蓟州区	jt;cd vx;dl qh;kx	1
+冀州区	jt;bg vx;dl qh;kx	1
+加查县	jd;lk iu;md xa;qs	247
+嘉定区	jd;tk dw;bz qh;kx	522
+茄萣区	jd;ck dw;cz qh;kx	1
+佳冬乡	jd;rt dk;wd xy;vp	1
+嘉禾县	jd;tk he;pm xa;qs	363
+夹江县	jd;ar jy;dg xa;qs	370
+佳里区	jd;rt lg;tt qh;kx	1
+嘉黎县	jd;tk lb;hu xa;qs	297
+嘉陵区	jd;tk ln;ew qh;kx	393
+佳木斯	jd;rt mh;ur sj;cj	564
+嘉善县	jd;tk ua;yk xa;qs	431
+贾汪区	jn;xb wu;dw qh;kx	356
+甲仙区	jn;ol,tl xr;ru qh;kx	1
+嘉祥县	jd;tk xi;py xa;qs	410
+嘉兴市	jd;tk xe;xb ut;wj	546
+嘉义市	jd;tk yt;dx ut;wj	574
+嘉义县	jd;tk yt;dx xa;qs	596
+嘉荫县	jd;tk yh;co xa;qs	307
+嘉峪关	jd;tk yf;ug gd;bt	551
+嘉鱼县	jd;tk ym;da xa;qs	361
+建安区	ja;zy an;bn qh;kx	1
+尖草坪	jr;xd cx;cu pn;tp	1
+建昌县	ja;zy iu;oo xa;qs	368
+剑川县	ja;qd,rd id;pl xa;qs	381
+建德市	ja;zy de;rx ut;wj	459
+剑阁县	ja;qd,rd ge;mk xa;qs	400
+剑河县	ja;qd,rd he;dk xa;qs	489
+建湖县	ja;zy hl;do xa;qs	342
+建华区	ja;zy ht;ru qh;kx	280
+监利市	ja;lm lt;hd ut;wj	1
+建宁县	ja;zy nn;bd xa;qs	367
+建瓯市	ja;zy ox;qw ut;wj	376
+建平县	ja;zy pn;au xa;qs	404
+尖山区	jr;xd un;kl qh;kx	178
+建始县	ja;zy ug;nk xa;qs	402
+尖石乡	jr;xd ub;ak xy;vp	1
+建水县	ja;zy uv;ln xa;qs	406
+涧西区	ja;do xj;ak,wk qh;kx	374
+建阳区	ja;zy yw;eo qh;kx	1
+简阳市	jp;vo yw;eo ut;wj	438
+建邺区	ja;zy yi;ye qh;kx	474
+尖扎县	jr;xd vl;fv xa;qs	353
+江岸区	jy;dg aa;ug qh;kx	496
+江安县	jy;dg an;bn xa;qs	377
+江北区	jy;dg bj;lb qh;kx	549
+江城区	jy;dg if;ti qh;kx	344
+江川区	jy;dg id;pl qh;kx	260
+江达县	jy;dg du;zd xa;qs	366
+江都区	jy;dg da;le qh;kx	426
+江海区	jy;dg hu;dm qh;kx	392
+江汉区	jy;dg ha;dy qh;kx	473
+江津区	jy;dg jh;dy qh;kx	464
+将军区	jy;lc jg;bi qh;kx	1
+江口县	jy;dg kz;la xa;qs	355
+将乐县	jy;lc li;px xa;qs	361
+江陵县	jy;dg ln;ew xa;qs	408
+江门市	jy;dg ms;dv ut;wj	554
+江南区	jy;dg nk;ug qh;kx	505
+江宁区	jy;dg nn;bd qh;kx	521
+江山市	jy;dg un;kl ut;wj	414
+江苏省	jy;dg sa;cb uy;uo	760
+江西省	jy;dg xj;ak,wk uy;uo	707
+江夏区	jy;dg xx;bw qh;kx	460
+姜堰区	jy;yn ya;tn qh;kx	394
+江阳区	jy;dg yw;eo qh;kx	412
+江阴市	jy;dg yh;eo ut;wj	483
+江永县	jy;dg yn;du xa;qs	389
+江油市	jy;dg ya;dy ut;wj	426
+江源区	jy;dg yo;dx qh;kx	299
+江州区	jy;dg vx;dl qh;kx	311
+江孜县	jy;dg zj;zw xa;qs	349
+蕉城区	jm;ch if;ti qh;kx	411
+交城县	jm;wf if;ti xa;qs	379
+蛟河市	jm;if he;dk ut;wj	362
+椒江区	jm;my jy;dg qh;kx	397
+交口县	jm;wf kz;la xa;qs	329
+蕉岭县	jm;ch lw;us xa;qs	385
+礁溪乡	jm;uh xj;dd xy;vp	1
+胶州市	jm;of vx;dl ut;wj	492
+焦作市	jm;rh zp;rv ut;wj	523
+揭东区	jk;fr dk;ax qh;kx	1
+解放区	jc;dn fd;fw qh;kx	546
+界首市	jq;tj uz;bz ut;wj	425
+揭西县	jk;fr xj;ak,wk xa;qs	384
+介休市	jq;rl xz;rm ut;wj	370
+揭阳市	jk;fr yw;eo ut;wj	489
+晋安区	jv;yo an;bn qh;kx	499
+金安区	jh;rb an;bn qh;kx	419
+金昌市	jh;rb iu;oo ut;wj	417
+金城江	jh;rb if;ti jy;dg	384
+晋城市	jv;yo if;ti ut;wj	529
+金川区	jh;rb id;pl qh;kx	323
+金川县	jh;rb id;pl xa;qs	367
+金东区	jh;rb dk;ax qh;kx	402
+金凤区	jh;rb ff;jy qh;kx	391
+金峰乡	jh;rb fc;uf xy;vp	330
+金湖县	jh;rb hl;do xa;qs	404
+金华市	jh;rb ht;ru ut;wj	553
+锦江区	jx;jj jy;dg qh;kx	517
+晋江市	jv;yo jy;dg ut;wj	518
+金口河	jh;rb kz;la he;dk	337
+金林区	jh;rb lc;mm qh;kx	1
+金门县	jh;rb ms;dv xa;qs	515
+津南区	jh;dy nk;ug qh;kx	466
+晋宁区	jv;yo nn;bd qh;kx	1
+金牛区	jh;rb nm;pu qh;kx	502
+金平区	jh;rb pn;au qh;kx	387
+锦屏县	jx;jj pn;uk xa;qs	404
+金沙县	jh;rb ul;du xa;qs	342
+金山区	jh;rb un;kl qh;kx	505
+津市市	jh;dy ut;wj ut;wj	283
+金水区	jh;rb uv;ln qh;kx	507
+金塔县	jh;rb tm;tk xa;qs	365
+金台区	jh;rb td;sk qh;kx	345
+金坛区	jh;rb tk;ty qh;kx	346
+金堂县	jh;rb tw;xt xa;qs	430
+金湾区	jh;rb wn;dg qh;kx	430
+金溪县	jh;rb xj;dd xa;qs	374
+进贤县	jv;zj xv;lb xa;qs	443
+金乡县	jh;rb xy;vp xa;qs	415
+金阳县	jh;rb yw;eo xa;qs	309
+晋源区	jv;yo yo;dx qh;kx	445
+缙云县	jv;so yf;ag,es xa;qs	409
+金寨县	jh;rb vo;bm xa;qs	477
+晋中市	jv;yo vk;kl ut;wj	531
+金州区	jh;rb vx;dl qh;kx	402
+锦州市	jx;jj vx;dl ut;wj	468
+晋州市	jv;yo vx;dl ut;wj	355
+静安区	jw;fy an;bn qh;kx	565
+靖安县	jw;lo an;bn xa;qs	366
+靖边县	jw;lo br;zl xa;qs	423
+泾川县	je;dj id;pl xa;qs	370
+旌德县	je;fu de;rx xa;qs	415
+景德镇	jw;ox de;rx vo;jb	632
+井冈山	jw;ac,el gu;kx un;kl	593
+静海区	jw;fy hu;dm qh;kx	1
+精河县	je;mo he;dk xa;qs	334
+景洪市	jw;ox hj;dg ut;wj	422
+镜湖区	jw;je hl;do qh;kx	363
+靖江市	jw;lo jy;dg ut;wj	409
+京口区	je;wx kz;la qh;kx	329
+静乐县	jw;fy li;px xa;qs	340
+荆门市	je;cd ms;dv ut;wj	492
+静宁县	jw;fy nn;bd xa;qs	370
+京山市	je;wx un;kl ut;wj	270
+景泰县	jw;ox to;iu xa;qs	365
+靖西市	jw;lo xj;ak,wk ut;wj	1
+井陉县	jw;ac,el xn;ej xa;qs	429
+竞秀区	jw;lx xo;hn qh;kx	1
+井研县	jw;ac,el yk;uk xa;qs	350
+旌阳区	je;fu yw;eo qh;kx	398
+泾阳县	je;dj yw;eo xa;qs	424
+靖宇县	jw;lo ys;by xa;qs	363
+泾源县	je;dj yo;dx xa;qs	393
+靖远县	jw;lo ys;zy xa;qs	356
+荆州区	je;cd vx;dl qh;kx	372
+荆州市	je;cd vx;dl ut;wj	496
+鸠江区	jz;jn jy;dg qh;kx	351
+九江市	jz;pv jy;dg ut;wj	532
+九龙坡	jz;pv lj;yp pp;tp	540
+九龙县	jz;pv lj;yp xa;qs	300
+酒泉市	jz;dy qo;bu ut;wj	472
+九如乡	jz;pv rl;nk xy;vp	1
+九台区	jz;pv td;sk qh;kx	1
+九原区	jz;pv yo;ix qh;kx	1
+九寨沟	jz;pv vo;bm gx;dg	674
+久治县	jz;pn vt;dk xa;qs	320
+巨鹿县	jf;kk lh;gb xa;qs	356
+莒南县	js;ck nk;ug xa;qs	409
+句容市	jf;bk rj;bg ut;wj	431
+巨野县	jf;kk yl;ly xa;qs	408
+鄄城县	jc;xe if;ti xa;qs	387
+君山区	jg;yk un;kl qh;kx	332
+卡若区	km;ub rp;ck qh;kx	1
+喀什市	kl;kk ub;ru ut;wj	431
+开封市	kb;ac fc;tc ut;wj	545
+开福区	kb;ac fl;pt qh;kx	500
+开化县	kb;ac hg;rb xa;qs	399
+开江县	kb;ac jy;dg xa;qs	367
+凯里市	ku;uj lg;tt ut;wj	456
+开鲁县	kb;ac lm;yo xa;qs	415
+开平区	kb;ac pn;au qh;kx	346
+开平市	kb;ac pn;au ut;wj	447
+开阳县	kb;ac yw;eo xa;qs	404
+开原市	kb;ac yo;ix ut;wj	359
+开远市	kb;ac ys;zy ut;wj	338
+开州区	kb;ac vx;dl qh;kx	1
+崁顶乡	ka;uq dw;dy xy;vp	1
+康巴什	ku;gl bl;sl us;ru	1
+康保县	ku;gl bx;rm xa;qs	331
+康定市	ku;gl dw;bz ut;wj	1
+康乐县	ku;gl li;px xa;qs	367
+康马县	ku;gl mm;va xa;qs	282
+康平县	ku;gl pn;au xa;qs	397
+柯城区	kr;mk if;ti qh;kx	370
+克东县	ki;ux,ge dk;ax xa;qs	318
+科尔沁	kr;hd eu;dx qv;dx	547
+岢岚县	kl;uk lk;uf xa;qs	326
+柯坪县	kr;mk pn;tp xa;qs	259
+柯桥区	kr;mk qu;ml qh;kx	1
+克山县	ki;ux,ge un;kl xa;qs	300
+垦利区	ko;gt lt;hd qh;kx	1
+崆峒区	kk;ug tj;uk qh;kx	358
+口湖乡	kz;la hl;do xy;vp	1
+库车市	kh;gi ir;au ut;wj	1
+库尔勒	kh;gi eu;dx li;gl	547
+库伦旗	kh;gi lf;rl qb;fb	375
+宽城区	kd;bj if;ti qh;kx	425
+奎屯市	kw;dt tf;av ut;wj	366
+奎文区	kw;dt ws;wx qh;kx	377
+昆都仑	kg;ob dx;le lf;rb	1
+昆明市	kg;ob mn;oo ut;wj	674
+昆山市	kg;ob un;kl ut;wj	512
+昆玉市	kg;ob yf;wd ut;wj	260
+拉萨市	ll;fl si;ci ut;wj	557
+拉孜县	ll;fl zj;zw xa;qs	311
+来安县	ld;am an;bn xa;qs	402
+来宾市	ld;am bh;bb ut;wj	452
+来凤县	ld;am ff;jy xa;qs	351
+莱山区	ld;cl un;kl qh;kx	406
+涞水县	ld;dl uv;ln xa;qs	403
+莱芜区	ld;cl wl;cw qh;kx	1
+莱西市	ld;cl xj;ak,wk ut;wj	457
+莱阳市	ld;cl yw;eo ut;wj	385
+来义乡	ld;am yt;dx xy;vp	1
+涞源县	ld;dl yo;dx xa;qs	403
+莱州市	ld;cl vx;dl ut;wj	406
+岚皋县	lk;uf gq;bu xa;qs	341
+兰考县	lk;bs kx;lk xa;qs	448
+兰陵县	lk;bs ln;ew xa;qs	1
+兰山区	lk;bs un;kl qh;kx	421
+岚山区	lk;uf un;kl qh;kx	1
+蓝山县	lk;cm un;kl xa;qs	363
+蓝田县	lk;cm tv;ku xa;qs	465
+兰溪市	lk;bs xj;dd ut;wj	419
+兰西县	lk;bs xj;ak,wk xa;qs	329
+兰屿乡	lk;bs ys;uy xy;vp	1
+兰州市	lk;bs vx;dl ut;wj	631
+廊坊市	lw;ge fu;tf ut;wj	536
+浪卡子	ld;dl qn;ub zj;la	335
+郎溪县	lw;le xj;dd xa;qs	356
+琅琊区	lw;wl yu;we qh;kx	317
+阆中市	lw;ml vk;kl ut;wj	446
+老边区	lx;lb br;zl qh;kx	285
+老城区	lx;lb if;ti qh;kx	621
+老河口	lx;lb he;dk kz;la	447
+崂山区	li;ul un;kl qh;kx	530
+乐亭县	lv;px tn;wd xa;qs	402
+乐安县	li;px an;bn xa;qs	382
+乐昌市	li;px iu;oo ut;wj	349
+乐都区	li;px da;le qh;kx	1
+乐陵市	li;px ln;ew ut;wj	371
+乐平市	li;px pn;au ut;wj	370
+乐山市	li;px un;kl ut;wj	521
+乐业县	li;px yi;la xa;qs	312
+乐至县	li;px vt;gt xa;qs	401
+雷波县	lr;yt bp;dp xa;qs	344
+雷山县	lr;yt un;kl xa;qs	427
+类乌齐	lf;md wa;pa qb;wl	363
+耒阳市	lj;fm yw;eo ut;wj	419
+雷州市	lr;yt vx;dl ut;wj	404
+冷水江	ly;ds uv;ln jy;dg	408
+冷水滩	ly;ds uv;ln tn;dv	378
+荔波县	lt;cl bp;dp xa;qs	404
+李沧区	lg;mz cu;dv qh;kx	519
+历城区	lt;il if;ti qh;kx	511
+鲤城区	lg;yl if;ti qh;kx	425
+荔城区	lt;cl if;ti qh;kx	419
+黎城县	lb;hu if;ti xa;qs	367
+利川市	lt;hd id;pl ut;wj	424
+黎川县	lb;hu id;pl xa;qs	342
+里港乡	lg;tt gp;ds xy;vp	1
+丽江市	lt;ad jy;dg ut;wj	512
+利津县	lt;hd jh;dy xa;qs	393
+醴陵市	lg;yb ln;ew ut;wj	414
+黎平县	lb;hu pn;au xa;qs	413
+荔浦市	lt;cl pm;df ut;wj	214
+礼泉县	lg;pv qo;bu xa;qs	408
+立山区	lt;wb un;kl qh;kx	252
+离石区	lb;wn ub;ak qh;kx	422
+梨树区	lb;hm uh;mc qh;kx	256
+梨树县	lb;hm uh;mc xa;qs	377
+溧水区	lt;dm uv;ln qh;kx	1
+丽水市	lb;ad uv;ln ut;wj	506
+理塘县	lg;wl tw;tk xa;qs	382
+利通区	lt;hd tk;zy qh;kx	340
+荔湾区	lt;cl wn;dg qh;kx	540
+历下区	lt;il xx;ab qh;kx	490
+利辛县	lt;hd xh;lu xa;qs	404
+溧阳市	lt;dm yw;eo ut;wj	418
+利州区	lt;hd vx;dl qh;kx	1
+连城县	lv;zi if;ti xa;qs	409
+莲池区	lv;ci ib;dy qh;kx	1
+莲都区	lv;ci dx;le qh;kx	407
+莲湖区	lv;ci hl;do qh;kx	465
+莲花县	lv;ci hs;cb xa;qs	353
+廉江市	lv;gj jy;dg ut;wj	430
+连江县	lv;zi jy;dg xa;qs	528
+连平县	lv;zi pn;au xa;qs	366
+连山区	lv;zi un;kl qh;kx	319
+涟水县	lv;di uv;ln xa;qs	440
+濂溪区	lv;dj xj;dd qh;kx	1
+涟源市	lv;di yo;dx ut;wj	390
+连云港	lv;zi yf;ag,es gp;ds	628
+连云区	lv;zi yf;ag,es qh;kx	349
+连州市	lv;zi vx;dl ut;wj	375
+凉城县	li;dx if;ti xa;qs	358
+两当县	lu;ar du;xe xa;qs	328
+梁河县	li;dm he;dk xa;qs	368
+梁平区	li;dm pn;au qh;kx	278
+良庆区	li;dg qw;gd qh;kx	1
+梁山县	li;dm un;kl xa;qs	402
+梁溪区	li;dm xj;dd qh;kx	392
+梁园区	li;dm yo;ky qh;kx	366
+凉州区	li;dx vx;dl qh;kx	446
+梁子湖	li;dm zg;la hl;do	421
+聊城市	lu;ee if;ti ut;wj	517
+辽宁省	lu;zl nn;bd uy;uo	709
+辽阳市	lu;zl yw;eo ut;wj	479
+辽阳县	lu;zl yw;eo xa;qs	343
+辽源市	lu;zl yo;dx ut;wj	446
+辽中区	lu;zl vk;kl qh;kx	1
+烈山区	lq;dh un;kl qh;kx	351
+临安区	lc;lk an;bn qh;kx	1
+林边乡	lc;mm br;zl xy;vp	1
+临沧市	lc;lk cu;dv ut;wj	469
+临城县	lc;lk if;ti xa;qs	367
+临川区	lc;lk id;pl qh;kx	382
+林甸县	lc;mm da;bt xa;qs	310
+临汾市	lc;lk fs;df ut;wj	533
+临高县	lc;lk gq;wk xa;qs	402
+临桂区	lc;lk gf;mt qh;kx	1
+临海市	lc;lk hu;dm ut;wj	424
+临河区	lc;lk he;dk qh;kx	377
+临江市	lc;lk jy;dg ut;wj	320
+林口区	lc;mm kz;la qh;kx	1
+林口县	lc;mm kz;la xa;qs	293
+临澧县	lc;lk lg;db xa;qs	366
+麟洛乡	lc;lf lp;dk xy;vp	1
+林内乡	lc;mm nf;kr xy;vp	1
+临平区	lc;lk pn;au qh;kx	1
+临清市	lc;lk qe;do ut;wj	362
+临朐县	lc;lk qm;oj xa;qs	424
+临泉县	lc;lk qo;bu xa;qs	446
+临沭县	lc;lk uh;du xa;qs	402
+邻水县	lc;re uv;ln xa;qs	464
+临潭县	lc;lk tk;du xa;qs	351
+临洮县	lc;lk ti;dv xa;qs	408
+临潼区	lc;lk tj;dl qh;kx	459
+临渭区	lc;lk wf;do qh;kx	424
+临武县	lc;lk wm;yv xa;qs	358
+林西县	lc;mm xj;ak,wk xa;qs	377
+临西县	lc;lk xj;ak,wk xa;qs	343
+临夏市	lc;lk xx;bw ut;wj	387
+临夏县	lc;lk xx;bw xa;qs	340
+临翔区	lc;lk xi;yx qh;kx	298
+临湘市	lc;lk xy;do ut;wj	383
+临沂市	lc;lk yb;dj ut;wj	576
+临猗县	lc;lk yj;qk xa;qs	420
+临邑县	lc;lk yt;kb xa;qs	405
+临颍县	lc;lk yw;by xa;qs	393
+麟游县	lc;lf ya;dz xa;qs	1
+林园区	lc;mm yo;ky qh;kx	1
+临泽县	lc;lk ze;df xa;qs	344
+临漳县	lc;lk vu;du xa;qs	415
+林芝市	lc;mm vj;cv ut;wj	1
+林州市	lc;mm vx;dl ut;wj	529
+林周县	lc;mm vx;kk xa;qs	329
+临淄区	lc;lk zj;dt qh;kx	420
+灵宝市	ln;eh bx;by ut;wj	438
+灵璧县	ln;eh bt;uy xa;qs	415
+陵城区	ln;ew if;ti qh;kx	1
+陵川县	ln;ew id;pl xa;qs	420
+灵川县	ln;eh id;pl xa;qs	369
+岭东区	lw;us dk;ax qh;kx	156
+凌海市	ln;dw hu;dm ut;wj	291
+凌河区	ln;dw he;dk qh;kx	253
+零陵区	ln;ys ln;ew qh;kx	1
+灵丘县	ln;eh qz;ja xa;qs	364
+灵山县	ln;eh un;kl xa;qs	408
+灵石县	ln;eh ub;ak xa;qs	392
+灵寿县	ln;eh ur;fc xa;qs	424
+灵台县	ln;eh td;sk xa;qs	331
+灵武市	ln;eh wm;yv ut;wj	381
+苓雅区	ln;cs ym;yv qh;kx	1
+凌源市	ln;dw yo;dx ut;wj	351
+凌云县	ln;dw yf;ag,es xa;qs	363
+留坝县	lm;pt bi;tb xa;qs	371
+柳北区	lz;me bj;lb qh;kx	350
+柳城县	lz;me if;ti xa;qs	364
+六龟区	lo;wb gt;dd qh;kx	1
+柳河县	lz;me he;dk xa;qs	345
+六甲区	lo;wb jn;ol,tl qh;kx	1
+柳江区	lz;me jy;dg qh;kx	1
+六脚乡	lo;wb jl;oe xy;vp	1
+柳林县	lz;me lc;mm xa;qs	372
+柳南区	lz;me nk;ug qh;kx	324
+六盘水	lo;wb pk;vm uv;ln	549
+琉球乡	lm;wi qm;wq xy;vp	1
+浏阳市	lm;dd yw;eo ut;wj	490
+柳营区	lz;me yn;ck qh;kx	1
+六枝特	lo;wb vj;mv ti;nc	1
+柳州市	lz;me vx;dl ut;wj	557
+龙安区	lj;yp an;bn qh;kx	245
+隆安县	lj;eu an;bn xa;qs	389
+隆昌市	lj;eu iu;oo ut;wj	1
+龙城区	lj;yp if;ti qh;kx	438
+龙川县	lj;yp id;pl xa;qs	379
+陇川县	ln;el id;pl xa;qs	370
+隆德县	lj;eu de;rx xa;qs	367
+龙凤区	lj;yp ff;jy qh;kx	297
+龙岗区	lj;yp gp;ux qh;kx	571
+龙港区	lj;yp gp;ds qh;kx	264
+龙港市	lj;yp gp;ds ut;wj	1
+龙海区	lj;yp hu;dm qh;kx	1
+龙湖区	lj;yp hl;do qh;kx	395
+龙华区	lj;yp ht;ru qh;kx	498
+隆化县	lj;eu hg;rb xa;qs	364
+隆回县	lj;eu hw;kk xa;qs	403
+龙江县	lj;yp jy;dg xa;qs	361
+龙井区	lj;yp jw;ac,el qh;kx	1
+龙井市	lj;yp jw;ac,el ut;wj	376
+龙口市	lj;yp kz;la ut;wj	404
+龙里县	lj;yp lg;tt xa;qs	373
+龙陵县	lj;yp ln;ew xa;qs	361
+龙马潭	lj;yp mm;va tk;du	1
+龙门县	lj;yp ms;dv xa;qs	415
+龙南市	lj;yp nk;ug ut;wj	1
+陇南市	ln;el nk;ug ut;wj	1
+龙崎区	lj;yp qb;uk qh;kx	1
+龙泉市	lj;yp qo;bu ut;wj	394
+龙泉驿	lj;yp qo;bu yt;mf	496
+龙沙区	lj;yp ul;du qh;kx	280
+龙山区	lj;yp un;kl qh;kx	392
+龙山县	lj;yp un;kl xa;qs	391
+龙潭区	lj;yp tk;du qh;kx	422
+龙亭区	lj;yp tn;wd qh;kx	294
+龙湾区	lj;yp wn;dg qh;kx	433
+龙圩区	lj;yp wr;ty qh;kx	1
+龙文区	lj;yp ws;wx qh;kx	398
+陇西县	ln;el xj;ak,wk xa;qs	386
+龙岩市	lj;yp yk;uu ut;wj	520
+隆阳区	lj;eu yw;eo qh;kx	376
+隆尧县	lj;eu yi;yw xa;qs	392
+龙游县	lj;yp ya;dz xa;qs	403
+龙州县	lj;yp vx;dl xa;qs	347
+龙子湖	lj;yp zg;la hl;do	1
+隆子县	lj;eu zg;la xa;qs	295
+娄底市	la;mn dg;gu ut;wj	497
+娄烦县	la;mn fk;hy xa;qs	349
+娄星区	la;mn xe;ou qh;kx	346
+六安市	lh;wb an;bn ut;wj	539
+路北区	lh;zk bj;lb qh;kx	392
+鹿草乡	lh;gb cx;cu xy;vp	1
+鹿城区	lh;gb if;ti qh;kx	521
+潞城区	lh;dk if;ti qh;kx	1
+陆川县	lh;ej id;pl xa;qs	352
+鲁甸县	lm;yo dr;bt xa;qs	358
+泸定县	ll;du dw;bz xa;qs	402
+陆丰市	lh;ej fc;sl,af,al ut;wj	417
+禄丰市	lh;pu fc;sl,af,al ut;wj	1
+鹿港镇	lh;gb gp;ds vo;jb	414
+鹿谷乡	lh;gb gm;bk xy;vp	389
+六合区	lh;wb he;rk qh;kx	489
+陆河县	lh;ej he;dk xa;qs	354
+炉霍县	ll;hh hp;yv xa;qs	340
+庐江县	ll;gh jy;dg xa;qs	473
+渌口区	lh;du kz;la qh;kx	1
+陆良县	lh;ej li;dg xa;qs	382
+卢龙县	ll;bu lj;yp xa;qs	402
+路南区	lh;zk nk;ug qh;kx	336
+路桥区	lh;zk qu;ml qh;kx	365
+碌曲县	lh;uu qh;kc xa;qs	319
+鹿泉区	lh;gb qo;bu qh;kx	1
+庐山市	ll;gh un;kl ut;wj	1
+芦山县	ll;ch un;kl xa;qs	449
+鲁山县	lm;yo un;kl xa;qs	435
+卢氏县	ll;bu ut;pv xa;qs	471
+泸水市	ll;du uv;ln ut;wj	1
+芦淞区	ll;ch sk;dg qh;kx	366
+泸溪县	ll;du xj;dd xa;qs	377
+泸西县	ll;du xj;ak,wk xa;qs	349
+芦溪县	ll;ch xj;dd xa;qs	337
+庐阳区	ll;gh yw;eo qh;kx	503
+鹿野乡	lh;gb yl;ly xy;vp	1
+鹿邑县	lh;gb yt;kb xa;qs	410
+鹿寨县	lh;gb vo;bm xa;qs	384
+潞州区	lh;dk vx;dl qh;kx	1
+芦洲区	ll;ch vx;dv qh;kx	1
+泸州市	ll;du vx;dl ut;wj	530
+路竹区	lh;zk vl;gg qh;kx	1
+芦竹区	ll;ch vl;gg qh;kx	1
+栾城区	lo;wm if;ti qh;kx	1
+栾川县	lo;wm id;pl xa;qs	416
+滦南县	lo;dm nk;ug xa;qs	353
+滦平县	lo;dm pn;au xa;qs	434
+滦州市	lo;dm vx;dl ut;wj	1
+仑背乡	lf;rb bf;bo xy;vp	1
+轮台县	lf;il td;sk xa;qs	335
+萝北县	ll;cx bj;lb xa;qs	332
+洛川县	lp;dk id;pl xa;qs	359
+罗甸县	ll;sx da;bt xa;qs	336
+罗定市	ll;sx dw;bz ut;wj	395
+罗东镇	ll;sx dk;ax vo;jb	411
+罗湖区	ll;sx hl;do qh;kx	570
+洛江区	lp;dk jy;dg qh;kx	363
+罗江区	ll;sx jy;dg qh;kx	156
+洛龙区	lp;dk lj;yp qh;kx	373
+洛隆县	lp;dk lj;eu xa;qs	202
+洛南县	lp;dk nk;ug xa;qs	394
+洛宁县	lp;dk nn;bd xa;qs	405
+罗平县	ll;sx pn;au xa;qs	403
+洛浦县	lp;dk pm;df xa;qs	338
+罗山县	ll;sx un;kl xa;qs	407
+罗田县	ll;sx tv;ku xa;qs	396
+洛阳市	lp;dk yw;eo ut;wj	582
+罗源县	ll;sx yo;dx xa;qs	459
+洛扎县	lp;dk vl;fv xa;qs	327
+罗庄区	ll;sx vw;gt qh;kx	415
+绿春县	lf;su ig;io xa;qs	308
+绿岛乡	lf;su dx;nu xy;vp	1
+吕梁市	ls;kk li;dm ut;wj	508
+旅顺口	ls;fy ur;iy kz;la	495
+绿园区	lf;su yo;ky qh;kx	424
+略阳县	ld;tk yw;eo xa;qs	354
+马鞍山	mm;va an;gn un;kl	625
+麻城市	mu;gm if;ti ut;wj	410
+马村区	mm;va cg;mc qh;kx	374
+麻豆区	mu;gm dr;ab qh;kx	1
+玛多县	mm;wm ds;xx xa;qs	341
+马尔康	mm;va eu;dx ku;gl	477
+马公市	mm;va gk;bs ut;wj	440
+马关县	mm;va gd;bt xa;qs	378
+玛家乡	mm;wm jd;bu xy;vp	1
+麻江县	mu;gm jy;dg xa;qs	331
+麻栗坡	mu;gm lt;xm pp;tp	405
+马龙区	mm;va lj;yp qh;kx	174
+玛纳斯	mm;wm ni;sn sj;cj	452
+玛沁县	mm;wm qv;dx xa;qs	332
+玛曲县	mm;wm qh;kc xa;qs	297
+麻山区	mu;gm un;kl qh;kx	164
+马山县	mm;va un;kl xa;qs	392
+马尾区	mm;va wj;um qh;kx	425
+麻章区	mu;gm vu;lu qh;kx	317
+麦盖提	mo;fw go;ym tb;fz	390
+麦积区	mo;fw jj;hv qh;kx	1
+麦寮乡	mo;fw lu;bx xy;vp	1
+满城区	mo;dl if;ti qh;kx	1
+满洲里	mo;dl vx;dv lg;tt	551
+满州乡	mo;dl vx;dl xy;vp	1
+芒康县	mw;cw ku;gl xa;qs	383
+茫崖市	mw;cw yu;ut ut;wj	1
+茅箭区	mi;cm ja;vd qh;kx	307
+茂林区	mv;cw lc;mm qh;kx	1
+茂名市	mv;cw mn;xk ut;wj	514
+茂南区	mv;cw nk;ug qh;kx	369
+美姑县	mj;yd ga;ng xa;qs	367
+梅河口	mr;mm he;dk kz;la	438
+梅江区	mr;mm jy;dg qh;kx	354
+美兰区	mj;yd lk;bs qh;kx	493
+梅里斯	mr;mm lg;tt sj;cj	1
+美浓区	mj;yd nj;dy qh;kx	1
+眉山市	mr;uo un;kl ut;wj	529
+梅山乡	mr;mm un;kl xy;vp	1
+湄潭县	mr;do tk;du xa;qs	377
+梅县区	mr;mm xa;qs qh;kx	1
+梅州市	mr;mm vx;dl ut;wj	505
+门头沟	ms;dv ta;dd gx;dg	573
+蒙城县	mf;cu if;ti xa;qs	433
+勐海县	my;zl hu;dm xa;qs	423
+孟津区	mf;zm jh;dy qh;kx	1
+勐腊县	my;zl li;oo xa;qs	398
+蒙山县	mf;cu un;kl xa;qs	309
+蒙阴县	mf;cu yh;eo xa;qs	389
+孟州市	mf;zm vx;dl ut;wj	367
+蒙自市	mf;cu zt;po ut;wj	1
+米东区	mg;bm dk;ax qh;kx	1
+弥渡县	mb;gx dh;dy xa;qs	361
+弥勒市	mb;gx li;gl ut;wj	1
+米林市	mg;bm lc;mm ut;wj	1
+汨罗市	mt;do ll;sx ut;wj	395
+密山市	mt;bu un;kl ut;wj	336
+弥陀区	mb;gx tl;eb qh;kx	1
+米易县	mg;bm yt;ow xa;qs	374
+密云区	mt;bu yf;ag,es qh;kx	1
+米脂县	mg;bm vj;oo xa;qs	385
+渑池县	mp;dd ib;dy xa;qs	436
+冕宁县	mp;oe nn;bd xa;qs	374
+绵阳市	mv;sj yw;eo ut;wj	530
+绵竹市	mv;sj vl;gg ut;wj	374
+苗栗市	mu;ct lt;xm ut;wj	411
+苗栗县	mu;ct lt;xm xa;qs	577
+民丰县	mc;vv fc;sl,af,al xa;qs	308
+闽侯县	mx;mi hr;ru xa;qs	493
+民勤县	mc;vv qc;cl xa;qs	352
+闽清县	mx;mi qe;do xa;qs	450
+民权县	mc;vv qo;my xa;qs	391
+闵行区	mx;mw xn;rd qh;kx	561
+民雄乡	mc;vv xk;uv xy;vp	1
+民乐县	mc;vv yd;px xa;qs	377
+明光市	mn;oo gw;xe ut;wj	371
+名间乡	mn;xk jr;mo xy;vp	376
+明山区	mn;oo un;kl qh;kx	292
+名山区	mn;xk un;kl qh;kx	1
+明水县	mn;oo uv;ln xa;qs	362
+明溪县	mn;oo xj;dd xa;qs	346
+漠河市	mg;dd he;dk ut;wj	285
+墨脱县	mg;lt ts;ox xa;qs	379
+墨玉县	mg;lt yf;wd xa;qs	363
+牟定县	ma;sn dw;bz xa;qs	299
+沐川县	mh;dm id;pl xa;qs	1
+牡丹江	mm;nt dn;kd jy;dg	573
+牡丹区	mm;nt dn;kd qh;kx	377
+牡丹乡	mm;nt dn;kd xy;vp	347
+木兰县	mh;ur lk;bs xa;qs	339
+穆棱市	mh;hp lf;mw ut;wj	323
+牟平区	mh;sn pn;au qh;kx	404
+牧野区	mh;nw yl;ly qh;kx	253
+那玛夏	ni;ve mm;wm xx;bw	1
+那坡县	ni;ve pp;tp xa;qs	326
+那曲市	ni;ve qh;kc ut;wj	1
+纳溪区	ni;sn xj;dd qh;kx	390
+纳雍县	ni;sn yk;wv xa;qs	383
+乃东区	nu;pv,vp dk;ax qh;kx	1
+奈曼旗	no;du ma;oy qb;fb	422
+南岸区	nk;ug aa;ug qh;kx	526
+南安市	nk;ug an;bn ut;wj	456
+南澳县	nk;ug av;dd xa;qs	367
+南澳乡	nk;ug av;dd xy;vp	1
+南部县	nk;ug bh;le xa;qs	414
+南岔县	nk;ug ii;fu xa;qs	1
+南昌市	nk;ug iu;oo ut;wj	635
+南昌县	nk;ug iu;oo xa;qs	510
+南城县	nk;ug if;ti xa;qs	381
+南充市	nk;ug ik;wy ut;wj	526
+南川区	nk;ug id;pl qh;kx	1
+南丹县	nk;ug dn;kd xa;qs	352
+南芬区	nk;ug fe;cf qh;kx	254
+南丰县	nk;ug fc;sl,af,al xa;qs	381
+南岗区	nk;ug gp;ux qh;kx	510
+南港区	nk;ug gp;ds qh;kx	419
+南宫市	nk;ug gk;bk ut;wj	319
+南关区	nk;ug gd;bt qh;kx	450
+南海区	nk;ug hu;dm qh;kx	528
+南和区	nk;ug he;hk qh;kx	1
+南湖区	nk;ug hl;do qh;kx	1
+南化区	nk;ug hg;rb qh;kx	1
+南华县	nk;ug ht;ru xa;qs	343
+南江县	nk;ug jy;dg xa;qs	485
+南京市	nk;ug je;wx ut;wj	695
+南靖县	nk;ug jw;lo xa;qs	426
+南开区	nk;ug kb;ac qh;kx	531
+南康区	nk;ug ku;gl qh;kx	1
+南乐县	nk;ug li;px xa;qs	380
+南陵县	nk;ug ln;ew xa;qs	406
+南明区	nk;ug mn;oo qh;kx	467
+南木林	nk;ug mh;ur lc;mm	323
+南宁市	nk;ug nn;bd ut;wj	646
+南皮县	nk;ug pb;py xa;qs	345
+南票区	nk;ug pl;xu qh;kx	226
+南平市	nk;ug pn;au ut;wj	508
+南谯区	nk;ug qu;yh qh;kx	377
+南沙区	nk;ug ul;du qh;kx	1
+南山区	nk;ug un;kl qh;kx	595
+南通市	nk;ug tk;zy ut;wj	541
+南投市	nk;ug ta;fu ut;wj	424
+南投县	nk;ug ta;fu xa;qs	584
+南屯区	nk;ug tf;av qh;kx	1
+南溪区	nk;ug xj;dd qh;kx	1
+楠西区	nk;mg xj;ak,wk qh;kx	1
+南雄市	nk;ug xk;uv ut;wj	415
+南浔区	nk;ug xf;dc qh;kx	380
+南阳市	nk;ug yw;eo ut;wj	575
+南岳区	nk;ug yd;qu qh;kx	347
+南漳县	nk;ug vu;du xa;qs	385
+南召县	nk;ug vv;dk xa;qs	419
+南郑区	nk;ug vf;be qh;kx	1
+南州乡	nk;ug vx;dl xy;vp	1
+南庄乡	nk;ug vw;gt xy;vp	1
+楠梓区	nk;mg zg;mx qh;kx	1
+囊谦县	nw;gy qr;yj xa;qs	376
+讷河市	ni;yn he;dk ut;wj	310
+内湖区	nf;kr hl;do qh;kx	439
+内黄县	nf;kr hb;cb xa;qs	408
+内江市	nf;kr jy;dg ut;wj	480
+内门区	nf;kr ms;dv qh;kx	1
+内蒙古	nf;kr mf;cu gm;uk	772
+内埔乡	nf;kr pm;tf xy;vp	1
+内丘县	nf;kr qz;ja xa;qs	374
+内乡县	nf;kr xy;vp xa;qs	457
+嫩江市	no;nw jy;dg ut;wj	1
+尼勒克	nb;ub li;gl ki;ux,ge	373
+尼玛县	nb;ub mm;wm xa;qs	322
+尼木县	nb;ub mh;ur xa;qs	376
+碾子山	np;uy zg;la un;kl	1
+鸟松区	nl;na sk;mg qh;kx	1
+聂拉木	nq;ey ll;fl mh;ur	403
+聂荣县	nq;ey rj;cm xa;qs	226
+宁安市	nn;bd an;bn ut;wj	382
+宁波市	nn;bd bp;dp ut;wj	638
+宁城县	nn;bd if;ti xa;qs	392
+宁德市	nn;bd de;rx ut;wj	515
+宁都县	nn;bd dx;le xa;qs	409
+宁国市	nn;bd gl;ky ut;wj	399
+宁海县	nn;bd hu;dm xa;qs	467
+宁河区	nn;bd he;dk qh;kx	1
+宁化县	nn;bd hg;rb xa;qs	446
+宁江区	nn;bd jy;dg qh;kx	307
+宁晋县	nn;bd jv;yo xa;qs	380
+宁津县	nn;bd jh;dy xa;qs	363
+宁陵县	nn;bd ln;ew xa;qs	391
+宁明县	nn;bd mn;oo xa;qs	354
+宁南县	nn;bd nk;ug xa;qs	268
+宁强县	nn;bd qi;gi xa;qs	425
+宁陕县	nn;bd uo;ej xa;qs	373
+宁武县	nn;bd wm;yv xa;qs	372
+宁乡市	nn;bd xy;vp ut;wj	1
+宁阳县	nn;bd yw;eo xa;qs	405
+宁远县	nn;bd ys;zy xa;qs	391
+农安县	nj;by an;bn xa;qs	429
+暖暖区	ns;oy ns;oy qh;kx	1
+瓯海区	ox;qw hu;dm qh;kx	445
+磐安县	pk;vu an;bn xa;qs	390
+潘集区	pn;dt jb;rm qh;kx	314
+盘锦市	pk;vm jx;jj ut;wj	460
+盘龙区	pk;vm lj;yp qh;kx	506
+盘山县	pk;vm un;kl xa;qs	353
+磐石市	pk;vu ub;ak ut;wj	337
+番禺区	pn;ct ym;td qh;kx	550
+攀枝花	pn;mu vj;mv hs;cb	581
+盘州市	pk;vm vx;dl ut;wj	1
+蓬安县	pf;cf an;bn xa;qs	369
+澎湖县	pc;dp hl;do xa;qs	542
+蓬江区	pf;cf jy;dg qh;kx	435
+蓬莱区	pf;cf ld;cl qh;kx	1
+彭山区	pf;tp un;kl qh;kx	1
+蓬溪县	pf;cf xj;dd xa;qs	397
+彭阳县	pf;tp yw;eo xa;qs	357
+彭泽县	pf;tp ze;df xa;qs	401
+彭州市	pf;tp vx;dl ut;wj	435
+郫都区	pb;pe dx;le qh;kx	1
+皮山县	pb;py un;kl xa;qs	363
+埤头乡	pb;tu ta;dd xy;vp	1
+邳州市	pj;be vx;dl ut;wj	442
+偏关县	pr;rc gd;bt xa;qs	322
+平安区	pn;au an;bn qh;kx	1
+平坝区	pn;au bi;tb qh;kx	1
+平昌县	pn;au iu;oo xa;qs	452
+平城区	pn;au if;ti qh;kx	1
+平川区	pn;au id;pl qh;kx	318
+平顶山	pn;au dw;dy un;kl	582
+平定县	pn;au dw;bz xa;qs	387
+屏东市	pn;uk dk;ax ut;wj	476
+屏东县	pn;uk dk;ax xa;qs	601
+平度市	pn;au dh;gy ut;wj	503
+平房区	pn;au fw;hf qh;kx	462
+平谷区	pn;au gm;bk qh;kx	491
+平桂区	pn;au gf;mt qh;kx	1
+平果市	pn;au gl;tm ut;wj	1
+平和县	pn;au he;hk xa;qs	421
+平湖市	pn;au hl;do ut;wj	390
+平江县	pn;au jy;dg xa;qs	443
+平乐县	pn;au li;px xa;qs	363
+平利县	pn;au lt;hd xa;qs	409
+平凉市	pn;au li;dx ut;wj	465
+坪林区	pn;tp lc;mm qh;kx	1
+平鲁区	pn;au lm;yo qh;kx	317
+平陆县	pn;au lh;ej xa;qs	410
+平罗县	pn;au ll;sx xa;qs	405
+屏南县	pn;uk nk;ug xa;qs	373
+平南县	pn;au nk;ug xa;qs	361
+平桥区	pn;au qu;ml qh;kx	409
+平泉市	pn;au qo;bu ut;wj	1
+平山区	pn;au un;kl qh;kx	263
+坪山区	pn;tp un;kl qh;kx	1
+平山县	pn;au un;kl xa;qs	473
+屏山县	pn;uk un;kl xa;qs	390
+平顺县	pn;au ur;iy xa;qs	387
+平潭县	pn;au tk;du xa;qs	384
+平塘县	pn;au tw;tk xa;qs	380
+平武县	pn;au wm;yv xa;qs	371
+平溪区	pn;au xj;dd qh;kx	1
+萍乡市	pn;cp xy;vp ut;wj	474
+凭祥市	pn;rj xi;py ut;wj	353
+平乡县	pn;au xy;vp xa;qs	347
+平阳县	pn;au yw;eo xa;qs	489
+平遥县	pn;au yi;zf xa;qs	426
+平邑县	pn;au yt;kb xa;qs	407
+平阴县	pn;au yh;eo xa;qs	418
+平舆县	pn;au ym;jb xa;qs	456
+平原县	pn;au yo;ix xa;qs	417
+平远县	pn;au ys;zy xa;qs	364
+平镇区	pn;au vo;jb qh;kx	1
+坡头区	pp;tp ta;dd qh;kx	358
+泊头市	pp;db ta;dd ut;wj	335
+鄱阳县	pe;ce yw;eo xa;qs	453
+普安县	pm;bo an;bn xa;qs	402
+浦北县	pm;df bj;lb xa;qs	350
+蒲城县	pl;cf if;ti xa;qs	427
+浦城县	pm;df if;ti xa;qs	401
+普定县	pm;bo dw;bz xa;qs	421
+普洱市	pm;bo eu;de ut;wj	1
+普格县	pm;bo ge;mk xa;qs	329
+浦江县	pm;df jy;dg xa;qs	413
+蒲江县	pl;cf jy;dg xa;qs	408
+浦口区	pm;df kz;la qh;kx	480
+普兰店	pm;bo lk;bs da;gv	483
+普兰县	pm;bo lk;bs xa;qs	336
+埔里镇	pm;tf lg;tt vo;jb	422
+普宁市	pm;bo nn;bd ut;wj	451
+莆田市	pl;cf tv;ku ut;wj	527
+普陀区	pm;bo tl;eb qh;kx	548
+埔心乡	pm;tf xh;dd xy;vp	1
+埔盐乡	pm;tf yk;tm xy;vp	1
+濮阳市	pl;df yw;eo ut;wj	499
+濮阳县	pl;df yw;eo xa;qs	453
+朴子市	pm;mb zg;la ut;wj	1
+淇滨区	qb;db bh;db qh;kx	364
+蕲春县	qb;cj ig;io xa;qs	405
+启东市	qg;hk dk;ax ut;wj	388
+祁东县	qb;pe dk;ax xa;qs	389
+七堵区	qj;av dm;to qh;kx	1
+七股区	qj;av gm;ou qh;kx	1
+齐河县	qb;wl he;dk xa;qs	391
+綦江区	qb;cx jy;dg qh;kx	1
+旗津区	qb;fb jh;dy qh;kx	1
+七里河	qj;av lg;tt he;dk	530
+祁连县	qb;pe lv;zi xa;qs	399
+麒麟区	qb;lb lc;lf qh;kx	360
+七美乡	qj;av mj;yd xy;vp	1
+祁门县	qb;pe ms;dv xa;qs	394
+旗山区	qb;fb un;kl qh;kx	1
+岐山县	qb;uv un;kl xa;qs	374
+七台河	qj;av td;sk he;dk	455
+奇台县	qb;dk td;sk xa;qs	365
+栖霞区	qj;mx xc;yy qh;kx	464
+栖霞市	qj;mx xc;yy ut;wj	429
+七星关	qj;av xe;ou gd;bt	1
+七星区	qj;av xe;ou qh;kx	353
+祁阳市	qb;pe yw;eo ut;wj	1
+迁安市	qr;zq an;bn ut;wj	425
+乾安县	qv;uv an;bn xa;qs	1
+黔东南	qv;lv dk;ax nk;ug	582
+前锋区	qv;bd fc;jf qh;kx	1
+黔江区	qv;lv jy;dg qh;kx	428
+潜江市	qv;do jy;dg ut;wj	448
+前进区	qv;bd jv;zj qh;kx	242
+前金区	qv;bd jh;rb qh;kx	1
+千山区	qr;pu un;kl qh;kx	269
+潜山市	qv;do un;kl ut;wj	1
+钱塘区	qv;jj tw;tk qh;kx	1
+犍为县	qv;ny wr;ld xa;qs	379
+黔西南	qv;lv xj;ak,wk nk;ug	527
+黔西市	qv;lv xj;ak,wk ut;wj	1
+迁西县	qr;zq xj;ak,wk xa;qs	348
+千阳县	qr;pu yw;eo xa;qs	307
+前镇区	qv;bd vo;jb qh;kx	1
+谯城区	qu;yh if;ti qh;kx	401
+桥东区	qu;ml dk;ax qh;kx	424
+巧家县	ql;gk jd;bu xa;qs	381
+硚口区	qu;ul kz;la qh;kx	431
+桥头区	qu;ml ta;dd qh;kx	1
+桥西区	qu;ml xj;ak,wk qh;kx	480
+且末县	qc;oa mg;am xa;qs	337
+茄子河	qs;ck zj;la he;dk	1
+秦安县	qc;ih an;bn xa;qs	388
+钦北区	qh;jq bj;lb qh;kx	316
+秦都区	qc;ih dx;le qh;kx	356
+秦淮区	qc;ih hs;dv qh;kx	495
+秦皇岛	qc;ih hb;bw dx;nu	675
+钦南区	qh;jq nk;ug qh;kx	275
+沁水县	qv;dx uv;ln xa;qs	391
+沁阳市	qv;dx yw;eo ut;wj	437
+沁源县	qv;dx yo;dx xa;qs	355
+秦州区	qc;ih vx;dl qh;kx	390
+钦州市	qh;jq vx;dl ut;wj	462
+庆安县	qw;gd an;bn xa;qs	320
+青白江	qe;fo bd;po jy;dg	468
+清城区	qe;do if;ti qh;kx	398
+庆城县	qw;gd if;ti xa;qs	361
+青川县	qe;fo id;pl xa;qs	382
+青岛市	qe;fo dx;nu ut;wj	691
+清丰县	qe;do fc;sl,af,al xa;qs	411
+青冈县	qe;fo gu;kx xa;qs	359
+青海省	qe;fo hu;dm uy;uo	662
+清河门	qe;do he;dk ms;dv	273
+清河区	qe;do he;dk qh;kx	366
+清河县	qe;do he;dk xa;qs	405
+青河县	qe;fo he;dk xa;qs	335
+清涧县	qe;do ja;do xa;qs	375
+清江浦	qe;do jy;dg pm;df	384
+清流县	qe;do lm;di xa;qs	367
+晴隆县	qn;oo lj;eu xa;qs	370
+青浦区	qe;fo pm;df qh;kx	489
+青山湖	qe;fo un;kl hl;do	507
+青山区	qe;fo un;kl qh;kx	492
+青神县	qe;fo us;pu xa;qs	380
+清水河	qe;do uv;ln he;dk	496
+清水区	qe;do uv;ln qh;kx	1
+清水县	qe;do uv;ln xa;qs	396
+青田县	qe;fo tv;ku xa;qs	407
+青铜峡	qe;fo tj;jk xc;uj	445
+清新区	qe;do xh;lj qh;kx	1
+青秀区	qe;fo xo;hn qh;kx	464
+清徐县	qe;do xm;rm xa;qs	397
+青羊区	qe;fo yw;bf qh;kx	510
+庆阳市	qw;gd yw;eo ut;wj	468
+青阳县	qe;fo yw;eo xa;qs	373
+青原区	qe;fo yo;ix qh;kx	339
+清苑区	qe;do yc;cv qh;kx	1
+清远市	qe;do ys;zy ut;wj	516
+庆元县	qw;gd yo;aw xa;qs	350
+青云谱	qe;fo yf;ag,es pm;yo	1
+庆云县	qw;gd yf;ag,es xa;qs	348
+清镇市	qe;do vo;jb ut;wj	446
+青州市	qe;fo vx;dl ut;wj	449
+琼海市	qk;wx hu;dm ut;wj	465
+琼结县	qk;wx js;sk xa;qs	234
+邛崃市	qk;ge ld;ul ut;wj	430
+芎林乡	qp;cg lc;mm xy;vp	1
+琼山区	qk;wx un;kl qh;kx	429
+丘北县	qz;ja bj;lb xa;qs	365
+曲阜市	qh;kc fh;pu ut;wj	422
+衢江区	qm;rv jy;dg qh;kx	339
+曲江区	qs;kc jy;dg qh;kx	1
+曲靖市	qh;kc jw;lo ut;wj	490
+曲麻莱	qh;kc mu;gm ld;cl	353
+曲水县	qs;kc uv;ln xa;qs	348
+曲松县	qh;kc sk;mg xa;qs	204
+曲沃县	qh;kc wg;dy xa;qs	376
+曲阳县	qh;kc yw;eo xa;qs	406
+衢州市	qm;rv vx;dl ut;wj	494
+曲周县	qh;kc vx;kk xa;qs	360
+泉港区	qo;bu gp;ds qh;kx	402
+全椒县	qo;rw jm;my xa;qs	399
+全南县	qo;rw nk;ug xa;qs	342
+泉山区	qo;bu un;kl qh;kx	368
+泉州市	qo;bu vx;dl ut;wj	583
+全州县	qo;rw vx;dl xa;qs	386
+确山县	qd;uy un;kl xa;qs	423
+让胡路	rd;yu hl;go lh;zk	1
+壤塘县	rp;tf tw;tk xa;qs	301
+饶河县	ri;uw he;dk xa;qs	329
+饶平县	ri;uw pn;au xa;qs	445
+饶阳县	ri;uw yw;eo xa;qs	335
+仁爱区	rs;re ao;vy qh;kx	1
+仁爱乡	rs;re ao;vy xy;vp	1
+仁布县	rs;re bh;uj xa;qs	241
+任城区	ro;rw if;ti qh;kx	391
+仁德区	rs;re de;rx qh;kx	1
+仁和区	rs;re he;hk qh;kx	369
+仁化县	rs;re hg;rb xa;qs	387
+仁怀市	rs;re hs;xb ut;wj	444
+任丘市	rs;rw qz;ja ut;wj	361
+仁寿县	rs;re ur;fc xa;qs	431
+仁武区	rs;re wm;yv qh;kx	1
+任泽区	ro;rw ze;df qh;kx	1
+日喀则	rt;ka kl;kk ze;bd	554
+日土县	rt;ka tm;ua xa;qs	344
+日照市	rt;ka vv;oh ut;wj	511
+融安县	rj;gi an;bn xa;qs	356
+荣昌区	rj;cm iu;oo qh;kx	1
+榕城区	rj;mg if;ti qh;kx	328
+荣成市	rj;cm if;wv ut;wj	413
+容城县	rj;bg if;ti xa;qs	354
+榕江县	rj;mg jy;dg xa;qs	374
+汝城县	rm;dn if;ti xa;qs	424
+如东县	rl;nk dk;ax xa;qs	405
+如皋市	rl;nk gq;bu ut;wj	443
+汝南县	rm;dn nk;ug xa;qs	418
+乳山市	rm;vv un;kl ut;wj	392
+汝阳县	rm;dn yw;eo xa;qs	405
+汝州市	rm;dn vx;dl ut;wj	466
+瑞安市	rf;we an;bn ut;wj	468
+瑞昌市	rf;we iu;oo ut;wj	373
+芮城县	rf;cn if;ti xa;qs	402
+瑞芳区	rf;we fu;cf qh;kx	1
+瑞金市	rf;we jh;rb ut;wj	402
+瑞丽市	rf;we lt;ad ut;wj	460
+瑞穗乡	rf;we sf;hx xy;vp	353
+润州区	rr;dw vx;dl qh;kx	344
+若尔盖	rp;ck eu;dx go;ym	487
+若羌县	rp;ck qy;yv xa;qs	399
+萨尔图	si;ci eu;dx tl;kd	1
+萨嘎县	si;ci gl;kg xa;qs	255
+萨迦县	si;ci jd;zk xa;qs	277
+赛罕区	so;bb ho;bg qh;kx	455
+三重区	sn;ae ij;ql qh;kx	1
+三地门	sn;ae dt;ty ms;dv	1
+三河市	sn;ae he;dk ut;wj	434
+三门峡	sn;ae ms;dv xc;uj	594
+三门县	sn;ae ms;dv xa;qs	374
+三民区	sn;ae mc;vv qh;kx	1
+三明市	sn;ae mn;oo ut;wj	503
+三沙市	sn;ae ul;du ut;wj	1
+三水区	sn;ae uv;ln qh;kx	446
+三穗县	sn;ae sf;hx xa;qs	326
+三台县	sn;ae td;sk xa;qs	403
+三湾乡	sn;ae wn;dg xy;vp	1
+三峡区	sn;ae xc;uj qh;kx	1
+三星乡	sn;ae xe;ou xy;vp	1
+三亚市	sn;ae yi;ay ut;wj	572
+三义乡	sn;ae yt;dx xy;vp	1
+三元区	sn;ae yo;aw qh;kx	367
+三原县	sn;ae yo;ix xa;qs	421
+三芝区	sn;ae vj;cv qh;kx	1
+桑日县	su;ym rt;ka xa;qs	237
+桑植县	su;ym vb;mq xa;qs	431
+桑珠孜	su;ym va;ww zj;zw	1
+色达县	si;db du;zd xa;qs	348
+色尼区	si;db nb;ub qh;kx	1
+莎车县	ul;cu ir;au xa;qs	380
+沙河口	ul;du he;dk kz;la	504
+沙河市	ul;du he;dk ut;wj	399
+沙鹿区	ul;du lh;gb qh;kx	1
+沙坪坝	ul;du pn;tp bi;tb	571
+沙坡头	ul;du pp;tp ta;dd	452
+沙市区	ul;du ut;wj qh;kx	391
+沙湾区	ul;du wn;dg qh;kx	308
+沙湾市	ul;du wn;dg ut;wj	1
+沙县区	ul;du xa;qs qh;kx	1
+沙雅县	ul;du ym;yv xa;qs	305
+沙洋县	ul;du yw;dy xa;qs	369
+山城区	un;kl if;ti qh;kx	297
+山丹县	un;kl dn;kd xa;qs	344
+山东省	un;kl dk;ax uy;uo	760
+山海关	un;kl hu;dm gd;bt	584
+善化区	ua;yk hg;rb qh;kx	1
+杉林区	un;mp lc;mm qh;kx	1
+山南市	un;kl nk;ug ut;wj	1
+鄯善县	ua;ye ua;yk xa;qs	395
+山上区	un;kl ud;ba qh;kx	1
+山亭区	un;kl tn;wd qh;kx	355
+汕头市	ua;du ta;dd ut;wj	574
+汕尾市	ua;du wj;um ut;wj	485
+陕西省	uo;ej xj;ak,wk uy;uo	719
+山西省	un;kl xj;ak,wk uy;uo	718
+山阳区	un;kl yw;eo qh;kx	258
+山阳县	un;kl yw;eo xa;qs	434
+山阴县	un;kl yh;eo xa;qs	427
+陕州区	uo;ej vx;dl qh;kx	1
+上蔡县	ud;ba co;cu xa;qs	408
+上城区	ud;ba if;ti qh;kx	1
+商城县	uu;wk if;ti xa;qs	389
+上党区	ud;ba dp;xx qh;kx	1
+商都县	uu;wk dx;le xa;qs	324
+上高县	ud;ba gq;wk xa;qs	342
+上海市	ud;ba hu;dm ut;wj	781
+上杭县	ud;ba hw;mj xa;qs	443
+商河县	uu;wk he;dk xa;qs	406
+上街区	ud;ba jk;rt qh;kx	393
+上栗县	ud;ba lt;xm xa;qs	361
+上林县	ud;ba lc;mm xa;qs	408
+商洛市	uu;wk lp;dk ut;wj	474
+商南县	uu;wk nk;ug xa;qs	440
+商丘市	uu;wk qz;ja ut;wj	512
+上饶市	ud;ba ri;uw ut;wj	522
+商水县	uu;wk uv;ln xa;qs	388
+上思县	ud;ba sj;tx xa;qs	324
+尚义县	ud;xk yt;dx xa;qs	357
+上犹县	ud;ba ya;qy xa;qs	339
+上虞区	ud;ba ym;ht qh;kx	1
+尚志市	ud;xk vt;tx ut;wj	380
+商州区	uu;wk vx;dl qh;kx	408
+邵东市	uv;de dk;ax ut;wj	1
+韶关市	ui;lk gd;bt ut;wj	515
+韶山市	ui;lk un;kl ut;wj	357
+邵武市	uv;de wm;yv ut;wj	386
+绍兴市	uv;sk xe;xb ut;wj	557
+邵阳市	uv;de yw;eo ut;wj	498
+邵阳县	uv;de yw;eo xa;qs	398
+射洪市	ui;uc hj;dg ut;wj	1
+社旗县	ui;pt qb;fb xa;qs	417
+社头乡	ui;pt ta;dd xy;vp	1
+射阳县	ui;uc yw;eo xa;qs	381
+神池县	us;pu ib;dy xa;qs	348
+什邡市	us;ru fu;fe ut;wj	400
+神冈区	us;pu gu;kx qh;kx	1
+伸港乡	ue;ru gp;ds xy;vp	1
+沈河区	uo;de he;dk qh;kx	533
+深坑区	ue;dm kc;tj qh;kx	1
+神木市	us;pu mh;ur ut;wj	1
+神农架	us;pu nj;by jx;lm	586
+沈丘县	uo;de qz;ja xa;qs	423
+沈阳市	uo;de yw;eo ut;wj	667
+深泽县	ue;dm ze;df xa;qs	339
+申扎县	ue;ol,yl vl;fv xa;qs	255
+深圳市	ue;dm vo;ti ut;wj	761
+深州市	ue;dm vx;dl ut;wj	389
+嵊泗县	uf;ur st;ds xa;qs	365
+嵊州市	uf;ur vx;dl ut;wj	429
+市北区	ut;wj bj;lb qh;kx	556
+市北屯	ut;wj bj;lb tf;av	1
+施秉县	uj;fy bw;qr xa;qs	312
+石城县	ub;ak if;ti xa;qs	389
+施甸县	uj;fy dr;bt xa;qs	350
+石碇区	ub;ak dw;uz qh;kx	1
+石峰区	ub;ak fc;uf qh;kx	324
+石冈区	ub;ak gu;kx qh;kx	1
+石鼓区	ub;ak gm;tv qh;kx	332
+石拐区	ub;ak gp;fl qh;kx	1
+浉河区	uj;dj he;dk qh;kx	1
+石河子	ub;ak he;dk zg;la	532
+石家庄	ub;ak jd;bu vw;gt	753
+石景山	ub;ak jw;ox un;kl	604
+士林区	ut;ua lc;mm qh;kx	465
+石龙区	ub;ak lj;yp qh;kx	220
+石楼县	ub;ak la;mn xa;qs	374
+石门区	ub;ak ms;dv qh;kx	1
+石门县	ub;ak ms;dv xa;qs	412
+石棉县	ub;ak mv;mj xa;qs	357
+市南区	ut;wj nk;ug qh;kx	552
+石屏县	ub;ak pn;uk xa;qs	329
+石阡县	ub;ak qr;eq xa;qs	389
+石渠县	ub;ak qm;dm xa;qs	343
+石泉县	ub;ak qo;bu xa;qs	405
+石狮市	ub;ak uj;qj ut;wj	449
+石首市	ub;ak uz;bz ut;wj	363
+市双河	ut;wj uw;yy he;dk	1
+石台县	ub;ak td;sk xa;qs	398
+狮潭乡	uj;qj tk;du xy;vp	1
+始兴县	ug;nk xe;xb xa;qs	400
+十堰市	ub;al ya;tn ut;wj	493
+市中区	ut;wj vk;kl qh;kx	546
+狮子乡	uj;qj zj;la xy;vp	1
+师宗县	uj;lj zk;bu xa;qs	357
+石嘴山	ub;ak zv;ky un;kl	487
+寿丰乡	ur;fc fc;sl,af,al xy;vp	1
+寿光市	ur;fc gw;xe ut;wj	447
+寿宁县	ur;fc nn;bd xa;qs	389
+寿阳县	ur;fc yw;eo xa;qs	412
+舒城县	ua;ry if;ti xa;qs	449
+疏附县	ua;vi fh;ec xa;qs	366
+舒兰市	ua;ry lk;bs ut;wj	367
+疏勒县	ua;vi li;gl xa;qs	329
+树林区	uh;mc lc;mm qh;kx	1
+蜀山区	um;si un;kl qh;kx	494
+沭阳县	uh;du yw;eo xa;qs	463
+双柏县	uw;yy bu;mb xa;qs	368
+双城区	uw;yy if;ti qh;kx	1
+双峰县	uw;yy fc;uf xa;qs	436
+双河市	uw;yy he;dk ut;wj	284
+双湖县	uw;yy hl;do xa;qs	1
+双辽市	uw;yy lu;zl ut;wj	347
+双流区	uw;yy lm;di qh;kx	1
+双滦区	uw;yy lo;dm qh;kx	298
+双牌县	uw;yy pd;pu xa;qs	335
+双桥区	uw;yy qu;ml qh;kx	357
+双清区	uw;yy qe;do qh;kx	278
+双塔区	uw;yy tm;tk qh;kx	295
+双台子	uw;yy td;sk zg;la	330
+双溪区	uw;yy xj;dd qh;kx	1
+双鸭山	uw;yy yl;jn un;kl	473
+双阳区	uw;yy yw;eo qh;kx	379
+水城区	uv;ln if;ti qh;kx	1
+水富市	uv;ln fh;bt ut;wj	1
+水里乡	uv;ln lg;tt xy;vp	1
+水林乡	uv;ln lc;mm xy;vp	1
+水磨沟	uv;ln me;gu gx;dg	428
+水上乡	uv;ln ud;ba xy;vp	1
+顺昌县	ur;iy iu;oo xa;qs	371
+顺城区	ur;iy if;ti qh;kx	308
+顺德区	ur;iy de;rx qh;kx	541
+顺平县	ur;iy pn;au xa;qs	358
+顺庆区	ur;iy qw;gd qh;kx	391
+顺义区	ur;iy yt;dx qh;kx	531
+朔城区	up;no if;ti qh;kx	384
+朔州市	up;no vx;dl ut;wj	476
+四川省	st;ke id;pl uy;uo	753
+四方台	st;ke fu;wv td;sk	317
+泗洪县	st;ds hj;dg xa;qs	412
+四湖乡	st;ke hl;do xy;vp	1
+四会市	st;ke hf;ry ut;wj	408
+思茅区	sj;tx mi;cm qh;kx	1
+思明区	sj;tx mn;oo qh;kx	529
+思南县	sj;tx nk;ug xa;qs	361
+四平市	st;ke pn;au ut;wj	474
+泗水县	st;ds uv;ln xa;qs	377
+泗阳县	st;ds yw;eo xa;qs	392
+松北区	sk;mg bj;lb qh;kx	422
+松江区	sk;mg jy;dg qh;kx	521
+嵩明县	sk;uk mn;oo xa;qs	391
+松潘县	sk;mg pn;dt xa;qs	399
+松山区	sk;mg un;kl qh;kx	473
+松溪县	sk;mg xj;dd xa;qs	367
+松阳县	sk;mg yw;eo xa;qs	380
+松原市	sk;mg yo;ix ut;wj	441
+松滋市	sk;mg zj;dy ut;wj	359
+苏澳镇	sa;cb av;dd vo;jb	407
+宿城区	sh;bb if;ti qh;kx	377
+苏家屯	sa;cb jd;bu tf;av	468
+肃宁县	sh;yb nn;bd xa;qs	341
+宿迁市	sh;bb qr;zq ut;wj	524
+宿松县	sh;bb sk;mg xa;qs	405
+苏仙区	sa;cb xr;ru qh;kx	345
+宿豫区	sh;bb yf;yu qh;kx	1
+肃州区	sh;yb vx;dl qh;kx	368
+苏州市	sa;cb vx;dl ut;wj	637
+宿州市	sh;bb vx;dl ut;wj	501
+绥滨县	sw;sn bh;db xa;qs	298
+遂昌县	sf;zu iu;oo xa;qs	398
+遂川县	sf;zu id;pl xa;qs	385
+绥德县	sw;sn de;rx xa;qs	387
+绥芬河	sw;sn fe;cf he;dk	488
+绥化市	sw;sn hg;rb ut;wj	442
+绥江县	sw;sn jy;dg xa;qs	264
+绥棱县	sw;sn lf;mw xa;qs	280
+遂宁市	sf;zu nn;bd ut;wj	490
+睢宁县	st;ov nn;bd xa;qs	419
+绥宁县	sw;sn nn;bd xa;qs	362
+遂平县	sf;zu pn;au xa;qs	374
+濉溪县	st;dv xj;dd xa;qs	415
+遂溪县	sf;zu xj;dd xa;qs	367
+睢阳区	st;ov yw;eo qh;kx	395
+绥阳县	sw;sn yw;eo xa;qs	377
+绥中县	sw;sn vk;kl xa;qs	385
+随州市	sw;eo vx;dl ut;wj	458
+孙吴县	sg;zx wl;kt xa;qs	301
+塔城市	tm;tk if;ti ut;wj	370
+漯河市	ti;dx he;dk ut;wj	507
+塔河县	tm;tk he;dk xa;qs	311
+泰安市	to;iu an;bn ut;wj	530
+台安县	td;sk an;bn xa;qs	331
+泰安乡	to;iu an;bn xy;vp	1
+太白县	to;dd bd;po xa;qs	361
+太保市	to;dd bx;rm ut;wj	1
+台北市	td;sk bj;lb ut;wj	734
+太仓市	to;dd cu;rv ut;wj	443
+台东市	td;sk dk;ax ut;wj	440
+台东县	td;sk dk;ax xa;qs	571
+台儿庄	td;sk ek;pv vw;gt	548
+太谷区	to;dd gm;bk qh;kx	1
+太和区	to;dd he;hk qh;kx	274
+太和县	to;dd he;hk xa;qs	443
+泰和县	to;iu he;hk xa;qs	422
+太湖县	to;dd hl;do xa;qs	402
+台江区	td;sk jy;dg qh;kx	473
+台江县	td;sk jy;dg xa;qs	381
+太康县	to;dd ku;gl xa;qs	410
+泰来县	to;iu ld;am xa;qs	340
+太麻里	to;dd mu;gm lg;tt	1
+台南市	td;sk nk;ug ut;wj	659
+泰宁县	to;iu nn;bd xa;qs	377
+太平区	to;dd pn;au qh;kx	427
+台前县	td;sk qv;bd xa;qs	357
+泰山区	to;iu un;kl qh;kx	427
+台山市	td;sk un;kl ut;wj	456
+泰顺县	to;iu ur;iy xa;qs	412
+台湾省	td;sk wn;dg uy;uo	653
+泰武乡	to;iu wm;yv xy;vp	1
+台西乡	td;sk xj;ak,wk xy;vp	1
+泰兴市	to;iu xe;xb ut;wj	418
+太原市	to;dd yo;ix ut;wj	643
+台中市	td;sk vk;kl ut;wj	671
+台州市	tb;sk vx;dl ut;wj	541
+泰州市	to;iu vx;dl ut;wj	520
+太子河	to;dd zg;la he;dk	350
+郯城县	tk;he if;ti xa;qs	438
+覃塘区	tk;xu tw;tk qh;kx	280
+潭子区	tk;du zg;la qh;kx	1
+唐河县	tw;gk he;dk xa;qs	455
+唐山市	tw;gk un;kl ut;wj	582
+汤旺县	tu;dp wd;ow xa;qs	1
+汤阴县	tu;dp yh;eo xa;qs	403
+汤原县	tu;dp yo;ix xa;qs	348
+洮北区	ti;dv bj;lb qh;kx	301
+桃城区	ti;mv if;ti qh;kx	380
+桃江县	ti;mv jy;dg xa;qs	382
+洮南市	ti;dv nk;ug ut;wj	308
+桃山区	ti;mv un;kl qh;kx	181
+桃源区	ti;mv yo;dx qh;kx	1
+桃园区	ti;mv yo;ky qh;kx	1
+桃园市	ti;mv yo;ky ut;wj	615
+桃源县	ti;mv yo;dx xa;qs	410
+特克斯	ti;nc ki;ux,ge sj;cj	474
+腾冲市	tf;om ik;dv ut;wj	1
+滕州市	tf;ou vx;dl ut;wj	433
+天长市	tr;ad iw;pn ut;wj	418
+天等县	tr;ad dy;vc xa;qs	309
+田东县	tv;ku dk;ax xa;qs	314
+天峨县	tr;ad ee;uw xa;qs	293
+天河区	tr;ad he;dk qh;kx	590
+田家庵	tv;ku jd;bu an;gd	1
+天津市	tr;ad jh;dy ut;wj	716
+天峻县	tr;ad jr;uw xa;qs	331
+田寮区	tv;ku lu;bx qh;kx	1
+田林县	tv;ku lc;mm xa;qs	341
+天门市	tr;ad ms;dv ut;wj	426
+天宁区	tr;ad nn;bd qh;kx	386
+天桥区	tr;ad qu;ml qh;kx	453
+天全县	tr;ad qo;rw xa;qs	397
+天山区	tr;ad un;kl qh;kx	430
+天水市	tr;ad uv;ln ut;wj	492
+天台县	tr;ad tb;sk xa;qs	421
+田尾乡	tv;ku wj;um xy;vp	1
+天心区	tr;ad xh;dd qh;kx	492
+天涯区	tr;ad yu;dt qh;kx	1
+田阳区	tv;ku yw;eo qh;kx	1
+天元区	tr;ad yo;aw qh;kx	366
+天镇县	tr;ad vo;jb xa;qs	362
+田中镇	tv;ku vk;kl vo;jb	1
+天柱县	tr;ad vh;mv xa;qs	357
+铁东区	tc;jf dk;ax qh;kx	360
+铁锋区	tc;jf fc;jf qh;kx	288
+铁力市	tc;jf lt;vp ut;wj	326
+铁岭市	tc;jf lw;us ut;wj	457
+铁岭县	tc;jf lw;us xa;qs	358
+铁门关	tc;jf ms;dv gd;bt	370
+铁山港	tc;jf un;kl gp;ds	358
+铁山区	tc;jf un;kl qh;kx	247
+铁西区	tc;jf xj;ak,wk qh;kx	529
+亭湖区	tn;wd hl;do qh;kx	323
+同安区	tj;kk an;bn qh;kx	489
+桐柏县	tj;mk bu;mb xa;qs	425
+桐城市	tj;mk if;ti ut;wj	412
+通城县	tk;zy if;ti xa;qs	355
+通川区	tk;zy id;pl qh;kx	375
+铜川市	tj;jk id;pl ut;wj	489
+同德县	tj;kk de;rx xa;qs	325
+铜鼓县	tj;jk gm;tv xa;qs	341
+铜官区	tj;jk gd;bl qh;kx	1
+潼关县	tj;dl gd;bt xa;qs	341
+通海县	tk;zy hu;dm xa;qs	360
+通河县	tk;zy he;dk xa;qs	351
+通化市	tk;zy hg;rb ut;wj	481
+通化县	tk;zy hg;rb xa;qs	374
+同江市	tj;kk jy;dg ut;wj	317
+通江县	tk;zy jy;dg xa;qs	461
+铜梁区	tj;jk li;dm qh;kx	1
+通辽市	tk;zy lu;zl ut;wj	516
+铜陵市	tj;jk ln;ew ut;wj	488
+桐庐县	tj;mk ll;gh xa;qs	467
+铜锣乡	tj;jk ll;jx xy;vp	1
+潼南区	tj;dl nk;ug qh;kx	1
+铜仁市	tj;jk rs;re ut;wj	494
+同仁市	tj;kk rs;re ut;wj	1
+铜山区	tj;jk un;kl qh;kx	1
+通山县	tk;zy un;kl xa;qs	395
+通渭县	tk;zy wf;do xa;qs	379
+桐乡市	tj;mk xy;vp ut;wj	455
+通霄镇	tk;zy xm;yo vo;jb	1
+同心县	tj;kk xh;dd xa;qs	389
+通许县	tk;zy xs;yw xa;qs	422
+通榆县	tk;zy ym;md xa;qs	349
+通州区	tk;zy vx;dl qh;kx	575
+桐梓县	tj;mk zg;mx xa;qs	408
+头城镇	ta;dd if;ti vo;jb	1
+头份市	ta;dd fo;rf ut;wj	1
+头屯河	ta;dd tf;av he;dk	1
+头屋乡	ta;dd wa;ut xy;vp	1
+土城区	tm;ua if;ti qh;kx	1
+土库镇	tm;ua kh;gi vo;jb	1
+吐鲁番	tm;kt lm;yo fn;ct	603
+图们市	tl;kd me;rm ut;wj	335
+突泉县	ta;bq qo;bu xa;qs	348
+团风县	to;kc fc;jx xa;qs	367
+屯昌县	tf;av iu;oo xa;qs	374
+屯留区	tf;av lm;pt qh;kx	1
+屯溪区	tf;av xj;dd qh;kx	382
+托克托	ts;fq ki;ux,ge ts;fq	419
+托克逊	ts;fq ki;ux,ge xr;zx	421
+托里县	ts;fq lg;tt xa;qs	305
+瓦房店	wm;ad fw;hf da;gv	506
+外埔区	wo;xb pm;tf qh;kx	1
+万安县	wa;av an;bn xa;qs	369
+万柏林	wa;av bu;mb lc;mm	1
+宛城区	wo;bv if;ti qh;kx	400
+万丹乡	wa;av dn;kd xy;vp	1
+万华区	wa;av ht;ru qh;kx	451
+万里区	wa;av lg;tt qh;kx	1
+万峦乡	wa;av lo;wu xy;vp	1
+万年县	wa;av nv;pf xa;qs	420
+万宁市	wa;av nn;bd ut;wj	499
+万全区	wa;av qo;rw qh;kx	1
+万荣县	wa;av rj;cm xa;qs	398
+万荣乡	wa;av rj;cm xy;vp	1
+万山区	wa;av un;kl qh;kx	1
+万秀区	wa;av xo;hn qh;kx	283
+万源市	wa;av yo;dx ut;wj	376
+万载县	wa;av zu;gi xa;qs	434
+湾沚区	wn;dg vg;dv qh;kx	1
+万州区	wa;av vx;dl qh;kx	505
+望安乡	wd;ww an;bn xy;vp	1
+旺苍县	wd;ow cu;cv xa;qs	395
+望城区	wd;ww if;ti qh;kx	1
+望都县	wd;ww dx;le xa;qs	375
+望花区	wd;ww hs;cb qh;kx	302
+望江县	wd;ww jy;dg xa;qs	365
+望奎县	wd;ww kw;dt xa;qs	405
+望谟县	wd;ww me;yd xa;qs	357
+汪清县	wu;dw qe;do xa;qs	368
+王益区	ww;at yt;bm qh;kx	381
+渭滨区	wf;do bh;db qh;kx	351
+卫滨区	wf;ea bh;db qh;kx	261
+渭城区	wf;do if;ti qh;kx	372
+潍城区	wr;dv if;ti qh;kx	329
+卫东区	wf;ea dk;ax qh;kx	283
+魏都区	wf;hg dx;le qh;kx	347
+潍坊市	wr;dv fu;tf ut;wj	550
+威海市	wi;wn hu;dm ut;wj	523
+卫辉市	wf;ea ht;gi ut;wj	416
+渭南市	wf;do nk;ug ut;wj	543
+微山县	wi;rj un;kl xa;qs	397
+尉氏县	wf;uc ut;pv xa;qs	410
+威信县	wi;wn xv;rk xa;qs	344
+未央区	wf;am yu;kr qh;kx	452
+威远县	wi;wn ys;zy xa;qs	402
+渭源县	wf;do yo;dx xa;qs	367
+文安县	ws;wx an;bn xa;qs	382
+文昌市	ws;wx iu;oo ut;wj	450
+文成县	ws;wx if;wv xa;qs	418
+汶川县	wo;dw id;pl xa;qs	429
+文登区	ws;wx dc;bb qh;kx	1
+文峰区	ws;wx fc;uf qh;kx	308
+温江区	we;dm jy;dg qh;kx	446
+温岭市	we;dm lw;us ut;wj	445
+温泉县	we;dm qo;bu xa;qs	381
+文山区	ws;wx un;kl qh;kx	1
+文山市	ws;wx un;kl ut;wj	1
+汶上县	wo;dw ud;ba xa;qs	397
+文圣区	ws;wx uf;yt qh;kx	192
+文水县	ws;wx uv;ln xa;qs	404
+温宿县	we;dm sh;bb xa;qs	344
+闻喜县	ws;me xg;tk xa;qs	429
+温州市	we;dm vx;dl ut;wj	620
+瓮安县	wf;gw an;bn xa;qs	363
+翁源县	wc;gx yo;dx xa;qs	442
+卧龙区	wg;ib lj;yp qh;kx	423
+涡阳县	wp;dn yw;eo xa;qs	412
+武安市	wm;yv an;bn ut;wj	432
+吴堡县	wl;kt bm;rt xa;qs	340
+武昌区	wm;yv iu;oo qh;kx	513
+五常市	wm;aw iw;xj ut;wj	424
+婺城区	wh;mn if;ti qh;kx	420
+武城县	wm;yv if;ti xa;qs	406
+吴川市	wl;kt id;pl ut;wj	391
+武川县	wm;yv id;pl xa;qs	376
+乌翠区	wa;pa cf;xu qh;kx	1
+乌达区	wa;pa du;zd qh;kx	285
+乌当区	wa;pa du;xe qh;kx	430
+无棣县	wl;ay dt;ml xa;qs	365
+武定县	wm;yv dw;bz xa;qs	353
+武都区	wm;yv dx;le qh;kx	1
+乌尔禾	wa;pa eu;dx he;pm	393
+雾峰区	wh;yl fc;uf qh;kx	1
+五峰乡	wm;aw fc;uf xy;vp	1
+武冈市	wm;yv gu;kx ut;wj	356
+舞钢市	wm;pf gu;jx ut;wj	343
+武功县	wm;yv gk;gl xa;qs	1
+五股区	wm;aw gm;ou qh;kx	1
+乌海市	wa;pa hu;dm ut;wj	461
+武汉市	wm;yv ha;dy ut;wj	694
+五河县	wm;aw he;dk xa;qs	409
+武侯区	wm;yv hr;ru qh;kx	512
+芜湖市	wl;cw hl;do ut;wj	534
+五华区	wm;aw ht;ru qh;kx	508
+五华县	wm;aw ht;ru xa;qs	420
+无极县	wl;ay jb;mj,mn xa;qs	343
+伍家岗	wm;rw jd;bu gp;ux	1
+五家渠	wm;aw jd;bu qm;dm	393
+吴江区	wl;kt jy;dg qh;kx	490
+武江区	wm;yv jy;dg qh;kx	298
+五结乡	wm;aw js;sk xy;vp	1
+武进区	wm;yv jv;zj qh;kx	453
+乌来区	wa;pa ld;am qh;kx	1
+乌兰县	wa;pa lk;bs xa;qs	396
+五莲县	wm;aw lv;ci xa;qs	389
+武陵区	wm;yv ln;ew qh;kx	338
+武陵源	wm;yv ln;ew yo;dx	515
+武隆区	wm;yv lj;eu qh;kx	1
+武鸣区	wm;yv mn;kn qh;kx	1
+武宁县	wm;yv nn;bd xa;qs	386
+武平县	wm;yv pn;au xa;qs	391
+梧栖区	wl;mk qj;mx qh;kx	1
+吴起县	wl;kt qg;tj xa;qs	433
+乌恰县	wa;pa qx;xk xa;qs	353
+武强县	wm;yv qi;gi xa;qs	376
+吴桥县	wl;kt qu;ml xa;qs	333
+武清区	wm;yv qe;do qh;kx	485
+乌日区	wa;pa rt;ka qh;kx	1
+巫山县	wa;gr un;kl xa;qs	468
+武山县	wm;yv un;kl xa;qs	378
+乌审旗	wa;pa uo;bu qb;fb	389
+乌什县	wa;pa us;ru xa;qs	376
+武胜县	wm;yv uf;ou xa;qs	413
+乌苏市	wa;pa sa;cb ut;wj	393
+五台县	wm;aw td;sk xa;qs	419
+雾台乡	wh;yl td;sk xy;vp	1
+五通桥	wm;aw tk;zy qu;ml	366
+武威市	wm;yv wi;wn ut;wj	503
+无为市	wl;ay wr;ld ut;wj	1
+无锡市	wl;ay xj;jw ut;wj	607
+巫溪县	wa;gr xj;dd xa;qs	432
+武乡县	wm;yv xy;vp xa;qs	389
+吴兴区	wl;kt xe;xb qh;kx	400
+武宣县	wm;yv xd;bd xa;qs	346
+武穴市	wm;yv xi;bb ut;wj	394
+舞阳县	wm;pf yw;eo xa;qs	371
+武夷山	wm;yv yb;ar un;kl	614
+武义县	wm;yv yt;dx xa;qs	411
+武邑县	wm;yv yt;kb xa;qs	333
+婺源县	wh;mn yo;dx xa;qs	485
+五原县	wm;aw yo;ix xa;qs	363
+五寨县	wm;aw vo;bm xa;qs	349
+五指山	wm;aw vg;fo un;kl	547
+武陟县	wm;yv vt;eu xa;qs	414
+吴中区	wl;kt vk;kl qh;kx	514
+吴忠市	wl;kt vk;vx ut;wj	446
+梧州市	wl;mk vx;dl ut;wj	464
+西安区	xj;ak,wk an;bn qh;kx	314
+西安市	xj;ak,wk an;bn ut;wj	674
+西昌市	xj;ak,wk iu;oo ut;wj	442
+西城区	xj;ak,wk if;ti qh;kx	638
+西充县	xj;ak,wk ik;wy xa;qs	406
+西畴县	xj;ak,wk ia;tc xa;qs	354
+淅川县	xj;dj id;pl xa;qs	472
+喜德县	xg;tk de;rx xa;qs	336
+西峰区	xj;ak,wk fc;uf qh;kx	366
+息烽县	xj;zx fc;hf xa;qs	385
+西丰县	xj;ak,wk fc;sl,af,al xa;qs	357
+西岗区	xj;ak,wk gp;ux qh;kx	481
+西港区	xj;ak,wk gp;ds qh;kx	1
+西工区	xj;ak,wk gk;aa qh;kx	360
+西固区	xj;ak,wk gh;kg qh;kx	448
+细河区	xt;st he;dk qh;kx	202
+西和县	xj;ak,wk he;hk xa;qs	370
+西湖区	xj;ak,wk hl;do qh;kx	572
+溪湖区	xj;dd hl;do qh;kx	288
+西湖乡	xj;ak,wk hl;do xy;vp	1
+溪湖镇	xj;dd hl;do vo;jb	1
+西华县	xj;ak,wk ht;ru xa;qs	417
+西吉县	xj;ak,wk jb;tk xa;qs	430
+溪口乡	xj;dd kz;la xy;vp	1
+西林县	xj;ak,wk lc;mm xa;qs	314
+西陵区	xj;ak,wk ln;ew qh;kx	367
+西螺镇	xj;ak,wk ll;ix vo;jb	1
+西宁市	xj;ak,wk nn;bd ut;wj	585
+西平县	xj;ak,wk pn;au xa;qs	428
+西青区	xj;ak,wk qe;fo qh;kx	499
+西塞山	xj;ak,wk sb;bt un;kl	382
+西沙区	xj;ak,wk ul;du qh;kx	1
+西山区	xj;ak,wk un;kl qh;kx	502
+锡山区	xj;jw un;kl qh;kx	407
+西市区	xj;ak,wk ut;wj qh;kx	335
+习水县	xb;vd uv;ln xa;qs	387
+浠水县	xj;dj uv;ln xa;qs	359
+西屯区	xj;ak,wk tf;av qh;kx	1
+西夏区	xj;ak,wk xx;bw qh;kx	413
+西峡县	xj;ak,wk xc;uj xa;qs	453
+西乡塘	xj;ak,wk xy;vp tw;tk	1
+西乡县	xj;ak,wk xy;vp xa;qs	397
+西秀区	xj;ak,wk xo;hn qh;kx	412
+昔阳县	xj;co yw;eo xa;qs	409
+西屿乡	xj;ak,wk ys;uy xy;vp	1
+汐止区	xj;dx vg;lb,la,ba qh;kx	1
+溪州乡	xj;dd vx;dl xy;vp	1
+夏河县	xx;bw he;dk xa;qs	378
+下花园	xx;ab hs;cb yo;ky	375
+峡江县	xc;uj jy;dg xa;qs	336
+夏津县	xx;bw jh;dy xa;qs	374
+下陆区	xx;ab lh;ej qh;kx	289
+厦门市	xx;iw ms;dv ut;wj	652
+霞浦县	xc;yy pm;df xa;qs	478
+霞山区	xc;yy un;kl qh;kx	314
+夏邑县	xx;bw yt;kb xa;qs	402
+下营区	xx;ab yn;ck qh;kx	1
+咸安区	xv;wk an;bn qh;kx	346
+咸丰县	xv;wk fc;sl,af,al xa;qs	349
+仙居县	xr;ru jh;ug xa;qs	444
+咸宁市	xv;wk nn;bd ut;wj	503
+仙桃市	xr;ru ti;mv ut;wj	446
+线西乡	xa;sj xj;ak,wk xy;vp	1
+咸阳市	xv;wk yw;eo ut;wj	524
+仙游县	xr;ru ya;dz xa;qs	455
+翔安区	xi;yx an;bn qh;kx	444
+相城区	xy;mo if;ti qh;kx	471
+芗城区	xy;cx if;ti qh;kx	419
+襄城区	xy;yf if;ti qh;kx	342
+项城市	xe;gy if;ti ut;wj	1
+襄城县	xy;yf if;ti xa;qs	407
+乡城县	xy;vp if;ti xa;qs	335
+湘东区	xy;do dk;ax qh;kx	320
+襄都区	xy;yf dx;le qh;kx	1
+香坊区	xy;ho fu;tf qh;kx	479
+襄汾县	xy;yf fs;df xa;qs	411
+祥符区	xi;py fl;vc qh;kx	1
+香河县	xy;ho he;dk xa;qs	393
+镶黄旗	xy;jf hb;cb qb;fb	520
+乡宁县	xy;vp nn;bd xa;qs	340
+湘桥区	xy;do qu;ml qh;kx	350
+相山区	xy;mo un;kl qh;kx	325
+象山区	xe;du un;kl qh;kx	314
+香山区	xy;ho un;kl qh;kx	1
+象山县	xe;du un;kl xa;qs	451
+响水县	xu;kk uv;ln xa;qs	352
+湘潭市	xy;do tk;du ut;wj	512
+湘潭县	xy;do tk;du xa;qs	464
+湘乡市	xy;do xy;vp ut;wj	401
+向阳区	xe;pk yw;eo qh;kx	302
+襄阳市	xy;yf yw;eo ut;wj	1
+湘阴县	xy;do yh;eo xa;qs	402
+襄垣县	xy;yf yo;td xa;qs	381
+祥云县	xi;py yf;ag,es xa;qs	421
+香洲区	xy;ho vx;dv qh;kx	500
+襄州区	xy;yf vx;dl qh;kx	1
+象州县	xe;du vx;dl xa;qs	368
+孝昌县	xl;lz iu;oo xa;qs	362
+小店区	xl;lb da;gv qh;kx	468
+孝感市	xl;lz go;wx ut;wj	471
+小港区	xl;lb gp;ds qh;kx	1
+小金县	xl;lb jh;rb xa;qs	393
+孝南区	xl;lz nk;ug qh;kx	339
+萧山区	xm;cb un;kl qh;kx	522
+猇亭区	xm;qj tn;wd qh;kx	1
+孝义市	xl;lz yt;dx ut;wj	401
+谢家集	xq;yc jd;bu jb;rm	1
+谢通门	xq;yc tk;zy ms;dv	246
+新安县	xh;lj an;bn xa;qs	473
+新北区	xh;lj bj;lb qh;kx	440
+新北市	xh;lj bj;lb ut;wj	1
+新蔡县	xh;lj co;cu xa;qs	366
+新昌县	xh;lj iu;oo xa;qs	427
+新城区	xh;lj if;ti qh;kx	586
+忻城县	xh;xj if;ti xa;qs	361
+新城乡	xh;lj if;ti xy;vp	1
+新店区	xh;lj da;gv qh;kx	1
+新都区	xh;lj dx;le qh;kx	447
+信都区	xv;rk dx;le qh;kx	1
+信丰县	xv;rk fc;sl,af,al xa;qs	379
+新丰县	xh;lj fc;sl,af,al xa;qs	367
+新丰乡	xh;lj fc;sl,af,al xy;vp	1
+忻府区	xh;xj fm;gc qh;kx	367
+新抚区	xh;lj fm;fw qh;kx	282
+新干县	xh;lj ga;au xa;qs	351
+新港乡	xh;lj gp;ds xy;vp	1
+新河县	xh;lj he;dk xa;qs	305
+新和县	xh;lj he;hk xa;qs	290
+新华区	xh;lj ht;ru qh;kx	441
+新化区	xh;lj hg;rb qh;kx	1
+新化县	xh;lj hg;rb xa;qs	429
+新会区	xh;lj hf;ry qh;kx	436
+辛集市	xh;lu jb;rm ut;wj	409
+新建区	xh;lj ja;zy qh;kx	1
+新绛县	xh;lj je;sf xa;qs	397
+新津区	xh;lj jh;dy qh;kx	1
+新乐市	xh;lj li;px ut;wj	351
+新龙县	xh;lj lj;yp xa;qs	357
+新罗区	xh;lj ll;sx qh;kx	446
+新密市	xh;lj mt;bu ut;wj	434
+新民市	xh;lj mc;vv ut;wj	406
+新宁县	xh;lj nn;bd xa;qs	404
+新埤乡	xh;lj pb;tu xy;vp	1
+新埔镇	xh;lj pm;tf vo;jb	1
+新邱区	xh;lj qz;qe qh;kx	184
+新荣区	xh;lj rj;cm qh;kx	307
+新邵县	xh;lj uv;de xa;qs	384
+新社区	xh;lj ui;pt qh;kx	1
+新市区	xh;lj ut;wj qh;kx	475
+新泰市	xh;lj to;iu ut;wj	427
+新田县	xh;lj tv;ku xa;qs	355
+新吴区	xh;lj wl;kt qh;kx	1
+新屋区	xh;lj wa;ut qh;kx	1
+新乡市	xh;lj xy;vp ut;wj	528
+新乡县	xh;lj xy;vp xa;qs	365
+新兴区	xh;lj xe;xb qh;kx	401
+新星市	xh;lj xe;ou ut;wj	1
+新兴县	xh;lj xe;xb xa;qs	401
+信阳市	xv;rk yw;eo ut;wj	534
+新野县	xh;lj yl;ly xa;qs	427
+信义区	xv;rk yt;dx qh;kx	1
+新沂市	xh;lj yb;dj ut;wj	407
+信宜市	xv;rk yb;bq ut;wj	384
+信义乡	xv;rk yt;dx xy;vp	1
+新营区	xh;lj yn;ck qh;kx	1
+新余市	xh;lj ym;rm ut;wj	469
+新源县	xh;lj yo;dx xa;qs	387
+新园乡	xh;lj yo;ky xy;vp	1
+新郑市	xh;lj vf;be ut;wj	456
+新洲区	xh;lj vx;dv qh;kx	463
+信州区	xv;rk vx;dl qh;kx	366
+忻州市	xh;xj vx;dl ut;wj	501
+新竹市	xh;lj vl;gg ut;wj	574
+新竹县	xh;lj vl;gg xa;qs	588
+新庄区	xh;lj vw;gt qh;kx	1
+兴安盟	xe;xb an;bn mf;om	495
+兴安区	xe;xb an;bn qh;kx	199
+兴安县	xe;xb an;bn xa;qs	396
+兴宾区	xe;xb bh;bb qh;kx	344
+兴城市	xe;xb if;ti ut;wj	429
+兴国县	xe;xb gl;ky xa;qs	429
+兴海县	xe;xb hu;dm xa;qs	328
+兴和县	xe;xb he;hk xa;qs	329
+杏花岭	xw;mk hs;cb lw;us	1
+兴化市	xe;xb hg;rb ut;wj	418
+兴隆台	xe;xb lj;eu td;sk	1
+兴隆县	xe;xb lj;eu xa;qs	425
+兴宁区	xe;xb nn;bd qh;kx	419
+兴宁市	xe;xb nn;bd ut;wj	353
+兴平市	xe;xb pn;au ut;wj	354
+兴庆区	xe;xb qw;gd qh;kx	441
+兴仁市	xe;xb rs;re ut;wj	1
+兴山区	xe;xb un;kl qh;kx	168
+兴山县	xe;xb un;kl xa;qs	372
+邢台市	xn;ke td;sk ut;wj	568
+行唐县	xn;rd tw;gk xa;qs	362
+兴文县	xe;xb ws;wx xa;qs	379
+荥阳市	xn;cu yw;eo ut;wj	449
+兴业县	xe;xb yi;la xa;qs	329
+兴义市	xe;xb yt;dx ut;wj	447
+秀峰区	xo;hn fc;uf qh;kx	304
+秀林乡	xo;hn lc;mm xy;vp	1
+休宁县	xz;rm nn;bd xa;qs	437
+修水县	xz;rp uv;ln xa;qs	411
+秀水乡	xo;hn uv;ln xy;vp	1
+修文县	xz;rp ws;wx xa;qs	443
+修武县	xz;rp wm;yv xa;qs	391
+秀英区	xo;hn ye;cy qh;kx	453
+秀屿区	xo;hn ys;uy qh;kx	389
+秀洲区	xo;hn vx;dv qh;kx	407
+许昌市	xs;yw iu;oo ut;wj	506
+徐汇区	xm;rm hf;dk qh;kx	586
+溆浦县	xf;dy pm;df xa;qs	386
+徐水区	xm;rm uv;ln qh;kx	368
+徐闻县	xm;rm ws;me xa;qs	398
+盱眙县	xh;oy yb;ok xa;qs	448
+叙永县	xf;ry yn;du xa;qs	426
+叙州区	xf;ry vx;dl qh;kx	1
+徐州市	xm;rm vx;dl ut;wj	571
+宣城市	xd;bd if;ti ut;wj	481
+宣恩县	xd;bd ee;yx xa;qs	365
+宣汉县	xd;bd ha;dy xa;qs	419
+宣化区	xd;bd hg;rb qh;kx	381
+宣威市	xd;bd wi;wn ut;wj	403
+玄武区	xo;wy wm;yv qh;kx	484
+宣州区	xd;bd vx;dl qh;kx	355
+薛城区	xu;cx if;ti qh;kx	349
+学甲区	xi;xz jn;ol,tl qh;kx	1
+逊克县	xr;zx ki;ux,ge xa;qs	313
+寻乌县	xf;ec wa;pa xa;qs	367
+浔阳区	xf;dc yw;eo qh;kx	335
+旬阳市	xf;bo yw;eo ut;wj	1
+旬邑县	xf;bo yt;kb xa;qs	371
+雅安市	ym;yv an;bn ut;wj	509
+亚东县	yi;ay dk;ax xa;qs	308
+雅江县	ym;yv jy;dg xa;qs	320
+牙克石	yu;gp,ac ki;ux,ge ub;ak	426
+崖州区	yu;ut vx;dl qh;kx	1
+延安市	yk;zv an;bn ut;wj	498
+盐边县	yk;tm br;zl xa;qs	380
+延长县	yk;zv iw;pn xa;qs	330
+燕巢区	ya;ch ii;vg qh;kx	1
+盐埕区	yk;tm if;tw qh;kx	387
+郾城区	yo;ke if;ti qh;kx	1
+盐城市	yk;tm if;ti ut;wj	538
+盐池县	yk;tm ib;dy xa;qs	406
+延川县	yk;zv id;pl xa;qs	394
+盐都区	yk;tm dx;le qh;kx	397
+雁峰区	ya;iv fc;uf qh;kx	314
+盐湖区	yk;tm hl;do qh;kx	426
+延吉市	yk;zv jb;tk ut;wj	447
+雁江区	ya;iv jy;dg qh;kx	376
+延津县	yk;zv jh;dy xa;qs	393
+盐津县	yk;tm jh;dy xa;qs	354
+阎良区	yk;mj li;dg qh;kx	395
+鄢陵县	yn;ve ln;ew xa;qs	391
+炎陵县	yk;hh ln;ew xa;qs	376
+延平区	yk;zv pn;au qh;kx	414
+延平乡	yk;zv pn;au xy;vp	1
+盐埔乡	yk;tm pm;tf xy;vp	1
+延庆区	yk;zv qw;gd qh;kx	1
+雁山区	ya;iv un;kl qh;kx	277
+铅山县	yk;jk un;kl xa;qs	389
+盐山县	yk;tm un;kl xa;qs	355
+砚山县	ya;uj un;kl xa;qs	346
+偃师区	yo;rn uj;lj qh;kx	1
+延寿县	yk;zv ur;fc xa;qs	345
+盐水区	yk;tm uv;ln qh;kx	1
+雁塔区	ya;iv tm;tk qh;kx	477
+烟台市	yn;hy td;sk ut;wj	561
+沿滩区	yk;dk tn;dv qh;kx	317
+盐田区	yk;tm tv;ku qh;kx	485
+盐亭县	yk;tm tn;wd xa;qs	372
+盐源县	yk;tm yo;dx xa;qs	390
+兖州区	yo;ly vx;dl qh;kx	1
+阳城县	yw;eo if;ti xa;qs	441
+阳春市	yw;eo ig;io ut;wj	408
+阳东区	yw;eo dk;ax qh;kx	1
+阳高县	yw;eo gq;wk xa;qs	365
+阳谷县	yw;eo gm;bk xa;qs	414
+阳江市	yw;eo jy;dg ut;wj	483
+杨陵区	yw;mp ln;ew qh;kx	362
+杨梅区	yw;mp mr;mm qh;kx	1
+阳明区	yw;eo mn;oo qh;kx	289
+杨浦区	yw;mp pm;df qh;kx	557
+阳曲县	yw;eo qh;kc xa;qs	408
+阳泉市	yw;eo qo;bu ut;wj	480
+阳山县	yw;eo un;kl xa;qs	386
+阳朔县	yw;eo up;no xa;qs	398
+阳西县	yw;eo xj;ak,wk xa;qs	351
+阳新县	yw;eo xh;lj xa;qs	417
+阳信县	yw;eo xv;rk xa;qs	367
+阳原县	yw;eo yo;ix xa;qs	351
+扬中市	yw;fp vk;kl ut;wj	332
+扬州市	yw;fp vx;dl ut;wj	558
+姚安县	yi;nv an;bn xa;qs	368
+尧都区	yi;yw dx;le qh;kx	396
+瑶海区	yi;wf hu;dm qh;kx	496
+耀州区	yv;gv vx;dl qh;kx	426
+叶城县	yi;ku if;ti xa;qs	384
+叶集区	yi;ku jb;rm qh;kx	1
+义安区	yt;dx an;bn qh;kx	1
+依安县	yj;ry an;bn xa;qs	332
+宜宾市	yb;bq bh;bb ut;wj	521
+宜昌市	yb;bq iu;oo ut;wj	554
+峄城区	yt;uf if;ti qh;kx	372
+驿城区	yt;mf if;ti qh;kx	369
+宜城市	yb;bq if;ti ut;wj	386
+翼城县	yt;xg if;ti xa;qs	409
+伊川县	yj;ry,rp id;pl xa;qs	402
+宜川县	yb;bq id;pl xa;qs	380
+宜春市	yb;bq ig;io ut;wj	505
+伊春市	yj;ry,rp ig;io ut;wj	451
+宜都市	yb;bq da;le ut;wj	366
+宜丰县	yb;bq fc;sl,af,al xa;qs	372
+宜黄县	yb;bq hb;cb xa;qs	375
+弋江区	yt;yd jy;dg qh;kx	1
+宜君县	yb;bq jg;yk xa;qs	354
+宜兰市	yb;bq lk;bs ut;wj	435
+宜兰县	yb;bq lk;bs xa;qs	584
+依兰县	yj;ry lk;bs xa;qs	420
+宜良县	yb;bq li;dg xa;qs	410
+彝良县	yb;hc li;dg xa;qs	374
+夷陵区	yb;ar ln;ew qh;kx	438
+仪陇县	yb;ry ln;el xa;qs	406
+义马市	yt;dx mm;va ut;wj	374
+伊美区	yj;ry,rp mj;yd qh;kx	1
+易门县	yt;ow ms;dv xa;qs	354
+沂南县	yb;dj nk;ug xa;qs	418
+伊宁市	yj;ry,rp nn;bd ut;wj	451
+伊宁县	yj;ry,rp nn;bd xa;qs	391
+沂水县	yb;dj uv;ln xa;qs	439
+义乌市	yt;dx wa;pa ut;wj	511
+伊吾县	yj;ry,rp wl;wk xa;qs	346
+宜兴市	yb;bq xe;xb ut;wj	463
+宜秀区	yb;bq xo;hn qh;kx	1
+益阳市	yt;bm yw;eo ut;wj	487
+弋阳县	yt;yd yw;eo xa;qs	392
+宜阳县	yb;bq yw;eo xa;qs	388
+沂源县	yb;dj yo;dx xa;qs	394
+宜章县	yb;bq vu;lu xa;qs	404
+仪征市	yb;ry vc;rv ut;wj	382
+宜州区	yb;bq vx;dl qh;kx	1
+伊州区	yj;ry,rp vx;dl qh;kx	1
+义竹乡	yt;dx vl;gg xy;vp	1
+银川市	yc;jg id;pl ut;wj	559
+殷都区	yh;pu dx;le qh;kx	272
+银海区	yc;jg hu;dm qh;kx	345
+印台区	yv;pe td;sk qh;kx	362
+鄞州区	yc;ce vx;dl qh;kx	512
+银州区	yc;jg vx;dl qh;kx	293
+应城市	ye;ga if;ti ut;wj	349
+英德市	ye;cy de;rx ut;wj	412
+颍东区	yw;by dk;ax qh;kx	1
+莺歌区	ye;cn gr;kq qh;kx	1
+英吉沙	ye;cy jb;tk ul;du	411
+迎江区	yn;ze jy;dg qh;kx	339
+盈江县	yn;nm jy;dg xa;qs	411
+荥经县	yn;cu je;sj xa;qs	400
+营口市	yn;ck kz;la ut;wj	476
+颍泉区	yw;by qo;bu qh;kx	373
+营山县	yn;ck un;kl xa;qs	410
+英山县	ye;cy un;kl xa;qs	388
+颍上县	yw;by ud;ba xa;qs	412
+鹰潭市	ye;gn tk;du ut;wj	440
+迎泽区	yn;ze ze;df qh;kx	462
+颍州区	yw;by vx;dl qh;kx	1
+永安区	yn;du an;bn qh;kx	1
+永安市	yn;du an;bn ut;wj	412
+永昌县	yn;du iu;oo xa;qs	372
+永城市	yn;du if;ti ut;wj	413
+永川区	yn;du id;pl qh;kx	1
+永春县	yn;du ig;io xa;qs	412
+永德县	yn;du de;rx xa;qs	303
+永登县	yn;du dc;bb xa;qs	432
+永定区	yn;du dw;bz qh;kx	451
+永丰县	yn;du fc;sl,af,al xa;qs	392
+永福县	yn;du fl;pt xa;qs	365
+永和区	yn;du he;hk qh;kx	1
+永和县	yn;du he;hk xa;qs	312
+永济市	yn;du jt;dq ut;wj	374
+永吉县	yn;du jb;tk xa;qs	373
+永嘉县	yn;du jd;tk xa;qs	485
+永靖县	yn;du jw;lo xa;qs	356
+永靖乡	yn;du jw;lo xy;vp	1
+永康区	yn;du ku;gl qh;kx	1
+永康市	yn;du ku;gl ut;wj	434
+永年区	yn;du nv;pf qh;kx	1
+邕宁区	yk;vb nn;bd qh;kx	1
+永宁县	yn;du nn;bd xa;qs	459
+永平县	yn;du pn;au xa;qs	351
+埇桥区	yn;ty qu;ml qh;kx	1
+永清县	yn;du qe;do xa;qs	357
+永仁县	yn;du rs;re xa;qs	317
+永善县	yn;du ua;yk xa;qs	382
+永胜县	yn;du uf;ou xa;qs	390
+永寿县	yn;du ur;fc xa;qs	333
+永顺县	yn;du ur;iy xa;qs	406
+永泰县	yn;du to;iu xa;qs	462
+永新县	yn;du xh;lj xa;qs	404
+永兴县	yn;du xe;xb xa;qs	402
+永修县	yn;du xz;rp xa;qs	436
+永州市	yn;du vx;dl ut;wj	484
+友好区	yz;uy hx;nz qh;kx	243
+右江区	yr;uk jy;dg qh;kx	353
+尤溪县	ya;yd xj;dd xa;qs	386
+游仙区	ya;dz xr;ru qh;kx	368
+友谊县	yz;uy yt;yq xa;qs	275
+右玉县	yr;uk yf;wd xa;qs	375
+裕安区	yf;pg an;bn qh;kx	431
+渝北区	ym;dd bj;lb qh;kx	531
+雨城区	ys;ad if;ti qh;kx	398
+禹城市	ys;pd if;ti ut;wj	385
+虞城县	ym;ht if;ti xa;qs	407
+鱼池乡	ym;da ib;dy xy;vp	1
+榆次区	ym;md ct;dq qh;kx	397
+于都县	ym;au dx;le xa;qs	412
+鱼峰区	ym;da fc;uf qh;kx	330
+余干县	ym;rm ga;au xa;qs	425
+余杭区	ym;rm hw;mj qh;kx	527
+于洪区	ym;au hj;dg qh;kx	470
+雨湖区	ys;ad hl;do qh;kx	367
+雨花区	ys;ad hs;cb qh;kx	508
+裕华区	yf;pg ht;ru qh;kx	429
+雨花台	ys;ad hs;cb td;sk	526
+玉环市	yf;wd ho;wb ut;wj	1
+禹会区	ys;pd hf;ry qh;kx	1
+余江区	ym;rm jy;dg qh;kx	1
+玉井区	yf;wd jw;ac,el qh;kx	1
+玉里镇	yf;wd lg;tt vo;jb	1
+榆林市	ym;md lc;mm ut;wj	523
+玉林市	yf;wd lc;mm ut;wj	487
+玉门市	yf;wd ms;dv ut;wj	369
+裕民县	yf;pg mc;vv xa;qs	283
+郁南县	yf;ue nk;ug xa;qs	375
+余庆县	ym;rm qw;gd xa;qs	320
+玉泉区	yf;wd qo;bu qh;kx	433
+雨山区	ys;ad un;kl qh;kx	269
+玉山县	yf;wd un;kl xa;qs	400
+榆社县	ym;md ui;pt xa;qs	329
+榆树市	ym;md uh;mc ut;wj	384
+玉树市	yf;wd uh;mc ut;wj	1
+渝水区	ym;dd uv;ln qh;kx	362
+鱼台县	ym;da td;sk xa;qs	345
+玉田县	yf;wd tv;ku xa;qs	399
+于田县	ym;au tv;ku xa;qs	348
+禹王台	ys;pd ww;at td;sk	305
+玉溪市	yf;wd xj;dd ut;wj	491
+榆阳区	ym;md yw;eo qh;kx	454
+余姚市	ym;rm yi;nv ut;wj	481
+渝中区	ym;dd vk;kl qh;kx	561
+榆中县	ym;md vk;kl xa;qs	461
+玉州区	yf;wd vx;dl qh;kx	328
+禹州市	ys;pd vx;dl ut;wj	451
+远安县	ys;zy an;bn xa;qs	346
+元宝区	yo;aw bx;by qh;kx	247
+元宝山	yo;aw bx;by un;kl	413
+元长乡	yo;aw iw;pn xy;vp	1
+源城区	yo;dx if;ti qh;kx	368
+源汇区	yo;dx hf;dk qh;kx	321
+沅江市	yo;dy jy;dg ut;wj	365
+苑里镇	yc;cv lg;tt vo;jb	1
+员林市	yo;kb lc;mm ut;wj	396
+沅陵县	yo;dy ln;ew xa;qs	399
+元谋县	yo;aw ma;ym xa;qs	386
+原平市	yo;ix pn;au ut;wj	399
+垣曲县	yo;td qh;kc xa;qs	393
+员山乡	yo;kb un;kl xy;vp	1
+元氏县	yo;aw ut;pv xa;qs	379
+元阳县	yo;aw yw;eo xa;qs	402
+原阳县	yo;ix yw;eo xa;qs	399
+袁州区	yo;ty vx;dl qh;kx	395
+原州区	yo;ix vx;dl qh;kx	374
+越城区	yd;tl if;ti qh;kx	440
+岳池县	yd;qu ib;dy xa;qs	435
+月湖区	yd;ke hl;do qh;kx	280
+岳麓区	yd;qu lh;ml qh;kx	504
+岳普湖	yd;qu pm;bo hl;do	306
+乐清市	yd;px qe;do ut;wj	484
+岳塘区	yd;qu tw;tk qh;kx	360
+岳西县	yd;qu xj;ak,wk xa;qs	426
+越西县	yd;tl xj;ak,wk xa;qs	336
+越秀区	yd;tl xo;hn qh;kx	571
+岳阳楼	yd;qu yw;eo la;mn	533
+岳阳市	yd;qu yw;eo ut;wj	532
+岳阳县	yd;qu yw;eo xa;qs	419
+云安区	yf;ag,es an;bn qh;kx	1
+云城区	yf;ag,es if;ti qh;kx	311
+运城市	yr;zy if;ti ut;wj	532
+郓城县	yr;be if;ti xa;qs	400
+云浮市	yf;ag,es fl;dz ut;wj	459
+云冈区	yf;ag,es gu;kx qh;kx	1
+运河区	yr;zy he;dk qh;kx	371
+云和县	yf;ag,es he;hk xa;qs	361
+筠连县	yf;vy lv;zi xa;qs	384
+云林县	yf;ag,es lc;mm xa;qs	593
+云龙区	yf;ag,es lj;yp qh;kx	357
+云龙县	yf;ag,es lj;yp xa;qs	368
+云梦县	yf;ag,es mf;mx xa;qs	332
+云南省	yf;ag,es nk;ug uy;uo	725
+云溪区	yf;ag,es xj;dd qh;kx	323
+郧西县	yf;ke xj;ak,wk xa;qs	362
+云霄县	yf;ag,es xm;yo xa;qs	377
+云岩区	yf;ag,es yk;uu qh;kx	453
+郧阳区	yf;ke yw;eo qh;kx	1
+云阳县	yf;ag,es yw;eo xa;qs	435
+云州区	yf;ag,es vx;dl qh;kx	1
+杂多县	zu;jm ds;xx xa;qs	472
+赞皇县	za;nb hb;bw xa;qs	401
+枣强县	zx;ud qi;gi xa;qs	363
+造桥乡	zv;zk qu;ml xy;vp	1
+枣阳市	zx;ud yw;eo ut;wj	411
+枣庄市	zx;ud vw;gt ut;wj	504
+泽州县	ze;df vx;dl xa;qs	424
+增城区	zc;to if;ti qh;kx	1
+札达县	vu;mv du;zd xa;qs	309
+扎兰屯	vl;fv lk;bs tf;av	438
+扎囊县	vl;fv nw;gy xa;qs	343
+柞水县	vi;mv uv;ln xa;qs	372
+湛河区	va;db he;dk qh;kx	293
+沾化区	vn;dv hg;rb qh;kx	1
+湛江市	va;db jy;dg ut;wj	524
+站前区	va;lv qv;bd qh;kx	301
+沾益区	vn;dv yt;bm qh;kx	1
+张北县	vu;gi bj;lb xa;qs	405
+张店区	vu;gi da;gv qh;kx	413
+长葛市	vp;pn ge;cr ut;wj	385
+章贡区	vu;lu gy;gb qh;kx	381
+彰化市	vu;lp hg;rb ut;wj	484
+彰化县	vu;lp hg;rb xa;qs	606
+张家川	vu;gi jd;bu id;pl	400
+张家港	vu;gi jd;bu gp;ds	583
+张家界	vu;gi jd;bu jq;tj	696
+张家口	vu;gi jd;bu kz;la	662
+漳平市	vu;du pn;au ut;wj	392
+漳浦县	vu;du pm;df xa;qs	468
+章丘区	vu;lu qz;ja qh;kx	1
+樟树市	vu;mu uh;mc ut;wj	392
+张湾区	vu;gi wn;dg qh;kx	316
+彰武县	vu;lp wm;yv xa;qs	348
+张掖市	vu;gi yr;fw ut;wj	455
+漳州市	vu;du vx;dl ut;wj	565
+长子县	vp;pn zg;la xa;qs	359
+诏安县	vv;yk an;bn xa;qs	425
+肇东市	vv;hy dk;ax ut;wj	366
+昭化区	vq;ok hg;rb qh;kx	1
+昭觉县	vq;ok ji;xj xa;qs	370
+召陵区	vv;dk ln;ew qh;kx	1
+昭平县	vq;ok pn;au xa;qs	353
+肇庆市	vv;hy qw;gd ut;wj	514
+昭苏县	vq;ok sa;cb xa;qs	353
+昭通市	vq;ok tk;zy ut;wj	495
+昭阳区	vq;ok yw;eo qh;kx	364
+朝阳市	vq;uo yw;eo ut;wj	466
+朝阳县	vq;uo yw;eo xa;qs	383
+招远市	vq;fk ys;zy ut;wj	378
+肇源县	vv;hy yo;dx xa;qs	346
+肇州县	vv;hy vx;dl xa;qs	319
+柘城县	vi;mu if;ti xa;qs	375
+浙江省	vi;dj jy;dg uy;uo	756
+柘荣县	vi;mu rj;cm xa;qs	409
+振安区	vo;fi an;bn qh;kx	252
+镇安县	vo;jb an;bn xa;qs	372
+镇巴县	vo;jb bl;sl xa;qs	336
+贞丰县	ve;bb fc;sl,af,al xa;qs	356
+镇海区	vo;jb hu;dm qh;kx	459
+浈江区	ve;db jy;dg qh;kx	339
+镇江市	vo;jb jy;dg ut;wj	526
+镇康县	vo;jb ku;gl xa;qs	367
+镇赉县	vo;jb lo;lb xa;qs	351
+镇平县	vo;jb pn;au xa;qs	424
+镇坪县	vo;jb pn;tp xa;qs	373
+振兴区	vo;fi xe;xb qh;kx	295
+镇雄县	vo;jb xk;uv xa;qs	394
+镇远县	vo;jb ys;zy xa;qs	368
+镇原县	vo;jb yo;ix xa;qs	351
+正安县	vf;av an;bn xa;qs	346
+正定县	vf;av dw;bz xa;qs	470
+政和县	vf;vw he;hk xa;qs	390
+正蓝旗	vf;av lk;cm qb;fb	519
+正宁县	vf;av nn;bd xa;qs	349
+蒸湘区	vc;ch xy;do qh;kx	297
+正阳县	vf;av yw;eo xa;qs	382
+郑州市	vf;be vx;dl ut;wj	685
+志丹县	vt;tx dn;kd xa;qs	374
+治多县	vt;dk ds;xx xa;qs	375
+芝罘区	vj;cv fl;sb qh;kx	451
+枝江市	vj;mv jy;dg ut;wj	365
+织金县	vj;sv jh;rb xa;qs	402
+仲巴县	vy;rv bl;sl xa;qs	303
+中方县	vk;kl fu;wv xa;qs	325
+中和区	vk;kl he;hk qh;kx	1
+中江县	vk;kl jy;dg xa;qs	395
+中坜区	vk;kl lt;tl qh;kx	1
+中寮乡	vk;kl lu;bx xy;vp	1
+钟楼区	vk;jv la;mn qh;kx	358
+中牟县	vk;kl mh;sn xa;qs	445
+中宁县	vk;kl nn;bd xa;qs	395
+中埔乡	vk;kl pm;tf xy;vp	1
+钟山区	vk;jv un;kl qh;kx	373
+中山区	vk;kl un;kl qh;kx	1
+中山市	vk;kl un;kl ut;wj	598
+钟山县	vk;jv un;kl xa;qs	358
+中卫市	vk;kl wf;ea ut;wj	433
+中西区	vk;kl xj;ak,wk qh;kx	517
+钟祥市	vk;jv xi;py ut;wj	405
+中阳县	vk;kl yw;eo xa;qs	344
+中原区	vk;kl yo;ix qh;kx	474
+中站区	vk;kl va;lv qh;kx	262
+中正区	vk;kl vf;av qh;kx	1
+周村区	vx;kk cg;mc qh;kx	378
+周口市	vx;kk kz;la ut;wj	510
+周宁县	vx;kk nn;bd xa;qs	406
+舟曲县	vx;pd qh;kc xa;qs	329
+舟山市	vx;pd un;kl ut;wj	488
+周至县	vx;kk vt;gt xa;qs	435
+竹北市	vl;gg bj;lb ut;wj	1
+诸城市	va;yo if;ti ut;wj	414
+竹东镇	vl;gg dk;ax vo;jb	404
+珠海市	va;ww hu;dm ut;wj	614
+珠晖区	va;ww ht;oi qh;kx	327
+诸暨市	va;yo jt;gd ut;wj	468
+驻马店	vh;mv mm;va da;gv	604
+竹南镇	vl;gg nk;ug vo;jb	1
+竹崎乡	vl;gg qb;uk xy;vp	1
+珠山区	va;ww un;kl qh;kx	288
+竹山县	vl;gg un;kl xa;qs	401
+竹山镇	vl;gg un;kl vo;jb	1
+竹塘乡	vl;gg tw;tk xy;vp	1
+竹田乡	vl;gg tv;ku xy;vp	1
+竹溪县	vl;gg xj;dd xa;qs	354
+株洲市	va;mw vx;dv ut;wj	524
+庄河市	vw;gt he;dk ut;wj	446
+庄浪县	vw;gt ld;dl xa;qs	350
+壮围乡	ve;lt wr;kw xy;vp	1
+卓兰镇	vl;bu lk;bs vo;jb	1
+涿鹿县	vs;du lh;gb xa;qs	410
+卓尼县	vl;bu nb;ub xa;qs	302
+卓溪乡	vl;bu xj;dd xy;vp	1
+涿州市	vs;du vx;dl ut;wj	420
+卓资县	vl;bu zj;db xa;qs	322
+淄博市	zj;dt be;uc ut;wj	550
+子长市	zg;la iw;pn ut;wj	1
+淄川区	zj;dt id;pl qh;kx	424
+自贡市	zt;po gy;gb ut;wj	502
+梓官区	zg;mx gd;bl qh;kx	1
+秭归县	zg;hd gt;le xa;qs	414
+紫金县	zg;vx jh;rb xa;qs	363
+自流井	zt;po lm;di jw;ac,el	409
+梓潼县	zg;mx tj;dl xa;qs	369
+资溪县	zj;db xj;dd xa;qs	322
+资兴市	zj;db xe;xb ut;wj	374
+资阳区	zj;db yw;eo qh;kx	297
+资阳市	zj;db yw;eo ut;wj	480
+紫阳县	zg;vx yw;eo xa;qs	363
+资源县	zj;db yo;dx xa;qs	1
+资中县	zj;db vk;kl xa;qs	393
+子洲县	zg;la vx;dv xa;qs	351
+枞阳县	zk;mr yw;eo xa;qs	402
+邹城市	zx;de if;ti ut;wj	422
+邹平市	zx;de pn;au ut;wj	1
+遵化市	zg;zc hg;rb ut;wj	386
+遵义市	zg;zc yt;dx ut;wj	550
+左贡县	zl;ug gy;gb xa;qs	297
+左权县	zl;ug qo;my xa;qs	390
+左营区	zl;ug yn;ck qh;kx	427
+左云县	zl;ug yf;ag,es xa;qs	348
+左镇区	zl;ug vo;jb qh;kx	1
+阿巴嘎旗	al;ek bl;sl gl;kg qb;fb	351
+阿尔山市	al;ek eu;dx un;kl ut;wj	378
+阿合奇县	al;ek he;rk qb;dk xa;qs	283
+阿克苏市	al;ek ki;ux,ge sa;cb ut;wj	386
+阿克陶县	al;ek ki;ux,ge ti;ef xa;qs	352
+阿拉尔市	al;ek ll;fl eu;dx ut;wj	379
+阿拉山口	al;ek ll;fl un;kl kz;la	415
+阿拉善盟	al;ek ll;fl ua;yk mf;om	476
+阿勒泰市	al;ek li;gl to;iu ut;wj	399
+阿里地区	al;ek lg;tt dt;ty qh;kx	451
+阿里山乡	al;ek lg;tt un;kl xy;vp	1
+阿图什市	al;ek tl;kd us;ru ut;wj	344
+阿瓦提县	al;ek wm;ad tb;fz xa;qs	347
+昂昂溪区	aw;oe aw;oe xj;dd qh;kx	253
+八公山区	bl;pn gk;bs un;kl qh;kx	223
+巴林右旗	bl;sl lc;mm yr;uk qb;fb	373
+巴林左旗	bl;sl lc;mm zl;ug qb;fb	382
+巴彦淖尔	bl;sl ya;wp nv;du eu;dx	508
+巴音郭楞	bl;sl yh;lo gs;we lf;mf	351
+鲅鱼圈区	bi;yy ym;da qd;kv qh;kx	326
+白碱滩区	bd;po jp;uk tn;dv qh;kx	210
+北戴河区	bj;lb do;gg he;dk qh;kx	397
+滨海新区	bh;db hu;dm xh;lj qh;kx	598
+博尔塔拉	be;uc eu;dx tm;tk ll;fl	350
+布尔津县	bh;uj eu;dx jh;dy xa;qs	393
+曹妃甸区	ci;co fi;nj dr;bt qh;kx	351
+察布查尔	iu;bu bh;uj iu;md eu;dx	354
+城子河区	if;ti zg;la he;dk qh;kx	160
+重庆城区	ij;ql qw;gd if;ti qh;kx	1
+重庆郊县	ij;ql qw;gd jm;we xa;qs	30
+达坂城区	du;zd bo;ty if;ti qh;kx	340
+大渡口区	di;ar dh;dy kz;la qh;kx	436
+达拉特旗	du;zd ll;fl ti;nc qb;fb	405
+大箐山县	di;ar qw;vo un;kl xa;qs	160
+大石桥市	di;ar ub;ak qu;ml ut;wj	325
+大武口区	di;ar wm;yv kz;la qh;kx	334
+大兴安岭	di;ar xe;xb an;bn lw;us	548
+丹江口市	dn;kd jy;dg kz;la ut;wj	406
+德令哈市	de;rx lw;rs hl;kk ut;wj	402
+调兵山市	dl;yk be;qb un;kl ut;wj	279
+东昌府区	dk;ax iu;oo fm;gc qh;kx	382
+东西湖区	dk;ax xj;ak,wk hl;do qh;kx	455
+杜尔伯特	dh;mt eu;dx be;rb ti;nc	416
+都江堰市	da;le jy;dg ya;tn ut;wj	476
+独山子区	dl;qi un;kl zg;la qh;kx	290
+鄂尔多斯	ei;ke eu;dx ds;xx sj;cj	595
+额尔古纳	ee;by eu;dx gm;uk ni;sn	446
+额济纳旗	ee;by jt;dq ni;sn qb;fb	478
+峨眉山市	ee;uw mr;uo un;kl ut;wj	445
+鄂托克旗	ei;ke ts;fq ki;ux,ge qb;fb	375
+二道江区	eh;aa dv;zz jy;dg qh;kx	253
+二连浩特	eh;aa lv;zi hv;dk ti;nc	428
+防城港市	fw;ef if;ti gp;ds ut;wj	477
+峰峰矿区	fc;uf fc;uf ke;ug qh;kx	377
+甘井子区	gn;ca jw;ac,el zg;la qh;kx	507
+高碑店市	gq;wk bi;uu da;gv ut;wj	394
+格尔木市	ge;mk eu;dx mh;ur ut;wj	449
+工布江达	gk;aa bh;uj jy;dg du;zd	336
+弓长岭区	gk;vv iw;pn lw;us qh;kx	336
+共青城市	gy;cb qe;fo if;ti ut;wj	341
+公主岭市	gk;bs vm;wt lw;us ut;wj	424
+观山湖区	gd;yj un;kl hl;do qh;kx	466
+哈巴河县	hm;kk bl;sl he;dk xa;qs	363
+哈尔滨市	hl;kk eu;dx bh;db ut;wj	631
+海勃湾区	hu;dm be;ul wn;dg qh;kx	331
+海拉尔区	hu;dm ll;fl eu;dx qh;kx	353
+杭锦后旗	hw;mj jx;jj hr;ik qb;fb	386
+和林格尔	he;hk lc;mm ge;mk eu;dx	353
+和田地区	he;hk tv;ku dt;ty qh;kx	455
+黑龙江省	hi;lh lj;yp jy;dg uy;uo	680
+红谷滩区	hj;sg gm;bk tn;dv qh;kx	299
+红花岗区	hj;sg hs;cb gp;ux qh;kx	395
+红寺堡区	hj;sg st;tc bx;rt qh;kx	309
+呼和浩特	ha;kh he;hk hv;dk ti;nc	645
+葫芦岛市	hl;co ll;ch dx;nu ut;wj	455
+呼伦贝尔	ha;kh lf;rl bf;kr eu;dx	580
+呼图壁县	ha;kh tl;kd bt;ut xa;qs	365
+胡杨河市	hl;go yw;mp he;dk ut;wj	1
+黄石港区	hb;cb ub;ak gp;ds qh;kx	297
+霍尔果斯	hp;yv eu;dx gl;tm sj;cj	474
+霍林郭勒	hp;yv lc;mm gs;we li;gl	354
+吉木乃县	jb;tk mh;ur nu;pv,vp xa;qs	341
+吉木萨尔	jb;tk mh;ur si;ci eu;dx	333
+佳木斯市	jd;rt mh;ur sj;cj ut;wj	466
+嘉峪关市	jd;tk yf;ug gd;bt ut;wj	422
+尖草坪区	jr;xd cx;cu pn;tp qh;kx	429
+金城江区	jh;rb if;ti jy;dg qh;kx	298
+金口河区	jh;rb kz;la he;dk qh;kx	282
+景德镇市	jw;ox de;rx vo;jb ut;wj	457
+井冈山市	jw;ac,el gu;kx un;kl ut;wj	364
+井陉矿区	jw;ac,el xn;ej ke;ug qh;kx	311
+九龙坡区	jz;pv lj;yp pp;tp qh;kx	507
+九寨沟县	jz;pv vo;bm gx;dg xa;qs	469
+喀喇沁旗	kl;kk lm;kd qv;dx qb;fb	368
+喀什地区	kl;kk ub;ru dt;ty qh;kx	473
+康巴什区	ku;gl bl;sl us;ru qh;kx	220
+科尔沁区	kr;hd eu;dx qv;dx qh;kx	367
+可克达拉	kl;dk ki;ux,ge du;zd ll;fl	382
+克拉玛依	ki;ux,ge ll;fl mm;wm yj;ry	531
+克孜勒苏	ki;ux,ge zj;zw li;gl sa;cb	305
+库尔勒市	kh;gi eu;dx li;gl ut;wj	433
+昆都仑区	kg;ob dx;le lf;rb qh;kx	354
+浪卡子县	ld;dl qn;ub zj;la xa;qs	310
+老河口市	lx;lb he;dk kz;la ut;wj	382
+类乌齐县	lf;md wa;pa qb;wl xa;qs	246
+冷水江市	ly;ds uv;ln jy;dg ut;wj	378
+冷水滩区	ly;ds uv;ln tn;dv qh;kx	336
+连云港市	lv;zi yf;ag,es gp;ds ut;wj	510
+梁子湖区	li;dm zg;la hl;do qh;kx	274
+六盘水市	lo;wb pk;vm uv;ln ut;wj	481
+六枝特区	lo;wb vj;mv ti;nc qh;kx	406
+龙马潭区	lj;yp mm;va tk;du qh;kx	387
+龙泉驿区	lj;yp qo;bu yt;mf qh;kx	453
+龙子湖区	lj;yp zg;la hl;do qh;kx	325
+旅顺口区	ls;fy ur;iy kz;la qh;kx	449
+马鞍山市	mm;va an;gn un;kl ut;wj	501
+马尔康市	mm;va eu;dx ku;gl ut;wj	275
+麻栗坡县	mu;gm lt;xm pp;tp xa;qs	351
+玛纳斯县	mm;wm ni;sn sj;cj xa;qs	341
+麦盖提县	mo;fw go;ym tb;fz xa;qs	361
+满洲里市	mo;dl vx;dv lg;tt ut;wj	440
+梅河口市	mr;mm he;dk kz;la ut;wj	388
+门头沟区	ms;dv ta;dd gx;dg qh;kx	496
+莫力达瓦	mg;cd lt;vp du;zd wm;ad	298
+墨竹工卡	mg;lt vl;gg gk;aa km;ub	400
+牡丹江市	mm;nt dn;kd jy;dg ut;wj	474
+那玛夏区	ni;ve mm;wm xx;bw qh;kx	342
+南木林县	nk;ug mh;ur lc;mm xa;qs	292
+尼勒克县	nb;ub li;gl ki;ux,ge xa;qs	338
+碾子山区	np;uy zg;la un;kl qh;kx	255
+聂拉木县	nq;ey ll;fl mh;ur xa;qs	354
+攀枝花市	pn;mu vj;mv hs;cb ut;wj	498
+平顶山市	pn;au dw;dy un;kl ut;wj	483
+浦东新区	pm;df dk;ax xh;lj qh;kx	580
+普兰店区	pm;bo lk;bs da;gv qh;kx	367
+七里河区	qj;av lg;tt he;dk qh;kx	469
+齐齐哈尔	qb;wl qb;wl hl;kk eu;dx	572
+七台河市	qj;av td;sk he;dk ut;wj	386
+七星关区	qj;av xe;ou gd;bt qh;kx	379
+茄子河区	qs;ck zj;la he;dk qh;kx	151
+秦皇岛市	qc;ih hb;bw dx;nu ut;wj	561
+青白江区	qe;fo bd;po jy;dg qh;kx	399
+清河门区	qe;do he;dk ms;dv qh;kx	235
+清江浦区	qe;do jy;dg pm;df qh;kx	264
+青山湖区	qe;fo un;kl hl;do qh;kx	453
+清水河县	qe;do uv;ln he;dk xa;qs	336
+青铜峡市	qe;fo tj;jk xc;uj ut;wj	382
+青云谱区	qe;fo yf;ag,es pm;yo qh;kx	450
+曲麻莱县	qh;kc mu;gm ld;cl xa;qs	316
+让胡路区	rd;yu hl;go lh;zk qh;kx	293
+日喀则市	rt;ka kl;kk ze;bd ut;wj	440
+若尔盖县	rp;ck eu;dx go;ym xa;qs	376
+萨尔图区	si;ci eu;dx tl;kd qh;kx	344
+三地门乡	sn;ae dt;ty ms;dv xy;vp	350
+三门峡市	sn;ae ms;dv xc;uj ut;wj	505
+桑珠孜区	su;ym va;ww zj;zw qh;kx	228
+沙河口区	ul;du he;dk kz;la qh;kx	489
+沙坪坝区	ul;du pn;tp bi;tb qh;kx	514
+沙坡头区	ul;du pp;tp ta;dd qh;kx	331
+山海关区	un;kl hu;dm gd;bt qh;kx	393
+沈北新区	uo;de bj;lb xh;lj qh;kx	448
+石河子市	ub;ak he;dk zg;la ut;wj	424
+石家庄市	ub;ak jd;bu vw;gt ut;wj	627
+石景山区	ub;ak jw;ox un;kl qh;kx	532
+石嘴山市	ub;ak zv;ky un;kl ut;wj	436
+双台子区	uw;yy td;sk zg;la qh;kx	276
+双鸭山市	uw;yy yl;jn un;kl ut;wj	400
+水磨沟区	uv;ln me;gu gx;dg qh;kx	399
+四方台区	st;ke fu;wv td;sk qh;kx	110
+四子王旗	st;ke zg;la ww;at qb;fb	418
+苏家屯区	sa;cb jd;bu tf;av qh;kx	413
+绥芬河市	sw;sn fe;cf he;dk ut;wj	362
+塔城地区	tm;tk if;ti dt;ty qh;kx	437
+台儿庄区	td;sk ek;pv vw;gt qh;kx	340
+太麻里乡	to;dd mu;gm lg;tt xy;vp	352
+太仆寺旗	to;dd pl;rb st;tc qb;fb	357
+太子河区	to;dd zg;la he;dk qh;kx	223
+特克斯县	ti;nc ki;ux,ge sj;cj xa;qs	323
+田家庵区	tv;ku jd;bu an;gd qh;kx	337
+铁门关市	tc;jf ms;dv gd;bt ut;wj	290
+铁山港区	tc;jf un;kl gp;ds qh;kx	336
+头屯河区	ta;dd tf;av he;dk qh;kx	375
+吐鲁番市	tm;kt lm;yo fn;ct ut;wj	443
+托克托县	ts;fq ki;ux,ge ts;fq xa;qs	355
+托克逊县	ts;fq ki;ux,ge xr;zx xa;qs	359
+瓦房店市	wm;ad fw;hf da;gv ut;wj	468
+万柏林区	wa;av bu;mb lc;mm qh;kx	443
+翁牛特旗	wc;gx nm;pu ti;nc qb;fb	390
+五大连池	wm;aw di;ar lv;zi ib;dy	439
+乌尔禾区	wa;pa eu;dx he;pm qh;kx	239
+伍家岗区	wm;rw jd;bu gp;ux qh;kx	306
+五家渠市	wm;aw jd;bu qm;dm ut;wj	332
+乌兰察布	wa;pa lk;bs iu;bu bh;uj	538
+乌兰浩特	wa;pa lk;bs hv;dk ti;nc	394
+武陵源区	wm;yv ln;ew yo;dx qh;kx	399
+乌鲁木齐	wa;pa lm;yo mh;ur qb;wl	696
+五通桥区	wm;aw tk;zy qu;ml qh;kx	307
+武夷山市	wm;yv yb;ar un;kl ut;wj	442
+五指山市	wm;aw vg;fo un;kl ut;wj	406
+锡林郭勒	xj;jw lc;mm gs;we li;gl	462
+锡林浩特	xj;jw lc;mm hv;dk ti;nc	423
+西塞山区	xj;ak,wk sb;bt un;kl qh;kx	262
+西双版纳	xj;ak,wk uw;yy bo;py ni;sn	611
+西乡塘区	xj;ak,wk xy;vp tw;tk qh;kx	431
+下花园区	xx;ab hs;cb yo;ky qh;kx	310
+香格里拉	xy;ho ge;mk lg;tt ll;fl	682
+谢家集区	xq;yc jd;bu jb;rm qh;kx	286
+谢通门县	xq;yc tk;zy ms;dv xa;qs	232
+杏花岭区	xw;mk hs;cb lw;us qh;kx	432
+兴隆台区	xe;xb lj;eu td;sk qh;kx	300
+牙克石市	yu;gp,ac ki;ux,ge ub;ak ut;wj	369
+英吉沙县	ye;cy jb;tk ul;du xa;qs	345
+雨花台区	ys;ad hs;cb td;sk qh;kx	441
+禹王台区	ys;pd ww;at td;sk qh;kx	229
+元宝山区	yo;aw bx;by un;kl qh;kx	343
+岳普湖县	yd;qu pm;bo hl;do xa;qs	274
+岳阳楼区	yd;qu yw;eo la;mn qh;kx	351
+扎赉特旗	vl;fv lo;lb ti;nc qb;fb	374
+扎兰屯市	vl;fv lk;bs tf;av ut;wj	383
+扎鲁特旗	vl;fv lm;yo ti;nc qb;fb	378
+张家港市	vu;gi jd;bu gp;ds ut;wj	482
+张家界市	vu;gi jd;bu jq;tj ut;wj	521
+张家口市	vu;gi jd;bu kz;la ut;wj	541
+正镶白旗	vf;av xy;jf bd;po qb;fb	366
+驻马店市	vh;mv mm;va da;gv ut;wj	528
+准格尔旗	vo;dv ge;mk eu;dx qb;fb	393
+自流井区	zt;po lm;di jw;ac,el qh;kx	324
+阿克苏地区	al;ek ki;ux,ge sa;cb dt;ty qh;kx	438
+阿拉山口市	al;ek ll;fl un;kl kz;la ut;wj	1
+阿拉善右旗	al;ek ll;fl ua;yk yr;uk qb;fb	342
+阿拉善左旗	al;ek ll;fl ua;yk zl;ug qb;fb	406
+阿勒泰地区	al;ek li;gl to;iu dt;ty qh;kx	460
+巴彦淖尔市	bl;sl ya;wp nv;du eu;dx ut;wj	1
+陈巴尔虎旗	is;ed bl;sl eu;dx hm;hj qb;fb	333
+鄂尔多斯市	ei;ke eu;dx ds;xx sj;cj ut;wj	512
+额尔古纳市	ee;by eu;dx gm;uk ni;sn ut;wj	383
+鄂托克前旗	ei;ke ts;fq ki;ux,ge qv;bd qb;fb	377
+二连浩特市	eh;aa lv;zi hv;dk ti;nc ut;wj	368
+富拉尔基区	fh;bt ll;fl eu;dx jj;ct qh;kx	281
+工布江达县	gk;aa bh;uj jy;dg du;zd xa;qs	339
+管城回族区	gs;vl if;ti hw;kk zl;fu qh;kx	1
+和布克赛尔	he;hk bh;uj ki;ux,ge so;bb eu;dx	1
+和林格尔县	he;hk lc;mm ge;mk eu;dx xa;qs	329
+合浦合浦县	he;rk pm;df he;rk pm;df xa;qs	1
+呼和浩特市	ha;kh he;hk hv;dk ti;nc ut;wj	609
+呼伦贝尔市	ha;kh lf;rl bf;kr eu;dx ut;wj	508
+呼玛呼玛县	ha;kh mm;wm ha;kh mm;wm xa;qs	1
+霍尔果斯市	hp;yv eu;dx gl;tm sj;cj ut;wj	1
+霍林郭勒市	hp;yv lc;mm gs;we li;gl ut;wj	1
+吉木萨尔县	jb;tk mh;ur si;ci eu;dx xa;qs	383
+加格达奇区	jd;lk ge;mk du;zd qb;dk qh;kx	1
+喀喇沁左翼	kl;kk lm;kd qv;dx zl;ug yt;xg	232
+可克达拉市	kl;dk ki;ux,ge du;zd ll;fl ut;wj	1
+克拉玛依区	ki;ux,ge ll;fl mm;wm yj;ry qh;kx	1
+克拉玛依市	ki;ux,ge ll;fl mm;wm yj;ry ut;wj	443
+克什克腾旗	ki;ux,ge ub;ru ki;ux,ge tf;om qb;fb	426
+墨竹工卡县	mg;lt vl;gg gk;aa km;ub xa;qs	1
+齐齐哈尔市	qb;wl qb;wl hl;kk eu;dx ut;wj	490
+前郭尔罗斯	qv;bd gs;we eu;dx ll;sx sj;cj	1
+沙依巴克区	ul;du yj;ry bl;sl ki;ux,ge qh;kx	1
+神农架林区	us;pu nj;by jx;lm lc;mm qh;kx	427
+顺河回族区	ur;iy he;dk hw;kk zl;fu qh;kx	1
+苏尼特右旗	sa;cb nb;ub ti;nc yr;uk qb;fb	398
+苏尼特左旗	sa;cb nb;ub ti;nc zl;ug qb;fb	336
+塔什库尔干	tm;tk us;ru kh;gi eu;dx ga;au	423
+土默特右旗	tm;ua mg;lq ti;nc yr;uk qb;fb	343
+土默特左旗	tm;ua mg;lq ti;nc zl;ug qb;fb	348
+五大连池市	wm;aw di;ar lv;zi ib;dy ut;wj	333
+乌拉特后旗	wh;pa ll;fl ti;nc hr;ik qb;fb	336
+乌拉特前旗	wh;pa ll;fl ti;nc qv;bd qb;fb	361
+乌拉特中旗	wh;pa ll;fl ti;nc vk;kl qb;fb	353
+乌兰察布市	wa;pa lk;bs iu;bu bh;uj ut;wj	1
+乌兰浩特市	wa;pa lk;bs hv;dk ti;nc ut;wj	387
+乌鲁木齐市	wa;pa lm;yo mh;ur qb;wl ut;wj	595
+乌鲁木齐县	wa;pa lm;yo mh;ur qb;wl xa;qs	401
+锡林郭勒盟	xj;jw lc;mm gs;we li;gl mf;om	513
+锡林浩特市	xj;jw lc;mm hv;dk ti;nc ut;wj	405
+西藏自治区	xj;ak,wk zd;ci zt;po vt;dk qh;kx	610
+香格里拉市	xy;ho ge;mk lg;tt ll;fl ut;wj	1
+新星市新星	xh;lj xe;ou ut;wj xh;lj xe;ou	1
+伊金霍洛旗	yj;ry,rp jh;rb hp;yv lp;dk qb;fb	408
+尉犁尉犁县	yf;uc lb;hn yf;uc lb;hn xa;qs	1
+泽库泽库县	ze;df kh;gi ze;df kh;gi xa;qs	1
+泽普泽普县	ze;df pm;bo ze;df pm;bo xa;qs	1
+扎赉诺尔区	vl;fv lo;lb np;yk eu;dx qh;kx	1
+阿鲁科尔沁旗	al;ek lm;yo kr;hd eu;dx qv;dx qb;fb	362
+白云鄂博矿区	bd;po yf;ag,es ei;ke be;uc ke;ug qh;kx	1
+北屯市铁门关	bj;lb tf;av ut;wj tc;jf ms;dv gd;bt	1
+大兴安岭地区	di;ar xe;xb an;bn lw;us dt;ty qh;kx	428
+东乌珠穆沁旗	dk;ax wa;pa va;ww mh;hp qv;dx qb;fb	322
+东乡族自治县	dk;ax xy;vp zl;fu zt;po vt;dk xa;qs	292
+鄂伦春自治旗	ei;ke lf;rl ig;io zt;po vt;dk qb;fb	343
+内蒙古自治区	nf;kr mf;cu gm;uk zt;po vt;dk qh;kx	652
+铁门关市双河	tc;jf ms;dv gd;bt ut;wj uw;yy he;dk	1
+五家渠市北屯	wm;aw jd;bu qm;dm ut;wj bj;lb tf;av	1
+西乌珠穆沁旗	xj;ak,wk wa;pa va;ww mh;hp qv;dx qb;fb	343
+新巴尔虎右旗	xh;lj bl;sl eu;dx hm;hj yr;uk qb;fb	324
+新巴尔虎左旗	xh;lj bl;sl eu;dx hm;hj zl;ug qb;fb	331
+鹰手营子矿区	ye;gn uz;pf yn;ck zg;la ke;ug qh;kx	1
+澳门特别行政区	av;dd ms;dv ti;nc bs;kd xn;rd vf;vw qh;kx	559
+巴马瑶族自治县	bl;sl mm;va yi;wf zl;fu zt;po vt;dk xa;qs	1
+白沙黎族自治县	bd;po ul;du lb;hu zl;fu zt;po vt;dk xa;qs	292
+北川羌族自治县	bj;lb id;pl qy;yv zl;fu zt;po vt;dk xa;qs	1
+本溪满族自治县	bo;ma xj;dd mo;dl zl;fu zt;po vt;dk xa;qs	333
+沧源佤族自治县	cu;dv yo;dx wm;rw zl;fu zt;po vt;dk xa;qs	315
+察哈尔右翼后旗	iu;bu hl;kk eu;dx yr;uk yt;xg hr;ik qb;fb	1
+察哈尔右翼前旗	iu;bu hl;kk eu;dx yr;uk yt;xg qv;bd qb;fb	1
+察哈尔右翼中旗	iu;bu hl;kk eu;dx yr;uk yt;xg vk;kl qb;fb	1
+昌吉回族自治州	iu;oo jb;tk hw;kk zl;fu zt;po vt;dk vx;dl	382
+昌江黎族自治县	iu;oo jy;dg lb;hu zl;fu zt;po vt;dk xa;qs	299
+城步苗族自治县	if;ti bh;vu mu;ct zl;fu zt;po vt;dk xa;qs	346
+楚雄彝族自治州	im;mz xk;uv yb;hc zl;fu zt;po vt;dk vx;dl	344
+大厂回族自治县	di;ar ip;ap hw;kk zl;fu zt;po vt;dk xa;qs	319
+大化瑶族自治县	di;ar hg;rb yi;wf zl;fu zt;po vt;dk xa;qs	1
+大理白族自治州	di;ar lg;wl bd;po zl;fu zt;po vt;dk vx;dl	439
+迪庆藏族自治州	db;zy qw;gd zd;ci zl;fu zt;po vt;dk vx;dl	367
+都安瑶族自治县	dx;le an;bn yi;wf zl;fu zt;po vt;dk xa;qs	330
+峨边彝族自治县	ee;uw br;zl yb;hc zl;fu zt;po vt;dk xa;qs	1
+峨山彝族自治县	ee;uw un;kl yb;hc zl;fu zt;po vt;dk xa;qs	1
+鄂温克族自治旗	ei;ke we;dm ki;ux,ge zl;fu zt;po vt;dk qb;fb	310
+丰宁满族自治县	fc;sl,af,al nn;bd mo;dl zl;fu zt;po vt;dk xa;qs	320
+富川瑶族自治县	fh;bt id;pl yi;wf zl;fu zt;po vt;dk xa;qs	1
+甘南藏族自治州	gn;ca nk;ug zd;ci zl;fu zt;po vt;dk vx;dl	349
+甘孜藏族自治州	gn;ca zj;zw zd;ci zl;fu zt;po vt;dk vx;dl	475
+恭城瑶族自治县	gk;gx,cx if;ti yi;wf zl;fu zt;po vt;dk xa;qs	345
+广西壮族自治区	gu;di xj;ak,wk ve;lt zl;fu zt;po vt;dk qh;kx	634
+果洛藏族自治州	gl;tm lp;dk zd;ci zl;fu zt;po vt;dk vx;dl	383
+海北藏族自治州	hu;dm bj;lb zd;ci zl;fu zt;po vt;dk vx;dl	384
+海南藏族自治州	hu;dm nk;ug zd;ci zl;fu zt;po vt;dk vx;dl	393
+河口瑶族自治县	he;dk kz;la yi;wf zl;fu zt;po vt;dk xa;qs	268
+互助土族自治县	hh;ah vh;ql tm;ua zl;fu zt;po vt;dk xa;qs	362
+化隆回族自治县	hg;rb lj;eu hw;kk zl;fu zt;po vt;dk xa;qs	363
+桓仁满族自治县	ho;md rs;re mo;dl zl;fu zt;po vt;dk xa;qs	315
+黄南藏族自治州	hb;cb nk;ug zd;ci zl;fu zt;po vt;dk vx;dl	363
+江华瑶族自治县	jy;dg ht;ru yi;wf zl;fu zt;po vt;dk xa;qs	347
+金秀瑶族自治县	jh;rb xo;hn yi;wf zl;fu zt;po vt;dk xa;qs	326
+景东彝族自治县	jw;ox dk;ax yb;hc zl;fu zt;po vt;dk xa;qs	293
+景宁畲族自治县	jw;ox nn;bd ur;rt zl;fu zt;po vt;dk xa;qs	329
+科尔沁右翼前旗	kr;hd eu;dx qv;dx yr;uk yt;xg qv;bd qb;fb	322
+科尔沁右翼中旗	kr;hd eu;dx qv;dx yr;uk yt;xg vk;kl qb;fb	329
+科尔沁左翼后旗	kr;hd eu;dx qv;dx zl;ug yt;xg hr;ik qb;fb	328
+科尔沁左翼中旗	kr;hd eu;dx qv;dx zl;ug yt;xg vk;kl qb;fb	372
+可克达拉市昆玉	kl;dk ki;ux,ge du;zd ll;fl ut;wj kg;ob yf;wd	1
+宽城满族自治县	kd;bj if;ti mo;dl zl;fu zt;po vt;dk xa;qs	1
+宽甸满族自治县	kd;bj dr;bt mo;dl zl;fu zt;po vt;dk xa;qs	323
+乐东黎族自治县	li;px dk;ax lb;hu zl;fu zt;po vt;dk xa;qs	289
+连南瑶族自治县	lv;zi nk;ug yi;wf zl;fu zt;po vt;dk xa;qs	276
+凉山彝族自治州	li;dx un;kl yb;hc zl;fu zt;po vt;dk vx;dl	438
+临夏回族自治州	lc;lk xx;bw hw;kk zl;fu zt;po vt;dk vx;dl	377
+陵水黎族自治县	ln;ew uv;ln lb;hu zl;fu zt;po vt;dk xa;qs	360
+隆林各族自治县	lj;eu lc;mm gi;wk zl;fu zt;po vt;dk xa;qs	314
+龙胜各族自治县	lj;yp uf;ou gi;wk zl;fu zt;po vt;dk xa;qs	370
+马边彝族自治县	mm;va br;zl yb;hc zl;fu zt;po vt;dk xa;qs	1
+麻阳苗族自治县	mu;gm yw;eo mu;ct zl;fu zt;po vt;dk xa;qs	1
+门源回族自治县	ms;dv yo;dx hw;kk zl;fu zt;po vt;dk xa;qs	318
+孟村回族自治县	mf;zm cg;mc hw;kk zl;fu zt;po vt;dk xa;qs	1
+木里藏族自治县	mh;ur lg;tt zd;ci zl;fu zt;po vt;dk xa;qs	260
+南涧彝族自治县	nk;ug ja;do yb;hc zl;fu zt;po vt;dk xa;qs	249
+宁蒗彝族自治县	nn;bd ld;cl yb;hc zl;fu zt;po vt;dk xa;qs	302
+宁夏回族自治区	nn;bd xx;bw hw;kk zl;fu zt;po vt;dk qh;kx	575
+屏边苗族自治县	pn;uk br;zl mu;ct zl;fu zt;po vt;dk xa;qs	253
+青龙满族自治县	qe;fo lj;yp mo;dl zl;fu zt;po vt;dk xa;qs	335
+清原满族自治县	qe;do yo;ix mo;dl zl;fu zt;po vt;dk xa;qs	264
+融水苗族自治县	rj;gi uv;ln mu;ct zl;fu zt;po vt;dk xa;qs	340
+乳源瑶族自治县	rm;vv yo;dx yi;wf zl;fu zt;po vt;dk xa;qs	332
+三都水族自治县	sn;ae da;le uv;ln zl;fu zt;po vt;dk xa;qs	337
+三江侗族自治县	sn;ae jy;dg dy;rk zl;fu zt;po vt;dk xa;qs	357
+石林彝族自治县	ub;ak lc;mm yb;hc zl;fu zt;po vt;dk xa;qs	1
+松桃苗族自治县	sk;mg ti;mv mu;ct zl;fu zt;po vt;dk xa;qs	302
+天祝藏族自治县	tr;ad vh;px zd;ci zl;fu zt;po vt;dk xa;qs	324
+通道侗族自治县	tk;zy dv;zz dy;rk zl;fu zt;po vt;dk xa;qs	1
+西盟佤族自治县	xj;ak,wk mf;om wm;rw zl;fu zt;po vt;dk xa;qs	234
+香港特别行政区	xy;ho gp;ds ti;nc bs;kd xn;rd vf;vw qh;kx	596
+新宾满族自治县	xh;lj bh;bb mo;dl zl;fu zt;po vt;dk xa;qs	302
+新晃侗族自治县	xh;lj hu;og dy;rk zl;fu zt;po vt;dk xa;qs	1
+岫岩满族自治县	xo;uy yk;uu mo;dl zl;fu zt;po vt;dk xa;qs	267
+焉耆回族自治县	yn;vh qb;lo hw;kk zl;fu zt;po vt;dk xa;qs	229
+漾濞彝族自治县	yd;dy bt;dw yb;hc zl;fu zt;po vt;dk xa;qs	1
+伊通满族自治县	yj;ry,rp tk;zy mo;dl zl;fu zt;po vt;dk xa;qs	300
+玉屏侗族自治县	yf;wd pn;uk dy;rk zl;fu zt;po vt;dk xa;qs	251
+玉树藏族自治州	yf;wd uh;mc zd;ci zl;fu zt;po vt;dk vx;dl	433
+芷江侗族自治县	vg;cv jy;dg dy;rk zl;fu zt;po vt;dk xa;qs	318
+阿拉尔市图木舒克	al;ek ll;fl eu;dx ut;wj tl;kd mh;ur ua;ry ki;ux,ge	1
+长白朝鲜族自治县	iw;pn bd;po ii;uo xp;yy zl;fu zt;po vt;dk xa;qs	295
+长阳土家族自治县	iw;pn yw;eo tm;ua jd;bu zl;fu zt;po vt;dk xa;qs	335
+大柴旦行政委员会	di;ar id;vm da;oa xn;rd vf;vw wj;hn yo;kb hf;ry	1
+阜新蒙古族自治县	fh;pu xh;lj my;cu gm;uk zl;fu zt;po vt;dk xa;qs	317
+河南蒙古族自治县	he;dk nk;ug my;cu gm;uk zl;fu zt;po vt;dk xa;qs	284
+环江毛南族自治县	ho;wb jy;dg mi;pv nk;ug zl;fu zt;po vt;dk xa;qs	308
+澜沧拉祜族自治县	lk;dj cu;dv ll;fl hh;pg zl;fu zt;po vt;dk xa;qs	290
+罗城仫佬族自治县	ll;sx if;ti mh;rm lx;rl zl;fu zt;po vt;dk xa;qs	292
+梅里斯达斡尔族区	mr;mm lg;tt sj;cj du;zd wg;ud eu;dx zl;fu qh;kx	1
+墨江哈尼族自治县	mg;lt jy;dg hl;kk nb;ub zl;fu zt;po vt;dk xa;qs	260
+木垒哈萨克自治县	mh;ur lj;st hl;kk si;ci ki;ux,ge zt;po vt;dk xa;qs	234
+怒江傈僳族自治州	nh;nx jy;dg lt;rm sh;rm zl;fu zt;po vt;dk vx;dl	351
+石柱土家族自治县	ub;ak vh;mv tm;ua jd;bu zl;fu zt;po vt;dk xa;qs	309
+肃北蒙古族自治县	sh;yb bj;lb my;cu gm;uk zl;fu zt;po vt;dk xa;qs	238
+肃南裕固族自治县	sh;yb nk;ug yf;pg gh;kg zl;fu zt;po vt;dk xa;qs	313
+图木舒克市五家渠	tl;kd mh;ur ua;ry ki;ux,ge ut;wj wm;aw jd;bu qm;dm	1
+维西傈僳族自治县	wr;sv xj;ak,wk lt;rm sh;rm zl;fu zt;po vt;dk xa;qs	255
+五峰土家族自治县	wm;aw fc;uf tm;ua jd;bu zl;fu zt;po vt;dk xa;qs	319
+新疆维吾尔自治区	xh;lj jy;gj wr;sv wl;wk eu;dx zt;po vt;dk qh;kx	621
+循化撒拉族自治县	xf;ro hg;rb sl;fw ll;fl zl;fu zt;po vt;dk xa;qs	301
+延边朝鲜族自治州	yk;zv br;zl ii;uo xp;yy zl;fu zt;po vt;dk vx;dl	401
+沿河土家族自治县	yk;dk he;dk tm;ua jd;bu zl;fu zt;po vt;dk xa;qs	1
+玉龙纳西族自治县	yf;wd lj;yp ni;sn xj;ak,wk zl;fu zt;po vt;dk xa;qs	1
+张家川回族自治县	vu;gi jd;bu id;pl hw;kk zl;fu zt;po vt;dk xa;qs	313
+阿坝藏族羌族自治州	al;ek bi;tb zd;ci zl;fu qy;yv zl;fu zt;po vt;dk vx;dl	430
+巴里坤哈萨克自治县	bl;sl lg;tt kg;tu hl;kk si;ci ki;ux,ge zt;po vt;dk xa;qs	286
+巴音郭楞蒙古自治州	bl;sl yh;lo gs;we lf;mf mf;cu gm;uk zt;po vt;dk vx;dl	380
+保亭黎族苗族自治县	bx;rm tn;wd lb;hu zl;fu mu;ct zl;fu zt;po vt;dk xa;qs	329
+博尔塔拉蒙古自治州	be;uc eu;dx tm;tk ll;fl mf;cu gm;uk zt;po vt;dk vx;dl	354
+察布查尔锡伯自治县	iu;bu bh;uj iu;md eu;dx xj;jw be;rb zt;po vt;dk xa;qs	298
+达尔罕茂明安联合旗	du;zd eu;dx ho;bg mv;cw mn;oo an;bn lv;et he;rk qb;fb	293
+大通回族土族自治县	di;ar tk;zy hw;kk zl;fu tm;ua zl;fu zt;po vt;dk xa;qs	339
+耿马傣族佤族自治县	gy;eh mm;va du;ru zl;fu wm;rw zl;fu zt;po vt;dk xa;qs	270
+景谷傣族彝族自治县	jw;ox gm;bk du;ru zl;fu yb;hc zl;fu zt;po vt;dk xa;qs	251
+靖州苗族侗族自治县	jw;lo vx;dl mu;ct zl;fu dy;rk zl;fu zt;po vt;dk xa;qs	1
+连山壮族瑶族自治县	lv;zi un;kl ve;lt zl;fu yi;wf zl;fu zt;po vt;dk xa;qs	283
+禄劝彝族苗族自治县	lh;pu qc;yl yb;hc zl;fu mu;ct zl;fu zt;po vt;dk xa;qs	295
+民和回族土族自治县	mc;vv he;hk hw;kk zl;fu tm;ua zl;fu zt;po vt;dk xa;qs	1
+琼中黎族苗族自治县	qk;wx vk;kl lb;hu zl;fu mu;ct zl;fu zt;po vt;dk xa;qs	303
+图木舒克市图木舒克	tl;kd mh;ur ua;ry ki;ux,ge ut;wj tl;kd mh;ur ua;ry ki;ux,ge	1
+巍山彝族回族自治县	wi;ug un;kl yb;hc zl;fu hw;kk zl;fu zt;po vt;dk xa;qs	292
+文山壮族苗族自治州	ws;wx un;kl ve;lt zl;fu mu;ct zl;fu zt;po vt;dk vx;dl	372
+西双版纳傣族自治州	xj;ak,wk uw;yy bo;py ni;sn du;ru zl;fu zt;po vt;dk vx;dl	357
+新平彝族傣族自治县	xh;lj pn;au yb;hc zl;fu du;ru zl;fu zt;po vt;dk xa;qs	318
+寻甸回族彝族自治县	xf;ec dr;bt hw;kk zl;fu yb;hc zl;fu zt;po vt;dk xa;qs	277
+阿克塞哈萨克族自治县	al;ek ki;ux,ge sb;bt hl;kk si;ci ki;ux,ge zl;fu zt;po vt;dk xa;qs	237
+道真仡佬族苗族自治县	dv;zz ve;ub gr;rv lx;rl zl;fu mu;ct zl;fu zt;po vt;dk xa;qs	1
+德宏傣族景颇族自治州	de;rx hj;bs du;ru zl;fu jw;ox pp;py zl;fu zt;po vt;dk vx;dl	357
+杜尔伯特蒙古族自治县	dh;mt eu;dx be;rb ti;nc my;cu gm;uk zl;fu zt;po vt;dk xa;qs	294
+恩施土家族苗族自治州	ee;yx uj;fy tm;ua jd;bu zl;fu mu;ct zl;fu zt;po vt;dk vx;dl	379
+贡山独龙族怒族自治县	gy;gb un;kl dl;qi lj;yp zl;fu nh;nx zl;fu zt;po vt;dk xa;qs	287
+关岭布依族苗族自治县	gd;bt lw;us bh;uj yj;ry zl;fu mu;ct zl;fu zt;po vt;dk xa;qs	277
+海西蒙古族藏族自治州	hu;dm xj;ak,wk my;cu gm;uk zl;fu zd;ci zl;fu zt;po vt;dk vx;dl	434
+和布克赛尔蒙古自治县	he;hk bh;uj ki;ux,ge so;bb eu;dx mf;cu gm;uk zt;po vt;dk xa;qs	271
+红河哈尼族彝族自治州	hj;sg he;dk hl;kk nb;ub zl;fu yb;hc zl;fu zt;po vt;dk vx;dl	407
+江城哈尼族彝族自治县	jy;dg if;ti hl;kk nb;ub zl;fu yb;hc zl;fu zt;po vt;dk xa;qs	226
+兰坪白族普米族自治县	lk;bs pn;tp bd;po zl;fu pm;bo mg;bm zl;fu zt;po vt;dk xa;qs	246
+宁洱哈尼族彝族自治县	nn;bd eu;de hl;kk nb;ub zl;fu yb;hc zl;fu zt;po vt;dk xa;qs	1
+彭水苗族土家族自治县	pf;tp uv;ln mu;ct zl;fu tm;ua jd;bu zl;fu zt;po vt;dk xa;qs	298
+黔东南苗族侗族自治州	qv;lv dk;ax nk;ug mu;ct zl;fu dy;rk zl;fu zt;po vt;dk vx;dl	469
+黔南布依族苗族自治州	qv;lv nk;ug bh;uj yj;ry zl;fu mu;ct zl;fu zt;po vt;dk vx;dl	377
+围场满族蒙古族自治县	wr;kw ip;tp mo;dl zl;fu my;cu gm;uk zl;fu zt;po vt;dk xa;qs	330
+务川仡佬族苗族自治县	wh;wl id;pl gr;rv lx;rl zl;fu mu;ct zl;fu zt;po vt;dk xa;qs	1
+湘西土家族苗族自治州	xy;do xj;ak,wk tm;ua jd;bu zl;fu mu;ct zl;fu zt;po vt;dk vx;dl	422
+秀山土家族苗族自治县	xo;hn un;kl tm;ua jd;bu zl;fu mu;ct zl;fu zt;po vt;dk xa;qs	292
+伊犁伊犁哈萨克自治州	yj;ry,rp lb;hn yj;ry,rp lb;hn hl;kk si;ci ki;ux,ge zt;po vt;dk vx;dl	1
+印江土家族苗族自治县	yv;pe jy;dg tm;ua jd;bu zl;fu mu;ct zl;fu zt;po vt;dk xa;qs	268
+酉阳土家族苗族自治县	yz;xa yw;eo tm;ua jd;bu zl;fu mu;ct zl;fu zt;po vt;dk xa;qs	321
+镇宁布依族苗族自治县	vo;jb nn;bd bh;uj yj;ry zl;fu mu;ct zl;fu zt;po vt;dk xa;qs	279
+紫云苗族布依族自治县	zg;vx yf;ag,es mu;ct zl;fu bh;uj yj;ry zl;fu zt;po vt;dk xa;qs	261
+金平苗族瑶族傣族自治县	jh;rb pn;au mu;ct zl;fu yi;wf zl;fu du;ru zl;fu zt;po vt;dk xa;qs	264
+喀喇沁左翼蒙古族自治县	kl;kk lm;kd qv;dx zl;ug yt;xg my;cu gm;uk zl;fu zt;po vt;dk xa;qs	262
+克孜勒苏柯尔克孜自治州	ki;ux,ge zj;zw li;gl sa;cb kr;mk eu;dx ki;ux,ge zj;zw zt;po vt;dk vx;dl	367
+莫力达瓦达斡尔族自治旗	mg;cd lt;vp du;zd wm;ad du;zd wg;ud eu;dx zl;fu zt;po vt;dk qb;fb	292
+前郭尔罗斯蒙古族自治县	qv;bd gs;we eu;dx ll;sx sj;cj my;cu gm;uk zl;fu zt;po vt;dk xa;qs	320
+黔西南布依族苗族自治州	qv;lv xj;ak,wk nk;ug bh;uj yj;ry zl;fu mu;ct zl;fu zt;po vt;dk vx;dl	368
+塔什库尔干塔吉克自治县	tm;tk us;ru kh;gi eu;dx ga;au tm;tk jb;tk ki;ux,ge zt;po vt;dk xa;qs	367
+威宁彝族回族苗族自治县	wi;wn nn;bd yb;hc zl;fu hw;kk zl;fu mu;ct zl;fu zt;po vt;dk xa;qs	306
+孟连傣族拉祜族佤族自治县	mf;zm lv;zi du;ru zl;fu ll;fl hh;pg zl;fu wm;rw zl;fu zt;po vt;dk xa;qs	234
+元江哈尼族彝族傣族自治县	yo;aw jy;dg hl;kk nb;ub zl;fu yb;hc zl;fu du;ru zl;fu zt;po vt;dk xa;qs	276
+镇沅彝族哈尼族拉祜族自治县	vo;jb yo;dy yb;hc zl;fu hl;kk nb;ub zl;fu ll;fl hh;pg zl;fu zt;po vt;dk xa;qs	1
+积石山保安族东乡族撒拉族自治县	jj;hv ub;ak un;kl bx;rm an;bn zl;fu dk;ax xy;vp zl;fu sl;fw ll;fl zl;fu zt;po vt;dk xa;qs	241
+双江拉祜族佤族布朗族傣族自治县	uw;yy jy;dg ll;fl hh;pg zl;fu wm;rw zl;fu bh;uj lp;lo zl;fu du;ru zl;fu zt;po vt;dk xa;qs	1

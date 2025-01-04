@@ -1,0 +1,972 @@
+# Rime dictionary
+# encoding: utf-8
+#https://github.com/amzxyz/RIME-LMDG
+#兼容词库，对于多字词汇两种读音的场景，手动维护到本表以及一些其他的杂项
+---
+name: compatible
+version: "2024-11-11"
+sort: by_weight
+...
+命中	mw;re vk;kl	708
+命中	mw;re vy;kl	661
+干不干	ga;au bl;ab ga;au	380
+干不干	gn;au bh;ab gn;au	80
+美的	mj;yd dt;bu	467
+随行	sw;eo hw;rd	552
+随行	sw;eo xn;rd	781
+相称	xy;mo io;hx	404
+相称	xy;mo ic;hx	504
+重活	vy;ql hl;du	391
+重活	ij;ql hl;du	120
+罢了	bi;sq lr;al	888
+罢了	bi;sq ll;al	647
+累累	lj;tx lj;tx	511
+累累	lr;tx lr;tx	577
+调配	dl;yk pf;yj	688
+调配	tu;yk pf;yj	622
+数次	uh;mw ct;dq	768
+数次	up;mw ct;dq	523
+我为	wi;ga wr;ld	467
+我为	wi;ga wf;ld	663
+更为	gf;an wr;ld	915
+更为	gf;an wf;ld	965
+长的	iw;pn dr;bu	802
+长的	vp;pn dr;bu	919
+落下	li;ck xx;ab	764
+落下	lp;ck xx;ab	818
+穿着	id;by vr;yo	1000
+穿着	id;by vl;yo	644
+一通	yb;aa ty;zy	710
+一通	yt;aa tk;zy	608
+总长	zn;bx iw;pn	705
+总长	zn;bx vp;pn	436
+不长	bm;ab iw;pn	570
+不长	bh;ab vp;pn	329
+掠夺	ld;fx dl;dc	686
+掠夺	lo;fx dl;dc	300
+略长	ld;tk vp;pn	184
+略长	ld;tk iw;pn	447
+略长一些	ld;tk iw;pn yt;aa xk;ve	42
+略长几岁	ld;tk vp;pn jg;pv sf;ux	1
+见长	ja;ke vp;pn	621
+见长	ja;ke iw;pn	472
+所长	sl;hj iw;pn	611
+所长	sl;hj vp;pn	786
+便宜	ba;rg yb;bq	201
+便宜	pv;rg yj;bq	560
+便不便宜	ba;rg bl;ab ba;rg yb;bq	376
+便宜行事	ba;rg yb;bq xn;rd ut;gy	281
+便宜之内	ba;rg yb;bq vj;dn nf;kr	110
+越长	yd;tl iw;pn	271
+越长	yd;tl vp;pn	347
+越长大	yd;tl vp;pn di;ar	321
+越长越快	yd;tl vp;pn yd;tl kf;xg	204
+越长越好	yd;tl iw;pn yd;tl hx;nz	230
+越长越	yd;tl iw;pn yd;tl	315
+越长越	yd;tl vp;pn yd;tl	265
+行长	hw;rd vp;pn	466
+年长	nv;pf vp;pn	246
+年长	nv;pf iw;pn	207
+长牙	vp;pn yu;gp,ac	283
+长牙	iw;pn yu;gp,ac	84
+长相	vp;pn xe;mo	429
+白庙	bd;po ml;gy	1
+不为	bl;ab wf;ld	609
+不为	bh;ab wr;ld	600
+年长	nv;pf iw;pn	447
+年长	nv;pf vp;pn	522
+十四	ub;al st;ke	1
+四十	st;ke ub;al	1
+五行	wm;aw hw;rd	558
+五行	wm;aw xn;rd	607
+一行	yt;aa hw;rd	620
+一行	yt;aa xn;rd	530
+重天	ij;ql tr;ad	497
+为一名	wr;ld yt;aa mn;xk	684
+为一名	wf;ld yt;aa mn;xk	584
+捉兔	vs;fz th;dd	1
+白石塔	bd;po ub;ak tm;tk	1
+板凳宽	bo;my df;bj kd;bj	1
+扁担长	bp;hc da;fd iw;pn	1
+剥桔子	bp;ed jm;mk zj;la	1
+常练习	iw;xj la;sd xb;vd	1
+醋湿布	ch;yo uj;dy bh;uj	1
+打罢秋	dm;fd bi;sq qz;hh	1
+打翻醋	dm;fd fn;cx ch;yo	1
+打了醋	dm;fd lr;al ch;yo	1
+灯映星	dc;hd yw;oy xe;ou	1
+弟弟说	dt;bd dj;bd us;yx	1
+董两家	dn;cv lu;ar jd;bu	1
+放下布	fd;fw xx;ab bh;uj	1
+飞了鹰	fi;vd lr;al ye;gn	1
+粉凤凰	fo;mf ff;jy hb;jw	1
+哥哥说	gr;kk gr;kk us;yx	1
+搁下醋	gr;fk xx;ab ch;yo	1
+红凤凰	hj;sg ff;jy hb;jw	1
+红凤凰	hj;sg ff;jy hb;jw	1
+花凤凰	hs;cb ff;jy hb;jw	1
+花鸟叫	hs;cb nl;na jl;kj	1
+黄凤凰	hb;cb ff;jy hb;jw	1
+接住豆	jk;fn vh;rv dr;ab	1
+九重天	jz;pv ij;ql tr;ad	560
+两个八	lu;ar gi;rl bl;pn	644
+两个白	lu;ar gi;rl bd;po	1
+两个百	lu;ar gi;rl bu;ab	1
+两个貝	lu;ar gi;rl bf;ob	1
+两个比	lu;ar gi;rl bg;bb	1
+两个匕	lu;ar gi;rl bg;pv	1
+两个秉	lu;ar gi;rl bw;qr	1
+两个不	lu;ar gi;rl bh;ab	1
+两个倉	lu;ar gi;rl cu;rk	1
+两个昌	lu;ar gi;rl iu;oo	1
+两个巢	lu;ar gi;rl ii;vg	1
+两个屮	lu;ar gi;rl ii;kl	1
+两个屮	lu;ar gi;rl ii;kl	1
+两个車	lu;ar gi;rl ir;iu	1
+两个車	lu;ar gi;rl ir;iu	1
+两个臣	lu;ar gi;rl is;kl	1
+两个齒	lu;ar gi;rl ig;vr	1
+两个虫	lu;ar gi;rl ij;vd	1
+两个巛	lu;ar gi;rl id;vv	1
+两个串	lu;ar gi;rl ic;kl,vv	1
+两个朿	lu;ar gi;rl ct;ub	1
+两个大	lu;ar gi;rl di;ar	656
+两个歹	lu;ar gi;rl du;ax	1
+两个呆	lu;ar gi;rl db;km	1
+两个東	lu;ar gi;rl dk;ir	1
+两个二	lu;ar gi;rl eh;aa	1
+两个而	lu;ar gi;rl ek;al	1
+两个耳	lu;ar gi;rl eu;ol	1
+两个凡	lu;ar gi;rl fk;jd	1
+两个飞	lu;ar gi;rl fi;vd	1
+两个風	lu;ar gi;rl fc;ji	1
+两个夫	lu;ar gi;rl fa;er	1
+两个巿	lu;ar gi;rl fl;uj	1
+两个畐	lu;ar gi;rl fl;at	1
+两个干	lu;ar gi;rl ga;au	1
+两个戈	lu;ar gi;rl gr;yp	1
+两个弓	lu;ar gi;rl gk;vv	1
+两个古	lu;ar gi;rl gm;uk	1
+两个瓜	lu;ar gi;rl gs;in,vd	1
+两个果	lu;ar gi;rl gl;tm	1
+两个𢎘	lu;ar gi;rl ha;av	1
+两个禾	lu;ar gi;rl he;pm	1
+两个户	lu;ar gi;rl hh;du	1
+两个虎	lu;ar gi;rl hm;hj	1
+两个火	lu;ar gi;rl hl;br,rb	1
+两个彐	lu;ar gi;rl jt;ka	1
+两个吉	lu;ar gi;rl jb;tk	1
+两个几	lu;ar gi;rl jg;pv	1
+两个旡	lu;ar gi;rl jt;ay	1
+两个見	lu;ar gi;rl ja;oe	1
+两个卪	lu;ar gi;rl js;ed	1
+两个巾	lu;ar gi;rl jh;kl	1
+两个金	lu;ar gi;rl jh;rb	1
+两个斤	lu;ar gi;rl jh;il,iT	1
+两个井	lu;ar gi;rl jw;ac,el	1
+两个竟	lu;ar gi;rl jw;le	1
+两个竞	lu;ar gi;rl jw;lx	1
+两个九	lu;ar gi;rl jz;pv	1
+两个句	lu;ar gi;rl jf;bk	1
+两个口	lu;ar gi;rl kz;la	1
+两个来	lu;ar gi;rl ld;am	1
+两个來	lu;ar gi;rl ld;ur	1
+两个老	lu;ar gi;rl lx;lb	1
+两个力	lu;ar gi;rl lt;vp	1
+两个立	lu;ar gi;rl lt;wb	1
+两个隶	lu;ar gi;rl lt;yu	1
+两个龍	lu;ar gi;rl lj;lv	1
+两个龙	lu;ar gi;rl lj;yp	1
+两个马	lu;ar gi;rl mm;va	1
+两个馬	lu;ar gi;rl mm;mh	1
+两个毛	lu;ar gi;rl mi;pv	1
+两个米	lu;ar gi;rl mg;bm	1
+两个面	lu;ar gi;rl ma;ao	1
+两个明	lu;ar gi;rl mn;oo	1
+两个牟	lu;ar gi;rl ma;sn	1
+两个母	lu;ar gi;rl mm;md	1
+两个木	lu;ar gi;rl mh;ur	1
+两个目	lu;ar gi;rl mh;ke	1
+两个男	lu;ar gi;rl nk;tl	1
+两个𡥦	lu;ar gi;rl ng;zz	1
+两个廿	lu;ar gi;rl na;ca,ak	1
+两个卄	lu;ar gi;rl na;al	1
+两个鸟	lu;ar gi;rl nl;na	1
+两个牛	lu;ar gi;rl nm;pu	1
+两个女	lu;ar gi;rl ns;va	1
+两个𠂢	lu;ar gi;rl po;iy	1
+两个片	lu;ar gi;rl pa;pv	1
+两个启	lu;ar gi;rl qg;hk	1
+两个桼	lu;ar gi;rl qj;mu	1
+两个奇	lu;ar gi;rl qb;dk	1
+两个乞	lu;ar gi;rl qg;pv	1
+两个欠	lu;ar gi;rl qa;dr	1
+两个僉	lu;ar gi;rl qr;rr	1
+两个區	lu;ar gi;rl qh;kk	1
+两个犬	lu;ar gi;rl qs;dd	1
+两个夋	lu;ar gi;rl qg;yw	1
+两个人	lu;ar gi;rl rs;pn	661
+两个日	lu;ar gi;rl rt;ka	1
+两个入	lu;ar gi;rl rh;pn	1
+两个卅	lu;ar gi;rl si;ai	1
+两个山	lu;ar gi;rl un;kl	1
+两个善	lu;ar gi;rl ua;yk	1
+两个舌	lu;ar gi;rl ue;qk	1
+两个申	lu;ar gi;rl ue;ol,yl	1
+两个生	lu;ar gi;rl uc;pf	1
+两个尸	lu;ar gi;rl uj;kp,vp	1
+两个石	lu;ar gi;rl ub;ak	1
+两个示	lu;ar gi;rl ut;ex,ax	1
+两个豕	lu;ar gi;rl ug;au	1
+两个手	lu;ar gi;rl uz;pf	1
+两个束	lu;ar gi;rl uh;gr	1
+两个水	lu;ar gi;rl uv;ln	1
+两个厶	lu;ar gi;rl sj;vd	1
+两个厶	lu;ar gi;rl sj;vd	1
+两个田	lu;ar gi;rl tv;ku	1
+两个天	lu;ar gi;rl tr;ad	1
+两个土	lu;ar gi;rl tm;ua	1
+两个罒	lu;ar gi;rl wp;kl	1
+两个王	lu;ar gi;rl ww;at	1
+两个兀	lu;ar gi;rl wh;ae	1
+两个㐅	lu;ar gi;rl wm;pd	1
+两个夕	lu;ar gi;rl xj;pd	1
+两个习	lu;ar gi;rl xb;vd	1
+两个昔	lu;ar gi;rl xj;co	1
+两个喜	lu;ar gi;rl xg;tk	1
+两个㔾	lu;ar gi;rl xr;vv	1
+两个先	lu;ar gi;rl xr;ne	1
+两个香	lu;ar gi;rl xy;ho	1
+两个享	lu;ar gi;rl xu;wz	1
+两个心	lu;ar gi;rl xh;dd	1
+两个辛	lu;ar gi;rl xh;lu	1
+两个兄	lu;ar gi;rl xp;ke	1
+两个玄	lu;ar gi;rl xo;wy	1
+两个牙	lu;ar gi;rl yu;gp,ac	1
+两个言	lu;ar gi;rl yk;wk	1
+两个炎	lu;ar gi;rl yk;hh	1
+两个羊	lu;ar gi;rl yw;bf	1
+两个幺	lu;ar gi;rl yq;vs	1
+两个堯	lu;ar gi;rl yi;tw	1
+两个一	lu;ar gi;rl yj;aa	1
+两个乂	lu;ar gi;rl yt;pn	1
+两个乙	lu;ar gi;rl yg;vv	1
+两个亦	lu;ar gi;rl yt;wb	1
+两个易	lu;ar gi;rl yt;ow	1
+两个㣇	lu;ar gi;rl yt;hj	1
+两个邑	lu;ar gi;rl yt;kb	1
+两个音	lu;ar gi;rl yh;lo	1
+两个尹	lu;ar gi;rl yx;ep	1
+两个永	lu;ar gi;rl yn;du	1
+两个又	lu;ar gi;rl yr;vn	1
+两个魚	lu;ar gi;rl ym;dh	1
+两个余	lu;ar gi;rl ym;rm	1
+两个予	lu;ar gi;rl ys;sl	1
+两个禺	lu;ar gi;rl ym;td	1
+两个月	lu;ar gi;rl yd;ke	660
+两个曰	lu;ar gi;rl yu;ka	1
+两个真	lu;ar gi;rl ve;ub	1
+两个止	lu;ar gi;rl vg;lb,la,ba	1
+两个支	lu;ar gi;rl vj;uy	1
+两个隻	lu;ar gi;rl vj;ry	1
+两个至	lu;ar gi;rl vt;gt	1
+两个隹	lu;ar gi;rl vt;rv	1
+两个子	lu;ar gi;rl zj;la	1
+两个走	lu;ar gi;rl zz;tz	1
+两个足	lu;ar gi;rl zl;kz	1
+两个左	lu;ar gi;rl zl;ug	1
+买了布	mu;ad lr;al bh;uj	1
+那是蝉	ni;ve ut;oz ik;iu	1
+跑了兔	px;zb lr;al th;dd	1
+青葡萄	qe;fo pl;cf ti;cf	1
+认真学	ro;yr ve;ub xi;xz	1
+如雾里	rl;nk wh;yl lg;tt	1
+软舌头	rs;iq ue;qk tx;dd	1
+三个白	sn;ae gi;rl bd;po	1
+三个百	sn;ae gi;rl bu;ab	1
+三个宝	sn;ae gi;rl bx;by	1
+三个贝	sn;ae gi;rl bf;kr	1
+三个屮	sn;ae gi;rl ii;kl	1
+三个屮	sn;ae gi;rl ii;kl	1
+三个車	sn;ae gi;rl ir;iu	1
+三个虫	sn;ae gi;rl ij;vd	1
+三个䖝	sn;ae gi;rl ij;pi	1
+三个朿	sn;ae gi;rl ct;ub	1
+三个大	sn;ae gi;rl di;ar	1
+三个刀	sn;ae gi;rl dq;vp	1
+三个動	sn;ae gi;rl dy;vl	1
+三个斗	sn;ae gi;rl dr;ud	1
+三个耳	sn;ae gi;rl eu;ol	1
+三个方	sn;ae gi;rl fu;wv	1
+三个飛	sn;ae gi;rl fi;fc	1
+三个風	sn;ae gi;rl fc;ji	1
+三个盖	sn;ae gi;rl go;ym	1
+三个个	sn;ae gi;rl gi;rl	1
+三个弓	sn;ae gi;rl gk;vv	1
+三个瓜	sn;ae gi;rl gs;in,vd	1
+三个光	sn;ae gi;rl gw;xe	1
+三个果	sn;ae gi;rl gl;tm	1
+三个寒	sn;ae gi;rl hk;bd	1
+三个户	sn;ae gi;rl hh;du	1
+三个火	sn;ae gi;rl hl;br,rb	1
+三个吉	sn;ae gi;rl jb;tk	1
+三个甲	sn;ae gi;rl jn;ol,tl	1
+三个加	sn;ae gi;rl jd;lk	1
+三个介	sn;ae gi;rl jq;rl	1
+三个金	sn;ae gi;rl jh;rb	1
+三个九	sn;ae gi;rl jz;pv	635
+三个可	sn;ae gi;rl kl;dk	1
+三个客	sn;ae gi;rl ki;bk	1
+三个空	sn;ae gi;rl kk;bg	1
+三个口	sn;ae gi;rl kz;la	639
+三个老	sn;ae gi;rl lx;lb	1
+三个了	sn;ae gi;rl lr;al	1
+三个雷	sn;ae gi;rl lr;yt	1
+三个力	sn;ae gi;rl lt;vp	1
+三个立	sn;ae gi;rl lt;wb	1
+三个林	sn;ae gi;rl lc;mm	1
+三个龍	sn;ae gi;rl lj;lv	1
+三个鹿	sn;ae gi;rl lh;gb	1
+三个圥	sn;ae gi;rl lh;te	1
+三个马	sn;ae gi;rl mm;va	1
+三个亇	sn;ae gi;rl ml;dl	1
+三个毛	sn;ae gi;rl mi;pv	1
+三个門	sn;ae gi;rl ms;ll	1
+三个米	sn;ae gi;rl mg;bm	1
+三个面	sn;ae gi;rl ma;ao	1
+三个木	sn;ae gi;rl mh;ur	1
+三个目	sn;ae gi;rl mh;ke	1
+三个男	sn;ae gi;rl nk;tl	1
+三个鳥	sn;ae gi;rl nl;nh	1
+三个鸟	sn;ae gi;rl nl;na	1
+三个㖖	sn;ae gi;rl nq;xk	1
+三个牛	sn;ae gi;rl nm;pu	1
+三个女	sn;ae gi;rl ns;va	1
+三个丿	sn;ae gi;rl pc;pp	1
+三个七	sn;ae gi;rl qj;av	1
+三个企	sn;ae gi;rl qg;rv	1
+三个欠	sn;ae gi;rl qa;dr	1
+三个千	sn;ae gi;rl qr;pu	1
+三个羗	sn;ae gi;rl qy;ys	1
+三个秦	sn;ae gi;rl qc;ih	1
+三个去	sn;ae gi;rl qf;ts	1
+三个泉	sn;ae gi;rl qo;bu	1
+三个犬	sn;ae gi;rl qs;dd	1
+三个全	sn;ae gi;rl qo;rw	1
+三个𡿨	sn;ae gi;rl qs;vv	1
+三个人	sn;ae gi;rl rs;pn	659
+三个日	sn;ae gi;rl rt;ka	1
+三个若	sn;ae gi;rl rp;ck	1
+三个山	sn;ae gi;rl un;kl	1
+三个少	sn;ae gi;rl ux;xp	1
+三个舌	sn;ae gi;rl ue;qk	1
+三个舍	sn;ae gi;rl ul;rg	1
+三个申	sn;ae gi;rl ue;ol,yl	1
+三个生	sn;ae gi;rl uc;pf	1
+三个市	sn;ae gi;rl ut;wj	635
+三个十	sn;ae gi;rl ub;al	624
+三个士	sn;ae gi;rl ut;ua	1
+三个石	sn;ae gi;rl ub;ak	1
+三个手	sn;ae gi;rl uz;pf	1
+三个束	sn;ae gi;rl uh;gr	1
+三个水	sn;ae gi;rl uv;ln	1
+三个朔	sn;ae gi;rl up;no	1
+三个厶	sn;ae gi;rl sj;vd	1
+三个厶	sn;ae gi;rl sj;vd	1
+三个太	sn;ae gi;rl to;dd	1
+三个田	sn;ae gi;rl tv;ku	1
+三个天	sn;ae gi;rl tr;ad	1
+三个𠧪	sn;ae gi;rl tu;br	1
+三个𠧪	sn;ae gi;rl tu;br	1
+三个土	sn;ae gi;rl tm;ua	1
+三个兔	sn;ae gi;rl th;dd	1
+三个妥	sn;ae gi;rl tl;vn	1
+三个罒	sn;ae gi;rl wp;kl	1
+三个文	sn;ae gi;rl ws;wx	1
+三个夏	sn;ae gi;rl xx;bw	1
+三个㔾	sn;ae gi;rl xr;vv	1
+三个県	sn;ae gi;rl xa;ox	1
+三个香	sn;ae gi;rl xy;ho	1
+三个小	sn;ae gi;rl xl;lb	1
+三个心	sn;ae gi;rl xh;dd	1
+三个興	sn;ae gi;rl xw;jb	1
+三个言	sn;ae gi;rl yk;wk	1
+三个羊	sn;ae gi;rl yw;bf	1
+三个頁	sn;ae gi;rl yi;ab	1
+三个也	sn;ae gi;rl yl;vv	1
+三个宜	sn;ae gi;rl yb;bq	1
+三个因	sn;ae gi;rl yh;kd	1
+三个用	sn;ae gi;rl yy;kf,ol	1
+三个又	sn;ae gi;rl yr;vn	1
+三个魚	sn;ae gi;rl ym;dh	1
+三个玉	sn;ae gi;rl yf;wd	1
+三个原	sn;ae gi;rl yo;ix	1
+三个厡	sn;ae gi;rl yo;iu	1
+三个月	sn;ae gi;rl yd;ke	660
+三个雲	sn;ae gi;rl yf;yy	1
+三个爪	sn;ae gi;rl vx;in	1
+三个止	sn;ae gi;rl vg;lb,la,ba	1
+三个直	sn;ae gi;rl vb;uq	1
+三个至	sn;ae gi;rl vt;gt	1
+三个丶	sn;ae gi;rl vm;dd	1
+三个丶	sn;ae gi;rl vm;dd	1
+三个竹	sn;ae gi;rl vl;gg	1
+三个隹	sn;ae gi;rl vt;rv	1
+三个子	sn;ae gi;rl zj;la	1
+三个足	sn;ae gi;rl zl;kz	1
+盛鱼翅	if;im ym;da it;vx	1
+十和四	ub;al he;hk st;ke	1
+十是十	ub;al ut;oz ub;al	1
+史肖石	ug;kn xl;xo ub;ak	1
+史肖石	ug;kn xl;xo ub;ak	1
+石小四	ub;ak xl;lb st;ke	1
+石小四	ub;ak xl;lb st;ke	1
+手指头	uz;pf vg;fo tx;dd	1
+四个匕	st;ke gi;rl bg;pv	1
+四个屮	st;ke gi;rl ii;kl	1
+四个屮	st;ke gi;rl ii;kl	1
+四个車	st;ke gi;rl ir;iu	1
+四个春	st;ke gi;rl ig;io	1
+四个朿	st;ke gi;rl ct;ub	1
+四个風	st;ke gi;rl fc;ji	1
+四个工	st;ke gi;rl gk;aa	1
+四个果	st;ke gi;rl gl;tm	1
+四个火	st;ke gi;rl hl;br,rb	1
+四个甲	st;ke gi;rl jn;ol,tl	1
+四个金	st;ke gi;rl jh;rb	1
+四个口	st;ke gi;rl kz;la	1
+四个困	st;ke gi;rl kr;km	1
+四个老	st;ke gi;rl lx;lb	1
+四个雷	st;ke gi;rl lr;yt	1
+四个林	st;ke gi;rl lc;mm	1
+四个龍	st;ke gi;rl lj;lv	1
+四个門	st;ke gi;rl ms;ll	1
+四个牛	st;ke gi;rl nm;pu	1
+四个且	st;ke gi;rl qc;oa	1
+四个囚	st;ke gi;rl qm;kr	1
+四个泉	st;ke gi;rl qo;bu	1
+四个人	st;ke gi;rl rs;pn	658
+四个日	st;ke gi;rl rt;ka	1
+四个石	st;ke gi;rl ub;ak	1
+四个水	st;ke gi;rl uv;ln	1
+四个厶	st;ke gi;rl sj;vd	1
+四个厶	st;ke gi;rl sj;vd	1
+四个天	st;ke gi;rl tr;ad	1
+四个田	st;ke gi;rl tv;ku	1
+四个土	st;ke gi;rl tm;ua	1
+四个先	st;ke gi;rl xr;ne	1
+四个小	st;ke gi;rl xl;lb	1
+四个興	st;ke gi;rl xw;jb	1
+四个言	st;ke gi;rl yk;wk	1
+四个乂	st;ke gi;rl yt;pn	1
+四个又	st;ke gi;rl yr;vn	1
+四个魚	st;ke gi;rl ym;dh	1
+四个月	st;ke gi;rl yd;ke	658
+四个雲	st;ke gi;rl yf;yy	1
+四个竹	st;ke gi;rl vl;gg	1
+四是四	st;ke ut;oz st;ke	1
+四十四	st;ke ub;al st;ke	1
+提锡壶	tb;fz xj;jw hl;ty	1
+听物理	te;kj wh;nw lg;wl	1
+腿说嘴	tv;og us;yx zv;ky	1
+星映灯	xe;ou yw;oy dc;hd	1
+杨家羊	yw;mp jd;bu yw;bf	1
+硬石头	yw;ug ub;ak tx;dd	1
+游西湖	ya;dz xj;ak,wk hl;do	1
+这是蚕	vi;zw ut;oz ck;ti	1
+紫瓷盘	zg;vx cb;dw pk;vm	1
+紫葡萄	zg;vx pl;cf ti;cf	1
+嘴不黑	zv;ky bh;ab hi;lh	1
+嘴说腿	zv;ky us;yx tv;og	1
+白白的鹅	bd;po bd;po dr;bu ee;wn	1
+不剥桔子	bh;ab bp;ed jm;mk zj;la	1
+不吃桔子	bh;ab ij;kv jm;mk zj;la	1
+不是字纸	bl;ab ut;oz zt;bz vg;su	1
+鹅要过河	ee;wn yv;xn gp;zc he;dk	1
+肥肥的鹅	fr;ob fr;ob dr;bu ee;wn	1
+粉红凤凰	fo;mf hj;sg ff;jy hb;jw	1
+河要渡鹅	he;dk yv;xn dh;dy ee;wn	1
+红粉凤凰	hj;sg fo;mf ff;jy hb;jw	1
+蒋家的墙	ju;cc jd;bu dr;bu qi;tk	1
+宽宽的河	kd;bj kd;bj dr;bu he;dk	1
+啪啪砰砰	pl;kb pl;kb pc;up pc;up	1
+砰砰啪啪	pc;up pc;up pl;kb pl;kb	1
+同种冬瓜	tj;kk vn;hv dk;wd gs;in,vd	1
+勿理物理	wh;bp lg;wl wh;nw lg;wl	1
+惜乎锡壶	xj;xo ha;pl xj;jw hl;ty	1
+小直摇头	xl;lb vb;uq yi;ff ta;dd	1
+安心唱爱歌	an;bn xh;dd id;ko ao;vy gr;kq	1
+昂首吸飞蛾	aw;oe uz;bz xj;kj fi;vd ee;iw	1
+遨游真快活	ai;zw ya;dz ve;ub kf;xg hl;du	1
+拔腿就逃掉	bu;fy tv;og jo;wy ti;zv dl;fu	1
+白鹅与灰鹅	bd;po ee;wn ys;va ht;uh ee;wn	1
+白石搭石塔	bd;po ub;ak dl;fk ub;ak tm;tk	1
+白塔白石搭	bd;po tm;tk bd;po ub;ak dl;fk	1
+白塔白又滑	bd;po tm;tk bd;po yr;vn ht;do	1
+本是虎捉虎	bo;ma ut;oz hm;hj vs;fz hm;hj	1
+不会吹喇叭	bl;ab hf;ry it;kq lm;kd bl;kb	1
+不会折喇叭	bl;ab hf;ry ve;fj lm;kd bl;kb	1
+不能再挨饿	bh;ab nf;sb zo;ar ad;fu ei;uw	1
+不要扔了梨	bl;ab yv;xn rc;fn lr;al lb;hm	1
+草窝暗又矮	cx;cu wp;bn aa;oo yr;vn au;un	1
+唱得渴又饿	id;ko de;rc kl;dr yr;vn ei;uw	1
+锄头怨猪头	il;jl tx;dd yc;xx va;qo ta;dd	1
+锄头撞石头	il;jl tx;dd ve;fl ub;ak tx;dd	1
+窗上一支枪	iw;bw ud;ba yt;aa vj;uy qy;mv	1
+窗下一箩糠	iw;bw xx;ab yj;aa ll;vx ku;ml	1
+窗要糠让枪	iw;bw yv;xn ku;ml rd;yu qy;mv	1
+吹着小喇叭	it;kq vr;yo xl;lb lm;kd bl;kb	1
+搭好白石塔	dl;fk hx;nz bd;po ub;ak tm;tk	1
+带着腊梅花	do;cj vr;yo li;oo mr;mm hs;cb	1
+地上满山灯	dt;ty ud;ba mo;dl un;kl dc;hd	1
+地上七块冰	dt;ty ud;ba qj;av kf;tg be;du	1
+地上一只猫	dt;ty ud;ba yt;aa vj;kb mq;qt	1
+地上有只猫	dt;ty ud;ba yz;uo vg;kb mq;qt	1
+地下有石头	dt;ty xx;ab yz;uo ub;ak tx;dd	1
+弟子三十三	dt;bd zg;la sn;ae ub;al sn;ae	1
+雕吓走了猫	dm;kv xx;kx zz;tz lr;al mq;qt	1
+多多让哥哥	ds;xx ds;xx rd;yu gr;kk gr;kk	1
+哥哥让多多	gr;kk gr;kk rd;yu ds;xx ds;xx	1
+鼓上画老虎	gm;tv ud;ba hg;at lx;lb hm;hj	1
+还是布补虎	hd;zb ut;oz bh;uj bm;pb hm;hj	1
+还是狗怕猴	hd;zb ut;oz gz;qj pi;xb ha;qu	1
+还是狗咬猴	hd;zb ut;oz gz;qj yx;kf ha;qu	1
+还是河渡鹅	hd;zb ut;oz he;dk dh;dy ee;wn	1
+还是盆碰瓶	hd;zb ut;oz ps;fm pf;uy pn;bw	1
+还是热日头	hd;zb ut;oz ri;fh rt;ka tx;dd	1
+河边两只鹅	he;dk br;zl lu;ar vg;kb ee;wn	1
+河里真暖和	he;dk lg;tt ve;ub ns;oy hs;hk	1
+黑猫白鼻子	hi;lh mq;qt bd;po bb;zw zj;la	1
+互相不退让	hh;ah xy;mo bl;ab tf;zg rd;yu	1
+胡子打驼子	hl;go zj;la dm;fd tl;mb zj;la	1
+花粉花凤凰	hs;cb fo;mf hs;cb ff;jy hb;jw	1
+花鸟怕灰猫	hs;cb nl;na pi;xb ht;uh mq;qt	1
+黄贺搞木刻	hb;cb hi;lb gx;fk mh;ur ki;wd	1
+假梨差不离	jn;ry lb;hm ii;yg bh;ab lb;wn	1
+教练和主力	jl;lw la;sd he;hk vm;wt lt;vp	1
+糠赶不走枪	ku;ml go;tg bh;ab zz;tz qy;mv	1
+糠埋住了枪	ku;ml md;tl vh;rv lr;al qy;mv	1
+糠要枪上墙	ku;ml yv;xn qy;mv ud;ba qi;tk	1
+吭哧吭哧走	kc;kj ij;ki kc;kj ij;ki zz;tz	1
+口渴要吃梨	kz;la kl;dr yv;xn ij;kv lb;hm	1
+来到山坡坡	ld;am dv;gd un;kl pp;tp pp;tp	1
+老刘夸小牛	lx;lb lm;wd ks;dk xl;lb nm;pu	1
+李虎满屋转	lg;mz hm;hj mo;dl wa;ut vs;iv	1
+梨子掉下地	lb;hm zg;la dl;fu xx;ab dt;ty	1
+猫赶飞了雕	mq;qt go;tg fi;vd lr;al dm;kv	1
+面铺门朝南	ma;ao ph;jf ms;dv ii;uo nk;ug	1
+哦哦爱唱歌	oe;kw oe;kw ao;vy id;ko gr;kq	1
+盆里有个瓶	ps;fm lg;tt yz;uo gi;rl pn;bw	1
+瓶口有塞头	pn;bw kz;la yz;uo sb;bt ta;dd	1
+婆婆和嬷嬷	pe;dn pe;dn he;hk me;nm me;nm	1
+枪落进了糠	qy;mv lp;ck jv;zj lr;al ku;ml	1
+墙上七枚钉	qi;tk ud;ba qj;av mr;mw de;jd	1
+墙要枪上窗	qi;tk yv;xn qy;mv ud;ba iw;bw	1
+撒了羊骨头	sl;fw lr;al yw;bf gm;go tx;dd	1
+山里有个寺	un;kl lg;tt yz;uo gi;rl st;tc	1
+山外有个市	un;kl wo;xb yz;uo gi;rl ut;wj	1
+伸手拿骨头	ue;ru uz;pf nu;ru gm;go tx;dd	1
+师傅四十四	uj;lj fh;rc st;ke ub;al st;ke	1
+十四和四十	ub;al st;ke he;hk st;ke ub;al	1
+十四是十四	ub;al st;ke ut;oz ub;al st;ke	1
+石头砸猪头	ub;ak tx;dd zu;uj va;qo ta;dd	1
+树上七只莺	uh;mc ud;ba qj;av vg;kb ye;cn	1
+树下蹲条狗	uh;mc xx;ab dg;zc tu;wm gz;qj	1
+都说要小个	dx;le us;yx yv;xn xl;lb gi;rl	1
+四十和十四	st;ke ub;al he;hk ub;al st;ke	1
+四十是四十	st;ke ub;al ut;oz st;ke ub;al	1
+台上七盏灯	td;sk ud;ba qj;av vo;jm dc;hd	1
+天上七颗星	tr;ad ud;ba qj;av kr;gy xe;ou	1
+驼子打胡子	tl;mb zj;la dm;fd hl;go zj;la	1
+驼子挑螺蛳	tl;mb zj;la tm;fv ll;ix sj;ij	1
+外婆乐呵呵	wo;xb pe;dn li;px hr;kk hr;kk	1
+王克写诗歌	ww;at ki;ux,ge xc;by uj;yc gr;kq	1
+雾里看物理	wh;yl lg;tt ka;uo wh;nw lg;wl	1
+锡壶掉西湖	xj;jw hl;ty dl;fu xj;ak,wk hl;do	1
+下了一天雨	xx;ab lr;al yt;aa tr;ad ys;ad	1
+小鸟唱枝头	xl;lb nl;na id;ko vj;mv ta;dd	1
+小猪扭头瞅	xl;lb va;qo nz;fi ta;dd iz;oh	1
+小猪怨锄头	xl;lb va;qo yc;xx il;jl tx;dd	1
+只需洗掉泥	vg;kb xh;ye xg;de dl;fu nb;db	1
+一盘生鱼翅	yt;aa pk;vm uc;pf ym;da it;vx	1
+一盘熟鱼翅	yt;aa pk;vm ul;wh ym;da it;vx	1
+一天天下雨	yt;aa tr;ad tr;ad xx;ab ys;ad	1
+有吃又有喝	yz;uo ij;kv yr;vn yz;uo hr;kr	1
+沾了一身泥	vn;dv lr;al yt;aa ue;zc nb;db	1
+只得去过河	vg;kb dr;rc qf;ts gp;zc he;dk	1
+嘴里有舌头	zv;ky lg;tt yz;uo ue;qk tx;dd	1
+坐下分果果	zp;tr xx;ab fe;bd gl;tm gl;tm	1
+绊倒了秃丫头	ba;sb dx;rd lr;al ta;hj yl;bl tx;dd	1
+板凳比扁担宽	bo;my df;bj bg;bb bp;hc da;fd kd;bj	1
+扁担比板凳长	bp;hc da;fd bg;bb bo;my df;bj iw;pn	1
+别喇叭的哑巴	bs;kd lm;kd bl;kb dr;bu ym;ky bl;sl	1
+不知是鹅过河	bh;ab vj;uk ut;oz ee;wn gp;zc he;dk	1
+不知是猴咬狗	bh;ab vj;uk ut;oz ha;qu yx;kf gz;qj	1
+不知是瓶碰盆	bh;ab vj;uk ut;oz pn;bw pf;uy ps;fm	1
+蚕常在叶里藏	ck;ti iw;xj zo;ut yi;ku lg;tt cw;ci	1
+蝉常在林里唱	ik;iu iw;xj zo;ut lc;mm lg;tt id;ko	1
+吃桔子吃桔子	ij;kv jm;mk zj;la ij;kv jm;mk zj;la	1
+到底是布补鼓	dv;gd dg;gu ut;oz bh;uj bm;pb gm;tv	1
+地上有只白猫	dt;ty ud;ba yz;uo vg;kb bd;po mq;qt	1
+地下的硬石头	dt;ty xx;ab dr;bu yw;ug ub;ak tx;dd	1
+地下有块石头	dt;ty xx;ab yz;uo kf;tg ub;ak tx;dd	1
+二班有个王克	eh;aa bn;wl yz;uo gi;rl ww;at ki;ux,ge	1
+房子里有箱子	fw;hf zj;la lg;tt yz;uo xy;vo zj;la	1
+光动腿不动嘴	gw;xe dy;yl tv;og bl;ab dy;yl zv;ky	1
+光动嘴不动腿	gw;xe dy;yl zv;ky bl;ab dy;yl tv;og	1
+盒子里有镯子	he;rm zj;la lg;tt yz;uo vl;ji zj;la	1
+盒子外有匣子	he;rm zj;la wo;xb yz;uo xc;kj zj;la	1
+黑猫的白鼻子	hi;lh mq;qt dr;bu bd;po bb;zw zj;la	1
+红红想要红花	hj;sg hj;sg xu;mx yv;xn hj;sg hs;cb	1
+华华想要黄花	ht;ru ht;ru xu;mx yv;xn hb;cb hs;cb	1
+花鸟瞧灰猫跳	hs;cb nl;na qu;oh ht;uh mq;qt tl;zv	1
+回家去见妈妈	hw;kk jd;bu qf;ts ja;ke ml;nm ml;nm	1
+灰猫听花鸟叫	ht;uh mq;qt te;kj hs;cb nl;na jl;kj	1
+究竟是猴怕狗	jz;bj jw;le ut;oz ha;qu pi;xb gz;qj	1
+拉拉会折喇叭	ll;fl ll;fl hf;ry ve;fj lm;kd bl;kb	1
+妈妈用布来补	ml;nm ml;nm yy;kf,ol bh;uj ld;am bm;pb	1
+牛牛要顶妞妞	nm;pu nm;pu yv;xn dw;dy nz;ni nz;ni	1
+史肖石年四十	ug;kn xl;xo ub;ak nv;pf st;ke ub;al	1
+石小四年十四	ub;ak xl;lb st;ke nv;pf ub;al st;ke	1
+手上的手指头	uz;pf ud;ba dr;bu uz;pf vg;fo tx;dd	1
+四和十四和十	st;ke he;hk ub;al st;ke he;hk ub;al	1
+天上有个日头	tr;ad ud;ba yz;uo gi;rl rt;ka tx;dd	1
+腿说嘴爱卖嘴	tv;og us;yx zv;ky ao;vy mo;ud zv;ky	1
+匣子里有盒子	xc;kj zj;la lg;tt yz;uo he;rm zj;la	1
+匣子外有箱子	xc;kj zj;la wo;xb yz;uo xy;vo zj;la	1
+箱子里有匣子	xy;vo zj;la lg;tt yz;uo xc;kj zj;la	1
+箱子外有房子	xy;vo zj;la wo;xb yz;uo fw;hf zj;la	1
+丫丫会吹喇叭	yl;bl yl;bl hf;ry it;kq lm;kd bl;kb	1
+一班有个黄贺	yt;aa bn;wl yz;uo gi;rl hb;cb hi;lb	1
+镯子外有盒子	vl;ji zj;la wo;xb yz;uo he;rm zj;la	1
+嘴里的软舌头	zv;ky lg;tt dr;bu rs;iq ue;qk tx;dd	1
+嘴里有个舌头	zv;ky lg;tt yz;uo gi;rl ue;qk tx;dd	1
+嘴说腿爱跑腿	zv;ky us;yx tv;og ao;vy px;zb tv;og	1
+八百标兵奔北坡	bl;pn bu;ab bm;mu be;qb be;dc bj;lb pp;tp	1
+八朵粉红大荷花	bl;pn dl;jm fo;mf hj;sg di;ar he;ck hs;cb	1
+板凳没有扁担长	bo;my df;bj mr;du yz;uo bp;hc da;fd iw;pn	1
+搬来白石搭白塔	bn;fu ld;am bd;po ub;ak dl;fk bd;po tm;tk	1
+北坡炮兵并排跑	bj;lb pp;tp pv;hb be;qb bw;bk pd;ff px;zb	1
+彼此匆匆跑回头	bg;rp cg;vb ck;bd ck;bd px;zb hw;kk ta;dd	1
+壁虎不敢咬李虎	bt;ut hm;hj bl;ab go;ew yx;kf lg;mz hm;hj	1
+扁担没有板凳宽	bp;hc da;fd mr;du yz;uo bo;my df;bj kd;bj	1
+标兵怕碰炮兵炮	bm;mu be;qb pi;xb pf;uy pv;hb be;qb pv;hb	1
+不如不长腿和嘴	bh;ab rl;nk bh;ab iw;pn tv;og he;hk zv;ky	1
+不是鸡卵品种乱	bl;ab ut;oz jj;yn ls;pd px;kk vn;hv lc;uv	1
+吃完柿子玩石子	ij;kv wk;by ut;mj zj;la wk;wy ub;ak zg;la	1
+从北边来个哑吧	cj;rr bj;lb br;zl ld;am gi;rl ym;ky bl;kb	1
+大渠水流进小渠	di;ar qm;dm uv;ln lm;di jv;zj xl;lb qm;dm	1
+到了家里吃柿子	dv;gd lr;al jd;bu lg;tt ij;kv ut;mj zj;la	1
+地下有块破砖头	dt;ty xx;ab yz;uo kf;tg pg;up vd;uv ta;dd	1
+二人山前来比腿	eh;aa rs;pn un;kl qv;bd ld;am bg;bb tv;og	1
+二人山前来比眼	eh;aa rs;pn un;kl qv;bd ld;am bg;bb yo;og	1
+而是鸡卵皮太软	ek;al ut;oz jj;yn ls;pd pb;py to;dd rs;iq	1
+反正都是练舌头	fo;iy vf;av dx;le ut;oz la;sd ue;qk tx;dd	1
+粉红墙上画凤凰	fo;mf hj;sg qi;tk ud;ba hg;at ff;jy hb;jw	1
+风吹藤动铜铃动	fc;jx it;kq tf;cu dy;yl tj;jk ln;js dy;yl	1
+凤凰画在粉红墙	ff;jy hb;jw hg;at zo;ut fo;mf hj;sg qi;tk	1
+风停藤停铜铃停	fc;jx tn;rd tf;cu tn;rd tj;jk ln;js tn;rd	1
+刚往窗上糊字纸	gu;kd wp;rv iw;bw ud;ba hl;mo zt;bz vg;su	1
+狗翻起来咬住猴	gz;qj fn;cx qg;tj ld;am yx;kf vh;rv ha;qu	1
+狗回头来望望猴	gz;qj hw;kk ta;dd ld;am wd;ww wd;ww ha;qu	1
+挂上蓝布棉门帘	gg;ft ud;ba lk;cm bh;uj mv;mj ms;dv lv;bj	1
+红红有两朵黄花	hj;sg hj;sg yz;uo lu;ar dl;jm hb;cb hs;cb	1
+猴回头来望望狗	ha;qu hw;kk ta;dd ld;am wd;ww wd;ww gz;qj	1
+猴跳下来撞了狗	ha;qu tl;zv xx;ab ld;am ve;fl lr;al gz;qj	1
+湖州有个胡梳子	hl;do vx;dl yz;uo gi;rl hl;go ua;mi zj;la	1
+花了硬币四毛四	hs;cb lr;al yw;ug bt;pj st;ke mi;pv st;ke	1
+黄贺完成了木刻	hb;cb hi;lb wk;by if;wv lr;al mh;ur ki;wd	1
+回家吃饭路又远	hw;kk jd;bu ij;kv fa;uy lh;zk yr;vn ys;zy	1
+灰猫跳起抓花鸟	ht;uh mq;qt tl;zv qg;tj vs;fv hs;cb nl;na	1
+回头看见鹰抓兔	hw;kk ta;dd ka;uo ja;ke ye;gn vs;fv th;dd	1
+蒋家要杨家赔墙	ju;cc jd;bu yv;xn yw;mp jd;bu pr;bk qi;tk	1
+经常练说十和四	je;sj iw;xj la;sd us;yx ub;al he;hk st;ke	1
+拉拉只会折喇叭	ll;fl ll;fl vg;kb hf;ry ve;fj lm;kd bl;kb	1
+蓝教练是女教练	lk;cm jl;lw la;sd ut;oz ns;va jl;lw la;sd	1
+蓝南是男篮主力	lk;cm nk;ug ut;oz nk;tl lk;vm vm;wt lt;vp	1
+老李拉了一车栗	lx;lb lg;mz ll;fl lr;al yt;aa ir;au lt;xm	1
+老李拉栗去换梨	lx;lb lg;mz ll;fl lt;xm qf;ts hc;fr lb;hm	1
+老李人称李大力	lx;lb lg;mz rs;pn ic;hx lg;mz di;ar lt;vp	1
+老罗拉了一车梨	lx;lb ll;sx ll;fl lr;al yt;aa ir;au lb;hm	1
+老罗拉梨做梨酒	lx;lb ll;sx ll;fl lb;hm zp;rw lb;hm jz;dy	1
+老罗人称大力罗	lx;lb ll;sx rs;pn ic;hx di;ar lt;vp ll;sx	1
+里头有堆羊骨头	lg;tt tx;dd yz;uo dt;tv yw;bf gm;go tx;dd	1
+两个乐得笑哈哈	lu;ar gi;rl li;px dr;rc xl;vy hl;kk hl;kk	1
+龙洞困龙在深洞	lj;yp dy;dk kr;km lj;yp zo;ut ue;dm dy;dk	1
+龙去农田做农工	lj;yp qf;ts nj;by tv;ku zp;rw nj;by gk;aa	1
+吕教练是男教练	ls;kk jl;lw la;sd ut;oz nk;tl jl;lw la;sd	1
+吕楠是女篮主力	ls;kk nk;mg ut;oz ns;va lk;vm vm;wt lt;vp	1
+妈妈见了笑哈哈	ml;nm ml;nm ja;ke lr;al xl;vy hl;kk hl;kk	1
+买了十个小柿子	mu;ad lr;al ub;al gi;rl xl;lb ut;mj zj;la	1
+卖卵卖卵使劲喊	mo;ud ls;pd mo;ud ls;pd ug;rl jv;jl ho;kk	1
+满山灯接满天星	mo;dl un;kl dc;hd jk;fn mo;dl tr;ad xe;ou	1
+满天星亮满天庭	mo;dl tr;ad xe;ou le;wj mo;dl tr;ad tn;gw	1
+面铺还是门朝南	ma;ao ph;jf hd;zb ut;oz ms;dv ii;uo nk;ug	1
+莫把四字说成十	mg;cd bm;fb st;ke zt;bz us;yx if;wv ub;al	1
+嬷嬷默默拔萝卜	me;nm me;nm mg;lq mg;lq bu;fy ll;cx bp;ld	1
+拿着四个小篮子	nu;ru vr;yo st;ke gi;rl xl;lb lk;vm zj;la	1
+泥里两对鸟倒吊	nb;db lg;tt lu;ar df;yc nl;na dv;rd dl;kj	1
+妞妞赶牛牛不走	nz;ni nz;ni go;tg nm;pu nm;pu bh;ab zz;tz	1
+妞妞护柳牛扭头	nz;ni nz;ni hh;fh lz;me nm;pu nz;fi ta;dd	1
+妞妞护柳要赶牛	nz;ni nz;ni hh;fh lz;me yv;xn go;tg nm;pu	1
+妞妞捡起小石头	nz;ni nz;ni jp;fq qg;tj xl;lb ub;ak ta;dd	1
+妞妞扭牛牛更拗	nz;ni nz;ni nz;fi nm;pu nm;pu gf;an ax;fl	1
+妞妞扭牛牛更牛	nz;ni nz;ni nz;fi nm;pu nm;pu gf;an nm;pu	1
+牛牛扭头瞅妞妞	nm;pu nm;pu nz;fi ta;dd iz;oh nz;ni nz;ni	1
+牛牛要吃河边柳	nm;pu nm;pu yv;xn ij;kv he;dk br;zl lz;me	1
+牛牛要顶小妞妞	nm;pu nm;pu yv;xn dw;dy xl;lb nz;ni nz;ni	1
+趴着八只活蛤蟆	pl;zb vr;yo bl;pn vg;kb hl;du hu;ik mu;id	1
+趴着一只活蛤蟆	pl;zb vr;yo yt;aa vj;kb hl;du hu;ik mu;id	1
+炮兵怕把标兵碰	pv;hb be;qb pi;xb bm;fb bm;mu be;qb pf;uy	1
+婆婆默默采蘑菇	pe;dn pe;dn mg;lq mg;lq cu;vm me;cu ga;cg	1
+坡上立着一只鹅	pp;tp ud;ba lt;wb vr;yo yt;aa vj;kb ee;wn	1
+坡上卧着一只鹅	pp;tp ud;ba wg;ib vr;yo yt;aa vj;kb ee;wn	1
+坡下就是一条河	pp;tp xx;ab jo;wy ut;oz yt;aa tu;wm he;dk	1
+坡下流着一条河	pp;tp xx;ab lm;di vr;yo yt;aa tu;wm he;dk	1
+桥西走来一只猴	qu;ml xj;ak,wk zz;tz ld;am yt;aa vj;kb ha;qu	1
+青龙洞中涌出龙	qe;fo lj;yp dy;dk vk;kl yn;dy ia;uu lj;yp	1
+青龙做梦出龙洞	qe;fo lj;yp zp;rw mf;mx ia;uu lj;yp dy;dk	1
+山后有个崔腿粗	un;kl hr;ik yz;uo gi;rl ct;uv tv;og ca;mq	1
+山后有个严眼圆	un;kl hr;ik yz;uo gi;rl yk;ai yo;og yo;kb	1
+山前有个崔粗腿	un;kl qv;bd yz;uo gi;rl ct;uv ca;mq tv;og	1
+山前有个严圆眼	un;kl qv;bd yz;uo gi;rl yk;ai yo;kb yo;og	1
+上街打醋又买布	ud;ba jk;rt dm;fd ch;yo yr;vn mu;ad bh;uj	1
+上前去追鹰和兔	ud;ba qv;bd qf;ts vt;zl ye;gn he;hk th;dd	1
+拾了四十小石子	ub;fk lr;al st;ke ub;al xl;lb ub;ak zj;la	1
+石小四和史肖石	ub;ak xl;lb st;ke he;hk ug;kn xl;xo ub;ak	1
+树上结了白果果	uh;mc ud;ba js;sk lr;al bd;po gl;tm gl;tm	1
+谁都不来买鸡卵	uw;yv dx;le bh;ab ld;am mu;ad jj;yn ls;pd	1
+谁说十四是适时	uw;yv us;yx ub;al st;ke ut;oz ut;zu ub;oc	1
+谁说四十是细席	uw;yv us;yx st;ke ub;al ut;oz xt;st xb;gj	1
+四个孩子出果市	st;ke gi;rl hd;zr zj;la ia;uu gl;tm ut;wj	1
+送在口里啃骨头	sy;zt zo;ut kz;la lg;tt ko;ko gm;go tx;dd	1
+他的舌头没伸直	tl;ry dr;bu ue;qk tx;dd mr;du ue;ru vb;uq	1
+他的舌头没用力	tl;ry dr;bu ue;qk tx;dd mr;du yy;kf,ol lt;vp	1
+藤条头上挂铜铃	tf;cu tu;wm ta;dd ud;ba gg;ft tj;jk ln;js	1
+踢倒老刘一瓶油	tj;zw dv;rd lx;lb lm;wd yt;aa pn;bw ya;dy	1
+提个篮子卖鸡卵	tb;fz gi;rl lk;vm zj;la mo;ud jj;yn ls;pd	1
+提拉塔嘛的喇嘛	tb;fz ll;fl tm;tk ml;km dr;bu lm;kd ml;km	1
+提拉着五斤塔嘛	tb;fz ll;fl vr;yo wm;aw jh;il,iT tm;tk ml;km	1
+王克二人搞创作	ww;at ki;ux,ge eh;aa rs;pn gx;fk ie;rd zp;rv	1
+王克写好了诗歌	ww;at ki;ux,ge xc;by hx;nz lr;al uj;yc gr;kq	1
+吓得牛牛扭头溜	xx;kx de;rc nm;pu nm;pu nz;fi ta;dd lz;dt	1
+吓得牛牛扭头走	xx;kx de;rc nm;pu nm;pu nz;fi ta;dd zz;tz	1
+先画一朵腊梅花	xr;ne hg;at yt;aa dl;jm li;oo mr;mm hs;cb	1
+小葛画了朵黄花	xl;lb ge;cr hg;at lr;al dl;jm hb;cb hs;cb	1
+小郭画了朵红花	xl;lb gs;we hg;at lr;al dl;jm hj;sg hs;cb	1
+小丽用泥学捏梨	xl;lb lt;ad yy;kf,ol nb;db xi;xz nk;ft lb;hm	1
+小牛回家取来油	xl;lb nm;pu hw;kk jd;bu qs;ey ld;am ya;dy	1
+小渠水流进大渠	xl;lb qm;dm uv;ln lm;di jv;zj di;ar qm;dm	1
+小猪小猪扛锄头	xl;lb va;qo xl;lb va;qo kw;fg il;jl tx;dd	1
+行到桥心碰了头	xn;rd dv;gd qu;ml xh;dd pf;uy lr;al ta;dd	1
+休将十字说成四	xz;rm jy;lc ub;al zt;bz us;yx if;wv st;ke	1
+压死了杨家的羊	yl;id sg;db lr;al yw;mp jd;bu dr;bu yw;bf	1
+丫丫只会吹喇叭	yl;bl yl;bl vg;kb hf;ry it;kq lm;kd bl;kb	1
+眼看着梨手捏泥	yo;og ka;uo vr;yo lb;hm uz;pf nk;ft nb;db	1
+杨家养了一只羊	yw;mp jd;bu yp;yl lr;al yt;aa vj;kb yw;bf	1
+杨家要蒋家赔羊	yw;mp jd;bu yv;xn ju;cc jd;bu pr;bk yw;bf	1
+要吃清蒸美鱼翅	yv;xn ij;kv qe;do vc;ch mj;yd ym;da it;vx	1
+腰里别着个喇叭	yq;on lg;tt bs;kd vr;yo gi;rl lm;kd bl;kb	1
+一次撕下横字纸	yb;aa ct;dq sj;fj xx;ab hf;mb zt;bz vg;su	1
+一次撕下竖字纸	yb;aa ct;dq sj;fj xx;ab uh;ll zt;bz vg;su	1
+一口鱼翅刚到嘴	yt;aa kz;la ym;da it;vx gu;kd dv;gd zv;ky	1
+一同来到阅览室	yt;aa tj;kk ld;am dv;gd yd;mx lo;lj ut;bt	1
+一位爷爷他姓顾	yb;aa wf;rl ye;fe yr;fe tl;ry xw;nu gh;iy	1
+有个懒汉本姓阮	yz;uo gi;rl lo;xb ha;dy bo;ma xw;nu rs;ey	1
+有个面铺门朝南	yz;uo gi;rl ma;ao ph;jf ms;dv ii;uo nk;ug	1
+又画一个小喇叭	yr;vn hg;at yb;aa gi;rl xl;lb lm;kd bl;kb	1
+由于二人搞协作	ya;ol,lt ym;au eh;aa rs;pn gx;fk xs;ub zp;rv	1
+鱼刺刺进齿缝里	ym;da ct;ud ct;ud jv;zj ig;vr ff;sf lg;tt	1
+愚公捅开青龙洞	ym;tx gk;bs tn;fy kb;ac qe;fo lj;yp dy;dk	1
+摘了蓝布棉门帘	vb;fg lr;al lk;cm bh;uj mv;mj ms;dv lv;bj	1
+撞塌了蒋家的墙	ve;fl tl;tx lr;al ju;cc jd;bu dr;bu qi;tk	1
+桌上放块橡皮泥	vs;bm ud;ba fd;fw kf;tg xe;mu pb;py nb;db	1
+自从来了新愚公	zt;po cj;rr ld;am lr;al xh;lj ym;tx gk;bs	1
+做了千年万载梦	zp;rw lr;al qr;pu nv;pf wa;av zu;gi mf;mx	1
+白猫的黑鼻子破了	bd;po mq;qt dr;bu hi;lh bb;zw zj;la pg;up lr;al	1
+白猫山上有座白庙	bd;po mq;qt un;kl ud;ba yz;uo zp;gr bd;po ml;gy	1
+白石塔白石白又滑	bd;po ub;ak tm;tk bd;po ub;ak bd;po yr;vn ht;do	1
+扁担和板凳板凳宽	bp;hc da;fd he;hk bo;my df;bj bo;my df;bj kd;bj	1
+扁担要绑在板凳上	bp;hc da;fd yv;xn bp;se zo;ut bo;my df;bj ud;ba	1
+吃葡萄不吐葡萄皮	ij;kv pl;cf ti;cf bh;ab tm;kt pl;cf ti;cf pb;py	1
+从南边来了个喇嘛	cj;rr nk;ug br;zl ld;am lr;al gi;rl lm;kd ml;km	1
+雕与猫树上有只雕	dm;kv ys;va mq;qt uh;mc ud;ba yz;uo vg;kb dm;kv	1
+董家都懂得种冬瓜	dn;cv jd;bu dx;le dn;xv dr;rc vn;hv dk;wd gs;in,vd	1
+分不清是灯还是星	fe;bd bh;ab qe;do ut;oz dc;hd hd;zb ut;oz xe;ou	1
+分果果多多和哥哥	fe;bd gl;tm gl;tm ds;xx ds;xx he;hk gr;kk gr;kk	1
+公园有四排石狮子	gk;bs yo;ky yz;uo st;ke pd;ff ub;ak uj;qj zj;la	1
+狗与猴树上卧只猴	gz;qj ys;va ha;qu uh;mc ud;ba wg;ib vg;kb ha;qu	1
+还是不让小牛不油	hd;zb ut;oz bl;ab rd;yu xl;lb nm;pu bh;ab ya;dy	1
+黑猫的白鼻子不破	hi;lh mq;qt dr;bu bd;po bb;zw zj;la bl;ab pg;up	1
+灰猫追花鸟灰猫跳	ht;uh mq;qt vt;zl hs;cb nl;na ht;uh mq;qt tl;zv	1
+桔皮丢在垃圾箱里	jm;mk pb;py dz;pq zo;ut ll;tl jj;tj xy;vo lg;tt	1
+拉拉教丫丫折喇叭	ll;fl ll;fl jl;lw yl;bl yl;bl ve;fj lm;kd bl;kb	1
+来到董家学种冬瓜	ld;am dv;gd dn;cv jd;bu xi;xz vn;hv dk;wd gs;in,vd	1
+蓝教练不是男教练	lk;cm jl;lw la;sd bl;ab ut;oz nk;tl jl;lw la;sd	1
+老刘不要小牛还油	lx;lb lm;wd bl;ab yv;xn xl;lb nm;pu hd;zb ya;dy	1
+梨和犁耕地要用犁	lb;hm he;hk lb;hn gc;lj dt;ty yv;xn yy;kf,ol lb;hn	1
+李虎也捉不住壁虎	lg;mz hm;hj yl;vv vs;fz bl;ab vh;rv bt;ut hm;hj	1
+吕教练不是女教练	ls;kk jl;lw la;sd bl;ab ut;oz ns;va jl;lw la;sd	1
+卖不出鸡卵难买饭	mo;ud bh;ab ia;uu jj;yn ls;pd nk;yv mu;ad fa;uy	1
+猫鼻子白猫黑鼻子	mq;qt bb;zw zj;la bd;po mq;qt hi;lh bb;zw zj;la	1
+门东董家懂种冬瓜	ms;dv dk;ax dn;cv jd;bu dn;xv vn;hv dk;wd gs;in,vd	1
+鸟和猫树上一只鸟	nl;na he;hk mq;qt uh;mc ud;ba yt;aa vj;kb nl;na	1
+盆和瓶桌上放个盆	ps;fm he;hk pn;bw vs;bm ud;ba fd;fw gi;rl ps;fm	1
+碰破了白猫黑鼻子	pf;uy pg;up lr;al bd;po mq;qt hi;lh bb;zw zj;la	1
+枪和糠墙上一个窗	qy;mv he;hk ku;ml qi;tk ud;ba yb;aa gi;rl iw;bw	1
+枪也上不了窗和墙	qy;mv yl;vv ud;ba bh;ab ll;al iw;bw he;hk qi;tk	1
+青葡萄没籽葡萄紫	qe;fo pl;cf ti;cf mr;du zg;mz pl;cf ti;cf zg;vx	1
+三娘找到三只山羊	sn;ae ni;nl vx;fg dv;gd sn;ae vg;kb un;kl yw;bf	1
+三只山羊翻过山梁	sn;ae vg;kb un;kl yw;bf fn;cx gp;zc un;kl li;dm	1
+是字纸你就撕字纸	ut;oz zt;bz vg;su ng;rx jo;wy sj;fj zt;bz vg;su	1
+手上有五个手指头	uz;pf ud;ba yz;uo wm;aw gi;rl uz;pf vg;fo tx;dd	1
+四个头天上有日头	st;ke gi;rl ta;dd tr;ad ud;ba yz;uo rt;ka tx;dd	1
+向老刘道歉又赔油	xe;pk lx;lb lm;wd dv;zz qa;jq yr;vn pr;bk ya;dy	1
+小花鼓一面小花鼓	xl;lb hs;cb gm;tv yt;aa ma;ao xl;lb hs;cb gm;tv	1
+丫丫教拉拉吹喇叭	yl;bl yl;bl jl;lw ll;fl ll;fl it;kq lm;kd bl;kb	1
+羊蒋家砌了一垛墙	yw;bf ju;cc jd;bu qt;ud lr;al yj;aa dl;tm qi;tk	1
+捉壁虎李虎捉壁虎	vs;fz bt;ut hm;hj lg;mz hm;hj vs;fz bt;ut hm;hj	1
+白家门前一棵白果树	bd;po jd;bu ms;dv qv;bd yt;aa kr;mg bd;po gl;tm uh;mc	1
+剥了秕谷壳儿补鼻子	bp;ed lr;al bg;hb gm;bk ke;tj er;pv bm;pb bb;zw zj;la	1
+扁担绑在那个板凳上	bp;hc da;fd bp;se zo;ut ni;ve gi;rl bo;my df;bj ud;ba	1
+别喇叭的哑巴吹喇叭	bs;kd lm;kd bl;kb dr;bu ym;ky bl;sl it;kq lm;kd bl;kb	1
+不剥秕谷壳儿补鼻子	bh;ab bp;ed bg;hb gm;bk ke;tj er;pv bm;pb bb;zw zj;la	1
+不吃葡萄倒吐葡萄皮	bh;ab ij;kv pl;cf ti;cf dv;rd tm;kt pl;cf ti;cf pb;py	1
+不管是天上的热日头	bh;ab gs;vl ut;oz tr;ad ud;ba dr;bu ri;fh rt;ka tx;dd	1
+不知是严圆眼的眼圆	bh;ab vj;uk ut;oz yk;ai yo;kb yo;og dr;bu yo;og yo;kb	1
+打那百十百个白斑鸠	dm;fd ni;ve bu;ab ub;al bu;ab gi;rl bd;po bn;ww jz;jn	1
+地下是石头不是日头	dt;ty xx;ab ut;oz ub;ak tx;dd bl;ab ut;oz rt;ka tx;dd	1
+董两家的冬瓜比桶大	dn;cv lu;ar jd;bu dr;bu dk;wd gs;in,vd bg;bb tn;my di;ar	1
+胳膊上挎着个破笆斗	gr;ok bp;oc ud;ba kg;fk vr;yo gi;rl pg;up bl;vb dz;ud	1
+黑猪听罢笑得嘿嘿嘿	hi;lh va;qo te;kj bi;sq xl;vy de;rc hi;kh hi;kh hi;kh	1
+胡乱烧把烂草取取暖	hl;go lc;uv uq;hw bm;fb la;hl cx;cu qs;ey qs;ey ns;oy	1
+黄贺帮助王克写诗歌	hb;cb hi;lb bu;fj vh;ql ww;at ki;ux,ge xc;by uj;yc gr;kq	1
+借给六斗六升绿绿豆	jq;ro gj;sk lo;wb dr;ud lo;wb uc;pc lf;su lf;su dr;ab	1
+吭唷吭唷拔脱七枚钉	kc;kj yp;ko kc;kj yp;ko bu;fy ts;ox qj;av mr;mw de;jd	1
+来教东门童家种冬瓜	ld;am jl;lw dk;ax ms;dv tj;ll jd;bu vy;hv dk;wd gs;in,vd	1
+门上挂着蓝布棉门帘	ms;dv ud;ba gg;ft vr;yo lk;cm bh;uj mv;mj ms;dv lv;bj	1
+嬷嬷带了一个薄笸箩	me;nm me;nm do;cj lr;al yb;aa gi;rl bi;cc pi;vk ll;vx	1
+嬷嬷卖了萝卜买馍馍	me;nm me;nm mo;ud lr;al ll;cx bp;ld mu;ad me;ud me;ud	1
+你猜老刘让小牛还油	ng;rx cb;qo lx;lb lm;wd rd;yu xl;lb nm;pu hd;zb ya;dy	1
+你就隔着窗户撕字纸	ng;rx jo;wy ge;eg vr;yo iw;bw hh;du sj;fj zt;bz vg;su	1
+喔嘘喔嘘赶走七只莺	op;kt xh;ky op;kt xh;ky go;tg zz;tz qj;av vg;kb ye;cn	1
+乒乒乓乓踏坏七块冰	pe;qp pe;qp pu;qd pu;qd ti;zo hf;tb qj;av kf;tg be;du	1
+瓶中是塞头不是舌头	pn;bw vk;kl ut;oz sb;bt ta;dd bl;ab ut;oz ue;qk tx;dd	1
+婆婆采了蘑菇换饽饽	pe;dn pe;dn cu;vm lr;al me;cu ga;cg hc;fr bp;uz bp;uz	1
+婆婆拿了一个破簸箕	pe;dn pe;dn nu;ru lr;al yb;aa gi;rl pg;up bg;vp jj;vb	1
+若要分清四十和十四	rp;ck yv;xn fe;bd qe;do st;ke ub;al he;hk ub;al st;ke	1
+三只山羊躲在杉树旁	sn;ae vg;kb un;kl yw;bf dl;um zo;ut un;mp uh;mc pw;wf	1
+是做游戏还是玩玩具	ut;oz zp;rw ya;dz xt;yg hd;zb ut;oz wk;wy wk;wy jf;qb	1
+树上的鸟想啄猫的毛	uh;mc ud;ba dr;bu nl;na xu;mx vl;ku mq;qt dr;bu mi;pv	1
+送花华华有两朵红花	sy;zt hs;cb ht;ru ht;ru yz;uo lu;ar dl;jm hj;sg hs;cb	1
+疼得小池拍腿挠牙齿	tf;bd de;rc xl;lb ib;dy pb;fb tv;og ni;fw yu;gp,ac ig;vr	1
+天上是日头不是石头	tr;ad ud;ba ut;oz rt;ka tx;dd bl;ab ut;oz ub;ak tx;dd	1
+童家知道董家冬瓜大	tj;ll jd;bu vj;uk dv;zz dn;cv jd;bu dk;wd gs;in,vd di;ar	1
+驼子拖住胡子的驴子	tl;mb zj;la ts;fy vh;rv hl;go zj;la dr;bu lm;mh zg;la	1
+王克帮助黄贺搞木刻	ww;at ki;ux,ge bu;fj vh;ql hb;cb hi;lb gx;fk mh;ur ki;wd	1
+乌鸦说它身比黑猪黑	wa;pa yl;yn us;yx tl;bb ue;zc bg;bb hi;lh va;qo hi;lh	1
+小花猫小花猫爱画画	xl;lb hs;cb mq;qt xl;lb hs;cb mq;qt ao;vy hg;at hg;at	1
+小渠养小鱼不养大鱼	xl;lb qm;dm yp;yl xl;lb ym;da bh;ab yp;yl di;ar ym;da	1
+一片乌云遮掉七颗星	yb;aa pa;pv wa;pa yf;ag,es vr;zh dl;fu qj;av kr;gy xe;ou	1
+一阵风来吹来七盏灯	yb;aa vo;ei fc;jx ld;am it;kq ld;am qj;av vo;jm dc;hd	1
+嘴里是舌头不是塞头	zv;ky lg;tt ut;oz ue;qk tx;dd bl;ab ut;oz sb;bt ta;dd	1
+白果果我走白家门前过	bd;po gl;tm gl;tm wi;ga zz;tz bd;po jd;bu ms;dv qv;bd gp;zc	1
+白果树上歇了只白八哥	bd;po gl;tm uh;mc ud;ba xk;oq lr;al vg;kb bd;po bl;pn gr;kk	1
+白果树我从伯伯门前过	bd;po gl;tm uh;mc wi;ga cj;rr be;rb bp;rb ms;dv qv;bd gp;zc	1
+不把桔皮丢在垃圾箱里	bh;ab bm;fb jm;mk pb;py dz;pq zo;ut ll;tl jj;tj xy;vo lg;tt	1
+迟小池拿了一把瓷汤匙	ib;zi xl;lb ib;dy nu;ru lr;al yt;aa bm;fb cb;dw tu;dp ib;ob	1
+倒吊鸟梁上两对倒吊鸟	dv;rd dl;kj nl;na li;dm ud;ba lu;ar df;yc dv;rd dl;kj nl;na	1
+弟弟叫丽丽出来做游戏	dt;bd dj;bd jl;kj lt;ad lt;ad ia;uu ld;am zp;rw ya;dz xt;yg	1
+地上的猫想咬树上的鸟	dt;ty ud;ba dr;bu mq;qt xu;mx yx;kf uh;mc ud;ba dr;bu nl;na	1
+惦着泥里的两对鸟倒吊	da;xv vr;yo nb;db lg;tt dr;bu lu;ar df;yc nl;na dv;rd dl;kj	1
+鹅过河哥哥弟弟坡前坐	ee;wn gp;zc he;dk gr;kk gr;kk dt;bd dj;bd pp;tp qv;bd zp;tr	1
+飞蛾啄不住岸边去找窝	fi;vd ee;iw vl;ku bl;ab vh;rv aa;ug br;zl qf;ts vx;fg wp;bn	1
+河要渡鹅不知是鹅过河	he;dk yv;xn dh;dy ee;wn bh;ab vj;uk ut;oz ee;wn gp;zc he;dk	1
+红红送给华华一朵黄花	hj;sg hj;sg sy;zt gj;sk ht;ru ht;ru yt;aa dl;jm hb;cb hs;cb	1
+猴过桥桥东走来一条狗	ha;qu gp;zc qu;ml qu;ml dk;ax zz;tz ld;am yt;aa tu;wm gz;qj	1
+胡梳子买把斧子做梳子	hl;go ua;mi zj;la mu;ad bm;fb fm;fj zj;la zp;rw ua;mi zj;la	1
+胡子骑驴子胡子骑驴子	hl;go zj;la qb;mk lm;mh zg;la hl;go zj;la qb;mk lm;mh zg;la	1
+胡子去打挑螺蛳的驼子	hl;go zj;la qf;ts dm;fd tm;fv ll;ix sj;ij dr;bu tl;mb zj;la	1
+胡子撞翻了驼子的螺蛳	hl;go zj;la ve;fl fn;cx lr;al tl;mb zj;la dr;bu ll;ix sj;ij	1
+华华送给红红一朵红花	ht;ru ht;ru sy;zt gj;sk hj;sg hj;sg yt;aa dl;jm hj;sg hs;cb	1
+可怜梁上的两对倒吊鸟	kl;dk lv;xs li;dm ud;ba dr;bu lu;ar df;yc dv;rd dl;kj nl;na	1
+可怜泥里的两对鸟倒吊	kl;dk lv;xs nb;db lg;tt dr;bu lu;ar df;yc nl;na dv;rd dl;kj	1
+蓝教练在女篮训练吕楠	lk;cm jl;lw la;sd zo;ut ns;va lk;vm xr;yi la;sd ls;kk nk;mg	1
+丽丽和弟弟拿不定主意	lt;ad lt;ad he;hk dt;bd dj;bd nu;ru bl;ab dw;bz vm;wt yt;lx	1
+吕教练在男篮训练蓝南	ls;kk jl;lw la;sd zo;ut nk;tl lk;vm xr;yi la;sd lk;cm nk;ug	1
+忙递给年十四的石小四	mw;xw dt;zd gj;sk nv;pf ub;al st;ke dr;bu ub;ak xl;lb st;ke	1
+忙递给年四十的史肖石	mw;xw dt;zd gj;sk nv;pf st;ke ub;al dr;bu ug;kn xl;xo ub;ak	1
+每排是十四只大石狮子	mj;pm pd;ff ut;oz ub;al st;ke vg;kb di;ar ub;ak uj;qj zj;la	1
+嬷嬷拔了一笸箩大萝卜	me;nm me;nm bu;fy lr;al yj;aa pi;vk ll;vx di;ar ll;cx bp;ld	1
+婆婆采了半簸箕小蘑菇	pe;dn pe;dn cu;vm lr;al ba;bf bg;vp jj;vb xl;lb me;cu ga;cg	1
+青龙洞青龙洞中龙做梦	qe;fo lj;yp dy;dk qe;fo lj;yp dy;dk vk;kl lj;yp zp;rw mf;mx	1
+上果市四个孩子上果市	ud;ba gl;tm ut;wj st;ke gi;rl hd;zr zj;la ud;ba gl;tm ut;wj	1
+是灯还是星天上满天星	ut;oz dc;hd hd;zb ut;oz xe;ou tr;ad ud;ba mo;dl tr;ad xe;ou	1
+梳胡子苏州有个苏胡子	ua;mi hl;go zj;la sa;cb vx;dl yz;uo gi;rl sa;cb hl;go zj;la	1
+树上的雕啄猫身上的毛	uh;mc ud;ba dr;bu dm;kv vl;ku mq;qt ue;zc ud;ba dr;bu mi;pv	1
+苏胡子买把梳子梳胡子	sa;cb hl;go zj;la mu;ad bm;fb ua;mi zj;la ua;mi hl;go zj;la	1
+提拉塔嘛的喇嘛敦塔嘛	tb;fz ll;fl tm;tk ml;km dr;bu lm;kd ml;km dg;ww tm;tk ml;km	1
+天上七颗星天上七颗星	tr;ad ud;ba qj;av kr;gy xe;ou tr;ad ud;ba qj;av kr;gy xe;ou	1
+驼子来打骑驴子的胡子	tl;mb zj;la ld;am dm;fd qb;mk lm;mh zg;la dr;bu hl;go zj;la	1
+小牛硬要把油还给老刘	xl;lb nm;pu yw;ug yv;xn bm;fb ya;dy ho;zb gj;sk lx;lb lm;wd	1
+学捏梨盘里放着一个梨	xi;xz nk;ft lb;hm pk;vm lg;tt fd;fw vr;yo yb;aa gi;rl lb;hm	1
+白发老公公掉了一顶白帽	bd;po fi;fy lx;lb gk;bs gk;bs dl;fu lr;al yt;aa dw;dy bd;po mv;jo	1
+白猫叼着白帽跑进一白庙	bd;po mq;qt dm;kd vr;yo bd;po mv;jo px;zb jv;zj yj;aa bd;po ml;gy	1
+板凳不让扁担绑在板凳上	bo;my df;bj bl;ab rd;yu bp;hc da;fd bp;se zo;ut bo;my df;bj ud;ba	1
+大渠里有了小鱼不见大鱼	di;ar qm;dm lg;tt yz;uo lr;al xl;lb ym;da bl;ab ja;ke di;ar ym;da	1
+地上的猫想叼走树上的雕	dt;ty ud;ba dr;bu mq;qt xu;mx dm;kd zz;tz uh;mc ud;ba dr;bu dm;kv	1
+黑猪说乌鸦比黑猪还要黑	hi;lh va;qo us;yx wa;pa yl;yn bg;bb hi;lh va;qo hd;zb yv;xn hi;lh	1
+你就不要胡乱地撕一地纸	ng;rx jo;wy bl;ab yv;xn hl;go lc;uv dt;ty sj;fj yb;aa dt;ty vg;su	1
+年十四的石小四爱看诗词	nv;pf ub;al st;ke dr;bu ub;ak xl;lb st;ke ao;vy ka;uo uj;yc cb;yk	1
+年四十的史肖石爱看报纸	nv;pf st;ke ub;al dr;bu ug;kn xl;xo ub;ak ao;vy ka;uo bv;fy vg;su	1
+秃丫头从南来了个秃丫头	ta;hj yl;bl tx;dd cj;rr nk;ug ld;am lr;al gi;rl ta;hj yl;bl tx;dd	1
+我就拣了百十百块白石头	wi;ga jo;wy jp;fd lr;al bu;ab ub;al bu;ab kf;tg bd;po ub;ak ta;dd	1
+小牛赔油小牛放学去打球	xl;lb nm;pu pr;bk ya;dy xl;lb nm;pu fd;fw xi;xz qf;ts dm;fd qm;wq	1
+小渠里有了大鱼不见小鱼	xl;lb qm;dm lg;tt yz;uo lr;al di;ar ym;da bl;ab ja;ke xl;lb ym;da	1
+养鱼大渠养大鱼不养小鱼	yp;yl ym;da di;ar qm;dm yp;yl di;ar ym;da bh;ab yp;yl xl;lb ym;da	1
+也惦着梁上的两对倒吊鸟	yl;vv da;xv vr;yo li;dm ud;ba dr;bu lu;ar df;yc dv;rd dl;kj nl;na	1
+再吃掉篮子里几个软鸡卵	zo;ar ij;kv dl;fu lk;vm zj;la lg;tt jg;pv gi;rl rs;iq jj;yn ls;pd	1
+种冬瓜东门童家门东董家	vn;hv dk;wd gs;in,vd dk;ax ms;dv tj;ll jd;bu ms;dv dk;ax dn;cv jd;bu	1
+板凳不让扁担绑在那板凳上	bo;my df;bj bl;ab rd;yu bp;hc da;fd bp;se zo;ut ni;ve bo;my df;bj ud;ba	1
+还是崔腿粗比崔粗腿的腿粗	hd;zb ut;oz ct;uv tv;og ca;mq bg;bb ct;uv ca;mq tv;og dr;bu tv;og ca;mq	1
+还是严眼圆比严圆眼的眼圆	hd;zb ut;oz yk;ai yo;og yo;kb bg;bb yk;ai yo;kb yo;og dr;bu yo;og yo;kb	1
+荷花和蛤蟆一朵粉红大荷花	he;ck hs;cb he;hk hu;ik mu;id yt;aa dl;jm fo;mf hj;sg di;ar he;ck hs;cb	1
+六叔和六舅好六叔和好六舅	lo;wb ua;uy he;hk lo;wb jo;jl hx;nz lo;wb ua;uy he;hk hx;nz lo;wb jo;jl	1
+年十四的石小四见了好报纸	nv;pf ub;al st;ke dr;bu ub;ak xl;lb st;ke ja;ke lr;al hx;nz bv;fy vg;su	1
+妞妞和牛牛牛牛要吃河边柳	nz;ni nz;ni he;hk nm;pu nm;pu nm;pu nm;pu yv;xn ij;kv he;dk br;zl lz;me	1
+三娘翻过山梁去找三只山羊	sn;ae ni;nl fn;cx gp;zc un;kl li;dm qf;ts vx;fg sn;ae vg;kb un;kl yw;bf	1
+三十三的弟子在寺里练写字	sn;ae ub;al sn;ae dr;bu dt;bd zg;la zo;ut st;tc lg;tt la;sd xc;by zt;bz	1
+石狮寺前有四十四个石狮子	ub;ak uj;qj st;tc qv;bd yz;uo st;ke ub;al st;ke gi;rl ub;ak uj;qj zj;la	1
+说好四和十得靠舌头和牙齿	us;yx hx;nz st;ke he;hk ub;al dr;rc kv;nf ue;qk tx;dd he;hk yu;gp,ac ig;vr	1
+四十四的师傅到市里去办事	st;ke ub;al st;ke dr;bu uj;lj fh;rc dv;gd ut;wj lg;tt qf;ts ba;lb ut;gy	1
+白果树上站着百十百个白斑鸠	bd;po gl;tm uh;mc ud;ba va;lv vr;yo bu;ab ub;al bu;ab gi;rl bd;po bn;ww jz;jn	1
+不知是崔粗腿比崔腿粗的腿粗	bh;ab vj;uk ut;oz ct;uv ca;mq tv;og bg;bb ct;uv tv;og ca;mq dr;bu tv;og ca;mq	1
+横竖两次撕了四十四张湿字纸	hf;mb uh;ll lu;ar ct;dq sj;fj lr;al st;ke ub;al st;ke vu;gi uj;dy zt;bz vg;su	1
+看见伯爹伯妈门前种着白果树	ka;uo ja;ke be;rb dk;fx be;rb ml;nm ms;dv qv;bd vn;hv vr;yo bd;po gl;tm uh;mc	1
+丽丽和弟弟丽丽家来了小弟弟	lt;ad lt;ad he;hk dt;bd dj;bd lt;ad lt;ad jd;bu ld;am lr;al xl;lb dt;bd dt;bd	1
+那个扁担偏要绑在那个板凳上	ni;ve gi;rl bp;hc da;fd pr;rc yv;xn bp;se zo;ut ni;ve gi;rl bo;my df;bj ud;ba	1
+年四十的史肖石发现了好诗词	nv;pf st;ke ub;al dr;bu ug;kn xl;xo ub;ak fl;fy xa;wj lr;al hx;nz uj;yc cb;yk	1
+三十三的弟子用了四十四小时	sn;ae ub;al sn;ae dr;bu dt;bd zg;la yy;kf,ol lr;al st;ke ub;al st;ke xl;lb ub;oc	1
+寺前树上结了四十四个涩柿子	st;tc qv;bd uh;mc ud;ba js;sk lr;al st;ke ub;al st;ke gi;rl si;dv ut;mj zj;la	1
+四十四的师傅走了三十三里地	st;ke ub;al st;ke dr;bu uj;lj fh;rc zz;tz lr;al sn;ae ub;al sn;ae lg;tt dt;ty	1
+要拿塔嘛换别喇叭哑巴的喇叭	yv;xn nu;ru tm;tk ml;km hc;fr bs;kd lm;kd bl;kb ym;ky bl;sl dr;bu lm;kd bl;kb	1
+再还六叔六舅六斗六升绿绿豆	zo;ar hd;zb lo;wb ua;uy lo;wb jo;jl lo;wb dr;ud lo;wb uc;pc lf;su lf;su dr;ab	1
+扁担偏要板凳让扁担绑在板凳上	bp;hc da;fd pr;rc yv;xn bo;my df;bj rd;yu bp;hc da;fd bp;se zo;ut bo;my df;bj ud;ba	1
+高高山上一条藤高高山上一条藤	gq;wk gq;wk un;kl ud;ba yt;aa tu;wm tf;cu gq;wk gq;wk un;kl ud;ba yt;aa tu;wm tf;cu	1
+小葛把他的黄花换了小郭的红花	xl;lb ge;cr bm;fb tl;ry dr;bu hb;cb hs;cb hc;fr lr;al xl;lb gs;we dr;bu hj;sg hs;cb	1
+小郭想拿他的红花换小葛的黄花	xl;lb gs;we xu;mx nu;ru tl;ry dr;bu hj;sg hs;cb hc;fr xl;lb ge;cr dr;bu hb;cb hs;cb	1
+每只大石狮子背上是一只小石狮子	mj;pm vg;kb di;ar ub;ak uj;qj zj;la bf;bo ud;ba ut;oz yt;aa vj;kb xl;lb ub;ak uj;qj zj;la	1
+每只大石狮子脚边是四只小石狮子	mj;pm vg;kb di;ar ub;ak uj;qj zj;la jl;oe br;zl ut;oz st;ke vg;kb xl;lb ub;ak uj;qj zj;la	1
+拿喇叭打了提拉塔嘛的喇嘛一喇叭	nu;ru lm;kd bl;kb dm;fd lr;al tb;fz ll;fl tm;tk ml;km dr;bu lm;kd ml;km yj;aa lm;kd bl;kb	1
+三娘找山羊三娘在山上放三只山羊	sn;ae ni;nl vx;fg un;kl yw;bf sn;ae ni;nl zo;ut un;kl ud;ba fd;fw sn;ae vg;kb un;kl yw;bf	1
+史老师领四十四个学生去数石狮子	ug;kn lx;lb uj;lj lw;ry st;ke ub;al st;ke gi;rl xi;xz uc;pf qf;ts uh;mw ub;ak uj;qj zj;la	1
+用了四十四小时才写了三十三个字	yy;kf,ol lr;al st;ke ub;al st;ke xl;lb ub;oc cd;up xc;by lr;al sn;ae ub;al sn;ae gi;rl zt;bz	1
+走了三十三里地就办了四十四件事	zz;tz lr;al sn;ae ub;al sn;ae lg;tt dt;ty jo;wy ba;lb lr;al st;ke ub;al st;ke ja;rn ut;gy	1
+不愿意拿喇叭换提拉塔嘛喇嘛的塔嘛	bl;ab yc;ix yt;lx nu;ru lm;kd bl;kb hc;fr tb;fz ll;fl tm;tk ml;km lm;kd ml;km dr;bu tm;tk ml;km	1
+四十四个涩柿子倒吃四十四个石狮子	st;ke ub;al st;ke gi;rl si;dv ut;mj zj;la dv;rd ij;kv st;ke ub;al st;ke gi;rl ub;ak uj;qj zj;la	1
+四十四个石狮子不吃四十四个涩柿子	st;ke ub;al st;ke gi;rl ub;ak uj;qj zj;la bh;ab ij;kv st;ke ub;al st;ke gi;rl si;dv ut;mj zj;la	1
+乌鸦说猪黑乌鸦站在黑猪脊上说黑猪黑	wa;pa yl;yn us;yx va;qo hi;lh wa;pa yl;yn va;lv zo;ut hi;lh va;qo jb;ro ud;ba us;yx hi;lh va;qo hi;lh	1
+你说共数出多少只大石狮子和多少只小石狮子	ng;rx us;yx gy;cb um;mw ia;uu ds;xx ux;xp vg;kb di;ar ub;ak uj;qj zj;la he;hk ds;xx ux;xp vg;kb xl;lb ub;ak uj;qj zj;la	1
+提拉塔嘛的喇嘛拿塔嘛打了别喇叭的哑巴一塔嘛	tb;fz ll;fl tm;tk ml;km dr;bu lm;kd ml;km nu;ru tm;tk ml;km dm;fd lr;al bs;kd lm;kd bl;kb dr;bu ym;ky bl;sl yj;aa tm;tk ml;km	1
+也不知别喇叭的哑巴拿喇巴打坏了提拉塔嘛喇嘛的塔嘛	yl;vv bh;ab vj;uk bs;kd lm;kd bl;kb dr;bu ym;ky bl;sl nu;ru lm;kd bl;sl dm;fd hf;tb lr;al tb;fz ll;fl tm;tk ml;km lm;kd ml;km dr;bu tm;tk ml;km	1
+也不知提拉塔嘛的喇嘛拿塔嘛打坏了别喇叭哑巴的喇叭	yl;vv bh;ab vj;uk tb;fz ll;fl tm;tk ml;km dr;bu lm;kd ml;km nu;ru tm;tk ml;km dm;fd hf;tb lr;al bs;kd lm;kd bl;kb ym;ky bl;sl dr;bu lm;kd bl;kb	1

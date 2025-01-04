@@ -1,0 +1,193 @@
+# Rime dictionary
+# encoding: utf-8
+#https://github.com/amzxyz/RIME-LMDG
+#错音错字对照表
+---
+name: corrections
+version: "2025-01-01"
+sort: by_weight
+columns:
+- text
+- code
+- weight
+- comment
+...
+馄饨	hf;ub tg;ut	898
+馄饨	hg;ub dg;ut	898
+主角	vm;wt ji;dy	24115
+主角	va;wt jm;dy	24115
+角色	ji;dy si;db	20102
+角色	jm;dy sr;db	20102
+比萨	bg;bb si;ci	197
+比萨	pj;bb sl;ci	197
+比萨饼	bg;bb si;ci bw;uk	23
+比萨饼	pj;bb sl;ci bing;uk	23
+吃比萨	ij;kv bg;bb si;ci	5
+吃比萨	ij;kv pj;bb sl;ci	5
+说服	us;yx fl;oy	5642
+说服	ut;yx fa;oy	5642
+道行	dv;zz hf;rd	270
+道行	dq;zz hu;rd	270
+模样	ml;md yd;my	5185
+模样	mp;md yu;my	5185
+有模有样	yz;uo ml;md yz;uo yd;my	279
+有模有样	yx;uo mp;md yx;uo yu;my	279
+一模一样	yj;aa ml;md yj;aa yd;my	5083
+一模一样	yj;aa mp;md yj;aa yu;my	5083
+装模作样	vw;ly ml;md zp;rv yd;my	485
+装模作样	vw;ly mp;md zs;rv yu;my	485
+人模狗样	rs;pn ml;md ga;qj yd;my	146
+人模狗样	re;pn mp;md gx;qj yu;my	146
+模板	ml;md bo;my	14674
+模板	mp;md bn;my	14674
+阿弥陀佛	er;ek mb;gx tl;eb fe;rf	371
+阿弥陀佛	al;ek mj;gx ts;eb fp;rf	371
+南无阿弥陀佛	nl;ug me;ay er;ek mb;gx tl;eb fe;rf	42
+南无阿弥陀佛	nl;ug mp;ay al;ek mj;gx ts;eb fp;rf	42
+南无阿弥陀佛	nn;ug wa;ay er;ek mj;gx ts;eb fp;rf	42
+南无阿弥陀佛	nn;ug wa;ay al;ek mj;gx ts;eb fp;rf	42
+给予	jg;sk ys;sl	11349
+给予	gi;sk yh;sl	11349
+槟榔	be;mb lw;me	633
+槟榔	bh;mb lu;me	633
+张柏芝	vu;gi be;mb vj;cv	748
+张柏芝	vu;gi bb;mb vj;cv	748
+藤蔓	tf;cu wa;cy	320
+藤蔓	tc;cu mn;cy	320
+弄堂	ly;wc tw;xt	126
+弄堂	nong;wc tu;xt	126
+心宽体胖	xh;dd kūn;bj tg;rb pk;ob	39
+心宽体胖	xh;dd kd;bj tj;rb pu;ob	39
+埋怨	mk;tl yc;xx	1138
+埋怨	mb;tl yd;xx	1138
+虚与委蛇	xh;hy ys;va wi;hn yb;ib	93
+虚与委蛇	xh;hy yh;va wi;hn ur;ib	93
+木讷	mh;ur ni;yn	471
+木讷	ma;ur nl;yn	471
+独乐乐	dl;qi yd;px li;px	13
+独乐乐	da;qi lr;px lr;px	13
+众乐乐	vy;rr yd;px li;px	20
+众乐乐	vong;rr lr;px lr;px	20
+荨麻	qv;cc mu;gm	71
+荨麻	xg;cc ml;gm	71
+荨麻疹	xf;cc mu;gm vo;bp	198
+荨麻疹	qr;cc ml;gm ve;bp	198
+模具	ml;md jf;qb	1935
+模具	mp;md jh;qb	1935
+草薙	cx;cu tt;cv	88
+草薙	cq;cu vj;cv	88
+草薙京	cx;cu tt;cv je;wx	144
+草薙京	cq;cu vj;cv jing;wx	144
+草薙剑	cx;cu tt;cv ja;qd,rd	17
+草薙剑	cq;cu vj;cv jr;qd,rd	17
+贾平凹	jx;xb pn;au wl;la,ka	247
+贾平凹	jd;xb ping;au aq;la,ka	247
+雪佛兰	xo;ye fl;rf lk;bs	365
+雪佛兰	xu;ye fp;rf ln;bs	365
+强劲	qi;gi jw;jl	1505
+强劲	qy;gi jh;jl	1505
+胴体	dy;ok tg;rb	80
+胴体	tong;ok tj;rb	80
+力能扛鼎	lt;vp nf;sb gu;fg dw;po	26
+力能扛鼎	lj;vp nc;sb ku;fg ding;po	26
+鸭绿江	yl;jn lh;su jy;dg	152
+鸭绿江	yl;jn lv;su jy;dg	152
+大腹便便	di;ar fh;ow pv;rg pv;rg	147
+大腹便便	dl;ar fa;ow br;rg br;rg	147
+卡脖子	qn;ub be;oz zj;la	308
+卡脖子	kl;ub bp;oz zj;la	308
+吱声	zj;kv uc;tu	217
+吱声	vj;kv uc;tu	217
+掺和	in;fp hs;hk	438
+掺和	in;fp hr;hk	438
+掺和	cn;fp hs;hk	438
+掺和	cn;fp hr;hk	438
+称职	io;hx vb;ev	90
+称职	ic;hx vj;ev	90
+螺蛳粉	ll;ix sj;ij fo;mf	645
+螺蛳粉	ls;ix uj;ij fe;mf	645
+调换	dl;yk hc;fr	616
+调换	tm;yk hd;fr	616
+太行山	to;dd hw;rd un;kl	390
+太行山	tb;dd xing;rd un;kl	390
+歇斯底里	xk;oq sj;cj dg;gu lg;tt	883
+歇斯底里	jk;oq sj;cj dj;gu lj;tt	883
+暖和	ns;oy hs;hk	743
+暖和	nd;oy hr;hk	743
+模棱两可	me;md lf;mw lu;ar kl;dk	848
+模棱两可	mp;md ling;mw ly;ar kr;dk	848
+鄱阳湖	pe;ce yw;eo hl;do	1336
+鄱阳湖	pn;ce yu;eo ha;do	1336
+脖颈	be;oz gy;jy	483
+脖颈	bp;oz jing;jy	483
+脖颈儿	be;oz gy;jy er;pv	1
+脖颈儿	bp;oz jing;jy er;pv	1
+结扎	js;sk zl;fv	126
+结扎	jk;sk vl;fv	126
+海参崴	hu;dm ue;sp wu;un	304
+海参崴	hb;dm ue;sp wi;un	304
+厚朴	hr;iz pg;mb	52
+厚朴	hx;iz pa;mb	52
+大宛马	di;ar yd;bv mm;va	9
+大宛马	dl;ar wn;bv ml;va	9
+龇牙	zj;vb yu;gp,ac	62
+龇牙	cj;vb yl;gp,ac	62
+龇着牙	zj;vb vr;yo yu;gp,ac	14
+龇着牙	cj;vb vr;yo yl;gp,ac	14
+龇牙咧嘴	zj;vb yu;gp,ac lc;kd zv;ky	166
+龇牙咧嘴	cj;vb yl;gp,ac lk;kd zt;ky	166
+头皮屑	ta;dd pj;py xq;uo	525
+头皮屑	tx;dd pj;py xu;uo	525
+六安	lh;wb an;bn	110
+六安	lz;wb an;bn	110
+六安县	lh;wb an;bn xa;qs	3
+六安县	lz;wb an;bn xr;qs	3
+六安市	lh;wb an;bn ut;wj	23
+六安市	lz;wb an;bn uj;wj	23
+六合区	lh;wb he;rk qh;kx	3
+六合区	lz;wb hr;rk qh;kx	3
+安徽六安	an;bn ht;rx lh;wb an;bn	16
+安徽六安	an;bn ht;rx lz;wb an;bn	16
+安徽六安市	an;bn ht;rx lh;wb an;bn ut;wj	3
+安徽六安市	an;bn ht;rx lz;wb an;bn uj;wj	3
+安徽省六安市	an;bn ht;rx uy;uo lh;wb an;bn ut;wj	8
+安徽省六安市	an;bn ht;rx uc;uo lz;wb an;bn uj;wj	8
+南京六合	nk;ug je;wx lh;wb he;rk	5
+南京六合	nn;ug jing;wx lz;wb hr;rk	5
+南京六合区	nk;ug je;wx lh;wb he;rk qh;kx	1
+南京六合区	nn;ug jing;wx lz;wb hr;rk qh;kx	1
+南京市六合区	nk;ug je;wx ut;wj lh;wb he;rk qh;kx	2
+南京市六合区	nn;ug jing;wx uj;wj lz;wb hr;rk qh;kx	2
+偌大	rp;rk di;ar	680
+偌大	ns;rk dl;ar	680
+饮鸩止渴	yx;uq vo;bn vg;lb,la,ba kl;dr	336
+饮鸩止渴	yh;uq jz;bn vj;lb,la,ba kr;dr	336
+饮鸩解渴	yh;uq ve;bn jk;dn kr;dr	0
+饮鸩解渴	yh;uq jz;bn jk;dn kr;dr	0
+曾经	cf;bo je;sj	39759
+曾今	cf;bo jh;rv	105
+按捺	aa;fn ni;fu	127
+按耐	aa;fn no;ec	8
+按捺不住	aa;fn ni;fu bl;ab vh;rv	345
+按耐不住	aa;fn no;ec bl;ab vh;rv	0
+别价	bs;kd jk;rj	1
+别介	bs;kd jk;rl	31
+甭价	bf;by jk;rj	0
+甭介	bf;by jk;rl	0
+血脉贲张	xd;pm mo;oy be;ub vu;gi	49
+血脉偾张	xd;pm mo;oy fo;rb vu;gi	0
+血脉喷张	xd;pm mo;oy pe;kb vu;gi	0
+契诃夫	qt;fd hr;yk fa;er	437
+契科夫	qj;fd kr;hd fa;er	0
+凑合	cr;dt hr;rk	1809
+凑活	cr;dt hs;du	246
+巨惠	jf;kk hf;ix	0
+钜惠	jf;jj hf;ix	0
+摩羯座	me;gu js;yr zp;gr	107
+魔蝎座	me;gg xk;ir zp;gr	0
+万柏林	wa;av bu;mb lc;mm	2
+万柏林	wa;av be;mb lc;mm	2
+热烈	ri;fh lq;dh	1
+热列	ri;fh lq;dd	1
+似的	ut;rr dr;bu	703
+似的	sj;rr dr;bu	703
